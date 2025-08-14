@@ -1,0 +1,3 @@
+langextract
+tabulate
+python-dotenv
