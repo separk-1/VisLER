@@ -63,3 +63,8 @@ pip install -r requirements.txt
 ## Example Output
 
 ![LER analysis visualization](./langextract/LER/lervis.png)
+
+## Acknowledgements
+
+This project uses [LangExtract](https://github.com/google/langextract) by Google,  
+licensed under the Apache License 2.0.
