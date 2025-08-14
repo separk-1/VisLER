@@ -1,6 +1,6 @@
 # VisLER: LER Analysis Tool
 
-VisLER is a standalone tool for analyzing **Licensee Event Reports (LERs)** from a given CSV dataset.
+VisLER processes CSV-formatted **Licensee Event Reports (LERs)** to extract key information and present it through interactive visualizations.
 
 **Live Demo:** [https://vis-ler.vercel.app/](https://vis-ler.vercel.app/)
 ![LER analysis visualization](./images/lervis.png)
@@ -30,23 +30,9 @@ pip install -r requirements.txt
 ```
 
 ### 3. Store API Key Securely
-1. Create a `.env` file in the project root:
+Create a `.env` file in the project root:
    ```env
    LANGEXTRACT_API_KEY=YOUR_API_KEY
-   ```
-
-2. In your Python scripts (e.g., `run.py`), load the key:
-   ```python
-   from dotenv import load_dotenv
-   import os
-
-   load_dotenv()
-   api_key = os.getenv("LANGEXTRACT_API_KEY")
-   ```
-
-3. Add `.env` to `.gitignore` to avoid committing it to Git:
-   ```
-   .env
    ```
 
 ## Features
@@ -58,7 +44,7 @@ pip install -r requirements.txt
   - `Condition`
 
 - **HTML Visualization**  
-  `vis.py` generates a static, interactive HTML report (`custom_visualization.html`) that visualizes extracted entities.
+  `vis.py` generates a HTML report (`index.html`) that visualizes extracted entities.
 
 - **Interactive Report**  
   - Custom highlighting of entities
