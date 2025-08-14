@@ -1,8 +1,12 @@
 # VisLER: LER Analysis Tool
 
-The `langextract` folder contains a standalone tool for analyzing **Licensee Event Reports (LERs)** from a given CSV dataset.
+VisLER is a standalone tool for analyzing **Licensee Event Reports (LERs)** from a given CSV dataset.
+
+## Example Output
+![LER analysis visualization](images/lervis.png)
 
 **Live Demo:** [https://vis-ler.vercel.app/](https://vis-ler.vercel.app/)
+
 
 ## Installation
 
@@ -62,9 +66,6 @@ pip install -r requirements.txt
   - Legend explaining entity types
   - Clickable entities that display details in a side panel
 
-## Example Output
-
-![LER analysis visualization](images/lervis.png)
 
 ## Acknowledgements
 
