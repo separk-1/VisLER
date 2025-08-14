@@ -2,10 +2,9 @@
 
 VisLER is a standalone tool for analyzing **Licensee Event Reports (LERs)** from a given CSV dataset.
 
-## Example Output
+**Live Demo:** [https://vis-ler.vercel.app/](https://vis-ler.vercel.app/)
 ![LER analysis visualization](./images/lervis.png)
 
-**Live Demo:** [https://vis-ler.vercel.app/](https://vis-ler.vercel.app/)
 
 
 ## Installation
