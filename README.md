@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ## Example Output
 
-![LER analysis visualization](./langextract/LER/lervis.png)
+![LER analysis visualization](images/lervis.png)
 
 ## Acknowledgements
 

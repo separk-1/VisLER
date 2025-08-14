@@ -293,7 +293,7 @@ def create_visualization_html(jsonl_path, html_output_path):
 
 # Script execution
 jsonl_file_path = 'extracted.jsonl'
-html_file_path = 'custom_visualization.html'
+html_file_path = 'index.html'
 
 if os.path.exists(jsonl_file_path):
     create_visualization_html(jsonl_file_path, html_file_path)
