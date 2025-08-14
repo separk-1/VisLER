@@ -2,6 +2,8 @@
 
 The `langextract` folder contains a standalone tool for analyzing **Licensee Event Reports (LERs)** from a given CSV dataset.
 
+**Live Demo:** [https://vis-ler.vercel.app/](https://vis-ler.vercel.app/)
+
 ## Installation
 
 ### 1. Create and Activate Conda Environment
