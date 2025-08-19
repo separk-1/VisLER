@@ -19,64 +19,106 @@ except FileNotFoundError:
 
 # 2. Define the extraction prompt for the research purpose
 prompt_description = textwrap.dedent("""\
-    Extract the following structured information from the provided text:
-    - `Procedure_or_Regulation`: The name or description of the official procedure, regulation, or technical specification.
-    - `Cause`: The root cause of the deviation, which explains why the human's decision-making differed from the formal procedure.
-    - The `Cause` entity must be categorized into one of the following four classes, based on the text:
-        - `misapplied_procedure`: The human didn't know the procedure should be applied, or applied it when they shouldn't have. (e.g., Unclear goal state)
-        - `misinterpreted_procedure`: The human misunderstood the procedure and applied it incorrectly. (e.g., Unclear interpretation)
-        - `conflicting_procedure`: The procedure itself was flawed, inadequate, or conflicted with other regulations, making it difficult to follow. (e.g., Unclear solution path)
-        - `not_applicable`: The deviation was caused by an external factor not related to a procedure or regulation described in the text.
-    
-    Provide precise, non-paraphrased extractions. Your output must strictly follow the provided example format.""")
+    Extract the following structured information from the provided text.
+    Return precise, non-paraphrased spans copied from the text (short and specific).
+    Use multiple extractions per class if clearly supported by the text.
+    If a class is not mentioned, you may omit it EXCEPT for `Cause` (see rules below).
+
+    CLASSES TO EXTRACT
+    - `Condition`: The initiating plant condition/state that triggered the event (alarms, sensor states, abnormal parameters).
+        • attributes example: {"trigger": "..."}
+    - `Procedure_or_Regulation`: The procedure, regulation, or technical specification referenced or applied.
+        • attributes example: {"status": "inadequate / applicable / misunderstood / violated / followed"}
+    - `Human_Action`: The actual operator/human action taken.
+        • attributes example: {"adherence": "followed / not_followed / misinterpreted"}
+    - `Outcome`: The consequence/effect resulting from the condition or action.
+        • attributes example: {"consequence": "reactor trip / AFW actuation / unnecessary / unintended"}
+    - `Cause`: The root cause of the deviation. You MUST always return at least ONE `Cause`.
+        • attributes MUST include both `category` and `code` chosen from the scheme below.
+        • If the text indicates no procedure-related issue, still return one `Cause` with `category: not_applicable` and `code: NA`, and use a short external-cause span (e.g., "lightning strike").
+    - `CorrectiveAction`: Corrective or follow-up actions (procedure revision, training, maintenance, design change, software change).
+        • attributes example: {"action_type": "revision / training / maintenance / software change"}
+
+    CAUSE CATEGORY & CODE SCHEME (pick exactly one code for the main/root cause)
+    - MA1 (misapplied_procedure): Procedure should have been applied but was NOT applied.
+    - MA2 (misapplied_procedure): Procedure should NOT have been applied, but WAS applied (e.g., entry criteria not met).
+    - MI  (misinterpreted_procedure): Operator misunderstood/misread the step or intent.
+    - CF1 (conflicting_procedure): Procedure assumptions conflict with actual plant conditions (infeasible as-found state).
+    - CF2 (conflicting_procedure): Procedure conflicts with other regulations/specs (e.g., Technical Specifications).
+    - CF3 (conflicting_procedure): Intrinsic defect/incorrect or wrong step in the procedure.
+    - CF4 (conflicting_procedure): Insufficient or ambiguous procedure description.
+    - NA  (not_applicable): External cause unrelated to procedures/regulations (e.g., weather, random equipment failure).
+
+    OUTPUT REQUIREMENTS
+    - Use the example format provided (one object per extraction): {extraction_class, extraction_text, attributes}.
+    - `attributes` for `Cause` MUST include BOTH: {"category": "...", "code": "..."} according to the scheme above.
+    - Prefer contiguous spans from the text; do NOT invent or generalize beyond the text.
+    - If multiple plausible causes are mentioned, choose the primary/root cause identified in the text.
+""")
 
 # 3. Define examples for the model to learn the extraction format
-examples = [
-    lx.data.ExampleData(
-        # A portion of the original text for AI to analyze
-        text="""EVENT CAUSE ANALYSIS The cause of this event was determined to be an inadequate procedure step. The procedure 3-AOP-202 required a manual actuation of the RPS, when responding to low gland steam pressure, without first checking status of the reactor trip breakers. Since the reactor trip breakers were already open, the procedurally directed reactor trip was an unnecessary RPS actuation. ... CORRECTIVE ACTIONS Procedure 3-AOP-202, "Condensate System Malfunctions," was revised...""",
-        
-        # The structure and content of the result that the AI should extract from the text above
-        extractions=[
-            # 1. Condition
-            lx.data.Extraction(
-                extraction_class="Condition",
-                extraction_text="low gland steam pressure",
-                attributes={"trigger": "manual actuation"}
-            ),
-            # 2. Procedure_or_Regulation
-            lx.data.Extraction(
-                extraction_class="Procedure_or_Regulation",
-                extraction_text='Procedure 3-AOP-202, "Condensate System Malfunctions,"',
-                attributes={"status": "inadequate"}
-            ),
-            # 3. Human_Action
-            lx.data.Extraction(
-                extraction_class="Human_Action",
-                extraction_text="manual actuation of the RPS",
-                attributes={"adherence": "followed"}
-            ),
-            # 4. Outcome
-            lx.data.Extraction(
-                extraction_class="Outcome",
-                extraction_text="an unnecessary RPS actuation",
-                attributes={"consequence": "unnecessary"}
-            ),
-            # 5. Cause (same as before)
-            lx.data.Extraction(
-                extraction_class="Cause",
-                extraction_text="inadequate procedure step",
-                attributes={"category": "conflicting_procedure"}
-            ),
-            # 6. Corrective_Action
-            lx.data.Extraction(
-                extraction_class="CorrectiveAction",
-                extraction_text='Procedure 3-AOP-202, "Condensate System Malfunctions," was revised to require checking reactor trip breakers are not open prior to manually tripping the reactor when responding to gland steam pressure below the AOP\'s established limit.',
-                attributes={"action_type": "revision"}
-            ),
-        ]
+EXAMPLE_JSON_PATH = "examples.json"
+
+def to_list_maybe(x):
+    if x is None:
+        return []
+    return x if isinstance(x, list) else [x]
+
+def build_extractions_from_json(example_case):
+    """Convert one JSON case into a list of lx.data.Extraction objects.
+       Supports single object or list per class key.
+    """
+    extractions = []
+    CLASS_KEYS = [
+        "Condition",
+        "Procedure_or_Regulation",
+        "Human_Action",
+        "Outcome",
+        "Cause",
+        "Corrective_Action",   
+    ]
+    for cls in CLASS_KEYS:
+        if cls in example_case and example_case[cls] is not None:
+            for item in to_list_maybe(example_case[cls]):
+                extraction_text = item.get("extraction_text", "")
+                attributes = item.get("attributes", {}) or {}
+                extractions.append(
+                    lx.data.Extraction(
+                        extraction_class=cls,
+                        extraction_text=extraction_text,
+                        attributes=attributes
+                    )
+                )
+    return extractions
+
+# Load examples.json
+with open(EXAMPLE_JSON_PATH, "r", encoding="utf-8") as f:
+    examples_data = json.load(f)
+
+# Match each example's text by LER (CSV 'File Name') to use real Narrative as ExampleData.text
+examples = []
+missing_ler = []
+for case in examples_data:
+    ler_id = case.get("ler", "")
+    match = df.loc[df["File Name"] == ler_id]
+    if match.empty:
+        raw_text = case.get("text", "")
+        if not raw_text:
+            missing_ler.append(ler_id)
+            continue
+    else:
+        raw_text = str(match.iloc[0]["Narrative"] or "")
+
+    exts = build_extractions_from_json(case)
+    examples.append(
+        lx.data.ExampleData(
+            text=raw_text,
+            extractions=exts
+        )
     )
-]
+
+print(f"[Examples] built: {len(examples)}; missing LER matches: {missing_ler}")
+# === End JSON example loader ===
 
 # 4. Run extraction for each document in the dataset
 combined_results = []
