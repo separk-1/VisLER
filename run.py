@@ -10,11 +10,11 @@ api_key = os.getenv("LANGEXTRACT_API_KEY")
 
 # 1. Load data from file
 try:
-    df = pd.read_csv('ler_structured_with_cfr.csv')
+    df = pd.read_csv('data/ler_abstract.csv')
     print("Successfully loaded file. Printing the first 2 rows:")
     print(df.head(2).to_markdown(index=False, numalign="left", stralign="left"))
 except FileNotFoundError:
-    print("Error: 'ler_structured_with_cfr.csv' file not found. Please ensure the file is in the same directory.")
+    print("Error: file not found. Please ensure the file is in the same directory.")
     exit()
 
 # 2. Define the extraction prompt for the research purpose
@@ -57,7 +57,7 @@ prompt_description = textwrap.dedent("""\
 """)
 
 # 3. Define examples for the model to learn the extraction format
-EXAMPLE_JSON_PATH = "examples.json"
+EXAMPLE_JSON_PATH = "data/examples.json"
 
 def to_list_maybe(x):
     if x is None:
@@ -75,7 +75,7 @@ def build_extractions_from_json(example_case):
         "Human_Action",
         "Outcome",
         "Cause",
-        "Corrective_Action",   
+        "Corrective_Action",
     ]
     for cls in CLASS_KEYS:
         if cls in example_case and example_case[cls] is not None:
@@ -95,19 +95,19 @@ def build_extractions_from_json(example_case):
 with open(EXAMPLE_JSON_PATH, "r", encoding="utf-8") as f:
     examples_data = json.load(f)
 
-# Match each example's text by LER (CSV 'File Name') to use real Narrative as ExampleData.text
+# Match each example's text by LER (CSV 'file_name') to use real Narrative as ExampleData.text
 examples = []
 missing_ler = []
 for case in examples_data:
     ler_id = case.get("ler", "")
-    match = df.loc[df["File Name"] == ler_id]
+    match = df.loc[df["file_name"] == ler_id]
     if match.empty:
         raw_text = case.get("text", "")
         if not raw_text:
             missing_ler.append(ler_id)
             continue
     else:
-        raw_text = str(match.iloc[0]["Narrative"] or "")
+        raw_text = str(match.iloc[0]["abstract"] or "")
 
     exts = build_extractions_from_json(case)
     examples.append(
@@ -123,8 +123,8 @@ print(f"[Examples] built: {len(examples)}; missing LER matches: {missing_ler}")
 # 4. Run extraction for each document in the dataset
 combined_results = []
 # To extract the entire dataset, change `df.head(5)` to `df`.
-for index, row in df.iterrows():
-    input_text = row['Narrative']
+for index, row in df[:10].iterrows():
+    input_text = row['abstract']
     print(f"\n--- Processing Row {index} ---")
     try:
         # Extract information from the text
@@ -134,7 +134,7 @@ for index, row in df.iterrows():
             examples=examples,
             model_id="gemini-2.5-flash",
         )
-        
+
         # Helper function to convert the `Extraction` object to a dictionary
         def extraction_to_dict(extraction):
             # Create a dictionary from the CharInterval object's attributes
@@ -144,41 +144,41 @@ for index, row in df.iterrows():
                     'start_pos': extraction.char_interval.start_pos,
                     'end_pos': extraction.char_interval.end_pos
                 }
-                
+
             return {
                 'extraction_class': extraction.extraction_class,
                 'extraction_text': extraction.extraction_text,
                 'attributes': extraction.attributes,
                 'char_interval': char_interval_data # Store the converted dictionary
             }
-            
+
         # Combine the extracted information with existing DataFrame data
         combined_data = {
-            "Facility_Name": row['Facility Name'],
-            "Unit": row['Unit'],
-            "Title": row['Title'],
-            "Event_Date": row['Event Date'],
-            "CFR": row['CFR'],
-            # Add the value of the "File Name" column to the "ler" key.
-            "ler": row['File Name'], 
-            "text": row['Narrative'],
+            "Facility_Name": row['facility_name'],
+            "Unit": row['unit'],
+            "Title": row['title'],
+            "Event_Date": row['event_date'],
+            "CFR": row['cfr'],
+            # Add the value of the "file_name" column to the "ler" key.
+            "ler": row['file_name'],
+            "text": row['abstract'],
             # Convert `Extraction` objects to dictionaries before saving
             "Extractions": [extraction_to_dict(e) for e in result.extractions]
         }
-        
+
         combined_results.append(combined_data)
         print(f"Extraction successful and data combined for row {index}.")
     except Exception as e:
         print(f"Extraction failed for row {index}: {e}")
         # If extraction fails, still include the existing data with an empty extractions list
         combined_results.append({
-            "Facility_Name": row['Facility Name'],
-            "Unit": row['Unit'],
-            "Title": row['Title'],
-            "Event_Date": row['Event Date'],
-            "CFR": row['CFR'],
-            "ler": row['File Name'], # This part is also added
-            "text": row['Narrative'],
+            "Facility_Name": row['facility_name'],
+            "Unit": row['unit'],
+            "Title": row['title'],
+            "Event_Date": row['event_date'],
+            "CFR": row['cfr'],
+            "ler": row['file_name'], # This part is also added
+            "text": row['abstract'],
             "Extractions": []
         })
 
