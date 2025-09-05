@@ -1,0 +1,104 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/3112023
+(03-14-2023)
+Estimated burden per response to comply vritii this mandatory collection request 80 hours.(cid:9) Reported lessons
+• 0""°'''.. A. (cid:9) LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to Industry. Send comments regarding burden
+1 estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nudear Regulatory
+t% (See Page 2 for(cid:9) required(cid:9) number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the 0MB reviewer
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Alin: Desk Officer for the Nudear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Comrnission, 725 17th Street NW, Washington, DC 20503; email: oira_submission@omb eop gov. The NRC may
+LAPINftwi.11MgovireadIng-IM/d9c-collectiMinuregsJstaffisr10224() not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name q 050 2. Docket Number 3. Page
+Vogtle Electric Generating Plant, Unit 3 00025 1 OF(cid:9) 2
+U 052
+4. Title
+Automatic Reactor Protection System Actuation During Startup Testing Due to Incorrect Turbine Control Valve Setting
+5 Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year q 050
+04 10 2023 2023 -(cid:9) 003(cid:9) - 00 06 08 2023 Facility Name Docket Number
+052
+9. Operat ng Mode 10. Power Level
+1 018
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 q 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) q 73.1200(a)
+20.2201(b) 20.2203(a)(3)(I) 50.36(c)(1)(I)(A) 50.73(a)(2)(II)(B) q 50.73(a)(2)(vIII)(B) q 73.1200(b)
+20.2201(d) 20.2203(a)(3)(11) 50.36(c)(1)(II)(A) 50.73(a)(2)(111) 50.73(a)(2)(Ix)(A) 73.1200(c)
+20.2203(a)(1) El(cid:9) 20.2203(a)(4) q 50.36(c)(2) se(cid:9) 50.73(a)(2)(iv)(A) q 50.73(a)(2)(x) q 73.1200(d)
+20.2203(a)(2)(1) 10 CFR Part 21 q 50.46(a)(3)(ii) q 50.73(a)(2)(v)(A) 10 CFR Part 73 q 73.1200(e)
+20.2203(a)(2)(11) q 21.2(c) q 50.69(g) q 50.73(a)(2)(v)(B) q 73.77(a)(1) q 73.1200(f)
+20.2203(a)(2)(111) q 50.73(a)(2)(i)(A) q 50.73(a)(2)(v)(C) 73.77(a)(2)(1) El(cid:9) 73.1200(g)
+20.2203(a)(2)(iv) q 50.73(a)(2)(i)(B) q 50.73(a)(2)(v)(D) q 73.77(a)(2)(11) q 73.1200(h)
+20.2203(a)(2)(v) q 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Will Garrett. VEGP 3844 Licensina Manaaer (706) 848-7154
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B JJ DCC W120 N
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+II No 0(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e , approximately 13 single-spaced typewritten lines)
+On April 10, 2023, at 0048 EDT with Vogtle Electric Generating Plant (VEGP) Unit 3 in Mode 1 at 18 percent power, the reactor
+protection system was automatically actuated due to low reactor coolant flow while conducting main generator testing activities.
+The operators responded timely by stabilizing the plant and removing decay heat by the steam generator power operated relief
+valves. The cause of the event was incorrect turbine control valve logic setting which resulted in inadequate turbine speed and
+generator voltage. The corrective action for this event adjusted the turbine control valve logic setting to open the valves
+sufficiently to maintain turbine speed and generator output voltage to support house loads during operation in island mode (with
+the generator disconnected from the grid and supplying unit auxiliary loads).
+This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) as a condition that resulted in automatic actuation of the reactor
+protection system, which tripped the reactor. VEGP Units 1, 2, and 4 were unaffected by this event.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U S
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource©nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira supm,slionQourt eon ov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor and a person is not required to respond to, a collection of information unless the document
+http //www nrc gov/teading-rm/doccollectionsinure_gs/staffisr102243/) requesting or requiring the collection displays a currently valid OMB control number
+1. FACILITY NAME -2. DOCKET NUMBER 3. LER NUMBER
+0(cid:9) 050
+YEAR SEQUENTIAL REV
+Vogtle Electric Generating Plant, Unit 3 00025 NUMBER NO.
+2023
+0 052 003 00
+NARRATIVE
+EVENT DESCRIPTION
+On April 10, 2023, at 0048 EDT with the Vogtle Electric Generating Plant (VEGP) Unit 3 in Mode 1 at 18 percent power, the
+Reactor Protection System (RPS) [EllS: JC] was automatically actuated during main generator system [EIIS: EL] startup
+testing. While performing procedure 3-ZAS-MEM-002, "Main Generator Initial Synchronization Testing," with the main
+generator connected to the offsite power grid and supplying approximately 65 Megawatts (MW), the switchyard breakers
+[EIIS: FK / BKR] ZBS-161750 and ZBS-161850 were opened to disconnect the main generator from the offsite power grid
+and place the generator into island mode (supplying unit auxiliary loads). Shortly after placing the main generator in island
+mode, the turbine control system [EIIS: JJ] was not able to automatically maintain speed at the required 1800 rpm. This
+caused a reduction of speed and output voltage from the main generator, which resulted in a reduction in the speed of the
+Reactor Coolant Pumps [EIIS: AB / P]. This caused reduction in the reactor coolant flowrate, which resulted in the
+automatic RPS actuation. There were no structures, systems, or components that were inoperable at the beginning of the
+event that contributed to the event. This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) as a condition that resulted in
+automatic actuation of the RPS.
+EVENT ANALYSIS
+The cause of this event was an incorrect turbine control valve setting, which was not identified through oversight of legacy
+design. The turbine control valve high limit setting was not set to maintain house loads during island mode operation. The
+turbine control valve high limit setting was set at 7 percent, which was a default value for turbine speed control and was not
+sufficient to support island mode operation. The software was changed to increase the high limit setting from 7 to 25
+percent to support island mode operation.
+SAFETY ASSESSMENT
+There were no safety consequences due to this event because the automatic actuation function of the RPS maintained the
+plant in a safe condition. The operators responded timely following the reactor trip by ensuring plant stability and decay
+heat was removed by steam generator power operated relief valves [EIIS: SB / PCV]. All safety systems functioned as
+expected as a result of the event. There were no equipment failures that contributed to the event. VEGP Units 1, 2, and 4
+were unaffected by this event.
+CORRECTIVE ACTIONS
+The turbine control valve setting was corrected by a software design change to increase the setting from 7 to 25 percent.
+PREVIOUS SIMILAR EVENTS
+None
+(cid:9) (cid:9)
+NRC FORM 366A (03 14 2023) Page 2(cid:9) of(cid:9) 2

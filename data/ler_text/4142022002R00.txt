@@ -1,0 +1,198 @@
+Tom Simril
+Vice President
+PEGY,
+Catawba Nuclear Station
+Duke Energy
+CNO1VP I 4800 Concord Road
+York, SC 29745
+o: 803.701.3340
+f: 803/01.3221
+RA-22-0333
+10 CFR 50.73
+December 6, 2022
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555
+Subject:(cid:9) Duke Energy Carolinas, LLC
+Catawba Nuclear Station, Unit 2
+Docket No. 50-414
+Licensee Event Report (LER) 414/2022-002-00
+Pursuant to 10 CFR 50.73(a)(1) and (d), attached is LER 414/2022-002-00, entitled
+"Indications Identified During Reactor Vessel Head Penetration Embedded Flaw Repair Surface
+Examination." This report is being submitted in accordance with 10 CFR 50.73(a)(2)(ii)(A).
+There are no regulatory commitments contained in this letter or its attachment.
+This event is considered to be of no significance with respect to the health and safety of the
+public.
+If questions arise regarding this LER, please contact Sherry E. Andrews of Regulatory Affairs at
+(803) 701-3424.
+Sincerely,
+Tom Simril
+Vice President, Catawba Nuclear Station
+Attachment
+United States Nuclear Regulatory Commission
+Page 2
+December 6, 2022
+xc (with attachment):
+L. Dudes
+Regional Administrator
+U.S. Nuclear Regulatory Commission - Region II
+Marquis One Tower
+245 Peachtree Center Ave., NE Suite 1200
+Atlanta, GA 30303
+S. Williams
+NRC Project Manager (CNS)
+U.S. Nuclear Regulatory Commission
+11555 Rockville Pike
+Mailstop O-8G9A
+Rockville, MD 20852
+David Rivard
+NRC Senior Resident Inspector
+Catawba Nuclear Station
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+$'0300, ara,,,t. lessons learned are incorporated into the licensing process and fed back to industry. Send
+...(cid:9) LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA. Library, and Information Collections Branch (T-6
+N(cid:9) t A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001 , or by e-mail to
+0'e(cid:9) '''(cid:9) )(cid:9) 10 (cid:9) (See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov. and the 0MB reviewer at 0MB Office of Information and Regulatory
+I(cid:9) $
+Affairs, (3150-0104), Attn: Desk ail: oira submission(diomb.eop.qov. The NRC may not conduct or
+%(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.ciovireadinci-rm/doc-collections/nureos/staff/sr1022/r3/)
+requesting or requiring the collection(cid:9) displays(cid:9) a currently valid(cid:9) 0MB control number.
+1. Facility Name 2. Docket Number(cid:9) :13. Page
+Catawba Nuclear Station, Unit 2(cid:9) 1 05000414(cid:9) 1 OF 3
+4. Title
+Indications Identified During Reactor Vessel Head Penetration Embedded Flaw Repair Surface Examination
+5. Event Date(cid:9) 6. LER Number(cid:9) 7. Report Date(cid:9) I(cid:9) 8. Other Facilities Involved
+Facility Name(cid:9) (Docket Number
+Month(cid:9) Day Year(cid:9) Year ,Seque•ntial R ev Month(cid:9) Day 1 Year
+Number No. 05000
+10 15 2022(cid:9) 1• (cid:9) 2022 - 002 - 00(cid:9) 12 06 2022(cid:9) • Facility Name(cid:9) Docket Number
+I (cid:9) 1 05000
+9. Operating Mode(cid:9) 10. Power Level
+Mode 6(cid:9) 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 El 20.2203(a)(2)(vi) MI 50.36(c)(2) El 50.73(a)(2)(iv)(A) • 50.73(a)(2)(x)
+cl 20.2201(b) I=120.2203(a)(3)(i) M 50.46(a)(3)(ii) EI 50.73(a)(2)(v)(A) 10 CFR Part 73
+El 20.2201(d) El 20.2203(a)(3)(ii) • 50.69(g) Ei 50.73(a)(2)(v)(B) NI 73.71(a)(4)
+ci 20.2203(a)(1) El 20.2203(a)(4) • 50.73(a)(2)(i)(A) • 50.73(a)(2)(v)(C) El 73.71(a)(5)
+El 20.2203(a)(2)(i) : 10 CFR Part 21 0 50.73(a)(2)(i)(B) El 50.73(a)(2)(v)(D) El 73.77(a)(1)(i)
+1=I 20.2203(a)(2)(ii) El 21.2(c) El 50.73(a)(2)(i)(C) El 50.73(a)(2)(vii) El 73.77(a)(2)(i)
+El 20.2203(a)(2)(iii) : to. cm part 50 El 50.73(a)(2)(ii)(A) El 50.73(a)(2)(viii)(A) El 73.77(a)(2)(ii)
+1:1 20.2203(a)(2)(iv) 1=150.36(c)(1)(i)(A) El 50.73(a)(2)(ii)(B) Ei 50.73(a)(2)(viii)(B)
+• 20.2203(a)(2)(v) El 50.36(c)(1)(ii)(A) • 50.73(a)(2)(iii) El 50.73(a)(2)(ix)(A)
+El Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact(cid:9) Phone Number (Include Area Code)
+Sherry Andrews, Senior Nuclear Engineer(cid:9) 11 803-701-3424
+__.. 13. Complete One Line for each Component Failure Described in this Report
+Cause(cid:9) I System 1(cid:9) Component Manufacturer(cid:9) Reportable To IRIS Cause (cid:9) System(cid:9) Component Manufacturer(cid:9) 1 (cid:9) Reportable To IRIS
+B(cid:9) 1 (cid:9) AB(cid:9) . (cid:9) RPV C490 Y
+I i 1
+14. Supplemental Report Expected Month j(cid:9) Day Year
+15. Expected Submission Date(cid:9) 1 (cid:9) •
+No(cid:9) i q Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 15, 2022, during the Catawba Nuclear Station Unit 2 refueling outage, it was determined that the results of a
+planned surface examination Liquid Penetrant test (PT) performed on a previous weld overlay repair on nozzle penetration
+74 of the reactor vessel closure head (RVCH) did not meet applicable acceptance standards. The examination was being
+performed to meet the requirements of Relief Request RA-21-0144, 'Proposed Alternative to Use Reactor Vessel Head
+Penetration Embedded Flaw Repair for Life of Plant.' The penetration required repairs for the discovered indications. The
+repairs were completed in accordance with the ASME Code of Record prior to returning the RVCH to service.
+Based on industry experience, the cause of this event is attributed to mechanical discontinuities/minor subsurface voids
+which were exposed to the weld surface due to thermal and/or pressure stresses during plant operation.
+This report is being submitted in accordance with 10 CFR 50.72(a)(2)(ii)(A), "any event or condition that results in the
+condition of the nuclear power plant, including its principal safety barriers, being seriously degraded."
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library. and Information Collections Branch (T-6 A10M). U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submissionomb.eop.qov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.qov/reading-rm/doc-collections/nureqs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL(cid:9) REV
+Catawba Nuclear Station, Unit 2 05000-414 NUMBER NO.
+(cid:9) (cid:9)
+2022 - 002 - 00
+NARRATIVE
+The following information is provided to assist readers in understanding the event described in this LER. Applicable
+Energy Industry Identification [EIIS] system and component codes are enclosed within brackets. Catawba Nuclear Station
+unique system and component identifiers are contained within parentheses.
+BACKGROUND
+On October 15, 2022, Unit 2 of Catawba Nuclear Station was in a scheduled refueling outage (Mode 6, 0% power) for
+cycle 25 (C2R25). During the outage, a liquid penetrant (PT) surface examination was performed on the embedded flaw
+repair of nozzle [NZL] penetration 74 of the reactor vessel closure head (RVCH) [RPV] in accordance with the
+requirements of Catawba relief request RA-21-0144 (ML22020A283). The RVCH is a Westinghouse Design manufactured
+by Combustion Engineering.
+No Structures, Systems, or Components (SSCs) were inoperable at the start of this event that contributed to the event.
+No change in plant mode or in reactor power occurred as a result of this event.
+EVENT DESCRIPTION
+During the Catawba Unit 2 spring 2021 refueling outage (C2R24), an indication was discovered in the J-groove weld of
+RVCH nozzle penetration 74 which required repair. Catawba used the embedded flaw repair process, in accordance with
+the NRC approved WCAP-15987-P-A report, and Duke Energy relief request dated April 24, 2021 (RA-21-0145) to repair
+the weld. The embedded flaw repair process involves depositing weld material, which is Primary Water Stress Corrosion
+Cracking (PWSCC) resistant, over the entire surface of the J-groove weld on the penetration nozzle of interest, as well as
+over the outside surface of the nozzle tube. On April 24, 2021 (ML21117A129), the NRC provided verbal authorization for
+the licensee's proposed alternative repair for one cycle of operation and by letter dated September 20, 2021
+(ML21253A082), the NRC provided its follow-up safety evaluation for the verbal relief request. By letter dated January 20,
+2022 (RA-21-0144), as supplemented by letter dated July 7, 2022, Catawba provided additional technical basis to support
+the continued use of the repair. Catawba made this request in accordance with 10 CFR 50.55a(z)(1) on the basis that the
+proposed alternative repair will provide an acceptable level of quality and safety. On August 31, 2022, Catawba was
+notified that the NRC staff had determined that the proposed alternative provided an acceptable level of quality and safety
+and authorized the use of the proposed alternative in RA-21-0144 through the remainder of the current fourth 10-year
+inservice inspection interval.
+During the Catawba Unit 2 fall 2022 refueling outage (C2R25), a PT surface examination was performed on the embedded
+flaw repair of nozzle penetration 74 of the RVCH in accordance with the requirements of Catawba relief request RA-21-
+0144. On October 15, 2022, the examination identified indications which did not meet the applicable acceptance standards
+from ASME Section III, NB- 5350 and were therefore deemed rejectable. The indications were removed by
+buffing/grinding, localized weld build-up applied to restore the embedded flaw repair thickness, and a final PT of the
+locations was performed to ensure acceptance standards were met in the as-left condition. The as-left condition has met
+the applicable acceptance standards and no additional field work is required.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(ii)(A), "Any event or condition that results in the condition
+of the nuclear power plant, including its principal safety barriers, being seriously degraded" because the discovered
+indications did not meet the acceptance standards from ASME Section III, NB- 5350 and were therefore deemed
+rejectable, in accordance with the Catawba relief request RA-21-0144.
+(cid:9)
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+1.2111 LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104), Attn: Desk ail: oira submission4omb.eop.00v. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.govireadino-rm/doc-collections/nureqs/staff/sr10221r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER(cid:9) 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+Catawba Nuclear Station, Unit 2 05000-414(cid:9) NUMBER NO.
+2022(cid:9) - 002 - 00
+CAUSAL FACTORS
+Based on industry experience, the cause of this event is attributed to mechanical discontinuities/minor subsurface voids
+getting exposed to the weld surface due to thermal and/or pressure stresses during plant operation.
+CORRECTIVE ACTIONS
+To correct the condition, the indications were removed by buffing/grinding, and localized weld build-up was applied to
+restore the embedded flaw repair thickness. A final PT of the location was performed to ensure acceptance standards
+were met in the as-left condition. The as-left condition met the applicable acceptance standards, and no additional field
+work is required.
+SAFETY ANALYSIS
+This condition had no effect on the health and safety of the public. The indications discovered on RVCH nozzle penetration
+74 were identified in a timely manner and repaired. The indications were identified as part of a required periodic inspection
+and did not penetrate through the embedded flaw repair weld. The frequency of the required inspections would ensure
+degradation was detected before it reached any level of significance. All of the RVCH head penetrations were
+volumetrically inspected during C2R25, and no other rejectable indications were identified. There were no actual safety
+consequences for the event. This event is not considered an event or condition that could have prevented fulfillment of a
+safety function.
+ADDITIONAL INFORMATION
+A previous Licensee Event Report was submitted in June 2021 at Catawba Nuclear Station for Unit 2 for a discovered
+indication on RVCH nozzle penetration 74 caused by PWSCC. A previous Licensee Event Report was submitted in July
+2020 for Unit 1 RVCH nozzle 18 for an indication that was attributed to a localized weld fabrication anomaly (not PWSCC).
+NRC FORM 366A (06-2016) Page 3 of 3

@@ -1,0 +1,278 @@
+NRC FORM 366 U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections Branch
+(T-6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and
+Regulatory Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+conduct or sponsor, and a person is not required to respond to, a collection of information unless
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+the document requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Sequoyah Nuclear Plant Unit 1 05000327 1 OF 6
+4. Title
+Turbine Trip Function Inoperable Due to Slow to Close Turbine Throttle Valve
+. Event Date 6. LER Numbe 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year NA
+Number No. 05000
+Facility Name Docket Number
+10 22 2022 2022 - 002 - 00 12 15 2022
+NA 05000
+9. Operating Mode 10. Power Level
+1 024
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1)(cid:9) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i)(cid:9) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii)(cid:9) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii)(cid:9) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv)(cid:9) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Scott Bowman 423.843.6910
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+X SB FCV W120 Y(cid:9) N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+N/A N/A N/A
+No(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract(cid:9) (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 22, 2022, at 0003 eastern daylight time, during power descension for the upcoming Unit 1 refueling
+outage, main control room operators initiated a manual turbine trip in accordance with operating procedures. At this
+time, Main Steam Throttle Valve 2 (TV-2), associated with the high-pressure turbine and turbine trip function failed
+to close. The valve remained open until 0250 when it closed on its own. The closure took less than 1 second to
+travel from full open to full closed with no actions taken by Operations or Maintenance personnel, to induce a
+closure. During the event, steam dumps assumed the remaining steam load from the turbine, as seen by a rise in
+steam dump demand. Based on the rise in steam dump demand, reduction to 0 megawatts electric, and all other
+turbine valves verified closed, the turbine was determined to be tripped. TV-2 was inoperable from October 22,
+2022, at 0003 until 0013 when the unit exited the Mode of Applicability.
+Visual inspections were performed during valve disassembly. There were no visual indications as to why the valve
+failed to close during the turbine trip. Pending completion of requested failure analysis, the most likely cause of
+valve failure is mechanical binding of one or more valve components. The valve and the associated actuator were
+replaced to correct the condition. Once the failure analysis is obtained, new actions will be initiated in the corrective
+action program to address the likelihood of future similar events, if required.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 (cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG 1022, R.3 for instruction and guidance for completing this form sponsor,(cid:9) and a person is not required to respond to, a collection of information unless(cid:9) the document
+https://ww(cid:9) w.n(cid:9) rc.gov/reading rm/doc collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number. ,
+1. FACILITY NAME(cid:9) 2. DOCKET NUMBER(cid:9) 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER NO.
+2022 (cid:9) 002(cid:9) - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of the event, Sequoyah Nuclear Plant (SQN) Unit 1 was in Mode 1 at approximately
+24 percent rated thermal power preparing for a refueling outage.
+II. Description of Event
+A. Event Summary:
+On October 22, 2022, at 0003 eastern daylight time (EDT), during power descension for the
+upcoming refueling outage, main control room (MCR) operators initiated a manual turbine trip
+in accordance with operating procedures. At this time, Main Steam [EIIS: SB] Throttle Valve-2
+(TV-2) [EIIS: FCV], associated with the high-pressure turbine [EIIS: TRB] and turbine trip
+[EIIS: JJ] function failed to close. The valve remained open until 0250 when it closed on its
+own. The closure took less than 1 second to travel from full open to full closed with no actions
+taken by Operations or Maintenance personnel, to induce a closure. During the event, steam
+dumps assumed the remaining steam load from the turbine, as seen by a rise in steam dump
+demand. Based on the rise in steam dump demand, reduction to 0 megawatts electric, and all
+other turbine valves verified closed, the turbine was determined to be tripped.
+After the turbine trip was initiated, the turbine coasted down as expected, and when requested,
+the main steam isolation valves (MSIVs) closed as expected with no challenges. This
+demonstrated that neither turbine governor valve functionality nor MSIV operability was
+challenged concurrently with the inoperability of TV-2.
+TV-2 and the associated actuator were replaced during the refueling outage.
+A past operability evaluation (POE) determined TV-2 was inoperable from October 22, 2022,
+at 0003 until 0013 when the unit exited the Mode of Applicability. The POE determined the
+turbine trip function requires four out of four throttle valves to close, and with TV-2 inoperable,
+the turbine trip function would not have been performed within the required 2.5 seconds (per
+the Final Safety Analysis Report (FSAR)). Therefore, Surveillance Requirement 3.3.2.9 (Verify
+ESFAS [Engineered Safety Feature Actuation System] RESPONSE TIMES are within limit)
+would not have been met. This constitutes an event or condition that could have prevented the
+fulfillment of a safety function necessary to mitigate the consequences of an accident, which is
+reportable under 10 CFR 50.73(a)(2)(v)(D).
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and contributed to the event:
+No inoperable structures, components, or systems contributed to this event.
+NRC FORM 366A (08-2020)(cid:9) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY (cid:9)(cid:9)O(cid:9) MB: NO. 3150 0104 (cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG(cid:9) 1022, R.3 for instruction and guidance for completing this form sponsor,(cid:9) and a person is not required to respond to, a collection of information unless(cid:9) the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME(cid:9) 2. DOCKET NUMBER(cid:9) 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER NO.
+2022 (cid:9) 002(cid:9) - 00
+C.(cid:9) Dates(cid:9) and approximate(cid:9) times of occurrences:
+Date/Time (EDT) Description
+10/22/22, 0003 MCR operators initiated a turbine trip. TV-2 remained full open.
+MCR operators performed a manual reactor trip for the refueling
+outage. As expected, this induced a feedwater isolation satisfying
+0013
+Technical Specification (TS) Table 3.3.2-1, Function 5.b, Footnote (i)
+for exiting the Mode of Applicability.
+0250 TV-2 closed taking less than 1 second.
+TV-2 and the associated actuator were replaced during refueling
+10/31/22(cid:9)
+outage.
+D. Manufacturer and model number of each component that failed during the event:
+The failed component was a flow control valve, double plug, manufactured by Westinghouse
+Electric Corporation, part number: 725J732, serial number: TD 75588-19.
+E. Other systems or secondary functions affected:
+There were no other systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+MCR operators identified the valve failed to close through MCR indication. This was confirmed
+locally by an operator.
+G. Failure mode, mechanism, and effect of each failed component:
+The most likely failure mode was mechanical binding caused by thermal expansion.
+H. Operator actions:
+MCR operators identified the valve failed to close through MCR indication. After verifying the
+turbine was tripped, MCR operators continued to conduct a plant shutdown in accordance with
+plant procedures
+I. Automatically and manually initiated safety system responses:
+None.
+NRC FORM 366A (08-2020)(cid:9) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY (cid:9)(cid:9)O(cid:9) MB: NO. 3150 0104 (cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG 1022, R.3(cid:9) for instruction and guidance for completing this form sponsor,(cid:9) and a person is not required to respond to, a collection of information unless(cid:9) the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME(cid:9) 2. DOCKET NUMBER(cid:9) 3. L(cid:9)ER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER NO.
+2022 (cid:9) 002(cid:9) - 00
+III. Cause of the Event
+A. Cause of each component or system failure or personnel error:
+Visual inspections were performed during valve disassembly. There were no visual indications as
+to why the valve failed to close during the turbine trip. Pending completion of requested failure
+analysis, the most likely cause of valve failure is mechanical binding of one or more valve
+components.
+B. Cause(s) and circumstances for each human performance related root cause:
+There were no human performance related causes.
+IV.(cid:9) Analysis of the Event:
+The primary functions of the Turbine Trip and Feedwater Isolation signals are to prevent damage to
+the turbine due to water in the steam lines, and to stop the excessive flow of feedwater into the
+steam generators (SGs). These Functions are necessary to mitigate the effects of a high-water
+level in the SGs, which could result in carryover of water into the steam lines and excessive
+cooldown of the primary system. Turbine Trip and Feedwater Isolation functions must be operable
+in Modes 1, 2, and 3 except when all main feedwater (MFW) isolation valves (MFIVs), MFW
+regulation valves (MFRVs), and associated MFRV bypass valves are closed or isolated by a closed
+manual valve when the MFW System is in operation and the turbine generator may be in operation.
+Turbine Trip and Feedwater Isolation is also initiated by all Functions that initiate a Safety Injection
+(SI) signal.
+Turbine trip is a required part of ESFAS as outlined in TS 3.3.2. The response time testing
+requirement for turbine trip is 2.5 seconds per the FSAR. TS 3.3.2 requires that the throttle valves
+close in 1.1 seconds (SR 3.3.2.9) so that, when combined with the other trip logic in a turbine trip
+signal, the overall response time testing requirement is met. The turbine trip function requires four-
+out-of-four throttle valves to close.
+During the period of inoperability, the main turbine governor valves were closed and thus also
+functioning to remove steam flow from the main turbine. These valves function as a series valve to
+the throttle valves and receive the same trip signal that is supplied to the throttle valves. These
+valves are not response time tested, but at the time of this event, were all functioning correctly
+which includes tripping closed in a similar time to the throttle valves’ design time. Additionally, there
+was no challenge with the Feedwater Isolation function or MSIVs. With the MSIVs available, the
+capability existed to mitigate a cooldown event by isolating all steam supplied from the reactor to
+the secondary plant.
+NRC FORM 366A (08-2020)(cid:9) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME(cid:9) 2. DOCKET NUMBER(cid:9) 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER NO.
+2022(cid:9) - 002(cid:9) - 00
+V.(cid:9) Assessment of Safety Consequences
+There were no actual safety consequences because of this event. After the turbine trip was
+initiated, the turbine coasted down as expected, and when requested, the MSIVs closed with no
+challenges. This demonstrated that neither turbine governor valve functionality nor MSIV
+operability was challenged concurrently with the inoperability of TV-2. A probabilistic risk
+assessment determined that increase to risk for Core Damage Frequency or Large Early Release
+Frequency was considered negligible.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+With TV-2 inoperable, there were additional methods to stop steam flow to the main turbine,
+closure of the main turbine governor valves, and another, closure of the MSIVs.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+The event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+TV-2 was inoperable from October 22, 2022, at 0003 until 0013 when the unit exited the
+Mode of Applicability.
+VI.(cid:9) Corrective Actions
+The event was entered into the Tennessee Valley Authority Corrective Action Program (CAP)
+under Condition Report 1811241.
+A. Immediate Corrective Actions:
+TV-2 and the associated actuator were replaced during refueling outage.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events occurring
+in the future:
+The valve and the associated actuator were replaced to correct the condition. Once the
+failure analysis is obtained, new actions will be initiated in the corrective action program to
+address the likelihood of future similar events, if required.
+NRC FORM 366A (08-2020)(cid:9) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG 1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of(cid:9) information unless(cid:9) the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY(cid:9) NAME(cid:9) 2.(cid:9) DOCKET NUMBER (cid:9) 3. L(cid:9)ER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER NO.
+2022 (cid:9) 002(cid:9) - 00
+VII. Pr(cid:9)(cid:9)ev(cid:9)ious Similar Events a(cid:9) t th(cid:9)e Same Site:
+LER 2-2021-002 documented an event on Unit 2 where during testing a turbine throttle valve
+failed to close within response time limits. This event was classified as a human performance
+event and not due to component or system failure. These two events are associated with turbine
+throttle valve closure times; however, the underlying causes are not the same.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments:
+There are no commitments.
+NRC FORM 366A (08-2020)(cid:9) Page 6 of 6

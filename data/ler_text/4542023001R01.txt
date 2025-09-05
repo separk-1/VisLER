@@ -1,0 +1,184 @@
+Constellation Energy Generation. LLC (CEG)
+Byron Station
+Constellation
+4450 N. German Church Road
+Byron, IL 61010-9794
+www.constellationenergy corn
+October 12, 2023
+10CFR50.73
+LTR: BYRON 2023-0056
+File:(cid:9) 1D.101
+5A.108
+United States Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Byron Station, Units 1 and 2
+Renewed Facility Operating License No. NPF-37 and NPF-66
+NRC Docket No. STN 50-454
+Subject:(cid:9) Licensee Event Report (LER) Supplement No. 454-2023-001-01 "OA Control Room
+Ventilation Inoperable due to Jumpers left on OPRO31J and OPR32J"
+Enclosed is Byron Station Licensee Event Report (LER) Supplement No. 454-2023-001-01 regarding
+failure of the OA Control Room Ventilation actuation during diesel generator sequence test due to
+jumpers were left on OPR31J and OPR32J. This condition is being submitted in accordance with 10
+CFR 50.73, "Licensee Event Report System."
+There are no regulatory commitments in this report.
+Should you have any questions concerning this submittal, please contact Ms. Zoe Cox, Regulatory
+Assurance Manager, at (815) 406-2800.
+Respectfully,
+I (cid:9)
+/Al
+Harris Welt
+Site Vice President
+Byron Generating Station
+HW/ZC/hh
+Enclosure:(cid:9) LER 454-2023-001-01
+cc:(cid:9) Regional Administrator — NRC Region III
+NRC Senior Resident Inspector — Byron Generating Station
+October 12, 2023
+LTR: BYRON 2023-0056
+ecc: Illinois Emergency Management Agency — Division of Nuclear Safety — Byron Station (with
+attachment) — Rick Knutson
+Director — Licensing and Regulatory Affairs (with attachment) — Kevin Lueshen
+Prin Regulatory Engineer — Byron (with attachment) — Lisa Zurawski
+Regulatory Assurance Manager — Byron Station (with attachment) — Zoe Cox
+CEG Document Control Desk Licensing (with attachment)
+Deputy Regional Administrator Office Assistant (with attachment) - Carmen Olteanu
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(0 1-10-2 0 23)
+Elesatrinmeadteadr ebuinrcdeornpoprearterdesinpmonseetolicecnomsinpgly pwroitcnestshisanmdan feddatarckcotolleicnrdiounstrryequessetn. d8Ocohmomuresn.ts Reported lessons
+„WI 11.N., th regaring burden
+'''` (cid:9) ..-- '..(cid:9) LICENSEE EVENT REPORT (LER) estimate(cid:9) to(cid:9) the(cid:9) FOIA,(cid:9) Library,(cid:9) and(cid:9) Information(cid:9) Collections(cid:9) Branch(cid:9) (T-6(cid:9) AM),(cid:9) U.(cid:9) S.(cid:9) Nuclear (cid:9) Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.goe, and the OMB reviewer
+t;(cid:9) .k,(cid:9) ,f (See Page 2 for required number of digits/characters for each block) at,(cid:9) OMB Office of Information and Regulatory Affairs, (3150-0104), Attn.(cid:9) Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission. 725 17th Sheet NW. Washington, DC 20503; email:(cid:9) oira(cid:9) ubmission(aont.eou.qov.(cid:9) The NRC may
+htto://www.nrc.govIreadino-rm/doc-collectionsinureasIstaffisrl 0221r31) not conduct or sponsor, and a person is not required to respond to. a o(cid:9) lection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Byron Station, Unit 1 05000454 1(cid:9) OF 3
+(cid:9) 052
+4. Title
+OA Control Room Ventilation Inoperable due to Jumpers left on OPRO31J and OPRO32J
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S Neq uu me bn eti ra l Re Nvi os .i on Month Day Year F Ba ycil rit oy nNa Sme t ation, Unit 2 050 D 0o 5c 0ke 0t N 0u 4m 5be 5r
+03 16 2023 2023 -(cid:9) 001(cid:9) - 01 10 12 2023 F Na /c Ailit y Name (cid:9) 052 D No /c Ake t Number
+9. Operating Mode 10. Power Level
+6 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 (cid:9) 20.2203(a)(2)(vi) 10 CFR Part 50 q 50.73(a)(2)(ii)(A) (cid:9) 50.73(a)(2)(viii)(A) (cid:9) 73.1200(a)
+rl 2 0.2201(b) (cid:9) 20.2203(a)(3)(i) I(cid:9) 1(cid:9) 50.36(c)(1)(i)(A) (cid:9) 50.73(a)(2)(ii)(B) q 50.73(a)(2)(viii)(B) (cid:9) 73.1200(b)
+1-1
+(cid:9) 20.2201(d) q 20.2203(a)(3)(ii) 1-1(cid:9) 5 0.36(c)(1)(ii)(A) (cid:9) 50.73(a)(2)(iii) (cid:9) 50.73(a)(2)(ix)(A) 73.1200(c)
+[1
+q 20.2203(a)(1) (cid:9) 20.2203(a)(4) 50.36(c)(2) q 50.73(a)(2)(iv)(A) (cid:9) 50.73(a)(2)(x) I(cid:9) 1(cid:9) 73.1200(d)
+_
+(cid:9) 20.2203(a)(2)(i) 10 CFR Part 21 (cid:9) 50.46(a)(3)(ii) q 50.73(a)(2)(v)(A) 10 CFR Part 73 I(cid:9) 1 73.1200(e)
+I(cid:9) I(cid:9) 20.2203(a)(2)(ii) (cid:9) 21.2(c) I(cid:9) 150.69(g) (cid:9) 50.73(a)(2)(v)(B) (cid:9) 73.77(a)(1) I(cid:9) 1(cid:9) 73.1200(f)
+1(cid:9) 1(cid:9) 20.2203(a)(2)(iii) (cid:9) 50.73(a)(2)(i)(A) q 50.73(a)(2)(v)(C) I(cid:9) 1(cid:9) 73.77(a)(2)(i) (cid:9) 73.1200(g)
+ri ri
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) q 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) (cid:9) 73.1200(h)
+I -(cid:9)
+20.2203(a)(2)(v) I(cid:9) 1(cid:9) 50.73(a)(2)(i)(C) I 50.73(a)(2)(vii)
+(cid:9) OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Zoe Cox - Regulatory Assurance Manager (815) 406-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A VI N/A N/A Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No • Yes (If yes, complete 15. Expected Submission Date) N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On March 16, 2023, at 14:40 CDT, the OA Control Room Ventilation (VC) failed to actuate when performing the 1A Diesel
+Generator (DG) sequencer testing due to installed jumpers on OPRO31J and OPRO32J, Main Control Room Outside Air Intake A
+Monitors. Jumpers that were installed during the Bus 141 outage to defeat Main Control Room Radiation Monitor interlocks
+were not removed as expected at the conclusion of the bus outage. These jumpers prevented OPRO31J and OPRO32J, Main
+Control Room Outside Air Intake A Monitors from causing OA Train VC actuations when required during 1A DG sequencer
+testing. OPRO31J and OPRO32J were declared inoperable. Once identified, the jumpers were removed from OPRO31J and
+OPRO32J and the monitors were restored to operable status.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(i)(B) for any operation or condition which was prohibited by the
+plant's Technical Specifications.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(01-10-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+infocollects.Resource@nrc.gov, and the 0MB reviewer at OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submissionOpmb.eooloy. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrclovireading-rmidoc-collections/nureqs/staff/sr10221r3/)
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050
+YEAR SEQUENTIAL REV
+Byron Station, Unit 1 05000454 NUMBER NO.
+q 052
+2023 001 01
+NARRATIVE
+A. Plant Operating Conditions Before the Event:
+Event Date:(cid:9) March 16, 2023
+Unit 1 — Mode 6 (Refueling) — Reactor Power: 0 Percent
+Unit 2 — Mode 1 — Reactor Power: 100 percent
+Reactor Coolant System (RCS) [AB]: Normal Operating Temperature and Pressure
+No structures, systems or components were inoperable at the start of this event that contributed to the event.
+B. Description of Event:
+On March 16, 2023, at 14:40 CDT, the OA Control Room Ventilation (VC) failed to actuate when performing the 1A
+Diesel Generator (DG) sequencer testing due to installed jumpers on OPRO31J and OPRO32J, Main Control Room
+Outside Air Intake A Monitors which prevented the actuation of OA VC train. Jumpers were installed to support Unit
+1 Bus Outage and were not removed during the completion and restoration of the bus outage. This resulted in
+OPRO31J and OPRO32J being inoperable for approximately 37 hours. Once identified, the jumpers were removed
+from OPRO31J and OPRO32J and the monitors were restored to operable status.
+C. Cause of Event
+The cause of the event was an Instrument Maintenance First Line Supervisor (IM FLS) used the incorrect process
+to update the work instructions for installation of the jumpers. The IM FLS changed the installation instructions and
+did not change the restoration instructions of the work order. After completion of the bus outage, a second IM FLS
+did not review the jumper installation steps when an IM technician questioned the Equipment Plant Nomenclature
+(EPN) listed in the restoration instructions of the work order. EPNs listed in the work order (WO) were not correct
+due to a typographical error and did not match the plant radiation monitors where jumpers had previously been
+installed. The second IM FLS incorrectly assumed that jumpers were not installed and N/A'd the removal steps.
+This resulted in the jumpers remaining installed on OPR31J and OPR32J. Inadequate use of Technical Human
+Performance (THU) tools and Questioning Attitude by both IM FLS's resulted in these errors.
+D. Safety Consequences:
+This condition had no safety consequences impacting plant or public safety. This event is not considered an event
+or condition that could have prevented fulfillment or a safety function.
+The VC system has two full capacity, redundant equipment trains that perform the same function. The VC HVAC
+system is designed to ensure control or environmental conditions within specified maximum and minimum limits
+which are conducive to personnel habitability and prolonged service life of Safety Category 1 components under all
+normal and abnormal station operating conditions. The OB Train of VC remained operable during this event.
+NRC FORM 366A (01-10-2023)(cid:9)
+Page (cid:9) 2 (cid:9) of (cid:9) 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(01-10-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submissionOombreop.00v. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nic.qov/reading-rmidoc-collectionsinureqs/staff/srl 0221r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050
+SEQUENTIAL REV
+YEAR
+Byron Station, Unit 1 05000454 NUMBER NO.
+q 052
+2023 001 01
+NARRATIVE
+E. Corrective Actions:
+Corrective action taken and completed include:
+• IM Training to perform a Needs Analysis to conduct training on Work Package Revision Guidelines and Work
+Execution and Closeout.
+• IM Work Planning to revise work instructions for all AR/PR tasks related to Bus support activities for both units.
+• Performance Management with the individuals involved with the event.
+F. Previous Occurrences:
+No previous, similar Licensee Event Reports were identified at the Byron Station in the past three years.
+NRC FORM 366A (01-10-2023)(cid:9)
+Page (cid:9) 3 (cid:9) of (cid:9) 3

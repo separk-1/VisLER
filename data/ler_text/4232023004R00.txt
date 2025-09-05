@@ -1,0 +1,214 @@
+Dominion Energy Nuclear Connecticut, Inc. ja Dominion
+Millstone Power Station
+•0007j Energy°
+314 Rope Ferry Road, Waterford, CT 06385
+DominionEnergy.com
+(cid:9)
+U. S. Nuclear Regulatory Commission Serial No.: 23-330
+(cid:9)
+Attention: Document Control Desk MPS Lic/JP RO
+(cid:9)
+Washington, DC 20555 Docket No.: 50-423
+(cid:9)
+License No.: NPF-49
+DEC 1 9 2023
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+MILLSTONE POWER STATION UNIT 3
+LICENSEE EVENT REPORT 2023-004-00
+REACTOR COOLANT SYSTEM PRESSURE ISOLATION VALVES OPERATIONAL LEAKAGE
+EXCEEDED THE ACCEPTANCE CRITERIA RESULTING IN A CONDITION PROHIBITED BY
+TECHNICAL SPECIFICATIONS
+This letter forwards Licensee Event Report (LER) 2023-004-00, documenting a condition that was
+discovered at Millstone Power Station Unit 3 (MPS3) on October 20, 2023. This LER is being
+submitted pursuant to 10 CFR 50.73 (a)(2)(i)(B) as a condition prohibited by technical specifications.
+There are no regulatory commitments contained in this letter or its enclosure.
+Should you have any questions, please contact Mr. Dean E. Rowe at (860) 444-5292.
+Sincerely,
+Michael J. O'Connor
+Site Vice President — Millstone
+Enclosure: LER 423/2023-004-00
+Serial No. 23-330
+Docket No. 50-423
+Licensee Event Report 2023-004-00
+Page 2 of 2
+cc:(cid:9) U.S. Nuclear Regulatory Commission
+Region I
+475 Allendale Road, Suite 102,
+King of Prussia, PA 19406–1415.
+R. V. Guzman
+NRC Project Manager Millstone Units 2 and 3
+U.S. Nuclear Regulatory Commission
+One White Flint North, Mail Stop 08 C2
+11555 Rockville Pike
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Millstone Power Station
+Serial No. 23-330
+Docket No. 50-423
+Licensee Event Report 2023-004-00
+ATTACHMENT
+LICENSEE EVENT REPORT 2023-004-00
+REACTOR COOLANT SYSTEM PRESSURE ISOLATION VALVES OPERATIONAL
+LEAKAGE EXCEEDED THE ACCEPTANCE CRITERIA RESULTING IN A CONDITION
+PROHIBITED BY TECHNICAL SPECIFICATIONS
+MILLSTONE POWER STATION UNIT 3
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+423 1 OF(cid:9) 3
+Millstone Power Station - Unit 3 052
+4. Title
+Reactor Coolant System Pressure Isolation Valves Operational Leakage Exceeded the Acceptance Criteria Resulting in a Condition
+Prohibited by Technical Specifications.
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+10 20 2023 2023 -(cid:9) 004(cid:9) - 00 12 19 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+50
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 4 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+860-444-5292
+Dean E. Rowe, Manager Nuclear Station Emergency Preparedness and Licensing.
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B AB ISV D243 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 No Yes (If yes, complete 15. Expected Submission Date)
+16.(cid:9) Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 1428 hours on October 20, 2023, with Millstone Power Station Unit 3 in Mode 5 at 0 percent reactor power, it was identified
+that three reactor(cid:9) coolant(cid:9) system(cid:9) pressure(cid:9) isolation(cid:9) valves(cid:9) (PIVs),(cid:9) had(cid:9) measured(cid:9) back-leakage(cid:9) greater(cid:9) than(cid:9) the
+Technical Specification (TS) acceptance criteria. The likely cause of the excessive leak rate was age related degradation that
+resulted in leakage past the check valve seats. The valves were successfully replaced and retested. It was determined that
+this leakage existed during the past operating cycle for a period longer than permitted by the plant’s TS allowed outage time.
+This condition is being reported(cid:9) pursuant to(cid:9) 10 CFR 50.73(a)(2)(i)(B) as any operation or condition prohibited by the
+plant's Technical Specifications.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station - Unit 3 423
+052 2023 - 004 - 00
+NARRATIVE
+At 1428 hours on October 20, 2023, with Millstone Power Station Unit 3 in Mode 5 at 0 percent reactor power, it was
+identified that three reactor coolant system pressure isolation valves (PIVs), 3RCS*V70, 3RCS*V106 and 3RCS*V145
+had measured back-leakage greater than Technical Specification (TS) acceptance criteria per surveillance procedure
+SP3601F.4, “Reactor Coolant System (RCS) Pressure Isolation Valve Test”.
+RCS leakage is required by TS 3.4.6.2.2, “Reactor Coolant System, Operational Leakage” to be less than 0.5 gpm
+leakage per nominal inch of valve size up to a maximum of 5 gpm at an RCS pressure of 2,230 to 2,270 psia. The
+subject check valves are 1 1/2 inch RCS pressure isolation valves, 3RCS*V70, 3RCS*V106 and 3RCS*V145. The technical
+specification acceptance criteria for each individual valve should be less than or equal to 0.75 gpm.
+Surveillance procedure SP 3601F.4, “RCS Pressure Isolation Valve Test”, is performed every refueling outage prior to
+Mode 4 as part of RCS Pressure Isolation Valve (PIV) leakage verification. These valves are tested together as
+a group with the option to test individually, if needed.
+Upon reviewing the performance of these check valves conducted in prior refueling outages per SP 3601F.4, the leak
+testing results showed the combined leakage from 3RCS*V29, 3RCS*V70, 3RCS*V106 and 3RCS*V145 to be 0.74 gpm
+versus a TS acceptance limit of 0.75 gpm. With little margin to the acceptance criteria the station prepared for a
+possible replacement of one or all check valves.
+On October 20, 2023, during a refueling outage, the test showed that the individual leakage from 3RCS*V070,
+3RCS*V106 and 3RCS*V145 were each greater than the TS acceptance criteria.
+The required TS 3.4.6.2.2 actions, while in Mode 1-4, are to isolate the high-pressure portion of the affected
+system from the low-pressure portion within 4 hours by use of at least two closed manual or deactivated automatic
+valves or be in at least hot standby within the next 6 hours and in cold shutdown within the following 30 hours.
+Per NUREG 1022, “Event Report Guidelines”, the existence of similar discrepancies in multiple valves is an indication
+that the discrepancies may well have arisen over a period of time and that the failure mode should be evaluated to
+determine reportability. The leakage test common failure mode of all three check valves indicates that the discrepancy
+occurred earlier, during the operating cycle, and that these PIVs were therefore inoperable for greater that the TS
+allowed outage time of 4 hours. This condition is reportable under 10 CFR 50.73(a)(2)(i)(B), as "any operation or
+condition prohibited by the plant's technical specifications".
+CAUSE
+After removal of the three valves from the RCS, a borescope was used to perform an internal inspection. No obvious
+signs of damage or wear that would have resulted in the excessive leakage observed from the associated RCS check
+valves was found. The likely cause of the excessive leak rate was age related degradation that resulted in leakage
+past the seat of 3RCS*V070, 3RCS*V106 and 3RCS*V145.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station - Unit 3 423
+052 2023 - 004 - 00
+NARRATIVE
+ASSESSMENT OF SAFETY CONSEQUENCES
+If a safety injection signal is present, the charging pumps (one pump assuming a single train failure, both pumps
+assuming no failure) will be forward flowing in the safety injection (SIH) lines through 3SIH*MV8801A and/or
+3SIH*MV8801B (depending upon failure assumption). Downstream of the MV8801’s, the SIH lines join into a single
+section of piping before splitting into four individual lines, each line containing one of the injection check valves in
+question.
+This is true whether the emergency core cooling system (ECCS) is in the injection alignment with the refueling water
+storage tank (RWST) as the source of water to the charging pumps or in the recirculation alignment with containment
+sump fluid, boosted by the recirculation spray system (RSS) pumps for the source of water for the charging pumps.
+The charging pumps provide the highest head injection flow of the ECCS pumps that respond to a safety injection (SI)
+signal. Thus, there is no loss of coolant accident (LOCA) scenario in which the RCS pressure would be higher than the
+forward flow in the SIH lines and hence result in back flow through the leaking check valves and reduction in ECCS flow
+delivered to the RCS beyond that already assumed in the Final Safety Analysis Report (FSAR) Chapter 15 safety
+analysis.
+IIf a safety injection signal is not present, 3SIH*MV8801A/B which are normally closed motor operated valves (MOVs),
+open only in response to a safety injection signal. Thus, barring an assumed break in the SIH piping between the
+MV8801’s and the RCS, the check valves ‘leak’ into a closed system. Thus, no loss of reactor coolant would occur.
+Assuming a break in the piping between the MV8801’s and the RCS, the noted rate of coolant loss is sufficiently small
+that the charging pumps would be able to compensate for the loss in their normal chemical and volume control
+system (CVCS) alignment.
+Therefore, the as found leakage rates in 3RCS*V070, 3RCS*V106 and 3RCS*V145, will not challenge a safety function
+credited in the Chapter 15 safety analysis.
+CORRECTIVE ACTIONS
+RCS check valves 3RCS*V70, 3RCS*V106 and 3RCS*V145 were successfully replaced and retested during the
+refueling(cid:9) outage. Additional corrective actions will be taken in accordance with the station’s Corrective Action
+Program.
+PREVIOUS OCCURRENCES
+There have been no similar events or conditions where RCS PIVs operational leakage was outside the technical
+specification acceptance criteria over the last 5 years.
+ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) CODES
+AB Reactor Coolant System
+ISV Isolation valve
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 3

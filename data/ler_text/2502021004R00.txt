@@ -1,0 +1,100 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000(cid:9) 250 1 OF(cid:9) 2
+Turkey Point Unit 3
+4. Title
+Through-Wall Leakage from Core Exit Thermocouple Tubing
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+11 12 2021 2021 -(cid:9) 004(cid:9) - 00 01 06 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+Mode 3 0
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 4 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+David Stoia - Licensing Engineer 305-246-6538
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A IM TE Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No 4 Yes (If yes, complete 15. Expected Submission Date) 06 17 2022
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 11/12/2021 at 16:05, while Unit 3 was in Mode 3 at 0% power, through-wall leakage was verified from 3/8" tubing associated
+with a Reactor Vessel Core Exit Thermocouple. The leakage was identified during the Class 1 leak inspection performed at
+Normal Operating Pressure and Temperature (NOP/NOT) conditions at the end of the Unit 3 Cycle 32 refueling outage.
+At 20:47, pursuant to 10 CFR 50.72(b)(3)(ii)(A), FPL performed the 8-hour non-emergency notification to the NRCOC. Unit 3 was
+brought to Mode 5 and the repairs were completed. The Class 1 leak inspection was satisfactorily performed after NOP/NOT
+conditions were reestablished. Unit 3 has since been returned to service from the refueling outage and is operating at 100%
+power.
+This Licensee Event Report is required per 10 CFR 50.73 (a)(2)(ii)(A).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Turkey Point Unit 3 250
+2021 - 004 - 00
+NARRATIVE
+EVENT DESCRIPTION
+On 11/12/2021 at approximately 05:00, while performing the Unit 3 Class 1 primary system leak inspection at Normal
+Operating Pressure and Temperature (NOP/NOT) conditions at the end of the Cycle 32 refueling outage, a small quantity
+of boric acid was observed on a section of 3/8" stainless tubing associated with Core Exit Thermocouple (CET) 57. The
+boric acid was cleaned by the inspectors and no evidence of leakage was immediately evident. At 16:05 the area was re-
+inspected and boric acid was again present, indicating that a minor through-wall leakage flaw existed on the tubing.
+Unit 3 entered TS 3.4.6.2.a for Reactor Coolant system (RCS) pressure boundary leakage. An 8-hour notification (EN#
+55574) was made to the NRCOC at 20:47 pursuant to 10 CFR 50.72(b)(3)(ii)(A).
+Unit 3 was brought to Mode 5 and the RCS was cooled and depressurized to establish proper maintenance conditions.
+The flawed section of tubing was removed, and both open ends of the remaining tubing were capped. The CET was
+abandoned in place. No other through-wall CET tubing flaws were identified.
+CAUSE
+The cause of the through-wall tube leakage is under investigation. The flawed tubing will be cleared for shipment and
+analyzed to determine the failure mechanism. A supplement to this LER will be submitted after a probable cause is
+determined.
+SAFETY SIGNIFICANCE
+This safety significance of this event was low. No safety system actuation was required. The through-wall leakage was
+non-quantifiable and well within RCS makeup capability. No safety margins were challenged or reduced.
+CORRECTIVE ACTIONS
+Corrective Actions will be assigned following the cause investigation and will be described in the supplement to this LER.
+ADDITIONAL INFORMATION
+EIIS Codes are shown in the format [IEEE system identifier, component function identifier, second component function
+identifier (if appropriate)].
+Analysis of the failed section of 3/8" tubing is expected to be completed by April 2022. A supplement to this LER will be
+submitted after the appropriate cause investigation has been completed.
+SIMILAR EVENTS
+A review for CET pressure boundary leakage events over the previous 10 years was performed to identify similar events
+or patterns. No similar events were identified.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 2

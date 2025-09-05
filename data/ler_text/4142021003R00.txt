@@ -1,0 +1,275 @@
+Tom Simril
+DUKE
+CNN
+? Vice President
+ENERGY. Catawba Nuclear Station
+Duke Energy
+CNO1VP I 4800 Concord Road
+York, SC 29745
+o: 803.701.3340
+f. 803.701.3221
+RA-21-0222
+10 CFR 50.73
+July 26, 2021
+U.S. Nuclear Regulatory Commission
+Attention: Document Control Desk
+Washington, D.C. 20555
+Subject:(cid:9) Duke Energy Carolinas, LLC
+Catawba Nuclear Station, Unit 2
+Docket No. 50-414
+Licensee Event Report (LER) 414/2021-003-00
+Pursuant to 10 CFR 50.73(a)(1) and (d), attached is LER 414/2021-003-00, entitled
+"Containment Penetration Failure Resulting in Integrated Leak Rate Test Failure."
+This report is being submitted in accordance with 10 CFR 50.73(a)(2)(ii)(A) and
+10 CFR 50.73(a)(2)(v)(C)
+There are no regulatory commitments contained in this letter or its attachment.
+This event is considered to be of no significance with respect to the health and safety of the
+public.
+If questions arise regarding this LER, please contact Ari D. Tuckman of Regulatory Affairs at
+(803) 701-3771.
+Sincerely,
+Tom Simril
+Vice President, Catawba Nuclear Station
+Attachment
+United States Nuclear Regulatory Commission
+Page 2
+July 26, 2021
+xc (with attachment):
+L. Dudes
+Regional Administrator
+U.S. Nuclear Regulatory Commission - Region II
+Marquis One Tower
+245 Peachtree Center Ave., NE Suite 1200
+Atlanta, GA 30303
+K. Cotton
+NRC Project Manager (CNS)
+U.S. Nuclear Regulatory Commission
+11555 Rockville Pike
+Mailstop O-8G9A
+Rockville, MD 20852
+J. Austin (without enclosure)
+NRC Senior Resident Inspector
+United States Nuclear Regulatory Commission
+Page 3
+July 26, 2021
+bxc (electronic copy)(with attachment):
+Melodee Jensen (NRC)(cid:9) Melodee.Jensen@NRC.gov
+S.E. Andrews
+S.J. Andrews
+A. Linker
+J. Constant (INPO-IRIS)
+R.T. Simril, Jr.
+B.C. Carroll
+M.C. Nolan
+A.H. Zaremba
+ELL-EC02ZF
+NCMPA-1
+NCEMC
+PMPA
+bxc (hard copy)(with attachment):
+LER File
+RGC Date File
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Catawba Nuclear Station, Unit 2 05000414 1 OF 4
+4. Title
+Containment Penetration Failure Resulting in Integrated Leak Rate Test Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+05 25 2021 2021 - 003 - 00 07 26 2021
+05000
+9. Operating Mode(cid:9) 10. Power Level
+1(cid:9) 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Ari Tuckman (803) 701-3771
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+X IL V V030 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1751 on May 25, 2021, it was determined the local leak rate test (LLRT) for the 2EMF-IN containment
+penetration did not meet 10 CFR 50 Appendix J requirements for both the inboard and outboard containment
+isolation valves. The LLRT was performed during the C2R24 refueling outage at which time primary
+containment was not required to be operable. The leakage assigned to the penetration also resulted in total
+containment leakage exceeding the allowed overall leakage (L ). The valves were repaired and retested
+a
+satisfactorily prior to entering the mode of applicability.
+The most likely cause of the leakages from 2MISV5230 and 2MISV5231 is the degradation of the elastomer
+seat aggravated by the presence of a buildup of debris in the seating area and overly conservative testing
+methodology.
+This event was reported to the NRC as an eight-hour, non-emergency Event Notification Number 55275 on May
+25, 2021, per 10 CFR 50.72(b)(3)(ii)(A), “event or condition that the nuclear power plant, including its principal
+safety barriers, being seriously degraded”.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Catawba Nuclear Station, Unit 2 05000-414 NUMBER NO.
+2021 - 003 - 00
+Narrative
+BACKGROUND
+The following information is provided to assist the readers in understanding the event described in this LER.
+Applicable Energy Industry Identification [EEIS] system and component codes are enclosed within brackets and
+Catawba Nuclear Station unique system and component identifiers are contained within parentheses.
+On April 15, 2021, with Unit 2 of Catawba Nuclear Station (CNS) at 0 percent power (Mode 6) due to a
+refueling outage for cycle 24 (C2R24), the Unit 2 reactor building radiation monitor sample line containment
+penetration (2EMF-IN) failed its local leak rate test. The penetration failed to pressurize to the required test
+pressure due to excessive leakage through both the inboard and outboard containment isolation valves,
+2MISV5231 and 2MISV5230 respectively (Valcor Model 04D-232 1 inch solenoid valves). Due to both primary
+containment isolation valves (PCIVs) in this penetration flow path failing to pressurize, a leakage value of L
+a
+was assigned to each valve, which represents a failure of the associated penetration, 2EMF-IN, to maintain
+containment integrity per Technical Specification 3.6.3, Containment Isolation Valves and specifically SR
+3.6.3.8, to "Verify the combined leakage rate for all reactor building bypass leakage paths is less than or equal
+to 0.07 L when pressurized to greater than or equal to 14.68 psig."
+a
+Catawba Technical Specification 5.5.2, Containment Leakage Rate Testing Program requires a program shall
+be established to implement the leakage rate testing of the containment as required by 10 CFR 50.54(o) and 10
+CFR 50, Appendix J, Option B, as modified by approved exemptions. This program shall be in accordance with
+the guidelines contained in NEI 94-01, "Industry Guideline for Implementing Performance-Based Option of 10
+CFR Part 50, Appendix J," Revision 3-A dated July 2012, and the conditions and limitations specified in NEI 94-
+01 Revision 2-A, dated October 2008.
+The As-Found LLRT minimum pathway leakage value for any penetration not vented and exposed to
+containment pressure during the Integrated Leak Rate Test (ILRT) must be added as a penalty to the results of
+the ILRT to obtain the As-Found Overall Integrated Leakage Rate per NEI 94-01, Rev 3A. Due to the failure of
+the As-Found local leak rate test for penetration 2EMF-IN and its associated impact on the Containment ILRT,
+this event is reportable in accordance with 10 CFR 50.73(a)(2)(ii)(A), “any event or condition that results in the
+condition of the nuclear power plant, including its principal safety barriers, being seriously degraded” and 10
+CFR 50.73(a)(2)(v)(C), “Any event or condition that could have prevented the fulfillment of the safety function of
+structures or systems that are needed to control the release of radioactive material.”
+EVENT DESCRIPTION
+During the scheduled C2R24 refueling outage, a containment integrated leak rate test (ILRT) was performed on
+March 30, 2021 with no apparent issues identified. As part of the ILRT, penetration 2EMF-IN was isolated by
+closing both containment isolation valves as well as downstream isolation valves. Leakage through this
+penetration was not measured during the ILRT as the penetration was to be tested locally and the as found
+local leakage measured from this penetration as well as other penetrations isolated for the ILRT would be
+added to the Type A containment leakage as prescribed in in NEI 94-01--Rev 3A.
+NRC FORM 366A (08-2020)(cid:9) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Catawba Nuclear Station, Unit 2 05000-414 NUMBER NO.
+2021 - 003 - 00
+On April 15, 2021, while still in the C2R24 refueling outage, an as found leakage test was performed on
+penetration 2EMF-IN. During performance of this test, the penetration was unable to pressurize greater than
+11 psig compared to a required test pressure of 15.1 to 15.7 psig. The credited containment isolation valves,
+2MISV5231 and 2MISV5230, were tested individually and the penetration would not pressurize utilizing either
+valve, indicating gross leakage for each valve. Since the required leak rate could not be measured, a leakage
+value equal to L was assigned to each valve, resulting in an as-found overall integrated leakage rate of greater
+a
+than 1.0 L .
+a
+After failure of the local leak rate test, repairs were made to valves 2MISV5231 and 2MISV5230 and the
+penetration was successfully retested while the unit remained in a mode in which containment integrity is not
+required. The result of the completed retest for 2MISV5230 was erroneously entered into the Appendix J
+testing database as “As-Found” test data as opposed to “As-Left” data. As stated previously, penetration As-
+Found minimum path leak rate data is added to the Type A leakage measured by the ILRT to determine overall
+containment leakage. This mis-labeling of the data resulted in the false impression the ILRT initially met all
+acceptance criteria as defined in NEI 94-01--Rev 3A-Section 8.0, to which CNS is licensed. This error was
+discovered while performing a Maintenance Rule evaluation for the failed penetration after the unit returned to
+power operation. Subsequently, all data was reviewed by the Containment/IST engineer and it was concluded
+that the penetration did fail the As-Found leakage test. This review confirmed a failure of the As-Found Overall
+Integrated Leakage Rate Test.
+CAUSAL FACTORS
+The most likely cause of the leakages from 2MISV5230 and 2MISV5231 is the degradation of the elastomer
+seat aggravated by the presence of a buildup of debris in the seating area. Additionally, the test methodology
+which test the valves in a reverse flow direction can contribute to additional leakage. Based on the valves'
+design, testing in the reverse flow direction is a worst-case test scenario and reduces closing margin and
+seating loads. Testing in this manner is conservative relative to actual valve performance if called upon to
+perform its containment isolation function.
+CORRECTIVE ACTIONS
+Immediate Actions:
+1.(cid:9) Repair and retest valves 2MISV5230 and 2MISV5231
+Planned Actions:
+1. Rebuild and inspect select valves of the same application to determine if this similar O-ring damage
+and debris accumulation has occurred in other valves of similar age.
+2. Evaluate long term adjustments to the PM (as needed based on action 1 above)
+3. Revise LLRT test procedures to include additional troubleshooting actions including testing in the
+forward flow direction to provide additional data and to ensure timely communication to Engineering
+for review of leak rate test failures.
+Page 3 of 4
+NRC FORM 366A (06-2016)(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Catawba Nuclear Station, Unit 2 05000-414 NUMBER NO.
+2021 - 003 - 00
+SAFETY ANALYSIS
+Inboard and outboard containment isolation valves 2MISV5231 and 2MISV5230 respectively were found to be
+functioning as designed when performing the containment ILRT on March 30, 2021 and these valves have
+successfully passed their local leak rate testing requirements each outage for the past eight refueling outages.
+In addition, no external leaks in the process piping or components installed in the flow path of these
+containment isolation valves was identified. The failure of the valves is determined to have occurred during the
+local leak rate test performed on April 15, 2021. This failure occurred in an operating mode where their safety
+function of preventing the release of radioactive material from the containment structure was not required and
+these valves were repaired and retested satisfactorily prior to entering such an operating mode. There were no
+safety consequences for this event as the valves failed in a mode in which the containment isolation function is
+not required.
+This condition was a safety system functional failure (SSFF) as defined in accordance with NEI 99-02,
+“Regulatory Assessment Performance Indicator Guideline.”
+ADDITIONAL INFORMATION
+There have been no previous Licensee Event Reports at Catawba Nuclear Station in the last 3 years with the
+same cause as this issue.
+Page 4 of 4
+NRC FORM 366A (06-2016)(cid:9)

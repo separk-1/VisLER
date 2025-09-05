@@ -1,0 +1,229 @@
+James D. Blankenship
+Site Vice President
+R.E. Ginna Nuclear Power Plant
+1503 Lake Rd.
+Ontario, NY 14519
+315-791-5200 Office
+AMUIMF'
+Constellation.(cid:9) jarnes.blankenship@constellation.corn
+www.constellation.corn
+Ai""~
+IIII=11111111111111=1111111111111111111111111111111W
+June 7, 2023
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+RE. Ginna Nuclear Power Plant
+Renewed Facility Operating License No. DPR-18
+NRC Docket No. 50-244
+Subject:(cid:9) LER 2023-001, Vital Bus 17 failed to load onto Emergency Diesel
+Generator B during Load / Safeguard Sequence Testing; corroded
+breaker shunt trip attachment plunger found which indicated an
+earlier violation of Technical Specifications 3.8.1.
+The attached Licensee Event Report (LER) 2023-001 is submitted in accordance
+with 10 CFR 50.73 under the provisions of NUREG-1022, Revision 3, Event
+Reporting Guidelines 10 CFR 50.72 and 50.73. There are no new commitments
+contained in this submittal. This submittal is for Revision 0 of the LER.
+Should you have any questions regarding this submittal, please contact Justin
+Knowles at (315) 791-3393.
+Sincerely,
+Ja -s D. Blankenship
+Attachment: LER 2023-001, Revision 0
+cc:(cid:9) NRC Regional Administrator, Region 1
+NRC Project Manager, Ginna
+NRC Resident Inspector, Ginna (e-mail)
+Attachment
+LER 2023-001, Revision 0
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oirasubmission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nureg s/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+R.E. Ginna Nuclear Power Plant, Unit 1
+00244 1 OF(cid:9) 4
+052
+4. Title
+Vital Bus 17 failed to load onto Emergency Diesel Generator B during Load / Safeguard Sequence Testing; corroded breaker
+shunt trip attachment plunger found which indicated an earlier violation of Technical Specifications 3.8.1.
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+04 11 2023 2023 -(cid:9) 001(cid:9) - 00 06 07 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+5 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) t/ 50.73(a)(2)(i)(B) t/ 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Justin Knowles, Regulatory Assurance Manager 315-791-3393
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D EB BKR W120 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+t/ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On 04/11/2023 at 1320, during an Emergency Diesel Generator (EDG) B Load / Safeguard Sequence Test, safety related Bus
+17 did not load onto EDG B following receipt of a Safety Injection signal. As the plant was in MODE 5 where Technical
+Specifications (TS) 3.8.2 requires only one operable EDG, there was no immediate consequence to plant operation, but a
+corroded/bound breaker shunt trip attachment (STA) plunger discovered upon investigation indicated that the breaker would not
+have operated earlier. The last successful trip of the EDG B breaker was in MODE 1 on 04/06/2023 at 0543 during routine
+surveillance testing.
+MODE 5 was achieved at 04/10/2023 at 1507; consequently, for 4 days 9.4 hours, two operable EDGs were required per TS
+3.8.1, but only one EDG was operable (except on 04/07/2023 when EDG A was inoperable for identical routine surveillance
+testing, and, for 4 hours 11 minutes, no EDGs were operable). The resultant violations of TS 3.8.1 Conditions B.1, B.3.1, and
+B.3.2 are reportable as Conditions Prohibited by TS [50.73(a)(2)(i)(B)] and E.1 as an Event or Condition that Could Have
+Prevented Fulfillment of a Safety Function [50.73(a)(2)(v)].
+Corrective actions include changing breaker maintenance procedures to replace rather than clean corroded STA plungers.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 00244
+052 2023 - 001 - 00
+NARRATIVE
+I.P RE-EVENT PLANT CONDITIONS
+At the time the condition was identified, the plant was in MODE 5 at 0% rated thermal power.
+II. DESCRIPTION OF EVENT
+A. EVENT
+On 4/11/2023, the station was in Mode 5 (Cold Shutdown) for a refueling outage. During the performance of Train B
+surveillance STP-O-R-2.2-TR-B, Diesel Generator Load and Safeguard Sequence Test, Bus 17 did not load onto
+Emergency Diesel Generator (EDG) B following a Safety Injection (SI) signal. Main Control Board (MCB) alarms L-15
+(Bus 17 Under Voltage Safeguards) and L-13 (Safeguard Bus D/G Breaker Overcurrent Trip) were received. The alarm
+switch for breaker 52/EG1B2 was found actuated but with no Amptector targets indicated. A recorder set up during the
+test showed that the breaker tripped free (closed and then immediately reopened).
+With the breaker racked out, inspection of the STA moving core identified that the plunger was entirely coated in surface
+rust, was not fully reset from the previous trip of the breaker, and was preventing future breaker closure, thus causing it to
+be inoperable. Upon identification of the STA moving core rust, the breaker was immediately replaced with a spare
+breaker of the same type and model. Following a successful test, system operability was restored.
+Only one EDG is required in MODE 5 per Technical Specification 3.8.2; thus, there was no immediate consequence to
+plant operation. Two EDGs are required to supply SI loads during a Design Basis Accident (DBA) in MODES 1-4 based
+on Technical Specification (TS) 3.8.1.
+B. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO THE EVENT:
+No other Systems, Structures, or Components (SSCs) were inoperable at the start of the event and contributed to the
+event.
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 00244
+052 2023 - 001 - 00
+NARRATIVE
+C. DATES AND APPROXIMATE TIMES OF MAJOR OCCURENCES:
+04/06/2023 @ 0543 (MODE 1) last successful trip of the breaker 52/EG1B2 (supply breaker for Bus 17 from EDG B).
+04/07/2023 @ 1113 EDG ‘A’ removed from service until 1151 for STP-O-30.10 (Pre-startup Alignment). EDG ‘A’ declared
+inoperable.
+04/07/2023 @ 1202 EDG ‘A’ removed from service until 1535 for STP-O-12.1 (EDG ‘A’ Monthly Testing). EDG ‘A’
+declared inoperable.
+04/10/2023 @ 1507 MODE 5 achieved.
+04/10/2023 @ 2200 (MODE 5) Began STP-O-R-2.2-TR-B.
+04/11/2023 @ 1320 (MODE 5) Self-revealing failure of 52/EG1B2.
+04/12/2023 @ 0940 Breaker 52/EG1B2 replaced; EDG B returned to operable status.
+D. OTHER SYSTEMS OR SECONDARY FUNCTIONS AFFECTED:
+None
+E. METHOD OF DISCOVERY:
+Self-revealing: During the performance of STP-O-R-2.2-TR-B, Diesel Generator Load and Safeguard Sequence Test, Bus
+17 did not load onto EDG B following SI initiation. At the time MCB alarms L-15, Bus 17 Under Voltage Safeguards, and
+L-13, Safeguard Bus D/G Breaker Overcurrent Trip, were received.
+F. SAFETY SYSTEM RESPONSES:
+No safety systems actuated, as expected.
+III. CAUSE OF EVENT:
+The direct cause of the failure of the circuit breaker to close and remain closed when demanded was the failure of the
+breaker shunt trip attachment (STA) to reset to its shelf condition following a trip due to surface corrosion on the STA
+moving core causing friction between the core and coil.
+IV. ASSESSMENT OF THE SAFETY CONSEQUENCES OF THE EVENT:
+Based on the date/time of the last successful trip of the breaker in MODE 1 on 04/06/2023 at 0543, the plant had one
+EDG operable when two were required to be operable per TS 3.8.1 until MODE 5 was achieved on 04/10/2023 at 1507, at
+total of 4 days 9.4 hours, including a 4-hour 11-minute period on 04/07/2023 when no EDG was operable due to EDG A
+being declared inoperable for surveillance testing.
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 00244
+052 2023 - 001 - 00
+NARRATIVE
+The resultant violations of TS 3.8.1 Conditions B.1, B.3.1, and B.3.2 are reportable as Conditions Prohibited by TS
+[50.73(a)(2)(i)(B)] and E.1 as an Event or Condition that Could Have Prevented Fulfillment of a Safety Function [50.73(a)
+(2)(v)].
+As the plant never lost offsite power during the 4-day 9.4-hour period in MODE 1 when one or no EDG was operable when
+two were required to be operable, safety related busses always had power resulting in no actual safety consequences of
+the event. During the time between MODE 5 and discovery of the failed STA, EDG A was always operable, so TS were
+satisfied. As such, this event is not considered to have had any significant effect on the health and safety of the public.
+V. CORRECTIVE ACTIONS
+The breaker was replaced with a spare unit under Work Order (WO) C93909101 on 04/12/2023.
+Extent of condition was performed under WO C93910116. The EDG A breaker STA was found in excellent condition and
+cycled as expected.
+Add guidance to breaker maintenance procedures to inspect for corrosion and free operation of the STA moving coil. If
+any STA does not meet acceptance criteria on a Screenhouse breaker, replace the STA.
+VI. ADDITIONAL INFORMATION:
+This failure was documented in Corrective Action Program Issue Report (IR) 04669299.
+A. FAILED COMPONENTS:
+52/EG1B2, Supply breaker for Bus 17 from EDG B.
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+A search of all Ginna LERs submitted to the NRC determined there have been no prior LERs reporting similar breaker
+failure.
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION IDENTIFIER AND SYSTEM
+NAME OF EACH COMPONENT OR SYSTEM REFERRED TO IN THIS LER:
+COMPONENT - Breaker
+IEEE 803 FUNCTION NUMBER - BKR
+IEEE 805 SYSTEM IDENTIFICATION - EB
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 4

@@ -1,0 +1,173 @@
+NExTera
+E\FRGYO
+SEABROOK
+May 20, 2021
+10 CFR 50.73
+SBK-L-21053
+U. S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+Seabrook Station
+Docket No. 50-443
+Seabrook Station
+Licensee Event Report (LER) 2021-001-00
+Pressurizer Safety Valve Outside of Technical Specification Limits Discovered During
+As-Found. Set Point Testing
+Enclosed is Licensee Event Report (LER) 2021-001-00. This LER reports an event that occurred
+at Seabrook Station on March 25, 2021. This event is being reported pursuant to the
+requirements of 10 CFR 50.73(a)(2)(i)(B).
+Should you require further information regarding this matter, please contact me at (603) 773-
+7631.
+Sincerely,
+NextEra Energy Seabrook, LLC
+Matthe evander
+Licensing Manager
+cc:(cid:9) D. Lew, NRC Region I Administrator
+J. Poole, NRC Project Manager
+C. Newport, NRC Senior Resident Inspector
+NextEra Energy Seabrook, LLC
+P.O. Box 300, Seabrook, NH 03874
+Enclosure to SBK.-L-2 I 053
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(CF.t...2023) Lst:rnated bitlen per response .',, ccriply with this ma-datery collection request: Fit: hours.(cid:9) Reported
+LICENSEE EVENT REPORT (LER) lessons learned are tricoipotated into the licecsing rtrocess and fed back to ind..stry.(cid:9) Send comment;
+regarding burden estimate to the i'CIA, Libra.y. aid in'ormation Collections B•anch (T-6 A10M). d.S.
+-(cid:9) .(cid:9) (See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regstato(cid:9) Comm:ss.or,(cid:9) Washing:or..(cid:9) DC(cid:9) 20555-00C1.(cid:9) or (cid:9) by(cid:9) e-mail(cid:9) to
+..,(cid:9) ttii(cid:9) .-(cid:9) 4. *! (cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form 1:1kr,011e(;;SROSMICrig!1!(:.gos, &it'd die OMB reviewer at:(cid:9) 0M3 Office s: Irtfoonation and Regulatory
+http://www.nrc.govireadin_g-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs. (3150-C104). Atth:(cid:9) Desk ail:(cid:9) cira submissior@omb.coo.gcv.(cid:9) 'Ihe NRC may not conduct or
+sponsor. and a perso.1 is not required to respond to, a ccIlectior of informatsri ulless the document
+requesting or requirfrig the collection displays a currehtly valid 0Mht curt's. number.
+1. Facility Name 2. Docket Number 3. Page
+Seabrook Station
+05000(cid:9) 443 1(cid:9) OF(cid:9) 3
+4.(cid:9) Title
+Pressurizer Safety Valve Outside of Technical Specification Limits Discovered During As-Found Set Point Testing
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+03 25 2021 2021 -(cid:9) 001(cid:9) - 00 05 24 2021 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) n(cid:9) 50.36(c)(2) 50.73(a)(2)(iv)(A) F-1(cid:9) 50.73(a)(2)(x)
+I(cid:9) i(cid:9) 20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) I(cid:9) 1(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 1(cid:9) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) I(cid:9) 1(cid:9) 50.73(a)(2)(i)(A) [(cid:9) 1(cid:9) 50.73(a)(2)(v)(C) I(cid:9) 1 (cid:9) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 111 (cid:9) 50.73(a)(2)(i)(B) I(cid:9) 1(cid:9) 50.73(a)(2)(v)(D) 17(cid:9) 73.77(a)(1)(i)
+n(cid:9)
+I(cid:9) [(cid:9) 20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) [(cid:9) I(cid:9) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+___
+1(cid:9) 20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 1---(cid:9) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+p(cid:9)
+FT
+20.2203(a)(2)(iv) 1--(cid:9) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) (cid:9) 50.73(a)(2)(viii)(B)
+n
+1
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) ri(cid:9) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+_ (cid:9)
+pi
+(cid:9) OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Matthew Levander, Licensing Manager 603-773-7631
+13. Complete One Line for each Component Failure Described in this Report
+CausSe](cid:9) ystem Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X AB RV C711 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Ld(cid:9)
+No I(cid:9) i(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 25, 2021, with Seabrook Station at 100% power, it was determined that one of the three Pressurizer Safety Valves
+(PSVs) had a low as-found set point pressure which was discovered during off site testing after the valve was removed from
+service during the previous refueling outage (04/01/20). Technical Specifications (TS) require three pressurizer safety valves to
+be operable, with a lift setting of +/- 3% in Modes 1, 2, and 3. One safety valve had an as-found set point of -4.2%, the other two
+were within the +/- 3% allowable tolerance. The cause of the set point pressure being out of the allowable band is attributed to
+set point drift. The planned Corrective Action is to replace the spring.(cid:9) Following the spring replacement, additional testing will be
+performed to ensure the valve will be suitable for continued service.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2C20;
+st.n.a•led burden per response to c;emp'y wi:h this mandatory collection request: 80 hairs. Reported
+lessons loomed ore incorporated icR the licensing process and fed bask to ird..istry. Serd cornmeTs
+LICENSEE EVENT REPORT (LER) regarSig burden estimate to the FOIA, I bray, and hi`. nation Co: entices(cid:9) (T-6 A10M), U. S.
+Ni.:c!ea•- Regulatory Co•7:-ssion. Washington, DC 20555-0001. or by e-rrail to
+CONTINUATION SHEET
+:nfocri:ects.Resarce@nrc.gov, and the OMB reviewer et: OMI; Off.ce of inforratior and Regii!atory
+Affairs, (3150-0104). Attn: Desk Office for the Nuclear Regulatory Ccmirnissior, 725 17(1 Stmet NW.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Wash.r.gtor. DC 20503;(cid:9) oira submission@omb.eop.gov. The NRC may rot conduct or
+sponsor. arc] a person is not required o respond to, a collection ot informaton unless the document
+htto://www.nrc.govireading-rm/doc-collections/nuregs/staff/sr1022/r31),
+request'ng or requiring the co::e:tion di. plays a curron')/ valid OMB control nurrmer.
+3. LER NUMBER
+1. FACILITY NAME 2. DOCKET NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Seabrook Station 443
+2021
+001 00
+NARRATIVE
+Event Description:
+During testing of the Pressurizer Safety Valves (PSV) (EEIS: RV) performed by an off-site vendor, the as-found set point
+for one of the three PSVs removed during the station's most recent refueling outage did not meet the Technical
+Specifications (TS) 3.4.2.2 requirement of being with +/- 3% of design lift pressure. The subject PSV had an as-found set
+point pressure that was -4.2%, which was validated on March 25, 2021. The PSV was last installed in the plant and
+returned to service from October 25, 2018 (Mode 4, power ascension after refueling outage), until April 01, 2020 (Mode 5,
+entering refueling outage) when it was then removed from service.
+TS 3.4.2.2 has an action statement completion time of 15 minutes for one Inoperable Pressurizer Code Safety Valve, after
+which the plant must be in Hot Standby within 6 hours, and in at least Hot Shutdown within the following 6 hours. Since it
+is assumed the condition existed prior to the as-found testing, and for a duration longer than the TS action completion
+time, it is assumed that the condition existed greater than the allowed out of service time and completion time. This event
+is being reported in accordance with 50.73(a)(2)(i)(B), "Any operation or condition which was prohibited by the plant's
+Technical Specifications."
+Safety Consequences:
+There were no actual safety consequences for this event. No safety system responses occurred.
+A review of station parameters was completed and determined the actual Reactor Coolant System (RCS)(EEIS:AB)
+pressure was within normal operating limits and the Pressurizer Safety Valves were not required to open to mitigate an
+overpressure event during Cycle 20. At no point did the RCS pressure reach the as-found set point of 2380 PSIG. As the
+set point is below the required Technical Specification range of 2485 + / - 3%, it would have provided overpressure
+protection. As the valve never lifted during the cycle, it did not have a negative effect on actual plant operation. The
+condition was identified after the valve was removed from service, at an off site testing facility.
+Cause of Event:
+Disassembly, inspection, and spring testing of the valve following the unsatisfactory test was performed at the vendor
+testing facility. All qualifying spring test and measurement data, as well as visual inspection notes were within prescribed
+acceptance criteria. Although the acceptance criteria was met, notable changes were evident in the measurement data
+between the 2015 spring tests and the 2021 spring tests. While acceptable, the vendor indicated that these changes
+between spring tests over time are not typical and may be indicative of changes to the material characteristics of the
+spring which could potentially correlate with inconsistent lift results. A combination of minor changes such as these over
+time, when not alongside of a single clear cause of a valve set point failure, is commonly considered "set point drift." The
+cause of this event is being attributed to set point drift.
+Corrective Actions:
+The planned Corrective Action is to replace the PSV spring. After the new spring is installed, testing of the valve will recur
+to ensure that is suitable to be placed back in service.
+(cid:9)
+NIRO FORM 366A (08-2020) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Est:iramd bsden per response to comply with this mardatry collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the M.A. I ibrary, and Information Collections Branch (I-h MOM), u. S.
+Nuclear Regulatory Commission, Washington, DC 205550031, cr by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov: and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commiss'on, /25 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503: e-mail: o:ra_submission@ornb.eoo.gov. The NRC may not conduct or
+sponsor, and a person is not required tc respond to, a collection of information unless Inc document
+http://www.nrc.govireading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requestine, or req.frinc the collection displays a currently valid OMB control nurrber.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Seabrook Station 443
+2021
+001 00
+NARRATIVE
+Previous Similar Events:
+A similar event occurred at Seabrook Station, documented within Licensee Event Report (LER) Number 2018-001-00,
+where as-found PSV set point testing occurred and the results exceeded the requirements within the Technical
+Specifications for a period longer than allowed. The specific valve outlined within LER 2018-001-00 was not the same
+valve being reported within this LER.
+The PSV is manufactured by Crosby Valve and Gage Co., Size 6M6, Style HB-BP 86.
+(cid:9)
+NRC FORM 365A 108.20201 Page(cid:9) 3(cid:9) of(cid:9) 3

@@ -1,0 +1,155 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request 80 hours.(cid:9) Reported lessons
+..,.''''N LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to indu try. Send comments regarding burden
+f (cid:9) estimate to the FCIA, Library, and Information Collections Branch (T-8 A 10M).(cid:9) U.(cid:9) S. Nuclear Regulatory
+1:sM (cid:9) II (cid:9)(cid:9) (See Page 2 for required(cid:9)number of d•i g•i ts/characters for each block) C ato Om Mm Bis s Oio ffn i, c eW oa fs Ih nin fog rt mon a, t iD onC a 2 n0 d5 R55 eg-0 u0 la0 t1 o. r yo r A b fy fa e irm s.a (i 3l 1to 5 0In -0fo 1c 0o 4l )l .e Act ts t. nR :(cid:9) es D u er sc ke O@ fn fir cc e.g r o fov r. ta hn ed N th ue c lO eaM r RB e r ge uv li ae tw ore yr
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission. 725 17th Street NW. Washington, DC 20503; email:(cid:9) any su. :risson)cmb.o0 gOv The NRC may
+httpillwww.nrc.govireading-rmid.oc-collectionsinuregsistaff/sr1022/r31) not conduct or sponsor and a person is not required to respond to, a collet ion of information unless the document
+requestitg cr requiring the collection displays a currently valid OMB control number.
+1. Facility Name • 050 2. Docket Number 3. Page
+H. B. Robinson Steam Electric Plant, Unit No. 2
+00261 1(cid:9) OF(cid:9) 3
+052
+4.(cid:9) Title
+Plant Trip During Reactor Protection System Testing
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name q Docket Number
+Month Day Year Year Number No. Month Day Year 050
+06 22 2023 2023 -(cid:9) 002(cid:9) - 00 08 17 2023 Facility Name q 052 Docket Number
+9. Operating Mode 10. Power Level
+1 100
+§:
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR (Check all that apply)
+10 CFR Part 20 q 20.2203(a)(2)(vi) ri1 0 CFR Part 50 q 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) q 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) n(cid:9) 50.36(c)(1)(i)(A) q 50.73(a)(2)(ii)(B) q 50.73(a)(2)(viii)(B) q 73.1200(b)
+(cid:9)
+20.2201(d) n(cid:9) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) q 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) [] 50.36(c)(2) ,/(cid:9) 50.73(a)(2)(iv)(A) q 50.73(a)(2)(x) q 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 q 50.46(a)(3)(ii) q 50.73(a)(2)(v)(A) 10 CFR Part 73 In(cid:9) 73.1200(e)
+ri 20.2203(a)(2)(ii) q 21.2(c) nEl (cid:9) 50.69(g) q 50.73(a)(2)(v)(B) q 73.77(a)(1) q n(cid:9) 73.1200(f)
+(cid:9) 20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) q 50.73(a)(2)(v)(C) q 73.77(a)(2)(1) 73.1200(g)
+1-7
+20.2203(a)(2)(iv) [2 50.73(a)(2)(i)(B) q n(cid:9) 50.73(a)(2)(v)(D) q 73.77(a)(2)(ii) (cid:9) 73.1200(h)
+20.2203(a)(2)(v) n(cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Phillip D. Mason - Manager, Nuclear Support Services 843-951-5797
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B AA BKR W120 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+j No II Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 10:35 hours Eastern Daylight Time on 06/22/2023, with Unit 2 in Mode 1 at 100% power, H. B. Robinson Steam Electric Plant,
+Unit 2 (HBRSEP2), experienced an automatic turbine trip followed by an automatic reactor trip during the performance of reactor
+protection logic testing. Subsequent to the reactor trip, the auxiliary feedwater system actuated as expected on low steam
+generator level. There were no other equipment performance issues.
+The cause of this event is attributed to pre-existing flaws with reactor trip breaker cubicle design that allowed for the flexing of the
+cell switch support structure, which resulted in the failure of the cell switch to change state and preclude a turbine trip or reactor
+trip when the 'B' reactor trip bypass breaker was racked in to position during testing. The trip was not complex, with all systems
+responding normally.
+This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) due to the event resulting in an automatic actuation of the reactor
+protection system and auxiliary feedwater system. This event did not impact the health and safety of the public.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library: and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington. DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+i
+Affairs, (3150-0104). Attn Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington. DC 20503; email: ofre subrrission(0)omo.eopcov The NRC may not conduct or
+(See NUREG-1022. R.3 for instruction and guidance for completing this form
+sponsor. and a person is not required to respond to: a collection of information unless the document
+http://www.nrc.govireading-rrn/doc-collectionsinuregs/staff/sr1022/r31) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:9) 2. DOCKET NUMBER 3. LER NUMBER
+1E1 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+H. B. Robinson Steam Electric Plant, Unit No. 2 00261
+2023
+052 002 00
+I I
+NARRATIVE
+BACKGROUND
+At the time of this event, H. B. Robinson Steam Electric Plant, Unit No. 2, (HBRSEP2) was operating in Mode 1 at
+approximately 100 percent power. No structures, systems, or components were out of service at the time of this event that
+contributed to the event. This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) due to the automatic actuation of the
+reactor protection system (RPS) [AA] and auxiliary feedwater system (AFW) [BA].
+The RPS monitors all parameters related to the safe operation of the reactor. The system is designed to protect the core
+against fuel rod cladding damage caused by departure from nucleate boiling, and to protect the reactor coolant system
+[AB] against damage caused by overpressure.
+HBRSEP2 reactor trip breakers (RTBs) and reactor trip bypass breakers (BYBs) are DB-50 breakers originally supplied
+from Westinghouse Electric Corporation. Cell switches are designed to externally indicate the change of state as a
+breaker moves from the CONNECT position to the TEST position and vice versa within the cell compartment. The
+switches are designed to mount on a channel at the bottom rear of the breaker compartment. Each switch contains eight
+switch contacts.
+On 06/22/2023 at 13:50 hours Eastern Daylight Time, Event Notification Report #56585 was made to the Nuclear
+Regulatory Commission (NRC) Operations Center under 10 CFR 50.72(b)(2)(iv)(B), due to the automatic actuation of the
+RPS, and under 10 CFR 50.72(b)(3)(iv)(A)(B)(6), due to the valid actuation of the AFW system. This criterion requires a
+licensee event report (LER) be submitted within 60-days of the event date.
+EVENT DESCRIPTION
+At 10:35 hours on 06/22/2023, an automatic turbine [TRB] trip and a subsequent automatic reactor [RCT] trip occurred.
+Subsequent to the reactor trip, the auxiliary feedwater system actuated as expected on low steam generator level.
+Maintenance and operations personnel were performing at-power reactor protection logic train 'B' testing. Per the test
+procedure, the 'B' reactor trip bypass breaker [BKR] was racked in and closed to permit the testing of the 'B' reactor trip
+breaker. This action should have caused the cell switch [33] contact (52H) for the 'B' reactor trip bypass breaker to open
+to allow testing and prevent the logic necessary for a turbine control system-actuated [TG] turbine trip signal. However,
+due to flexure in the breaker cell switch mounting support [SPT] the cell switch experienced enough displacement as the
+bypass breaker was racked into position to cause the switch to remain closed. The result was generation of a turbine trip
+signal to the turbine control system. subsequent turbine trip, reactor trip and auxiliary feedwater system actuation when
+the 'B' RTB was opened for testing.
+CAUSAL FACTORS
+An in-depth evaluation of the automatic turbine trip followed by the automatic reactor trip has concluded that the direct
+cause of the turbine trip signal was a design characteristic of the cubicle design that allowed for the flexing of the cell
+switch support structure, which resulted in the failure of the switch to change state and prevent a turbine trip and reactor
+trip. An extent of condition review was performed on the remaining reactor trip breakers and bypass breaker. The same
+design vulnerability was determined to exist on the 'B' reactor trip breaker, requiring additional support shims be installed.
+(cid:9)
+NRC FORM 366A (03-14-2023) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+;03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+RE% lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+44.(cid:9) .13 LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S
+Nuclear Regulatory Commission. Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+••••.
+Affairs, (3150-0104). Attn: Desk Office for the Nuclear Regulatory Commission, 725 17th Street NW.
+Washington, DC 20503 email: oira submission@omb.eou.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is rot required o respond to, a collection of information unless the document
+http://www. nrc.g ovire ad ing-rm/doc-collections/nureg sistaffis r1022/r3h requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME n (cid:9) -2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+NUMBER NO.
+H. B. Robinson Steam Electric Plant, Unit No. 2 00261
+2023
+q 052 002 00
+NARRATIVE
+CORRECTIVE ACTIONS
+An engineering change was implemented to install support shims beneath the breaker cell switches of the subject reactor
+trip and bypass breakers to correct the condition and prevent recurrence. Procedure changes to Reactor Protection Logic
+Train Testing At-Power maintenance test procedures have been initiated to utilize turbine control system sliding links
+eliminating trips due to cell switch contact failure during testing. Any changes to the corrective actions or completion
+schedules will be made in accordance with the site's corrective action program.
+SAFETY ANALYSIS
+The reactor was operating at full power during the Reactor Protection Logic Train 'B' At Power Testing when an automatic
+reactor trip occurred. The mitigating equipment (RPS and AFVV) functioned as expected and plant shutdown proceeded
+normally without further challenge. The cause of the plant trip is attributed to a design characteristic of the cubicle design
+that allowed for the flexing of the breaker cell switch support structure, which resulted in the failure of the switch to change
+state. The RPS trip logic performed as designed and there were no other equipment performance issues. Therefore, this
+event had very low safety significance based on a successful reactor trip with no equipment or operational challenges.
+This event resulted in no impact to the health and safety of the public.
+ADDITIONAL INFORMATION
+An operating experience search was conducted and there are no prior events at HBRSEP2 involving inadvertent actuation
+of the reactor protection system due to reactor trip bypass breaker cell switch malfunction within the past five years.
+Energy Industry Identification System (El IS) codes for systems and components relevant to this event are identified in the
+text of this document within brackets [ ].
+(cid:9)
+NRC FORM 366A (03-14-2023) Page(cid:9) 3(cid:9) of(cid:9) 3

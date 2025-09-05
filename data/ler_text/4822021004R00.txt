@@ -1,0 +1,181 @@
+Robert J. Bayer
+Plant Manager
+October 18, 2021
+WO 21-0037
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Subject:(cid:9) Docket No. 50-482: Licensee Event Report 2021-004-00, “Low Steam
+Generator Level due to Main Feedwater Valve Failure Caused Automatic
+Reactor Trip”
+Commissioners and Staff:
+The enclosed Licensee Event Report (LER) 2021-004-00 is being submitted pursuant to 10 CFR
+50.73(a)(2)(iv)(A) regarding an Engineered Safety Features Actuation and automatic reactor trip
+at Wolf Creek Generating Station.
+This letter contains no commitments. If you have any questions concerning this matter, please
+contact me at (620) 364-4015, or Ron Benham at (620) 364-4204.
+Sincerely,
+Robert J. Bayer
+RJB/rlt
+Enclosure:(cid:9) LER 2021-004-00
+cc:(cid:9) S. S. Lee (NRC), w/e
+S. A. Morris (NRC), w/e
+N. O’Keefe (NRC), w/e
+Senior Resident Inspector (NRC), w/e
+P.O. Box 411 | Burlington, KS 66839 | 620-364-8831
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory (cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Wolf Creek Generating Station
+05000(cid:9) 482 1 OF(cid:9) 3
+4. Title
+Low Steam Generator Level due to Main Feedwater Valve Failure Caused Automatic Reactor Trip
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+08 18 2021 2021 -(cid:9) 004(cid:9) - 00 10 18 2021 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 4 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Ron Benham, Director Nuclear and Regulatory Affairs (620) 364-4204
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B SJ FCV C635 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1036 Central Daylight Time (CDT) on 8/18/2021, Wolf Creek Generating Station (WCGS) experienced a reactor trip due to
+low level in the 'B' steam generator. WCGS was operating in MODE 1 at 100% power when the trip occurred. ENS notification
+#55416 was made at 1251 CDT in accordance with 10 CFR 50.72(b)(2)(iv)(B) due to reactor scram, and 10 CFR 50.72(b)(3)(iv)
+(A) for an auxiliary feedwater system actuation. All control rods dropped, all equipment functioned as designed, and offsite
+power remained available.
+The direct cause was a fracture of the valve stem for the 'B' steam generator main feedwater regulating valve, causing the valve
+to fail closed and resulting in a loss of feed flow control to the ‘B’ steam generator. The hardware failure anaylsis performed on
+the valve stem determined that the fracture was due to a fatigue crack which had propagated through the stem of the valve. Tool
+marks within the thread root, as well as the thread root being cut deeper and narrower were identified as stress risers which
+allowed the crack to propagate into the material of the stem.
+Dye penetrant testing of the replacement stem, and on the existing valve stems of the three other main feedwater regulating
+valves, showed no relevant indications.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Wolf Creek Generating Station 482
+2021 - 004 - 00
+NARRATIVE
+PLANT CONDITION PRIOR TO EVENTS
+The plant was operating in Mode 1 at 100% power when the reactor tripped. No systems, structures, or components
+(SSCs) were inoperable at the beginning of the event which contributed to the event.
+DESCRIPTION OF STRUCTURE(S), SYSTEM(S), AND COMPONENT(S)
+Energy Industry Identification System (EIIS) codes and component codes are identified in the text as [XX].
+The main feedwater regulating valves (MFRVs) [SJ-FCV] are air operated angle valves which automatically control
+feedwater flow to the steam generators (SGs) [SB-SG] between 30 percent and full power. The MFRVs are located in the
+turbine building. The MFRVs also can provide backup isolation of main feedwater flow in the event that a main feedwater
+isolation valve (MFIV) [SJ-ISV] fails to close.
+Closure of the MFIVs or MFRVs terminates flow to the SGs, in the event of a feedwater line break occurring upstream of
+the MFIVs or MFRVs. Since the MFIVs are located upstream of the point where the auxiliary feedwater lines connect to
+the main feedwater lines, which is in turn upstream of the main feedwater check valves (located in Area 5 inside the
+auxiliary building), closure of the MFIVs or the MFRVs ensures delivery of auxiliary feedwater to the SGs for support of the
+auxiliary feedwater function in the event of a main feedwater line break in the turbine building.
+AEFCV0520 is the MFRV on the main feedwater line which feeds the 'B' SG and has a Copes-Vulcan actuator. The
+actuator valve stem is made from ASTM A276 Type 316 Condition B stainless steel with a 1" in diameter and 8 UNC-2A
+threads.
+EVENT DESCRIPTION
+Wolf Creek Generating Station (WCGS) was operating in Mode 1 at 100% power on August 18, 2021, when at 1035
+Central Daylight Time (CDT), feed water flow began dropping. As a result of the lower flow, valve demand increased
+which caused the valve position indication to increase. The balance-of-plant (BOP) operator reported that going to
+manual would not change the course of the transient as the signal was responding properly to actual level decrease. The
+BOP operator was then directed to trip the plant based on loss of flow indication. But prior to taking action, SG 'B' level fell
+below the low SG level reactor trip and main feedwater isolation set point of 23.5 percent and at 1036 CDT, the reactor
+automatically tripped. This resulted in a Main Feedwater Isolation and an Auxiliary Feedwater Actuation. All control rods
+dropped, all required safety systems functioned as designed, and offsite power remained available.
+BASIS FOR REPORTABILITY
+The reactor trip and actuation of Engineered Safety Feature Actuation System (ESFAS) instrumentation actuation
+described in this event is reportable per 10 CFR 50.73(a)(2)(iv)(A), which requires reporting of "Any event or condition that
+resulted in manual or automatic actuation of any of the systems listed in paragraph (a) (2) (iv) (B) of this section..."
+Paragraph (B)(1) of 10 CFR 50.73(a)(2)(iv) includes "Reactor Protection System (RPS) including: reactor scram or reactor
+trip." Paragraph (B)(6) of 10 CFR 50.73(a)(2)(iv) includes "PWR auxiliary or emergency feedwater."
+ENS notification 55416 was made at 1251 CDT on August 18, 2021, in accordance with 10 CFR 50.72(b)(2)(iv)(B), which
+requires notification within 4 hours, and 10 CFR 50.72(b)(3)(iv)(A) which requires notification within 8 hours.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Wolf Creek Generating Station 482
+2021 - 004 - 00
+NARRATIVE
+CAUSE
+The direct cause was a fatigue crack propagated through the stem of AEFCV0520, causing the stem to fracture, resulting
+in a loss of feed flow control to the ‘B’ Steam Generator.
+The root cause was tool marks within the thread root caused local stress risers, which allowed multiple cracks to initiate.
+In addition, the thread root was also cut deeper and narrower than allowed by specification. This created an additional
+stress riser which allowed the cracks to propagate into the body of the valve stem.
+CORRECTIVE ACTIONS
+Actions taken:
+AEFCV0520 was disassembled and then reassembled with a replacement valve stem. The replacement valve stem was
+satisfactorily inspected (no visible indications) using dye penetrant testing prior to installation. Dye penetrant testing of the
+stems on the other three main feedwater control valves was also performed to look for surface indications of cracking. No
+relevant indications were identified on any of the other three stems.
+Actions planned:
+A new Preventive Maintenance (PM) activity will be created to replace the stems on the four MFRVs on a 7.5-year
+interval. The frequency of 7.5 years for this time-directed stem replacement PM was set based on the life span of the
+valve stem that failed, and therefore considers a valve stem with sharper than allowed threads and tooling marks. In
+addition, a methodology and scope for verifying root depth of threads on replacement stems for critical valves will be
+implemented.
+SAFETY SIGNIFICANCE
+There were no safety consequences impacting plant or public safety from this event. All control rods dropped, offsite
+power remained available, and all safety equipment operated appropriately and as designed. There was no loss of any
+function that would have prevented fulfillment of actions necessary to: shutdown the reactor and maintain it in a safe
+shutdown condition, remove residual heat, control the release of radioactive material, or mitigate the consequences of an
+accident.
+OPERATING EXPERIENCE/PREVIOUS EVENTS
+None
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 3

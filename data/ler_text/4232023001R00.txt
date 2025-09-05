@@ -1,0 +1,204 @@
+Dorni-don Fnergy Nuclear Cornectiuut, Inc.
+PoN.ve• Station
+Enoem
+D31 o4
+rn
+R ino iop ne
+E
+F ne er rr cy
+y
+R .co oa rnd . Wa:orloid, CI 06385 rignyion
+(cid:9)
+U. S. Nuclear Regulatory Commission Serial No.: 23-163
+(cid:9)
+Attention: Document Control Desk MPS Lic/JP RO
+(cid:9)
+Washington, DC 20555 Docket No.: 50-423
+(cid:9)
+License No.: NPF-49
+JUL 2 7 2023
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+MILLSTONE POWER STATION UNIT 3
+LICENSEE EVENT REPORT 2023-001-00
+AUTOMATIC REACTOR TRIP DUE TO MAIN GENERATOR OUTPUT BREAKER GROUND
+FAULT
+This letter forwards Licensee Event Report (LER) 2023-001-00, documenting an event that occurred
+at Millstone Power Station Unit 3, at 04:46 on May 30, 2023. This LER is being submitted pursuant
+to 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in manual or automatic actuation of systems
+listed in 10 CFR 50.73(a)(2)(iv)(B).
+There are no regulatory commitments contained in this letter or its enclosure.
+Should you have any questions, please contact Mr. Dean E. Rowe at (860) 444-5292.
+Sincerely,
+--)
+Michael J. O'Connor
+Site Vice President — Millstone
+Enclosure: LER 42312023-001-00
+Serial No. 23-163
+Docket No. 50-423
+Licensee Event Report 2023-001-00
+Page 2 of 2
+cc:(cid:9) U.S. Nuclear Regulatory Commission
+Region I
+475 Allendale Road, Suite 102
+King of Prussia, PA 19406–1415.
+R. V. Guzman
+NRC Project Manager Millstone Units 2 and 3
+U.S. Nuclear Regulatory Commission
+One White Flint North, Mail Stop 08 C2
+11555 Rockville Pike
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Millstone Power Station
+Serial No. 23-163
+Docket No. 50-423
+Licensee Event Report 2023-001-00
+ATTACHMENT
+LICENSEE EVENT REPORT 2023-001-00
+AUTOMATIC REACTOR TRIP DUE TO MAIN GENERATOR OUTPUT BREAKER
+GROUND FAULT
+MILLSTONE POWER STATION UNIT 3
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oirasubmission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+423 1 OF(cid:9) 3
+Millstone Power Station Unit 3 052
+4. Title
+Automatic reactor trip due to main generator output breaker ground fault
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+05 30 2023 2023 -(cid:9) 001(cid:9) - 00 07 27 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+Mode 1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 4 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Dean E. Rowe, Manager Nuclear Emergency Preparedness and Licensing 860-444-5292
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B EL BKR G080 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 30, 2023, at 04:46, Millstone Power Station Unit 3 was in Mode 1 at 100 percent reactor power when an automatic
+reactor trip occurred following a main generator turbine trip caused by a main generator ground fault. The direct cause of the
+trip was a ground fault on “B” phase of the main generator output breaker (MGOB) due to a flashover event that happened
+inside the “B” breaker pole fiberglass air supply tube. Air leaks in the breaker air system caused increased air compressor run
+time resulting in undesired moisture and oil accumulation in the air supply tube that led to flashover. The affected fiberglass air
+supply tube was replaced and air leaks were fixed in the air supply system. The actuation of the Reactor Protection System and
+the Auxiliary Feedwater System is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a
+manual or automatic actuation of systems listed in 10 CFR 50.73(a)(2)(iv)(B).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station Unit 3 423
+052 2023 - 001 - 00
+NARRATIVE
+On May 30, 2023, at 04:46, Millstone Power Station Unit 3 was in Mode 1 at 100 percent reactor power when an
+automatic reactor trip occurred following a main generator turbine trip. The main generator turbine trip was initiated by a
+main generator protection system actuation from a ground fault. All control rods inserted on the trip. Following the trip,
+main feedwater was isolated as designed, and auxiliary feedwater was automatically actuated to restore steam generator
+levels. As designed, turbine bypass valves prevented challenging the main steam safety valves following the reactor trip.
+All reactor coolant pumps continued to operate and reactor coolant system cold leg temperatures were maintained greater
+than 550°F following the event.
+A four-hour non-emergency notification was made for the actuation of the Reactor Protection System in accordance with
+10 CFR 50.72(b)(2)(iv)(B). An eight-hour non-emergency notification was made for the actuation of the Auxiliary
+Feedwater System in accordance with 10 CFR 50.72(b)(3)(iv)(A) and 10 CFR 50.72(b)(3)(iv)(B).
+All systems performed as expected with the exception of the condenser air ejector radiation monitor (ARC-RE21). The
+radiation monitor momentarily spiked to 2.0E-5 uC/cc, which generated the high alarm until 04:48, when the trend lowered
+to 5.5E-6 uC/cc to clear the high alarm. At 04:49, ARC-RE21 decreased to its pre-trip value of 3.4E-6 uC/cc. Chemistry
+sampling performed on May 31, 2023, in accordance with primary to secondary leak rate surveillance procedure
+(SP 3861), gave no indication of steam generator tube leakage.
+The actuation of the Reactor Protection System and the Auxiliary Feedwater System is being reported in accordance with
+10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a manual or automatic actuation of systems listed in 10 CFR
+50.73(a)(2)(iv)(B).
+CAUSE
+The direct cause of the trip was a ground fault on “B” phase of the MGOB due to a flashover event that happened inside
+the “B” breaker pole fiberglass air supply tube. The supply tube receives air from a 500 psi pressure reducing cabinet,
+which is supplied by a 3700 psi air receiver that is filled from either of two MGOB air compressors. Air leaks in the breaker
+air system caused increased air compressor run time resulting in undesired moisture and oil accumulation in the air
+supply tube that led to flashover.
+ASSESSMENT OF SAFETY CONSEQUENCES
+There were no safety consequences related to this event. As designed, turbine bypass valves prevented challenging the
+main steam safety valves following the reactor trip. The maximum indicated steam generator pressure was 1082 psig,
+which was well below the nominal opening pressure of the first main steam safety valves of 1185 psig. As designed,
+following the trip, main feedwater was isolated and auxiliary feedwater responded to restore steam generator levels. All
+reactor coolant pumps continued to operate and reactor coolant system cold leg temperatures were maintained greater
+than 550°F following the event.
+Following the reactor trip, the minimum post-trip pressurizer pressure was approximately 1980 psia, which is well above
+the low pressurizer pressure setpoint of 1892 psia. The minimum pressurizer level was 32% immediately following the
+reactor trip. There was no indication of steam generator tube leakage which was verified by chemistry sampling performed
+on May 31, 2023 in accordance with SP 3861. No safety functions were challenged, and plant operation was maintained
+within the bounds of Final Safety Analysis Report Chapter 15: Safety Analysis. This event did not challenge the health and
+safety of the public or the environment.
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station Unit 3 423
+052 2023 - 001 - 00
+NARRATIVE
+CORRECTIVE ACTIONS
+The affected fiberglass air supply tube from MGOB air compressor was replaced. The air supply system to the main
+generator output breaker was inspected, moisture and oil accumulation were cleaned, and leaks in the air system were
+repaired. Additional corrective actions will be taken in accordance with the station corrective action program.
+PREVIOUS OCCURRENCES
+On April 1, 2020, at Millstone Power Station Unit 3, an automatic reactor trip occurred following a main generator turbine
+trip caused by a main generator ground fault. The cause of reactor trip was a ground fault on the “C” phase of the normal
+station service transformer isolated phase bus duct due to water intrusion and buildup in an isolated phase bus duct
+transition section which caused a turbine generator trip, and subsequently a reactor trip. The root cause and faulted
+component of that event was different and therefore it is not a repeat event.
+ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) CODES
+EL – MAIN GENERATOR OUTPUT POWER SYSTEM
+BRK – BREAKER
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 3

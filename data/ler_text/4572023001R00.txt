@@ -1,0 +1,171 @@
+Constellation Energy Generation, LLC (CEG)
+Braidwood Station
+35100 South Route 53, Suite 84
+Braceville, IL 60407-9619
+www.constellationenergy.com
+November 17, 2023(cid:9) 10 CFR 50.73
+BW230053
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+Braidwood Station, Unit 2
+Renewed Facility Operating License No. NPF-77
+NRC Docket No. STN 50-457
+Subject:(cid:9) Licensee Event Report 2023-001-00 – Unit 2 Train B Auxiliary Feedwater Pump was
+inoperable due to Degraded Oil in the Crank Case
+The enclosed Licensee Event Report (LER) is being submitted in accordance with 10 CFR 50.73,
+"Licensee Event Report System." The investigation of this condition is in progress and will be
+documented in a supplement to this LER.
+There are no regulatory commitments contained in this letter. Should you have any questions
+concerning this submittal, Mr. Dane Brunswick, Regulatory Assurance Manager, at (815) 417-2800.
+Respectfully,
+Gregory Gugle
+Site Vice President
+Braidwood Station
+Enclosure:(cid:9) LER 2023-001-00
+cc: NRC Project Manager, NRR, Braidwood and Byron Stations
+Illinois Emergency Management Agency – Division of Nuclear Safety
+US NRC Regional Administrator, Region III
+US NRC Senior Resident Inspector, Braidwood Station
+Illinois Emergency Management Agency – Braidwood Representative
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and(cid:9) Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Braidwood Station, Unit 2 457 1 OF 3
+(cid:9) 052
+4. Title
+Unit 2 Train B Auxiliary Feedwater Pump was inoperable due to Degraded Oil in the Crank Case
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year N/A 050
+09 22 2023 2023 -(cid:9) 001(cid:9) - 00 11 17 2023 Facility Name Docket Number
+N/A (cid:9) 052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 (cid:9) 20.2203(a)(2)(vi) 10 CFR Part 50 (cid:9) 50.73(a)(2)(ii)(A) (cid:9) 50.73(a)(2)(viii)(A) (cid:9) 73.1200(a)
+(cid:9) 20.2201(b) (cid:9) 20.2203(a)(3)(i) (cid:9) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) (cid:9) 50.73(a)(2)(viii)(B) (cid:9) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+(cid:9) 20.2203(a)(2)(iii) (cid:9) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) (cid:9) 73.77(a)(2)(i) (cid:9) 73.1200(g)
+(cid:9) 20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) (cid:9) 73.77(a)(2)(ii) (cid:9) 73.1200(h)
+(cid:9) 20.2203(a)(2)(v) (cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Dane Brunswick, Regulatory Assurance Manager (815) 417-2800
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B BA ENG P062 Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+(cid:9) No Yes (If yes, complete 15. Expected Submission Date) 01 31 2024
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On September 1, 2023, an oil sample from the 2B auxiliary feedwater (AF) pump diesel engine was obtained. On September
+21, 2023, the oil sample results were received which indicated oil viscosity and fuel percent in the Fault range, and a
+confirmatory sample was drawn. On September 22, 2023, resample results were received confirming the original analysis, and
+at 1157 Operations declared the 2B AF train INOPERABLE and entered Technical Specification (TS) Limiting Condition for
+Operation (LCO) 3.7.5, "Auxiliary Feedwater (AF) System," Condition A, "One AF train inoperable." Maintenance was
+performed to repair fuel leaks and crankcase oil was changed. The 2B AF train was returned to service on September 23,
+2023, at 1340, and at 1501 LCO 3.7.5 was exited.
+The cause of the event was vendor performance and quality control gap in refurbishing fuel injectors. The corrective action was
+repair of the 2B AF diesel engine lube oil fuel leaks. A supplement to this report will be provided as more information is
+available.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ (cid:9) 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Braidwood Station, Unit 2 457
+ (cid:9) 052 2023 - 001 - 00
+NARRATIVE
+A. Plant Operating Conditions Before the Event:
+Event Date:(cid:9) September 22, 2023
+Unit: 2(cid:9) MODE: 1(cid:9) Reactor Power: 100 percent
+Unit 2 Reactor Coolant System (RCS) [AB]:(cid:9) Normal operating temperature and pressure
+No structures, systems or components were inoperable at the start of this event that contributed to the event.
+B. Description of Event:
+On September 1, 2023, an oil sample from the 2B auxiliary feedwater (AF) [BA] pump diesel engine was obtained. On
+September 21, 2023, the oil sample results were received which indicated oil viscosity and fuel percent in the Fault
+range (defined per process documents as a serious deviation from normal operating condition), and a confirmatory
+sample was drawn. On September 22, 2023, resample results were received confirming the original analysis, and at
+1157 Operations declared the 2B AF train INOPERABLE and entered Technical Specification (TS) Limiting Condition
+for Operation (LCO) 3.7.5, "Auxiliary Feedwater (AF) System," Condition A, "One AF train inoperable."
+Maintenance was performed on the diesel engine including crankcase oil change and repair of fuel leaks. The 2B AF
+train was returned to service on September 23, 2023, at 1340 and at 1501 LCO 3.7.5 was exited.
+The investigation of the event and whether the diesel engine would have been able to meet its TS mission time is in
+progress. TS LCO 3.7.5 Condition A requires restoring the AF train to OPERABLE status within 72 hours or in
+accordance with the Risk Informed Completion Time Program. In the event the investigation determines the 2B AF
+train was unavailable for a longer period of time than allowed by LCO 3.7.5 Condition A, this event is being reported
+pursuant to 10 CFR 50.73(a)(2)(i)(B), any operation or condition which was prohibited by TSs. Additionally, on both
+September 20, 2023 and September 21, 2023, the 2A AF train was inoperable for surveillance testing. Due to the
+possibility of determining the 2B AF train was unavailable during the same timeframe, this event is also being reported
+pursuant to 10 CFR 50.73(a)(2)(v)(B) as a condition that could have prevented the fulfillment of the safety function of
+structures or systems that are needed to remove residual heat.
+C. Cause of Event
+The investigation of the event is in progress and any changes to the final root cause will be included in a supplement to
+this report. The apparent cause of the event was vendor performance and quality control gap in refurbishing fuel
+injectors being provided to meet quality level 1 criteria. Two refurbished fuel injectors provided to the site and installed
+in the 2B AF diesel engine contained surface defects on the injector cap sealing surface, one of which was confirmed
+by testing to leak under designed installation conditions, and a third fuel injector contained a degraded O-ring which
+also allowed leakage. Vendor is evaluating for 10 CFR Part 21 submission.
+D. Safety Consequences:
+This condition had no actual safety consequences impacting plant or public safety.
+The investigation of the event is in progress, and a supplement to this report will be provided as more information is
+made available.
+NRC FORM 366A (10-01-2023)(cid:9) Page 2 (cid:9) of 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+ (cid:9) 050 SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Braidwood Station, Unit 2 457
+ (cid:9) 052 2023 - 001 - 00
+NARRATIVE
+E. Corrective Actions:
+The 2B AF diesel engine fuel leaks into lube oil were repaired and performed a crankcase oil change.
+Further corrective actions are still under consideration and any revisions or additions will be reported in a supplement
+to this report.
+F. Previous Occurrences:
+April 10, 2019, Braidwood Unit 1, the 1B AF pump engine degrading trend in fuel oil content was identified. Evaluation
+identified the cause as most likely a leaking fitting within the rocker/valve cover. No operability or reportability issues
+resulted. The cause of the leakage in 2019 is unrelated to the current issue.
+G. Component Failure Data:
+Manufacturer(cid:9) Nomenclature(cid:9) Model(cid:9) Mfg. Part Number
+Paragon Energy Solutions(cid:9) Diesel engine – fuel injector(cid:9) 16V149T1(cid:9) R5229660
+NRC FORM 366A (10-01-2023)(cid:9) Page 3 (cid:9) of 3

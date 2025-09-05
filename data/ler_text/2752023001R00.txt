@@ -1,0 +1,141 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 2 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+Washington, DC 20503; email: oirasubmission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Diablo Canyon Power Plant, Unit 1 00275 1 OF 3
+052
+4. Title(cid:9) Unit 1 Manual Reactor Trip at Low Power
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year 050
+Number No.
+Facility Name Docket Number
+09 30 2023 2023 001 00 11 22 2023 052
+9. Operating Mode 10. Power Level
+1 011
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+David Madsen 805-545-6192
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+X SM LCV Fisher Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 20:14 Pacific Daylight Time on September 30,2023, with Diablo Canyon Power Plant (DCPP) Unit 1 in Mode 1 at
+approximately 11 percent reactor power in preparation for a pre-planned manual reactor trip into a scheduled refueling
+outage, the reactor was manually tripped due to increasing water level in Feedwater Heater (FWH) 1-5A caused by a
+secondary system dump valve which remained in the closed position. Auxiliary feedwater was manually started in
+accordance with plant procedures.
+This event is being reported per 10 CFR 50.73(a)(2)(iv)(A).
+The cause of the increased feedwater level was due to Level Control Valve LCV-9 remaining in the closed position.
+The valve has been repaired and corrective actions will be managed in accordance with the DCPP Corrective Action
+Program.
+There was no plant or public safety impact.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+CONTINUATION SHEET A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oirasubmission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. LER NUMBER
+Diablo Canyon Power Plant, Unit 1 00275
+YEAR SEQUENTIAL REV NO.
+052 2023 NUMBER 00
+001
+NARRATIVE
+I.R eporting Requirements
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A) and the associated guidance of
+NUREG-1022, Revision 3, due to a manual reactor trip and the subsequent manual actuation of the auxiliary
+feedwater (AFW) system in accordance with plant procedures.
+This event was initially reported in Event Notification 56769 in accordance with the requirements of 10 CFR
+50.72(b)(2)(iv)(B) and 10 CFR 50.72(b)(3)(iv)(A).
+II.P lant Conditions
+At the time of the event, Diablo Canyon Power Plant (DCPP) Unit 1 was in Mode 1 at approximately
+11 percent power in preparation for pre-planned manual reactor trip for entry into a scheduled refueling
+outage.
+III.P roblem Description
+A. Background
+The condensate system and main feedwater system (MFWS) are non-safety-related systems whose function
+is to supply preheated feedwater to the steam generators (SGs). These systems improve overall plant
+efficiency by regeneratively heating feedwater as it is pumped through low and high-pressure feedwater
+heaters (FWHs) prior to the entering the SGs. The condensate and MFWS are not required to ensure safe
+shutdown of the nuclear steam supply system.
+B. Event Description
+At 20:14 Pacific Daylight Time on September 30,2023, with DCPP Unit 1 in Mode 1 at approximately
+11 percent reactor power in preparation for a pre-planned manual reactor trip into a scheduled refueling
+outage, the reactor was manually tripped due to increasing water level in FWH 1-5A. Following the trip, AFW
+was manually started in accordance with station procedures. The cause of the increasing water level in the
+FWH was determined to be due to dump valve LCV-9 remaining in the closed position. The valve was
+subsequently repaired and associated corrective actions will be managed in accordance with the DCPP
+Corrective Action Program.
+C. Status of Inoperable Structures, Systems, or Components that Contributed to the Event
+There were no inoperable Technical Specification structures, systems, or components that contributed to the
+event.
+Page 2 of 3
+NRC FORM 366A (09-01-2023
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send
+comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+CONTINUATION SHEET A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. LER NUMBER
+Diablo Canyon Power Plant, Unit 1 00275
+YEAR SEQUENTIAL REV NO.
+052 2023 NUMBER 00
+001
+NARRATIVE
+D.M ethod of Discovery
+Increased water level in FWH 1-5A was validated by Operations personnel following the receipt of the
+associated control room annunciator.
+E. Operator Actions
+The Operations crews responded to this event in accordance with plant operating procedures.
+F.S afety System Responses
+Plant systems responded as expected following the manual reactor trip.
+IV.C ause of the Problem
+The cause of the water level increase in FWH 1-5A was a result of dump valve LCV-9 remaining in the closed
+position.
+V. Assessment of Safety Consequences
+There was no plant or public safety impact.
+VI. Corrective Actions
+Dump valve LCV-9 was repaired. Additional follow-up corrective actions will be managed in accordance with
+the DCPP Corrective Action Program.
+VII. Additional Information
+None.
+Page 3 of 3
+NRC FORM 366A (09-01-2023

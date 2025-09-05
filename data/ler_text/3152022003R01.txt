@@ -1,0 +1,221 @@
+Indiana Michigan Power
+INDIANA Cook Nuclear Plant
+MICHIGAN One Cook Place
+POWER" Bridgman, MI 49106
+indianamichiganpower.com
+I
+An AEP Company
+BOUNDLESS ENERGY
+February 22, 2023(cid:9) AEP-NRC-2023-06
+10 CFR 50.73
+Docket No.: 50-315
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+11555 Rockville Pike
+Rockville, MD 20852
+Donald C. Cook Nuclear Plant Unit 1
+LICENSEE EVENT REPORT 315/2022-003-01
+Automatic Reactor Trip on Loss of Flow Due To Reactor Coolant Pump Trip
+In accordance with 10 CFR 50.73, Licensee Event Report (LER) System, Indiana Michigan Power
+Company, the licensee for Donald C. Cook Nuclear Plant Unit 1, is submitting as an enclosure to this
+letter the following report:
+LER 315/2022-003-01: Automatic Reactor Trip on Loss of Flow Due To Reactor Coolant
+Pump Trip
+This LER is a revision to LER 315/2022-003-00, which was previously submitted by letter dated,
+October 19, 2022. The enclosed LER has been revised to update the root cause of the event and
+the corrective actions.
+There are no commitments contained in this submittal.
+Should you have any questions, please contact Mr. Michael K. Scarpello, Regulatory Affairs Director,
+at (269) 466-2649.
+Sincerely,
+itAutcw-1
+l
+Kelly J Ferneau
+Site Vice President
+MPH/sjh
+Enclosure: Licensee Event Report 315/2022-003-01: Automatic Reactor Trip on Loss of Flow Due
+To Reactor Coolant Pump Trip
+U. S. Nuclear Regulatory Commission(cid:9) AEP-NRC-2023-06
+Page 2
+c•(cid:9) EGLE — RMD/RPS
+J. B. Giessner — NRC Region III
+M. G. Menze — AEP Ft. Wayne
+NRC Resident Inspector
+N. Quilico - MPSC
+R. M. Sistevaris — AEP Ft. Wayne
+S. P. Wall — NRC, Washington D.C.
+A. J. Williamson — AEP Ft. Wayne
+Enclosure to AEP-NRC-2023-06
+Licensee Event Report 315/2022-003-01: Automatic Reactor Trip on Loss of Flow Due To
+Reactor Coolant Pump Trip
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(01-10-2023)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported lessons reamed
+0""'"w are incorporated into the I censmg process and fed back to ndustry Send comments regarding burden estimate to
+.(cid:9) a LICENSEE EVENT REPORT (LER) the FOIA, Library, and Information Collections Branch (f.6 MOM), U(cid:9) S(cid:9) Nuclear Regulatory Comm ssion
+.(cid:9) .i f (cid:9) (See Page 2 for required number of digits/characters for each block) Washington, DC 20555-0001, or by email to Infocollects Resource@nrc gov and the OMB reviewer at: OMB Office
+of Information and Regulatory Affairs, (3150-0104), Attn. Desk Mier for the Nuclear Regulatory Commission 725
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 17th Street NW, Wash ngton, DC 20503, email: mra submissionAomb eop non. The NRC may not conduct or
+http://www.nrc.qov/readinq-rm/doc-collectionsinureqs/staff/sr1022frall sponsor, and a person is(cid:9) at requ red to respond to, a collection of nformation unless the document requesting or
+requiring the collection d splays a currently vard OMB control number
+FT
+1. Facility Name 050 2. Docket Number 3. Page
+Donald C. Cook Nuclear Plant Unit 1 r, 00315 1 OF 3
+052
+4. Title
+Automatic Reactor Trip on Loss of Flow Due To Reactor Coolant Pump Trip
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S Neq uu me bn eti ra i Re Nvi os .i on Month Day Year Facility Name q 050 Docket Number
+08 28 2022 2022 01 02 22 2023 Facility Name ri Docket Number
+003 (cid:9) 052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+ri(cid:9) n(cid:9)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) n(cid:9) 73.1200(a)
+I
+5(cid:9) n(cid:9) 5(cid:9) 5(cid:9)
+q 20.2201(b) 20.2203(a)(3)(i) q 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+Fl(cid:9) 20.2201(d) q 20.2203(a)(3)(ii) III 50.36(c)(1)(ii)(A) 0(cid:9) 50.73(a)(2)(iii) q 50.73(a)(2)(ix)(A) q 73.1200(c)
+5(cid:9) 5(cid:9) 5(cid:9)
+20.2203(a)(1) 20.2203(a)(4) q 50.36(c)(2) x 50.73(a)(2)(iv)(A) (cid:9) 50.73(a)(2)(x) q 73.1200(d)
+5(cid:9)
+q 20.2203(a)(2)(1) 10 CFR Part 21 (cid:9) 50.46(a)(3)(ii) q 50.73(a)(2)(v)(A) 10 CFR Part 73 q 73.1200(e)
+5(cid:9)
+q 20.2203(a)(2)(ii) L (cid:9) 21.2(c) 50.69(g) q 50.73(a)(2)(v)(8) (cid:9) i(cid:9) 73.77(a)(1) I(cid:9) 1(cid:9) 73.1200(f)
+5(cid:9) 5(cid:9) fl(cid:9)
+q 20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) q 50.73(a)(2)(v)(C) (cid:9) 73.77(a)(2)(1) 73.1200(g)
+E(cid:9) T
+q 20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) E(cid:9) 50.73(a)(2)(v)(D) (cid:9) 73.77(a)(2)(ii) {(cid:9) 1(cid:9) 73.1200(h)
+I E(cid:9)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) [..](cid:9) 50.73(a)(2)(vii)
+q OTHER (Specify here, in abstract, or NRC 366A)
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Michael K. Scarpello, Regulatory Affairs Director (269) 466-2649
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X AB P WEST Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No
+Li(cid:9)
+Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On August 28, 2022, at 1348 hours, the Donald C. Cook Nuclear Plant Unit 1 Reactor automatically tripped from 100 percent
+power, due to Reactor Coolant System Loop 3 Low Flow, caused by a trip of the Unit 1 Reactor Coolant Pump (RCP) 3.
+Following the reactor trip, Unit 1 continued to be supplied by offsite power. All control rods fully inserted. The Auxiliary
+Feedwater Pumps started as required and operated properly, and Decay Heat Removal was through the Steam Dump System.
+All required equipment operated as expected, and the trip was not complicated.
+An investigation determined that Unit 1 RCP 3 tripped due to a motor differential, created by a phase-to-phase electrical fault
+on the insulating spacer board at the containment penetration. The Root Cause was determined to be age related degradation
+of tape on the penetration terminations causing contaminants to be available to transfer to the insulating spacer
+The event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), System Actuation, due to the valid actuation of the
+Reactor Protection System and the Auxiliary Feedwater System, as a result of the automatic reactor trip.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(01-10-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are incorporated into the licensing process and fed
+LICENSEE EVENT REPORT (LER) back to industry. Send comments regarding burden estimate to the FOIA, Library, and
+Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+CONTINUATION SHEET
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, Washington,
+http://www.nrc.uovireading-rm/doc-collections/nuregs/staff/sr1022/r31) DC 20503; email: oira submissionomb.eop.qov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless
+the document requesting or requiring the collection displays a currently valid OMB
+control number.
+1.(cid:9) FACILITY NAME 2.(cid:9) DOCKET NUMBER 3. LER NUMBER
+E] 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+00315
+Donald C. Cook Nuclear Plant Unit 1
+q 052 2022 - 003 - 01
+NARRATIVE
+EVENT DESCRIPTION
+On August 28, 2022, at 13:48 hours, the Donald C. Cook Nuclear Plant Unit 1 Reactor automatically tripped from
+100 percent power, due to Reactor Coolant System [AB] (RCS) Loop 3 Low Flow, caused by a trip of the Unit 1
+Reactor Coolant Pump (RCP) 3.
+Above the Power Range Neutron Flux (P-8) Interlock setpoint, which is 29 percent Rated Thermal Power (RTP),
+low flow in any one RCS loop will actuate a reactor trip. This Reactor Coolant Flow - Low Trip Function ensures
+that protection is provided against violating the Departure from Nucleate Boiling Ratio limit, while avoiding reactor
+trips due to normal variations in loop flow. Therefore, the RCP 3 trip created a low flow condition, which resulted in
+the automatic reactor trip.
+Following the reactor trip, Unit 1 continued to be supplied by offsite power. All control rods fully inserted. The
+Auxiliary Feedwater Pumps started as required and operated properly, and Decay Heat Removal was through the
+Steam Dump System. All required equipment operated as expected, and the trip was not complicated.
+An investigation determined that Unit 1 RCP 3 tripped due to a motor differential, created by a phase-to-phase
+electrical fault on the insulating spacer board at the containment penetration. The Root Cause was determined to
+be age related degradation of tape on the penetration terminations causing contaminants to be available to transfer
+to the insulating spacer.
+Event Notification No. 56076 was submitted in accordance with 10 CFR 50.72(b)(2)(iv)(B), RPS [JG] actuation as
+a four (4) hour non-emergency report, and under 10 CFR 50.72(b)(3)(iv)(A), specified system actuation of the
+Auxiliary Feedwater System [BA], as an eight (8) hour non-emergency report.
+The event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), System Actuation, due to the valid
+actuation of the Reactor Protection System and the Auxiliary Feedwater System, as a result of the automatic reactor
+trip.
+COMPONENT
+1-PP-45-3, REACTOR COOLANT PUMP NO. 3
+CAUSE OF THE EVENT
+The direct cause of the Unit 1 RCP 3 trip was electrical tree growth on the insulating spacer board, caused by
+partial discharge providing a conductive path to another phase, reducing insulation integrity until a phase-to-phase
+fault occurred, causing an RCP Motor Differential Trip.
+A Root Cause Evaluation was performed and determined the Root Cause of the Unit 1 RCP 3 trip to be age related
+degradation of tape on the penetration terminations causing contaminants to be available to transfer to the
+insulating spacer. Monitoring methods to include thermography, acoustic monitoring, and visual inspection, will
+continue to be used on the remaining insulating boards, which will detect any reduction in insulation properties of
+the board due to partial discharge until they can be replaced in the Fall 2023 Unit 1 Refueling Outage (U1C32).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(01-10-2023)
+Estimated burden per response to comply with this mandatory collection request: 80
+hours. Reported lessons learned are incorporated into the licensing process and fed
+LICENSEE EVENT REPORT (LER) back to industry. Send comments regarding burden estimate to the FOIA, Library, and
+Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+CONTINUATION SHEET
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the
+OMB reviewer at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn:
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW, Washington
+DC 20503; email: oira submissionaomb.eop.qov. The NRC may not conduct or
+http://www.nrc.00v/reading-rm/doc-collections/nureqs/staff/sr1022/r3/)
+sponsor, and a person is not required to respond to, a collection of information unless
+the document requesting or requiring the collection displays a currently valid OMB
+control number.
+3. LER NUMBER
+3.(cid:9) FACILITY NAME 4.(cid:9) DOCKET NUMBER
+050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+00315
+Donald C. Cook Nuclear Plant Unit 1
+q 052 2022 003 - 01
+NARRATIVE
+CORRECTIVE ACTIONS
+The Unit 1 RCP 3 cable termination at the Containment penetration (1-CEP-3P7) were repaired, which included
+replacing the tape, hardware, and insulating spacer on the Reactor Cable Tunnel (RCT) side and replacing the
+tape and hardware on the annulus side. All additional Unit 1 Reactor Coolant Pump Containment Penetration
+Insulating Spacers and associated tape are scheduled to be replaced during the Fall 2023 Unit 1 Refueling
+Outage (U1C32). All Unit 2 Reactor Coolant Pump Containment Penetration Insulating Spacers and associated
+tape were replaced during the Fall 2022 Refueling Outage (U2C27).
+Implementation of preventative maintenance strategy to replace tape and insulating spacer for all Medium
+Voltage Containment penetrations on 20-year (Y20) frequency.
+ASSESSMENT OF SAFETY CONSEQUENCES
+NUCLEAR SAFETY
+All equipment operated as designed, and there was no actual or potential nuclear safety hazard resulting from
+the automatic reactor trip on loss of RCS flow due to Unit 1 RCP 3 trip.
+INDUSTRIAL SAFETY
+There was no actual personnel safety hazard resulting from the automatic reactor trip on loss of RCS flow due
+to Unit 1 RCP 3 trip.
+RADIOLOGICAL SAFETY
+There was no actual or potential radiological safety hazard, or radiological release, resulting from the automatic
+reactor trip on loss of RCS flow due to Unit 1 RCP 3 trip.
+PROBABILISTIC RISK ASSESSMENT (PRA)
+The safety significance of the Unit 1 RCP 3 trip can be estimated by calculating the Conditional Core Damage
+Probability (CCDP) and the Conditional Large Early Release Probability (CLERP) of the transient initiating event.
+A PRA risk assessment was performed and determined the estimated CCDP and the estimated CLERP of this
+event. A comparison of the CCDP and CLERP estimates to regulatory guidance resulted in the conclusion that
+this event was of very low safety significance.
+PREVIOUS SIMILAR EVENTS
+A review of LERs for the past five years involving reactor trips was performed. None of the trips were a result of
+similar causes.

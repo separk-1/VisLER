@@ -1,0 +1,303 @@
+Edward R. Pigott
+~-,DUKE
+Site Vice President
+McGuire Nuclear Station
+~ ENERGY
+Duke Energy
+MG01VP 112700 Hagers Ferry Road
+Huntersville, NC 28078
+o: 980.875.4805
+Edward.Pigott@duke-energy.com
+Serial No: RA-23-0123 10 CFR 50.73
+May 31, 2023
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555
+ATTENTION: Document Control Desk
+Subject:(cid:9) Duke Energy Carolinas, LLC
+McGuire Nuclear Station, Unit 2
+Docket No. 05000370
+Renewed License No. NPF-17
+Licensee Event Report 2023-001-00
+Nuclear Condition Report Number 02467460
+Pursuant to 10 CFR 50. 73 Section (a)(2)(iv)(A), attached is Unit 2 Licensee Event Report (LER)
+2023-001-00, regarding manual actuation of the Auxiliary Feedwater Motor Driven Pumps in
+response to potential equipment failure.
+This event is considered to have no significance with respect to the health and safety of the
+public. There are no regulatory commitments contained in this LER.
+If questions arise regarding this LER, please contact Jeff Sanders at 980-875-4680.
+Sincerely,
+Edward R. Pigott
+Duke Energy
+McGuire Nuclear Station
+Site Vice President
+Attachment
+U.S. Nuclear Regulatory Commission
+RA-23-0123
+Page 2
+cc:(cid:9) Laura A. Dudes
+Administrator Region II
+U.S. Nuclear Regulatory Commission
+Marquis One Plaza
+245 Peachtree Center Avenue
+NE Suite 1200, 30303-1257
+J. Klos
+Project Manager (McGuire)
+U.S. Nuclear Regulatory Commission
+Mail Stop O-9-E3
+11555 Rockville Pike
+Rockville, MD 20852
+Chris Safouri
+NRC Senior Resident Inspector
+McGuire Nuclear Station
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+McGuire Nuclear Station, Unit 2 05000370 1 OF 5
+052
+4. Title
+Manual Actuation of the Unit 2 Motor Driven Auxiliary Feedwater Pumps
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Facility Name Docket Number
+Month(cid:9) Day(cid:9) Year(cid:9) Year Number Re Nov . ision Month Day Year 050
+04 02 2023 2023 - 001 - 00 06 01 2023 Facility Name Docket Number
+052
+9. Operating Mode(cid:9) 10. Power Level
+3(cid:9) 0%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20(cid:9) 20.2203(a)(2)(vi)(cid:9) 10 CFR Part 50(cid:9) 50.73(a)(2)(ii)(A) 50.73(a)(2)(v iii)(A) 73.1200(a)
+20.2201(b)(cid:9) 20.2203(a)(3)(i)(cid:9) 50.36(c)(1)(i)(A)(cid:9) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73(cid:9) 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B)(cid:9) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C)(cid:9) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Jeffrey D. Sanders, Senior Engineer 980-875-4680
+13. Complete One Line for each Component Failure Described in this Report
+Cause(cid:9) System(cid:9) Component Manufacturer Reportable to IRIS(cid:9) Cause(cid:9) System(cid:9) Component Manufacturer(cid:9) Reportable to IRIS
+14. Supplemental Report Expected Month(cid:9) Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On April 2, 2023, at 0341, Operations entered the Senior Reactor Operator Decision Making Process after
+receiving a report that called into question the functionality of the operating 2B Main Feedwater (MFW) Pump
+Recirculation Valve, 2CF-81. At the time, Unit 2 was in Mode 3, the 2B MFW pump was feeding the steam
+generators, and the 2A MFW Pump Recirculation Valve 2CF-76 was nonfunctional. At 0352 hours, Operations
+manually started the Auxiliary Feedwater (AFW) Motor Driven Pumps to feed the steam generators to allow
+corrective maintenance on the MFW System. The AFW Motor Driven Pumps started as designed. Flow to the
+steam generators was not adversely impacted during this sequence.
+Subsequent investigation determined that the 2A and 2B MFW recirculation piping experienced abnormal vibration
+when flow was introduced through valves 2CF-76 and 2CF-81, making the valves susceptible to failure. The
+recirculation piping had recently been modified to replace the carbon steel elbow piping immediately downstream
+of the valves with a stainless steel target tee configuration. To mitigate the issue, the target tee was replaced with
+the original carbon steel elbow arrangement. This event had no impact on the health and safety of the public.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050
+SEQUENTIAL REV
+YEAR(cid:9)
+NUMBER NO.
+McGuire Nuclear Station, Unit 2(cid:9) 05000370
+ 052
+23 - 001 - 00
+NARRATIVE
+BACKGROUND
+The following information is provided to assist readers in understanding the event described in this LER.
+Applicable Energy Industry Identification [EIIS] system and component codes are enclosed within brackets.
+Feedwater System [SJ]:
+The Main Feedwater System (MFW) takes treated Condensate System water, heats it further to improve the
+plant's thermal cycle efficiency, and delivers it at the required flow rate, pressure, and temperature to the
+steam generators (SGs). The MFW is designed to maintain proper vessel water levels with respect to reactor
+power output and turbine steam requirements.
+Auxiliary Feedwater System [BA]:
+The Auxiliary Feedwater System (AFW) automatically supplies feedwater to the SGs to remove decay heat
+from the Reactor Coolant System (RCS) upon the loss of normal feedwater supply. The AFW mitigates the
+consequences of any event with loss of normal feedwater. The design basis of the AFW is to supply water to
+the SGs to remove decay heat and other residual heat by delivering at least the minimum required flow rate
+to the SGs.
+The AFW is designed to start automatically for any event requiring emergency feedwater. The AFW Motor
+Driven Pumps will automatically provide feedwater when initiated on any of the following conditions:
+1. Trip of both main feedwater pumps
+2. AMSAC Actuation (AMSAC - Anticipated Transient Without Scram (ATWS) Mitigation System Activation
+Circuitry)
+3. Two out of four (2/4) low-low level alarms in any one SG
+4. Initiation of a safety injection signal
+5. Loss of power to the 4160V essential bus (Blackout)
+The AFW Turbine Driven Pump will automatically provide feedwater when initiated on any of the following
+conditions:
+1. Two out of four (2/4) low-low level alarms in any two SGs
+2. Loss of power to the 4160V essential bus (Blackout)
+3. 1/1 detector from Standby Shutdown Facility (SSF) SG Wide Range Low-Low Level on 2/4 SGs (72%)
+NRC FORM 366A (03-14-2023)(cid:9) Page 2(cid:9) of(cid:9) 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050
+SEQUENTIAL REV
+YEAR(cid:9)
+NUMBER NO.
+McGuire Nuclear Station, Unit 2(cid:9) 05000370
+ 052
+23 - 001 - 00
+NARRATIVE
+EVENT DESCRIPTION
+On April 1, 2023, McGuire Unit 2 was preparing to exit the 2023 spring refueling outage by entering Mode 3
+and subsequently heating the Reactor Coolant System to full temperature and pressure. During the refueling
+outage and prior to plant heat up, an Engineering Change (EC 419577) was implemented to (1) replace the
+piping downstream of the MFW Pump Recirculation Valves 2CF-76 and 2CF-81 with stainless steel material,
+(2) replace the elbow immediately downstream of valves 2CF-76 and 2CF-81 with a “target tee”
+configuration, and (3) upgrade the pressure and temperature ratings of piping between 2CF-76/81 and 2CF-
+77/82. Subsequently, during MFW pump startup activities after completion of the modification, the 2A and
+213 MFW recirculation piping experienced abnormal vibration when flow was introduced through the
+recirculation valves.
+On April 2, 2023, at 0341, Operations entered the Senior Reactor Operator Decision Making Process after
+receiving a report that called into question the functionality of the operating 213 MFW Pump Recirculation
+Valve, 2CF-81. At the time, Unit 2 was in Mode 3, the 213 MFW pump was feeding the steam generators, and
+the 2A MFW Pump Recirculation Valve 2CF-76 was nonfunctional. At 0352 hours, Operations manually
+started the Auxiliary Feedwater (AFW) Motor Driven Pumps to feed the steam generators to allow corrective
+maintenance on the MFW System. The AFW Motor Driven Pumps started as designed. Flow to the steam
+generators was not adversely impacted during this sequence.
+Subsequent investigation determined that turbulent flow through the target tee caused abnormal vibration,
+making the recirculation valves susceptible to failure. As a means of mitigating the issue, the Engineering
+Change was revised to return the outlet configuration of 2CF-76 and 2CF-81 back to its original short radius
+elbow configuration of schedule 80 carbon steel. After completion of the Engineering Change revision, the
+MFW pumps were successfully restarted, vibration levels were consistent with normal operation, and the
+recirculation valves functioned as required. The 2A and 213 AFW Motor Driven Pumps were secured, and
+unit startup activities continued.
+Sequence of Events (times are approximate)
+• 04/01/23 12:16 – Unit 2 entered Mode 3
+• 04/02/23 00:42 – The Unit 2 Reactor Coolant System reached full temperature and pressure.
+• 04/02/23 00:56 – The 2A MFW pump was placed in service.
+• 04/02/23 02:39 – The control room received annunciator alarm 2AD-8 A4 (MFW Pump Discharge Hi
+Pressure) due to 2CF-76 failing closed. The control room also received indications of Unit 2
+Condensate flow lowering consistent with 2CF-76 closing and responded by opening 2CF-81 manual
+loader to mitigate the 2A MFW pump high discharge pressure.
+• 04/02/23 03:22 – The 213 MFW pump was placed in service.
+• 04/02/23 03:32 – The 2A MFW pump was removed from service by the control room.
+• 04/02/23 03:41 –Senior Reactor Operator Decision Making process entered. The Decision was made to
+feed the steam generators with the AFW Motor Driven Pumps.
+• 04/02/23 03:52 The control room started the 2A and 213 AFW Motor Driven Pumps.
+NRC FORM 366A (03-14-2023)(cid:9) Page 3(cid:9) of(cid:9) 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER(cid:9) 3. LER NUMBER
+
+050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+McGuire Nuclear Station, Unit 2(cid:9) 05000370
+ 052
+23 - 001 - 00
+NARRATIVE
+• 04/02/23 04:03 – The 2B MFW pump was removed from service by the control room.
+• 04/02/23 04:05 – The Unit 2 AFW Motor Driven Pumps are providing feed flow to all Unit 2 steam
+generators.
+• 04/03/23 23:24 – The 2B MFW pump was placed back into service.
+• 04/03/23 23:28 – The control room secured the 2A and 2B AFW Motor Driven Pumps.
+• 04/04/23 21:10 – The 2A MFW pump was placed back into service.
+REPORTABILITY DETERMINATION
+Manual actuation of the AFW Motor Driven Pumps meets the threshold for an 8-hour report in accordance
+with § 50.72(b)(3)(iv)(A), “Any event or condition that results in valid actuation of any of the systems listed in
+paragraph (b)(3)(iv)(B) of this section, except when the actuation results from and is part of a pre-planned
+sequence during testing or reactor operation.” § 50.72(b)(3)(iv)(B) lists the AFW System as a system within
+the scope of § 50.72(b)(3)(iv)(A).
+On April 2, 2023, at 1129, Operations reported the manual actuation of the AFW Motor Driven Pumps to the
+NRC Operations Center as a valid actuation in accordance with § 50.72(b)(3)(iv)(A). The Event Notification
+(EN) is documented as EN 56451.
+This LER satisfies the corresponding written reporting criteria in 10 CFR 50.73(a)(2)(iv)(A), "Any event or
+condition that resulted in manual or automatic actuation of any of the systems listed in paragraph
+(a)(2)(iv)(B).”
+CAUSAL FACTORS
+A cause investigation determined that the risk of an adverse impact, due to an unvalidated design
+assumption on turbulent flow, was not recognized when modifying the MFW pump recirculation lines.
+CORRECTIVE ACTIONS
+The previously implemented Engineering Change was revised to return the plant to its former configuration
+by replacing the newly installed target tees with schedule 80 carbon steel short radius elbows. Engineering
+Change procedural guidance was also revised to require risk assessments for First-Of-A-Kind (FOAK) or
+First-In-A-While (FIAW) plant modifications.
+NRC FORM 366A (03-14-2023)(cid:9) Page 4(cid:9) of(cid:9) 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+
+050
+SEQUENTIAL REV
+YEAR(cid:9)
+NUMBER NO.
+McGuire Nuclear Station, Unit 2(cid:9) 05000370
+ 052
+23 - 001 - 00
+NARRATIVE
+SAFETY ANALYSIS
+Operations manually started the AFW Motor Driven Pumps prior to removing the 2B MFW pump from
+service. The AFW Motor Driven Pumps started as designed, and feed flow to the steam generators was not
+adversely impacted during this event. All plant systems responded as expected. Therefore, it is concluded
+that the impact on core damage risk was very small, and the event had no impact on public health and
+safety.
+ADDITIONAL INFORMATION
+A review(cid:9) of previous Licensee Event Reports was conducted to determine if this was a recurring event (i.e.,
+similar event with the same cause or same failure mode). No previous similar events were identified within
+the past three years associated with manual actuation of the AFW System. Therefore, this is not considered
+a recurring event.
+NRC FORM 366A (03-14-2023)(cid:9) Page 5(cid:9) of(cid:9) 5

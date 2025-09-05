@@ -1,0 +1,99 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+00250 1 OF(cid:9) 2
+Turkey Point Unit 3 052
+4. Title
+Grid Disturbance in Switchyard Causes Automatic Reactor Trip
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+N/A
+09 22 23 23 -(cid:9) 03(cid:9) - 00 11 20 23 Facility Name Docket Number
+052
+N/A
+9. Operating Mode 10. Power Level
+1 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20(cid:9) 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A)(cid:9) 50.73(a)(2)(viii)(A)(cid:9) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A)(cid:9) 50.73(a)(2)(ii)(B)(cid:9) 50.73(a)(2)(viii)(B)(cid:9) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 3 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Bob Murrell 3196519496
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+C FK 87 W120 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+3 No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On September 22, 2023, with Unit 3 at 100% power, a grid disturbance caused by a lightning strike in the switchyard resulted in
+a generator lock out and subsequent turbine trip. The Reactor Protection System (RPS) automatically actuated as a result of the
+turbine trip. The automatic trip was uncomplicated with systems responding normally post-trip, including an expected Auxiliary
+Feedwater (AFW) actuation. Subsequent analysis identified that due to the magnitude of the lightning strike, an induced voltage
+was created through the switchyard ground grid that arced across the relay contact that drives the string bus differential relay,
+resulting in a generator lockout. Corrective actions include replacement of the affected relay as well as a review of the ground
+grid and lightning protection scheme. This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) for any event or
+condition that resulted in the manual or automatic actuation of the RPS and AFW.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME n 050 2. DOCKET NUMBER
+YEAR SEQUENTIAL
+NUMBER
+Turkey Point Unit 3 00250
+052 23 - 03
+NARRATIVE
+Description of Event
+On September 22, 2023, at 1819 EDT, with Unit 3 at 100% power, a grid disturbance in the switchyard [EIIS: FK] caused
+a contact [EIIS: 93] to be bypassed in the string bus differential relay [EIIS: 87]. This actuated a generator [EIIS: GEN]
+lockout, which then tripped the turbine {EIIS: TRB]. Upon the turbine trip, the RPS [EIIS: JE] automatically actuated. The
+trip was uncomplicated with systems responding normally, including the actuation of the AFW system [EIIS: BA] to
+remove decay heat. This is an expected condition after reactor trips. This licensee event report is being reported pursuant
+of 10 CFR 50.73(a)(2)(iv)(A) for any event or condition that resulted in the manual or automatic actuation of the RPS and
+AFW. In addition, there were no inoperable Structures, Systems, or Components that contributed to this event.
+Cause of Event
+The magnitude of the lightning strike caused a larger than normal voltage difference between the switchyard and plant
+ground grids. Because the string bus differential relay is tied to the switchyard ground system and the generator lockout is
+tied to the plant ground system, an induced voltage was created that arced across the differential relay contact. This
+initiated the generator lockout and ultimately the actuation of RPS. The was relay was manufactured by Westinghouse.
+Safety Significance
+The plant trip was uncomplicated with systems responding as expected post-trip. In response to the expected low steam
+generator level, emergency feedwater actuated as expected. This event did not result in a Safety System Functional
+Failure.
+Corrective Actions
+1. The string bus differential relay has been replaced.
+2. Ground grid and lightning protection scheme will be reviewed as well as additional planned actions in accordance with
+the corrective action program.
+Similar Events
+A review of events over the past 5 years did not identify any previous events that involved the same underlying cause of
+this event.
+NRC FORM 366A (10-01-2023) Page 2 of 2

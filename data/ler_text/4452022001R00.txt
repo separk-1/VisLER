@@ -1,0 +1,243 @@
+Steven Sewell Comanche Peak
+Senior Director Engineering & Nuclear Power Plant
+Regulatory Affairs (Vistra Operations
+Luminant Company LLC)
+P.O. Box 1002
+6322 North FM 56
+Glen Rose, TX 76043
+T 254.897.6113
+CP-202200378
+TXX-22083
+November 3, 2022
+U. S. Nuclear Regulatory Commission Ref (cid:9) 10 CFR 50.73
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+(cid:9)
+Subject: Comanche Peak Nuclear Power Plant (CPNPP) Docket
+No. 50-445
+Reactor Trip Due To Turbine Trip Greater Than 50% Power
+Licensee Event Report 445/22-001-00
+Dear Sir or Madam:
+Enclosed is Licensee Event Report (LER) 1-22-001-00, "Reactor Trip Due To Turbine Trip Greater Than
+50% Power" for Comanche Peak Nuclear Power Plant (CPNPP) Unit 1.
+This letter contains no new regulatory commitments.
+If you have any questions regarding this submittal, please contact Ryan Sexton at (430) 203-3009 or
+ryan.sexton@vistracorp.com.
+Sincerely,
+Steven Sewell
+Attachment
+c (email) -(cid:9) Scott Morris, Region IV [Scott.Morris@nrc.gov]
+Dennis Galvin, NRR [Dennis.Galvin@nrc.gov]
+John Ellegood, Senior Resident Inspector, CPNPP [John.Ellegood@nrc.gov]
+Neil Day, Resident Inspector, CPNPP [Neil.Day@nrc.gov]
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported
+.,- .., s,‘ .F, (cid:9)(cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA. Library, and Information Collections Branch (T-6 A10M). U S.
+.(cid:9) ._:,(cid:9) (See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory(cid:9) Commission.(cid:9) Washington.(cid:9) DC(cid:9) 20555-0001,(cid:9) or (cid:9) by(cid:9) e-mail(cid:9) to
+"'r ik(cid:9) i..= (cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the 0MB reviewer at (cid:9) 0MB Office of Information and Regulatory
+http://www.nrc.goy/reacting-rm/doc-collectionWnuregs/staff/5r1022/r3/) Affairs. (3150-0104). Attn:(cid:9) Desk ail (cid:9) oira submission@omb.eop,gov.(cid:9) The NRC may not conduct or
+sponsor: and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+Comanche Peak Nuclear Power Plant
+05000(cid:9) 445 1(cid:9) OF(cid:9) 4
+4. Title
+Reactor Trip Due To Turbine Trip Greater Than 50% Power
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+09 05 2022 22 -(cid:9) 01(cid:9) - 00 11 03 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+Mode 1 100 Percent
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+n(cid:9)
+n1 0 CFR Part 20 rni(cid:9) 20.2203(a)(2)(vi) I1- T1 (cid:9) 50.36(c)(2) F17 T1 (cid:9) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(1) (cid:9) 50.46(a)(3)(ii) (cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73
+n ri(cid:9) ri _
+20.2201(d) 20.2203(a)(3)(ii) (cid:9) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+n(cid:9) ri(cid:9) n(cid:9)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 1-1(cid:9) 50.73(a)(2)(v)(C) 73.71(a)(5)
+r-
+[7
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) (cid:9) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+n(cid:9) ri ri n(cid:9)
+rF -T (cid:9) 20.2203(a)(2)(ii) 21.2(c) (cid:9) 50.73(a)(2)(i)(C) n(cid:9) (cid:9) 50.73(a)(2)(vii) n(cid:9) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+FT (cid:9) ri
+ri(cid:9) 20.2203(a)(2)(iv) 1-- 50.36(c)(1)(i)(A) nq (cid:9) 50.73(a)(2)(ii)(B) ri(cid:9) (cid:9) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+ri(cid:9)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Ryan Sexton 430-203-3009
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B TA CBL CTC Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+,/ No III Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On September 05, 2022, Unit 1 was operating at approximately 100% power. At 2345, a spurious failure of the channel 1 shaft
+displacement signal coupled with a previous failure of the channel 2 shaft displacement signal caused a trip of the Unit 1 turbine
+through the turbine trip logic. This led to a Unit 1 reactor trip due to a turbine trip with reactor power greater than 50%. Entry into
+the Emergency Plan was not required.
+The cause of this event was the spurious, momentary failure of the channel 1 main turbine shaft displacement signal coupled
+with the complete failure of the channel 2 main turbine shaft displacement signal. These excessive displacement signals satisfied
+the shaft displacement trip logic for the turbine. The cause of the signal failures was determined to be inadequate protection of
+the shaft displacement probe cabling against chafing. Corrective actions include replacement of all three channels of shaft
+probes, cables, and drivers, as well as defeating the shaft displacement trip through the next refueling outage. Additional
+corrective actions included revising the shaft displacement probe installation instructions and developing permanent
+modifications for the routing of the turbine shaft displacement probes for implementation during the next refueling outage.
+All times are in Central Daylight Time (CDT).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+,08-2020;
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA Library: and Information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: 0MB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503 e-mail: d.ra_subroission@ontlepaqcv. The NRC may no: conduc! or
+sponsor. and a person is not required o respond to. a collection of information unless the document
+http;//wwi.pr.c.govireadingim/cloc-collections/nuregs/staff/sr10221r3t)
+requesting or requiring the collection d. plays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Comanche Peak Nuclear Power Plant 445
+22
+001 00
+NARRATIVE
+I. DESCRIPTION OF REPORTABLE EVENT
+On September 05, 2022, Unit 1 was operating at approximately 100% power. At 2345, a failure occurred of the cabling for
+the Unit 1 Main Turbine shaft displacement probe channel 1 coupled with a previous failure of the channel 2 shaft
+displacement probe, resulted in a shaft displacement signal that satisfied the trip logic for the shaft displacement
+automatic trip of the Unit 1 Main Turbine and Reactor. The Auxiliary Feedwater System (AFW) automatically started as
+expected.
+A REPORTABLE EVENT CLASSIFICATION
+The event is reportable under 10 CFR 50.73(a)(2)(iv)(A), "Any event or condition that resulted in manual or automatic
+actuation of any of the systems listed in paragraph (a)(2)(iv)(B) of this section." The Reactor Protection System (RPS)
+automatically actuated and the AFW started as designed due to low-low steam generator water level following trip.
+B. PLANT CONDITION PRIOR TO EVENT
+On September 05, 2022 Unit 1 was operating in Mode 1 at approximately 100% power.
+C. STATUS OF STRUCTURES, SYSTEMS, OR COMPONENTS THAT WERE INOPERABLE AT THE START OF THE
+EVENT AND CONTRIBUTED TO THE EVENT
+There were no structures, systems, or components which were inoperable prior to the event which contributed to the
+event. Prior to the main turbine trip, the main turbine and generator were performing their design functions.
+D. NARATIVE SUMMARY OF THE EVENT, INCLUDING DATES AND APPROXIMATE TIMES
+On September 05, 2022, Unit 1 was operating at approximately 100% power. At 2345 a failure occurred on the Unit 1
+Main Turbine shaft displacement probe channel 1 [EIIS:(TA)(DET)(CHA)(CBL)] coupled with a previous failure of the
+channel 2 shaft displacement probe, resulted in a shaft displacement automatic trip of the Unit 1 Main Turbine. Because
+reactor power at the time of the turbine trip was approximately 100% power, the Westinghouse permissive P-9 signal
+was unblocked (power> 50%) as designed and when the turbine tripped an automatic reactor trip was actuated.
+Reactor operators in the control room responded to the trip in accordance with Emergency Operating procedures. Entry
+into the Emergency Plan was not required. Operators responded to the event and safely placed Unit 1 in Mode 3 .
+E.THE METHOD OF DISCOVERY OF EACH COMPONENT OR SYSTEM FAILURE, OR PROCEDURAL PERSONNEL
+ERROR
+Operators (Utility, Licensed) in the Unit 1 Control Room received a "RX> 50% PWR TURB TRIP" alarm and confirmed
+automatic Unit 1 reactor and turbine trips.
+II. COMPONENT OR SYSTEM FAILURES
+A. CAUSE OF EACH COMPONENT OR SYSTEM FAILURE
+The cause of this event was failure of the channel 1 Main Turbine shaft displacement probe coupled with a previous
+failure of the channel 2 shaft displacement probe, satisfied the shaft displacement trip logic for the Turbine. The cause of
+this failure was unwanted chafing of the shaft displacement probe cabling against the turbine pedestal, which led to the
+failure of the shaft displacement probe.
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 2(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library. and Information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs: (3150-0104): Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW.
+Washington, DC 20503; e-mail: oir_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required o respond to. a collection of information unless the document
+httpl/www,nrc.gpv/(eading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Comanche Peak Nuclear Power Plant 445
+22
+01 00
+NARRATIVE
+B. FAILURE MODE, MECHANISM, AND EFFECTS OF EACH FAILED COMPONENT
+The event was first noticed by the control room operators as both the unit 1 reactor and turbine automatically tripped. The
+turbine trip was initiated by satisfying the trip logic for indications of excessive shaft displacement. The cabling for the shaft
+displacement probe channels, in the Unit 1 Main Turbine, were chafing against the turbine pedestal, which ultimately led to
+the failure of the channel 1 turbine shaft displacement probe and the previous failure of the channel 2 shaft displacement
+probe, which satisfied the excessive shaft displacement trip logic to initiate an automatic trip of the Unit 1 Turbine.
+C. SYSTEMS OR SECONDARY FUNCTIONS THAT WERE AFFECTED BY FAILURE OF COMPONENTS WITH
+MULTIPLE FUNCTIONS
+This event did not involve systems or secondary functions which were affected by the main turbine shaft displacement
+probe failure.
+D. FAILED COMPONENT INFORMATION
+The Unit 1 Main Turbine shaft displacement probe is a Connection Technology Center model PRO part number
+DP100103-00-06-10-01. As the probe is a non-critical system, CPNPP performed a PM at a frequency of 550 days
++/-25%, to look for degradation in the probe or any of its associated components, which will lead to a replacement. At the
+time of the failure, the probe had been in service approximately 4 months.
+III. ANALYSIS OF THE EVENT
+A. SAFETY SYSTEM RESPONSES THAT OCCURRED
+The Reactor Protection System responded as designed to the automatic turbine trip by initiating an automatic reactor trip.
+The Auxiliary Feedwater System started as designed due to low-low steam generator water level following the trip.
+B. DURATION OF SAFETY SYSTEM TRAIN INOPERABILITY
+This event did not involve the inoperability of any safety component or system.
+C. SAFETY CONSEQUENCES AND IMPLICATIONS OF THE EVENT
+A turbine trip is an American Nuclear Society Condition II event (Faults of Moderate Frequency). When the main turbine
+tripped the reactor was automatically tripped and the Auxiliary Feedwater System automatically started to provide
+feedwater to the steam generators.
+Automatic turbine trip and automatic reactor trip were exercised and the Auxiliary Feedwater System started automatically
+as expected and all plant safety systems responded as designed during the resultant transient. This event had no impact
+on nuclear safety, reactor safety, radiological safety, environmental safety or the safety of the public. This event has been
+evaluated as not meeting the definition of a safety system functional failure per 10 CFR 50.73(a)(2)(v).
+IV. CAUSE OF THE EVENT
+The cause of this event was the failure of the channel 1 Main Turbine shaft displacement probe, which satisfied the shaft
+displacement trip logic for the Turbine. The cause of this failure was inadequate protection of the shaft displacement probe
+cabling.
+(cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(58-20')0
+Estimated ourden pa' remorse to comp:y wit'l this mandatory collection request: 80 hours Reporter
+lessors learned are incorporated into the licersng process and fed back tc industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate is the FOIA. Library. and Information Colleo:ions Branch (T-6 Al 0M). U. S.
+,96,
+Nuclear Reguatory Commission Washington. DC 28555-0001. or by e-mail to
+CONTINUATION SHEET
+Infccollects.Resource@nrc.gov, and the OMB reviewer at: OMB Otte of Information and Regulatory
+••••• Affairs. (3150-0104). Attn: Desk Office for the Nuclear Regulatory Comm:ssion, 725 17th Street NW.
+(See NUREG-1022, F2.3 for instruction and guidance for completing this form Wash,ngton. DC 20503: e-mail: oira_submissierOomb..e.co.ocv. The NRC may no: conduct or
+sponsor. and a person is not reouired o respond to. a collection of information unless the document
+http://www...nrc.govireadin_g-rm/doc-collections/nure_g_s/staff/sr1022.1r31)
+regues::ng or requiring ire collection di plays a currently valid OMit control rJrnber.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Comanche Peak Nuclear Power Plant 445
+22
+01 00
+NARRATIVE
+V. CORRECTIVE ACTIONS
+All three of the Unit 1 Main Turbine shaft displacement probes installed during the trip went through troubleshooting to find
+specific failures, and ultimately all three were replaced to facilitate startup. Subsequently, after startup, CPNPP operators
+noticed that they were receiving spikes from multiple shaft displacement probe channels that were not indicative of actual
+performance Therefore, CPNPP has defeated the shaft displacement automatic trip for the Unit 1 Main Turbine through
+the next refueling outage, to avoid a similar trip. All other turbine protection features remain functional, and CPNPP has
+established alternative monitoring methods for shaft displacement.
+Future corrective actions include, developing and scheduling the implementation of a modification to the routing and
+installation of the Main Turbine shaft displacement probe cabling to preclude the possibility of cable chafing, as well as
+revising the operations procedure to provide added instructions for resolving Main Turbine digital alarms.
+VI. PREVIOUS SIMILAR EVENTS
+There have been no previous similar reportable events at CPNPP in the past three years.
+NRC FORM 366A (08-2020)(cid:9) (cid:9)
+Page 4(cid:9) of(cid:9) 4

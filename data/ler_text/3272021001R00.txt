@@ -1,0 +1,264 @@
+(cid:9)(cid:9)(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply w'fh this mandatory collection request: 80 hours.
+0_, ,..(cid:9) ..,.,, Reported lessons learned are incorporated into the licensing process and fed back to industry.
+:•' ' (cid:9) % .1 (cid:9) LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA. Library. and Information Collections Branch
+A` (cid:9) i ^. (T-6 A1OM). U.S. Nuclear Regulatory Commiss on. Washington. DC 20555-0001. or by e-mail to
+..7. 1(cid:9)
+(cid:9)
+- ,Z (cid:9) (See Page 3 for required number of digits/characters for each block) I Rn efo gc uo lall te oc rt ys . AR ffe as iro su
+.
+r (c 3e 1© 5n 0r -c 0. 1g 0o 4v ). .(cid:9) Aa tn tnd
+:
+Dth ee
+s
+kO aM il:E
+o
+irr ae v si ue bw me isr sa iot: n(cid:9) @O oM mB b(cid:9) .eO of pfi c ge
+o
+vo .f TIn hefo Nrm Ra Ct i mon a(cid:9)
+y
+a nn od
+t
+(See NUREG-1022. R.3 for instruction and guidance for completing this
+conduct or sponsor. and a person is not required to respond to. a collection of information unless
+''.•frio‘ form https://www.nrc.qov/readinq-rm/doc-collections/nureqs/staff/s0022/r3/)
+the document requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number(cid:9) 3. Page
+Sequoyah Nuclear Plant Unit 1 05000327(cid:9) 1 OF 5
+4. Title
+Reactor Trip on High Neutron Flux Rate Due to Dropped Control Rods
+5. Event Date 6. LER Number(cid:9) 7. Report Date 8. Other Facilities Involved
+Facility Name(cid:9) Docket Number
+Month(cid:9) Day Year Year(cid:9) Sequential Rev(cid:9) Month(cid:9) Day Year NA
+Number No. 05000
+Facility Name(cid:9) Docket Number
+05(cid:9) 24 2021 2021(cid:9) - 001 - 00(cid:9) 07(cid:9) 21 2021
+NA(cid:9) 05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §.(cid:9) (Check all that apply)
+10 CFR Part 20 • 20.2203(a)(2)(vi) • 50.36(c)(2) 50.73(a)(2)(iv)(A) • 50.73(a)(2)(x)
+• 20.2201(b) MI 20.2203(a)(3)(i) • 50.46(a)(3)(ii) • 50.73(a)(2)(v)(A) 10 CFR Part 73
+• 20.2201(d) • 20.2203(a)(3)(ii) • 50.69(g) • 50.73(a)(2)(v)(B) • 73.71(a)(4)
+• 20.2203(a)(1) I 20.2203(a)(4) • 50.73(a)(2)(i)(A) • 50.73(a)(2)(v)(C) E 73.71(a)(5)
+NI 20.2203(a)(2)(i) 10 CFR Part 21 • 50.73(a)(2)(i)(B) • 50.73(a)(2)(v)(D) • 73.77(a)(1)(i)
+• 20.2203(a)(2)(ii) 0 21.2(c) 1=I 50.73(a)(2)(i)(C) • 50.73(a)(2)(vii) El 73.77(a)(2)(i)
+• 20.2203(a)(2)(iii) 10 CFR Part 50 • 50.73(a)(2)(ii)(A) • 50.73(a)(2)(viii)(A) • 73.77(a)(2)(ii)
+El 20.2203(a)(2)(iv) U 50.36(c)(1)(i)(A) • 50.73(a)(2)(ii)(B) • 50.73(a)(2)(viii)(B)
+• 20.2203(a)(2)(v) • 50.36(c)(1)(ii)(A) • 50.73(a)(2)(iii) • 50.73(a)(2)(ix)(A)
+• Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+i
+Licensee Contact Phone Number (Include Area Code)
+Scott Bowman 423.843.6910
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component(cid:9) Manufacturer(cid:9) Reportable To IRIS Cause(cid:9) System(cid:9) Component(cid:9) Manufacturer(cid:9) Reportable To IRIS
+X AA CON(cid:9) W120(cid:9) Y X(cid:9) AA(cid:9) ECBD(cid:9) W120(cid:9) Y
+14. Supplemental Report Expected Month(cid:9) Day(cid:9) Year
+15. Expected Submission Date
+a No(cid:9) q Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e.. approximately 15 single-spaced typewritten lines)
+On May 24, 2021, at 0915 eastern daylight time (EDT), SQN Unit 1 experienced an automatic reactor trip.(cid:9) Approximately
+0.5 seconds before the reactor trip, an unexpected Rod Control Urgent Failure alarm annunciated and Control Bank B,
+Group 2 rods began to lower. The reactor trip first out alarm indicated the trip was from a Power Range High Neutron Flux
+Rate detected by the Power Range Nuclear Instruments.
+During troubleshooting, it was discovered that there were bad pin connections on the backplane of the phase card
+associated with Control Bank B (the card connection between the Control Bank B, Group 2 stationary gripper phase
+control card and the backplane of its card cage).
+All plant safety systems responded as designed. All rods fully inserted as required.
+The direct cause of the failure has been attributed to the card connection between Control Bank B Group 2 stationary
+gripper phase control card and the backplane of the card cage. Periodic instruction procedure, PI-674 Periodic Calibration
+of the Full Length Rod Control Power, directs activities to remove phase control cards during calibration which can result
+in pin deformation. Therefore, the corrective action for this event is to revise the procedure to modify how calibration
+activities are performed based on learnings obtained from the equipment failure evaluation.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+.essons learned are incorporated into the licensing process and fed back to industry. Send comments
+1W regarding burden estimate to the FOIA. I.ihrary. and Intorniation Collections Branch (T-6 A10M). 1.1.S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk ail: oira submissionoinb.eop qov. The NRC may not conduct or
+(See NUREG-1022. R.3 for instruction and guidance for completing this form sponsor. and a person is nut required to respond to. a collection of information unless the document
+httpsilmvw.nrc.govIreading-rmidoc-collectionsinuregsistaffisr1022/r31) requesting or requiring the collection displays a airrently valid 0\1B control number.
+1. FACILITY NAME(cid:9) 2. DOCKET NUMBER 3. LER NUMBER
+(cid:9) YEAR(cid:9) SEQUENTIA(cid:9) L(cid:9) REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER NO.
+2021(cid:9) - 001(cid:9) - 00
+NARRATIVE
+Plant Operating Conditions Before the Event
+At the time of the event, Sequoyah Nuclear Plant (SQN) Unit 1 was in Mode 1 at approximately
+100 percent rated thermal power (RTP).
+II.(cid:9) Description of Event
+A. Event Summary:
+On May 24, 2021, at 0915 eastern daylight time (EDT), SQN Unit 1 experienced an automatic
+reactor trip. Approximately 0.5 seconds before the reactor trip, an unexpected Rod Control
+Urgent Failure alarm annunciated and Control Bank B, Group 2 rods [EllS: AA] began to
+lower. The reactor trip first out alarm indicated the trip was from a Power Range High
+Neutron Flux Rate detected by the Power Range Nuclear Instruments. No rod testing was in
+progress. No work was in progress in the rod control power or logic cabinets.
+During troubleshooting. it was discovered that there were bad pin connections [EIIS: CON] on
+the backplane of the phase control card [EIIS: ECBD] associated with Control Bank B (the
+card connection between the Control Bank B, Group 2 stationary gripper phase control card
+and the backplane of its card cage). The phase card was replaced and tested. Pin
+reformation (the scope of pin reformation consisted of all five rod control power cabinets and
+the logic cabinet) and system functional testing was performed by the vendor.
+All plant safety systems responded as designed. All rods fully inserted as required.
+The event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), as an event that
+resulted in an automatic actuation of the Reactor Protection System [EIIS: JC] and the
+Auxiliary Feedwater (AFW) System [EIIS: BA].
+B. Status of structures. components, or systems that were inoperable at the start of the event
+and contributed to the event:
+No inoperable structures, components, or systems contributed to this event.
+(cid:9)
+NRC FORM 366A (03-2020) Page 2 of 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+.essons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA. I.ihrary. and Intorniation Collections Branch (T-6 A10M). 1.1.S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk ail: oira submission:dsioinb.eop qov. The NRC may not conduct or
+(See NUREG-1022. R.3 for instruction and guidance for completing this form sponsor. and a person is nut required to respond to. a collection of information unless the document
+httpsilmvw.nrc.govIreading-rmidoc-collectionsinuregsistaffisr1022/r31) requesting or requiring the collection displays a airrently valid 0\1B control number.
+(cid:9) (cid:9)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+(cid:9)
+(cid:9) YEAR SEQUENTIAL(cid:9) REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER(cid:9) NO.
+2021(cid:9) -001(cid:9) - 00
+C.(cid:9) Dates and approximate times of occurrences:
+Date/Time (EDT) Description
+Unit 1 was at approximately 100 percent RTP, Control Bank D at
+05/24/21. 0900
+217 steps withdrawn, and all other banks at 228 steps withdrawn.
+09:15:27.261 Unit 1 received a Rod Control Urgent Failure annunciator.
+09:15:27.790 Unit 1 received a High Neutron Flux Rate Channel IV alarm.
+Unit 1 simultaneously received a High Neutron Flux Rate Channel III
+09:15:27.811 alarm and a High Neutron Range Reactor Trip signal. Unit 1
+automatically tripped and entered Mode 3.
+D. Manufacturer and model number of each component that failed during the event:
+The components that failed were a Westinghouse Phase Control Card model
+number 6050A11G01 and Westinghouse Backplane Connector Pins for AMP manufactured
+connections part number 67168-2.
+E. Other systems or secondary functions affected:
+There were no other systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+Main control room (MCR) alarms and annunciators provided indication to the operators during the
+reactor trip.
+G. Failure mode, mechanism. and effect of each failed component:
+The failure mode was attributed to poor pin connection on the phase control card associated with
+Control Bank B and the backplane of its card cage.
+H. Operator actions:
+MCR operators responded to the reactor trip, as required, and then transitioned to post-trip
+response procedures.
+I. Automatically and manually initiated safety system responses:
+The reactor protection system, including feedwater isolation and AFW start, responded to the
+trip. as designed.
+(cid:9)
+NRC FORM 366A (08-2020) Page 3 of 5
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+108-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER)
+.essons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA. I.ihrary. and Intorniation Collections Branch (T-6 A10M). 1.1.S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk ail: oira submissionoinb.eop qov. The NRC may not conduct or
+(See NUREG-1022. R.3 for instruction and guidance for completing this form sponsor. and a person is nut required to respond to. a collection of information unless the document
+httpsilmvw.nrc.govIreading-rmidoc-collectionsinuregsistaffisr1022/r31) requesting or requiring the collection displays a airrently valid 0\1B control number.
+(cid:9)
+1. FACILITY NAME 2. DOCKET NUMBER(cid:9) 3. LER NUMBER
+(cid:9)
+(cid:9) YEAR SEQUENTIAL(cid:9) REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER(cid:9) NO.
+2021(cid:9) - 001(cid:9) - 00
+III.(cid:9) Cause of the Event
+A. Cause of each component or system failure or personnel error:
+The direct cause of the failure has been attributed to the card connection between Control Bank B
+Group 2 stationary gripper phase control card and the backplane of its card cage.
+B. Cause(s) and circumstances for each human performance related root cause:
+There was no identified human performance related root cause.
+IV.(cid:9) Analysis of the Event:
+The plant safety system responses during and after the reactor trip were bounded by the
+responses described in the Updated Final Safety Analysis Report (UFSAR). The UFSAR
+Chapter 15 event that most closely matches the reactor trip is the Rod Cluster Control Assembly
+Misalignment. Therefore, this event did not adversely affect the health and safety of plant
+personnel or the general public.
+Assessment of Safety Consequences
+There were no actual safety consequences as a result of the reactor trip.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+None.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat. control the release of radioactive material, or mitigate the
+consequences of an accident:
+The event did not occur when the reactor was shut down.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+There was no failure that rendered a train of a safety system inoperable.
+VI.(cid:9) Corrective Actions
+The event was entered into the Tennessee Valley Authority Corrective Action Program (CAP)
+under condition report number 1696187.
+(cid:9)
+NRC FORM 366A (08-2020) Page 4 of 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA. Library. and Information Collections Branch (T-6 A10M),
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk ail: oira submissiontDomb.eop nov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to. a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+(cid:9)
+1. FACILITY NAME 2. DOCKET NUMBER(cid:9) 3. LER NUMBER
+(cid:9)
+(cid:9) YEAR SEQUENTIAL(cid:9) REV
+Sequoyah Nuclear Plant Unit 1(cid:9) 05000-327 NUMBER(cid:9) NO.
+2021(cid:9) - 001(cid:9) - 00
+A. Immediate Corrective Actions:
+Troubleshooting was performed. It was discovered that there were bad pin connections on
+the backplane of the phase card associated with Control Bank B. The phase card was
+replaced and tested. Pin reformation (the scope of pin reformation consisted of all five rod
+control power cabinets and the logic cabinet) and system functional testing was performed by
+the vendor.
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events occurring
+in the future:
+Periodic instruction procedure, PI-674 Periodic Calibration of the Full Length Rod Control Power,
+directs activities to remove phase control cards during calibration which can result in pin
+deformation. Therefore, the corrective action for this event is to revise the procedure to modify
+how calibration activities are performed based on learnings obtained from the equipment failure
+evaluation.
+VII. Previous Similar Events at the Same Site:
+A review of previous similar events at SQN, identified LERs 1-2015-001 and 1-2019-003. Both
+LERs identified an automatic reactor trip due to a control rod, H-8, dropping into the core. For
+LER 1-2015-001, the cause of the event was failure of a maintenance procedure to provide
+inspection guidance and acceptance criteria on control rod drive mechanism vertical panel
+connections. The associated corrective action was revising the maintenance procedure and
+periodic preventive maintenance of CRDM connections. For LER 1-2019-003, the cause of the
+event was determined to be that excessive wear to the control rod stationary gripper latch
+mechanism resulted in the inability to maintain the control rod in the fully, or nearly fully,
+withdrawn position for an extended period of time. The corrective action was to submit a license
+amendment request and develop an engineering design change to permanently remove Control
+Rod H-8.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments:
+There are no commitments.
+(cid:9)
+NRC FORM 366A (08-2020) Page 5 of 5

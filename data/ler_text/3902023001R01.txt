@@ -1,0 +1,314 @@
+TENNESSEE
+IVA VALLEY
+AUTHORITY
+Tennessee Valley Authority, Post Office Box 2000, Spring City, Tennessee 37381
+WBL-23-046
+September 27, 2023
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant, Unit 1
+Facility Operating License No. NPF-90
+NRC Docket No. 50-390
+Subject:(cid:9) Licensee Event Report 390/2023-001-01, Inadequate 10 CFR 50.59 Results in
+Failure to Obtain Prior NRC Approval for Condition Prohibited by Technical
+Specifications
+This submittal provides Licensee Event Report (LER) 390/2023-001-01. This LER provides
+details concerning a recent event where operation with Unit 1 above Mode 6 with one reactor
+head bolt not installed led to a condition prohibited by the Technical Specifications, which is
+reportable in accordance with Title 10 of the Code of Federal Regulations (10 CFR)
+50.73(a)(2)(i)(B).
+There are no new regulatory commitments contained in this letter. Please direct any questions
+concerning this matter to Jonathan Johnson, WBN Licensing Manager, at jtjohnson0@tva.gov.
+Respec
+hony L. Williams IV
+Site Vice President
+Watts Bar Nuclear Plant
+U.S. Nuclear Regulatory Commission
+WBL-23-046
+Page 2
+September 27, 2023
+Enclosure:(cid:9) LER 390/2023-001-01, “Inadequate 10 CFR 50.59 Results in Failure to Obtain
+Prior NRC Approval for Condition Prohibited by Technical Specifications”
+cc (w/Enclosure):
+NRC Regional Administrator – Region II
+NRC Senior Resident Inspector – Watts Bar Nuclear Plant
+NRC Project Manager – Region II
+ENCLOSURE
+Tennessee Valley Authority
+Watts Bar Nuclear Plant
+Unit 1
+LER 390/2023-001-01, “Inadequate 10 CFR 50.59 Results in Failure to Obtain Prior NRC
+Approval for Condition Prohibited by Technical Specifications”
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 09/30/2023
+(09-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons learned
+LICENSEE EVENT REPORT (LER) are incorporated into the licensing process and fed back to industry. Send comments regarding burden estimate to
+the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office
+(See Page 2 for required number of digits/characters for each block)
+of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document requesting or
+requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+00390
+Watts Bar Nuclear Plant, Unit 1 1(cid:9) OF 6
+052
+4. Title
+Inadequate 10 CFR 50.59 Results in Failure to Obtain Prior NRC Approval for Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. N/A 050
+05 03 2023 2023 -(cid:9) 001(cid:9) - 01 09 27 2023 Facility Name Docket Number
+N/A 052
+9. Operating Mode 10. Power Level
+5 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Dean Baker, Licensing Engineer 423-452-4589
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A
+14. Supplemental Report Expected
+Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 3, 2023, while starting up from a refueling outage, an NRC inspector questioned compliance for Watts Bar
+Nuclear Plant (WBN) Unit 1 being in Mode 5 with 53 of 54 Reactor Vessel head closure bolts fully tensioned, which
+NRC determined was not in compliance with Technical Specification (TS) Table 1.1-1. Following review of this
+issue within WBN and NRC management, WBN Unit 1 was returned to Mode 6 on May 4, 2023 at 0237 Eastern
+Daylight Time (EDT). Investigation shows the WBN Unit 1 had operated with only 53 reactor vessel head closure
+bolts fully tensioned for Cycles 17 and 18 due to a damaged reactor head closure stud hole, which represents a
+condition prohibited by TS.
+This event was the result of an inadequate 10 CFR 50.59 screening associated with the temporary modification for
+allowing WBN to operate with one reactor vessel closure stud out of service. The conclusion of this 50.59 screening
+determined, incorrectly, that the proposed activity did not require a TS amendment and prior NRC approval.
+Immediate corrective actions included the submittal and the receipt of a TS amendment allowing operation of WBN
+Unit 1 with 53 reactor head closure bolts for one cycle. A permanent license amendment request was submitted to
+the NRC and training will be provided to 50.59 qualified individuals and operations personnel at WBN on this event.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 09/30/2023
+(09-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 1 00390
+☐ 052 2023 -(cid:9) 001 - 01
+NARRATIVE
+I. Plant Operating Conditions before the Event
+Watts Bar Unit 1 was in Mode 5 and in process of start-up following a refueling outage.
+II. Description of Event
+A. Event Summary
+On May 3, 2023, while starting up from a refueling outage, a Nuclear Regulatory Commission
+(NRC) inspector questioned compliance for Watts Bar Nuclear Plant (WBN) Unit 1 being in
+Mode 5 with 53 of 54 Reactor Vessel [EIIS:RPV] head closure bolts fully tensioned. NRC
+determined this was not in compliance with Technical Specification (TS) Table 1.1-1, MODES.
+Following review of this issue within the Tennessee Valley Authority (TVA) and NRC
+management, WBN Unit 1 was returned to Mode 6 on May 4, 2023 at 0237 Eastern Daylight
+Time (EDT). Investigation shows that WBN Unit 1 operated with 53 reactor vessel head
+closure bolts fully tensioned for Cycles 17 and 18 due to a damaged reactor head closure stud
+hole.
+This event is being reported to the NRC under 10 CFR 50.73(a)(2)(i)(B) as a condition
+prohibited by TS.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+None.
+C. Dates and approximate times of occurrences
+Dates and
+Occurrence
+Approximate Times
+Condition Report 1607752 documents damaged stud hole
+May 13, 2020
+threads with reactor closure bolt location 34.
+WBN Unit 1 enters Mode 5 using Temporary Modification
+May 26, 2020 at WBN-20-1371 (includes 50.59 screen) to allow Unit 1
+1132 EDT operation with one Reactor Vessel Closure bolt out of
+service
+May 2020 through WBN Unit 1 operates for two cycles with 53 Reactor Vessel
+April 2023 Closure bolts in service.
+NRC FORM 366A (09-01-2023)(cid:9) Page 2 of 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 09/30/2023
+(09-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 1 00390
+☐ 052 2023 -(cid:9) 001 - 01
+NARRATIVE
+Dates and
+Occurrence
+Approximate Times
+May 2, 2023 at 2155
+WBN Unit 1 enters Mode 5 after refueling during U1R18
+EDT
+NRC Resident inspector questions Operations personnel
+May 3, 2023
+related to compliance with TS Table 1.1-1.
+May 4, 2023 at 0237
+WBN Unit 1 enters Mode 6
+EDT
+WBN submits an Emergency License Amendment Request
+May 4, 2023 to allow Unit 1 operation with 53 Reactor Head Closure
+bolts.
+NRC issues Unit 1 TS Amendment 161 allowing operation
+May 5, 2023
+with 53 Reactor Head Closure bolts for one cycle.
+D. Manufacturer and model number of each component that failed during the event
+N/A
+E. Other systems or secondary functions affected
+None.
+F. Method of discovery of each component or system failure or procedural error
+On May 3, 2023, an NRC resident inspector questioned compliance with TS Table 1.1-1 for
+Unit 1 being in Mode 5 with 53 of 54 reactor head bolts being tensioned.
+G. The failure mode, mechanism, and effect of each failed component
+No components failed associated with this event.
+H. Operator actions
+Operations returned Unit 1 to Mode 6 when it was determined that WBN Unit 1 was not in
+compliance with TS.
+I. Automatically and manually initiated safety system responses
+None.
+NRC FORM 366A (09-01-2023)(cid:9) Page 3 of 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 09/30/2023
+(09-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 1 00390
+☐ 052 2023 -(cid:9) 001 -(cid:9) 01
+NARRATIVE
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+No component or system failure or personnel error was involved.
+B. Cause(s) and circumstances for each human performance related root cause
+The cause of the event was personnel incorrectly performing a 50.59 screening which
+concluded that the proposed activity did not require a change to the TS and prior NRC
+approval was not needed.
+IV.(cid:9) Analysis of the event
+During the Spring 2016 refueling outage on WBN Unit 1, difficulty was encountered while
+attempting to remove the reactor vessel closure bolt at Location number 34. The reactor vessel is
+a component within the Reactor Coolant System (RCS) [EIIS:AB]. The bolt was eventually
+removed, but visual inspection of the bolt determined there was damage to the lower portion of
+the threads. Inspection of the bolt hole at the end of the outage determined the threads were
+potentially damaged and would require significant planning and equipment mobilization to repair.
+The site elected to perform a temporary modification to operate with one bolt removed. An
+Engineering evaluation and 10 CFR 50.59 screening concluded that operation with one bolt
+removed was acceptable and no change to the TS was needed. This 10 CFR 50.59 screening
+was subsequently determined to be incorrect due to failure to fully comply with TS Table 1.1-1.
+V.(cid:9) Assessment of Safety Consequences
+Operation with 53 reactor head bolts fully tensioned has been determined to be acceptable by
+engineering analysis.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+No components failed as a result of this issue.
+NRC FORM 366A (09-01-2023)(cid:9) Page 4 of 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 09/30/2023
+(09-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050
+☒
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 1 00390
+☐ 052 2023 -(cid:9) 001 -(cid:9) 01
+NARRATIVE
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+All systems required for safe shutdown remained functional.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+Not applicable.
+VI.(cid:9) Corrective Actions
+This event was entered into the TVA Corrective Action Program and is being tracked under
+Condition Report 1854299.
+A. Immediate Corrective Actions
+Immediate corrective actions included the submittal of an emergency license amendment
+request and the receipt and implementation of a TS amendment allowing operation of WBN
+Unit 1 with 53 reactor head closure bolts being fully tensioned.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+A license amendment has been submitted to allow permanent operation of Watts Bar Units 1
+and 2 with 53 reactor head closure bolts being fully tensioned.
+Training will be provided on this event to 10 CFR 50.59 qualified individuals and to licensed
+operators at WBN.
+VII. Previous Similar Events at the Same Site
+None
+VIII. Additional Information
+None.
+NRC FORM 366A (09-01-2023)(cid:9) Page 5 of 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 09/30/2023
+(09-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 1 00390
+☐ 052 2023 -(cid:9) 001 -(cid:9) 01
+NARRATIVE
+IX. Commitments
+None.
+NRC FORM 366A (09-01-2023)(cid:9) Page 6 of 6

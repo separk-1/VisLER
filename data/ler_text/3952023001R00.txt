@@ -1,0 +1,188 @@
+M Dominion
+V.C. Summer Nuclear Station sW
+Brednarn Blva & riwy 215. Jenkinsville, SC 28065 Energy
+Mailing Address:
+P.O. Box 88. Jenkinsville, SC 29065
+DorninionEnergy.corn
+May 30, 2023
+(cid:9)
+Document Control Desk Serial No.: 23-152
+(cid:9)
+U.S. Nuclear Regulatory Commission VCS-LIC/JB RO
+(cid:9)
+Washington, DC 20555 Docket No. 50-395
+License No. NPF-12
+DOMINION ENERGY SOUTH CAROLINA (DESC)
+VIRGIL C. SUMMER NUCLEAR STATION (VCSNS) UNIT 1
+LICENSEE EVENT REPORT 2023-001-00
+MANUAL REACTOR TRIP DUE TO LOSS OF MAIN FEEDWATER PUMP
+Dominion Energy South Carolina hereby submits Licensee Event Report (LER)
+2023-001-00, for VCSNS. This report provides updated details concerning a manual
+reactor trip due to the loss of Main Feedwater Pump 'C' and is submitted in accordance
+with 10 CFR 50.73(a)(2)(iv)(A).
+Should you have any questions, please call Mr. Michael Moore at (803) 345-4752.
+Sincerely,
+. Justice
+Site(cid:9) e President
+V.C. Summer Nuclear Station
+Enclosure
+Commitments contained in this letter: None
+cc:
+G. J. Lindamood — Santee Cooper
+L. Dudes — NRC Region II
+G. Miller — NRC Project Mgr.
+NRC Resident Inspector
+J. N. Bassett — INPO
+Marsh USA, Inc.
+(cid:9)
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+..r.,(cid:9) LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the(cid:9) FOIA.(cid:9) library.(cid:9) and(cid:9) Information Collections Branch(cid:9) (T-6 A10M).(cid:9) U.(cid:9) S.(cid:9) Nuclear Regulatory
+i V• 'I.'.(cid:9) :I (cid:9) (See Page 2 for required number of digits/characters for each block) Comm mission. Washington DC 20555-0001. or by email to Infocollects.Resource@nrc.gov. and the 0MB reviewer
+it.„(cid:9) ,P at(cid:9) 0MB Office of Information and Regulatory Affairs. (3150-0104): Attn:(cid:9) Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission. 725 17th Street NW. Washington. DC 20503: email (cid:9) din submiss on(Vrit.eop.gas. The NRC may
+http;//www.nrc.govireading-rm/doc-collections/nuregs/staff/sr1022/r3J) not conduct or sponsor. and 3 person is not required to respond to. a collection of information unless the document
+requesting or requiring the collect:on displays a currently valid OMB control number.
+1. Facility Name • 050 2. Docket Number 3. Page
+V.C. Summer Nuclear Station, Unit 1
+395 1(cid:9) OF(cid:9) 3
+052
+4. Title
+MANUAL REACTOR TRIP DUE TO LOSS OF MAIN FEEDWATER PUMP
+5(cid:9) Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S Neq uu me bn eti ra l Re Nvi os .i on Month Day Year Facility Name 050 Docket Number
+4 5 2023 2023 -(cid:9) 001(cid:9) - 00 05 30 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 085
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 1(cid:9) I(cid:9) 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) I(cid:9) I(cid:9) 50.73(a)(2)(viii)(A) 73.1200(a)
+7(cid:9)
+1(cid:9) 20.2201(b) 20.2203(a)(3)(i) i(cid:9) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) - 50.73(a)(2)(viii)(B) I(cid:9) I (cid:9) 73.1200(b)
+r--I I (cid:9) I L i(cid:9)
+(cid:9) 20.2201(d) I(cid:9) 20.2203(a)(3)(ii) (cid:9) 50.36(c)(1)(ii)(A) El(cid:9) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+1 (cid:9)
+I(cid:9) 20.2203(a)(1) I(cid:9) j(cid:9) 20.2203(a)(4) 50.36(c)(2) 7(cid:9) 50.73(a)(2)(iv)(A) I(cid:9) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) I(cid:9) I(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73 1(cid:9) 1 (cid:9) 73.1200(e)
+17 17 pi
+20.2203(a)(2)(ii) I(cid:9) I (cid:9) 21.2(c) (cid:9) 50.69(g) (cid:9) 50.73(a)(2)(v)(B) I(cid:9) 73.77(a)(1) (cid:9) 73.1200(f)
+r-i ri [ FI(cid:9)
+(cid:9) 20.2203(a)(2)(iii) (cid:9) 50.73(a)(2)(i)(A) (cid:9) 50.73(a)(2)(v)(C) H(cid:9) 73.77(a)(2)(i) 73.1200(g)
+[--- E-
+III 20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+----
+20.2203(a)(2)(v) PI(cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+17(cid:9) OTHER (Specify here, in abstract, or NRC 366A .
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Michael Moore (803) 345-4752
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B SJ P G533 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+III(cid:9) No 1(cid:9) I(cid:9) Yes (If yes. complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e.. approximately 13 single-spaced typewritten lines)
+MANUAL REACTOR TRIP
+On April 5, 2023, at approximately 0651 EDT with Unit 1 in Mode 1 at 85 percent power, the reactor was manually tripped due to
+the loss of Main Feedwater Pump 'C' (FWP 'C') with FWP 'B' removed from service as a part of normal plant shutdown
+procedures. The turbine tripped automatically based on the reactor trip signal. Emergency Feedwater (EFW) actuation occurred
+as expected due to the low-low steam generator water levels which occurred as a result of the reactor trip. The reactor trip was
+not complex with safety systems responding normally post trip. Operations stabilized the plant in Mode 3. Decay heat was
+removed by the steam generators, utilizing the steam dump system.
+Due to the manual Reactor Protection System (RPS) actuation and the automatic actuation of the EFW system, this event is
+being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library, and Information Collections Branch (T-6 A10M): U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington. DC 20503: email: ore submission@pmb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor: and a person is not required to respond to, a collection of information unless the document
+http://www.nrc,goykkoing-rmidoc-collections/nuregs/staffisrl 0221r.3A. requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME(cid:9) "2. DOCKET NUMBER 3. LER NUMBER
+• 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+V.C. Summer Nuclear Station, Unit 1 395
+2023
+052 001 00
+NARRATIVE
+1.0 DESCRIPTION OF THE EVENT
+On April 5, 2023, at approximately 0651 EDT with Unit 1 in Mode 1 at 85 percent power, the reactor was manually tripped
+due to the loss of Main Feedwater Pump 'C' (FWP 'C').
+FWP 'B' was removed from service at 0551 per the plant operating procedures. V.C. Summer Nuclear Station (VCSNS)
+operations had completed a power reduction to 85% per procedure at 0537 hours and generator output was 865 Mwe.
+The plant was stable at 85% power to meet the required conditions to support pre-outage scheduled Main Steam Safety
+Valve testing. These were pre-planned plant operations prior to entering Refueling Outage 27 (RF27).
+The turbine tripped automatically based on the reactor trip signal. Emergency Feedwater (EFW) actuation occurred as
+expected due to the low-low steam generator water levels which occurred as a result of the reactor trip. The reactor trip
+was not complex with safety systems responding normally post trip. Operations stabilized the plant in Mode 3. Decay heat
+was removed by the steam generators, utilizing the steam dump system. Subsequently on April 5, 2023, the decision to
+enter RF27 ahead of schedule was made.
+With FWP B' removed from service in preparation for a planned shutdown for RF27, the station was aware of the
+conditional risk of two feedwater pump operation, which was necessary prior to the outage. Aware of the risk, the
+operating crew was trained and briefed to trip the unit upon loss of one of two operating feedwater pumps in that plant
+condition. The crew responded accordingly and placed the plant in a safe condition, as previously had been briefed for
+the condition.
+Due to the manual Reactor Protection System (RPS) actuation and the automatic actuation of the EFW system, this event
+is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+2.0 SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+The operating crew responded correctly to the event. The applicable emergency operating procedures were properly
+entered. and documentation met expectations.
+3.0 CAUSE OF THE EVENT
+The apparent cause of the FWP 'C' trip was a combination of the following factors: improper instrumentation thresholds
+during the last vendor preventative maintenance evolution in 2014, normal thrust bearing wear, and change in pump
+performance characteristics when the 'B' Main Feedwater Pump was secured. Engineering analysis determined that the
+thrust bearing wear detector 'Y' clearance was set low at some time in the past, most likely during major inspection as a
+part of RF21 in the Spring of 2014. The FWP(cid:9) thrust bearing wear detector configuration on April 5, 2023, did not allow
+online monitoring of thrust bearing wear oil sensing lines.
+4.0 IMMEDIATE CORRECTIVE ACTIONS
+VCSNS entered its planned RF27 and performed a failure modes analysis to determine the FWP 'C' trip cause.
+(cid:9)
+NRC FORM 366A (03-14-2023) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA: Library. and Information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission. Washington, DC 20555-0001: or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW.
+Washington. DC 20503: email: °ire submission@omb.eop.00v. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor. and a person is not required o respond to. a collection of information unless the document
+http://mwv.nrp.gov/readingHm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+V.C. Summer Nuclear Station, Unit 1 395
+2023
+052 001 00
+NARRATIVE
+5.0 ADDITIONAL CORRECTIVE ACTIONS
+An extent of condition was performed for FWPs 'A' and 'B' thrust bearings and thrust bearing wear detectors. This extent
+of condition found that neither FWP 'A' nor 'B' were similarly affected by the error on the thrust bearing wear detectors.
+6.0 ACTIONS TO PREVENT RECURRENCE
+As a final measure to mitigate the risk of a similar trip in the future, an engineering design change was implemented to
+install pressure gauges on both the active and the inactive thrust bearing wear detector oil sensing lines for all three Main
+Feedwater Pumps. This modification will allow for online monitoring of the margin to the thrust bearing wear trip setpoint.
+Field measurements were also taken by Design Engineering and a vendor to consider future enhancements.
+7.0 SIMILAR EVENTS
+No similar events were identified within the last three years, where a reactor trip was required due to a feedwater
+malfunction.
+8.0 MANUFACTURER & MODEL (OR OTHER IDENTIFICATION)
+General Electric DRV-631, 6 Stage, Dual Inlet, Feedwater Pump Turbine
+9.0 ADDITIONAL INFORMATION
+None
+(cid:9)
+NRC FORM 366A (03-14-2023) Page(cid:9) 3(cid:9) of(cid:9) 3

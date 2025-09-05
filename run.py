@@ -25,6 +25,10 @@ prompt_description = textwrap.dedent("""\
     If a class is not mentioned, you may omit it EXCEPT for `Cause` (see rules below).
 
     CLASSES TO EXTRACT
+    - `Operating_Mode`: The described reactor operating mode (e.g., "Mode 1", "MODE 3").
+        • attributes example: {"mode_number": 1, "vendor_family": "PWR|BWR"}  # optional normalization
+    - `Power_Level`: The described reactor/turbine power level.
+        • attributes example: {"percent": 14}  # normalize "full power"→100, "0 percent"→0
     - `Condition`: The initiating plant condition/state that triggered the event (alarms, sensor states, abnormal parameters).
         • attributes example: {"trigger": "..."}
     - `Procedure_or_Regulation`: The procedure, regulation, or technical specification referenced or applied.
@@ -34,8 +38,8 @@ prompt_description = textwrap.dedent("""\
     - `Outcome`: The consequence/effect resulting from the condition or action.
         • attributes example: {"consequence": "reactor trip / AFW actuation / unnecessary / unintended"}
     - `Cause`: The root cause of the deviation. You MUST always return at least ONE `Cause`.
-        • attributes MUST include both `category` and `code` chosen from the scheme below.
-        • If the text indicates no procedure-related issue, still return one `Cause` with `category: not_applicable` and `code: NA`, and use a short external-cause span (e.g., "lightning strike").
+    • attributes MUST include both {"category": "...", "code": "..."} chosen from the scheme below.
+    • If the text indicates no procedure-related issue, classify it into one of the extended not_applicable subcategories (NA-ME, NA-EN, NA-HW, NA-OP) instead of generic NA.
     - `CorrectiveAction`: Corrective or follow-up actions (procedure revision, training, maintenance, design change, software change).
         • attributes example: {"action_type": "revision / training / maintenance / software change"}
 
@@ -48,6 +52,10 @@ prompt_description = textwrap.dedent("""\
     - CF3 (conflicting_procedure): Intrinsic defect/incorrect or wrong step in the procedure.
     - CF4 (conflicting_procedure): Insufficient or ambiguous procedure description.
     - NA  (not_applicable): External cause unrelated to procedures/regulations (e.g., weather, random equipment failure).
+    - NA-ME (mechanical/equipment failure): Random equipment failure or mechanical degradation.
+    - NA-EN (environmental cause): Weather or environmental events (e.g., lightning strike, flood).
+    - NA-HW (construction/installation defect): Manufacturing defect, poor workmanship, or installation error (e.g., weld defect, shipping flange left).
+    - NA-OP (external operational/vendor error): Vendor or contractor mistake, or external personnel operational error.
 
     OUTPUT REQUIREMENTS
     - Use the example format provided (one object per extraction): {extraction_class, extraction_text, attributes}.
@@ -70,6 +78,8 @@ def build_extractions_from_json(example_case):
     """
     extractions = []
     CLASS_KEYS = [
+        "Operating_Mode",   
+        "Power_Level", 
         "Condition",
         "Procedure_or_Regulation",
         "Human_Action",
@@ -123,7 +133,7 @@ print(f"[Examples] built: {len(examples)}; missing LER matches: {missing_ler}")
 # 4. Run extraction for each document in the dataset
 combined_results = []
 # To extract the entire dataset, change `df.head(5)` to `df`.
-for index, row in df[:10].iterrows():
+for index, row in df.iterrows():
     input_text = row['abstract']
     print(f"\n--- Processing Row {index} ---")
     try:
@@ -184,7 +194,7 @@ for index, row in df[:10].iterrows():
 
 # 5. Save the combined results to a JSONL file
 output_dir = "."
-output_name = "extracted.jsonl" # Revert the filename to "extracted.jsonl".
+output_name = "extracted_text.jsonl" # Revert the filename to "extracted.jsonl".
 jsonl_path = os.path.join(output_dir, output_name)
 
 # Manually save the list of dictionaries to a JSONL file

@@ -1,0 +1,221 @@
+Jay J. Lloyd Comanche Peak
+Senior Director, Nuclear Power Plant
+Engineering & Regulatory Affairs (Vistra Operations
+Luminant Company LLC)
+P.O. Box 1002
+6322 North FM 56
+Glen Rose, TX 76043
+T 254.897.5337
+CP-202300477
+TXX-23079
+October 12, 2023
+U. S. Nuclear Regulatory Commission Ref (cid:9) 10 CFR 50.73
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+(cid:9)
+Subject: Comanche Peak Nuclear Power Plant (CPNPP)
+Docket Nos. 50-445
+Automatic Reactor Trip Due to Lo-Lo Steam Generator Level
+Licensee Event Report 445/23-001-01
+Dear Sir or Madam:
+Attached is Licensee Event Report (LER) 23-001-01, "Automatic Reactor Trip Due to Lo-Lo Steam
+Generator Level" for Comanche Peak Nuclear Power Plant (CPNPP) Unit 1. This is a supplement to the
+initial report, LER 23-001-00, submitted on August 15, 2023 (ML23227A145).
+This communication contains no new commitments regarding CPNPP Units 1 and 2.
+Should you have any questions, please contact Kassie Mandrell at (254) 897-6987 or
+Kassie.Mandrell@luminant.com.
+Sincerely,
+Jay Lloy(cid:9) 12,(cid:9) 08:54 CDT)
+Jay J. Lloyd
+Attachment: NRC Form 366 (4 pages)
+c (email) -(cid:9) John Monninger, Region IV [John.Monninger@nrc.gov]
+Dennis Galvin, NRR [Dennis.Galvin@nrc.gov]
+John Ellegood, Senior Resident Inspector, CPNPP [John.Ellegood@nrc.gov]
+Dominic Antonangeli, Resident Inspector, CPNPP [Dominic.Antonangeli@nrc.gov]
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oirasubmission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+Comanche Peak Nuclear Power Plant
+445 1 OF(cid:9) 4
+052
+4. Title
+Automatic Reactor Trip Due to Lo-LoSteam Generator Level
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+06 16 2023 2023 -(cid:9) 001(cid:9) - 01 10 12 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+Mode 1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 4 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Kassie Mandrell 254-897-6987
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B JK PSV GE Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On June 16, 2023, unit 1 was operating at 100% power. At 18:22, the 1B Main Feedwater Pump (MFP) began indicating
+oscillating speed. The oscillations increased in severity and became unresponsive to manual control input. Due to the loss of
+control, the 1B MFP was manually tripped as it approached the overspeed setpoints. Following the manual trip of the 1B MFP
+the Unit responded with an automatic runback to 700MWe. Following the runback, the combined effects of the entire transient
+resulted in an automatic reactor trip due to Steam Generator #4 Lo-Lo water level.
+The direct cause of this event was a degraded servo on the 1B MFP. Vendor analysis of the component did not identify a
+specific failure mechanism and the cause is inconclusive. Based on engineering evaluation, the most probable cause is
+particulate accumulation in the servo valve due to historical water intrusion events into the 1B lube oil system. An additional
+supplement will be submitted if further analysis has more conclusive results. Corrective action included replacement of the
+servo.
+This LER is a supplement to the original LER 23-001-00 submitted on 8/15/2023. All times are in Central Daylight Time (CDT).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Comanche Peak Nuclear Power Plant 445
+052 23 - 001 - 01
+NARRATIVE
+I. DESCRIPTION OF REPORTABLE EVENT
+A. REPORTABLE EVENT CLASSIFICATION
+This event is reportable under 10CFR50.73(a)(2)(iv)(A), "Any event or condition that resulted in manual or automatic
+actuation of any of the systems listed in paragraph (a)(2)(iv)(B) of this section." The systems that actuated were the Unit 1
+Reactor Protection System (RPS) and the Unit 1 Auxiliary Feedwater System (AFW).
+B. PLANT CONDITION PRIOR TO EVENT
+At 18:22 on June 16, 2023, Comanche Peak Nuclear Power Plant (CPNPP) Unit 1 was in MODE 1 operating at 100%
+power.
+C. STATUS OF STRUCTURES, SYSTEMS, OR COMPONENTS THAT WERE INOPERABLE AT THE START OF THE
+EVENT AND CONTRIBUTED TO THE EVENT
+There were no structures, systems, or components that were inoperable prior to the event which contributed to the event.
+D. NARATIVE SUMMARY OF THE EVENT, INCLUDING DATES AND APPROXIMATE TIME
+On 6/16/2023 at 18:22 the Balance of Plant Operator identified the 1B Main Feedwater Pump (MFP) began indicating
+oscillating speed. The MFPs were taken to manual control mode to stop or minimize the speed oscillations. Due to the
+failure of the 1B Servo, the oscillations were not reduced, and the speed control was taken back to Automatic. As a result
+of the 1B MFP oscillations, the Steam Generator levels fell -5%, then operations tripped the 1B MFP, at 18:30. The Unit
+responded with an automatic runback to 700MWe. Following the 1B trip, the 1A MFP continued to increase speed to
+follow the feedwater reference signal and was able to stabilize steam generator level for a period of time prior to the
+steam pressure dropping due to the steam dumps opening. The 1A MFP was able to increase the Feedwater flow to the
+Steam Generators and stabilize the Steam Generator (SG) water levels. SG 1-01 and SG 1-03 stabilized around 50%
+while SG 1-02 and 1-04 showed signs of stabilizing just under 40% as FW Flow and 1A MFP speed increased. Due to the
+decrease in steam pressure and the SG water levels when 1B was tripped (62% vs 67%), the 1A MFP was not able to
+pick up enough load to recover from the low Steam Generator Water Level before the SG 1-04 Water Level LO-LO (38%)
+trip set point was reached and the reactor automatically tripped at 18:32.
+E. THE METHOD OF DISCOVERY OF EACH COMPONENT OR SYSTEM FAILURE, OR PROCEDURAL PERSONNEL
+ERROR
+Indication of speed oscillations of the 1B MFP resulting in manual trip of the MFP.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Comanche Peak Nuclear Power Plant 445
+052 23 - 001 - 01
+NARRATIVE
+II. COMPONENT OR SYSTEM FAILURES
+A. CAUSE OF EACH COMPONENT OR SYSTEM FAILURE
+The cause of this event was a failure of the 1B MFP servo [IEEE: (JK)(PSV)]. Initial vendor analysis did not identify any
+specific failure mechanism of the component. Engineering evaluation of the failure determined the most probable cause
+to be historical water intrusion events into the 1B lube oil system resulting in a loss of valve stroke due to rust/particulate
+blocking the servo valve oil passages. This condition limited the ability of the LP (low pressure) control Valves to regulate
+steam and control the Turbine speed.
+B. FAILURE MODE, MECHANISM, AND EFFECTS OF EACH FAILED COMPONENT
+This event was first identified by operations as speed oscillations on the 1B MFP. The MFP was manually tripped when
+oscillations could not be adequately controlled. Due to the oscillations and decreasing steam generator level, the reactor
+automatically tripped on Steam Generator 1-04 low level (38%).
+C. SYSTEMS OR SECONDARY FUNCTIONS THAT WERE AFFECTED BY FAILURE OF COMPONENTS WITH
+MULTIPLE FUNCTIONS
+This event did not involve systems or secondary functions which were affected by the 1B MFP servo failure.
+D. FAILED COMPONENT INFORMATION
+The MFP Servos (General Electric 134B433AB-1) are part of the speed control system for the Main Feed Pump Turbine
+(MFPT). These Servos are replaced every 18 months as part of the preventative maintenance program. The most recent
+replacement occurred on 5/15/2022 during 1RF22.
+III. ANALYSIS OF THE EVENT
+A. SAFETY SYSTEM RESPONSES THAT OCCURRED
+The Reactor Protection System and Auxiliary Feedwater System started as designed due to low-low steam generator
+water level following the trip.
+B. DURATION OF SAFETY SYSTEM TRAIN INOPERABILITY
+This event did not involve the inoperability of any safety component or system.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Comanche Peak Nuclear Power Plant 445
+052 23 - 001 - 01
+NARRATIVE
+C. SAFETY CONSEQUENCES AND IMPLICATIONS OF THE EVENT
+A turbine trip is an ANS Condition II event (Faults of Moderate Frequency). When the reactor was automatically tripped
+the Auxiliary Feedwater System started to provide feedwater to the steam generators. The reactor trip on lo-lo water level
+in any steam generator provides the necessary protection against a loss of normal feedwater.
+An automatic reactor trip was exercised and the Auxiliary Feedwater System started automatically as expected and all
+plant safety systems responded as designed during the resultant transient. This event had no impact on nuclear safety,
+reactor safety, radiological safety, environmental safety or the safety of the public. This event has been evaluated as not
+meeting the definition of a safety system functional failure per 10 CFR 50.73(a)(2)(v).
+IV. CAUSE OF THE EVENT
+The direct cause of this event was a degraded servo on the 1B MFP. Vendor analysis of the component failure was
+inconclusive. Engineering evaluation of the failure determined the most probable cause to be historical water intrusion
+events into the 1B lube oil system. This caused particulate accumulation in the servo valve and limited the ability of the
+LP control valves to regulate steam and control turbine speed.
+V. CORRECTIVE ACTIONS
+Corrective actions include replacement of the 1B MFP servo and increased monitoring of speed oscillations.
+VI. PREVIOUS SIMILAR EVENTS
+There have been no previous similar reportable events at CPNPP in the past three years.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 4

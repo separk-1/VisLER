@@ -1,0 +1,160 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-,4-2023)
+Estimated burden per response to comply with this mandatory collection request 80 hours.(cid:9) Reported lessons
+/..`""'.'v .(cid:9) LICENSEE EVENT REPORT (LER) learned are incorporated :Ma the licensing process aid fed back to industry. Send comments regading burden
+estimate to the FOIA,(cid:9) Library,(cid:9) and Information Collections Branch IT-6 A10M).(cid:9) U.(cid:9) S.(cid:9) Nuclear Regulatory
+'.11..:‘,)(cid:9) (See Page 2 for required number of digits/characters for each block) Commission, Washington. DC 20555.0001. or by email to Infocollects,Resource@nrc.gov. and the OMB reviewer
+..71V4r at:(cid:9) OMB Office of Information and Regulatory Affairs. (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission. 725 17th Street NW, Washington, DC 20503. email (cid:9) oira su misaondomb.eoo.gov. The NRC may
+http://www.nrc.govireading-rm/doc-collections/nureqs/staff/srl022/r3/) not conduct a sponsor, and a person is not required to respond to: a collection of information unless the document
+requeshng or requiring the collection displays a currently valid OMB control number.
+1. Facility Name IIII I (cid:9) 050 2. Docket Number 3. Page
+H. B. Robinson Steam Electric Plant, Unit No. 2
+ri 00261 1 OF(cid:9) 3
+(cid:9) 052
+4. Title
+Condition Prohibited by Technical Specification Due to Missed Entry into Limiting Condition for Operation
+i
+5. Event Date(cid:9) 6. LER Number 7. Report Date 8. Other Facilities Involved
+q
+Month Day Year Year S Neq uu me bn eti ra l Re Nvi os .i on Month Day Year Facility Name 050 Docket Number
+N/A
+q
+06 12 2023 2023 -(cid:9) 001(cid:9) - 00 08 10 2023 Facility Name Docket Number
+052
+N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 q 20.2203(a)(2)(vi) 10 CFR Part 50 q 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) q 73.1200(a)
+20.2201(b) fl(cid:9) 20.2203(a)(3)(i) El(cid:9) 50.36(c)(1)(i)(A) q 50.73(a)(2)(ii)(B) q 50.73(a)(2)(viii)(B) q 73.1200(b)
+20.2201(d) q 20.2203(a)(3)(ii) fl(cid:9) 50.36(c)(1)(ii)(A) q 50.73(a)(2)(iii) q 50.73(a)(2)(ix)(A) q 73.1200(c)
+III
+20.2203(a)(1) q 20.2203(a)(4) 50.36(c)(2) q 50.73(a)(2)(iv)(A) q 50.73(a)(2)(x) El(cid:9) 73.1200(d)
+20.2203(a)(2)(1) 10 CFR Part 21 50.46(a)(3)(ii) q 50.73(a)(2)(v)(A) 10 CFR Part 73 q 73.1200(e)
+n(cid:9)
+20.2203(a)(2)(ii) 21.2(c) fl(cid:9) 50.69(g) q 50.73(a)(2)(v)(B) n(cid:9) 73.77(a)(1) q 73.1200(f)
+Fi
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) q 50.73(a)(2)(v)(C) (cid:9) 73.77(a)(2)(i) q 73.1200(g)
+1-1
+20.2203(a)(2)(iv) I(cid:9) 50.73(a)(2)(i)(B) q 50.73(a)(2)(v)(D) (cid:9) 73.77(a)(2)(ii) fl(cid:9) 73.1200(h)
+n(cid:9)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) q 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Phillip Mason, Manager - Nuclear Support Services 843-951-5797
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B LK RG V078 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+,/ No q Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On June 12, 2023, at 16:41 Eastern Daylight Time, with H. B. Robinson Steam Electric Plant, Unit No. 2 in Mode 1 at
+100% power, the nitrogen supply to the "A" Pressurizer Power Operated Relief Valve (PORV) was isolated due to a
+nitrogen leak. By design, Instrument Air was available to the "A" PORV allowing it to perform its safety function.
+After further review, it was determined that isolating the nitrogen supply to the "A" PORV resulted in inability to
+meet Surveillance Requirement (SR) 3.4.11.4 and Technical Specification (TS) Limiting Condition for Operation (LCO)
+3.4.11 Condition A should have been entered for an inoperable PORV. The cause was improper application of the
+TS. This event did not impact the health and safety of the public.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission: Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104), Attn: Desk Office for the Nuclear Regulatory Commission, 725 17th Street NW.
+Washington, DC 20503; email: oira submission@ornb eop goy. The NRC may not conduct or
+(See NUREG-1022. R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required o respond to, a collection of information unless the document
+http://www.nrc.qovireading-rm/doc-collections/nuregs/staffisr10221r3/) requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME n (cid:9) 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+H. B. Robinson Steam Electric Plant, Unit NUMBER NO.
+00261
+No. 2 052 2023 001 00
+NARRATIVE
+BACKGROUND
+Prior to the event, H. B. Robinson Steam Electric Plant, Unit No. 2 (RNP) was in Mode 1 at 100% power with no
+structures, systems or components out of service that contributed to this event. The pressurizer [PZR] Power Operated
+Relief Valves (PORV) and their respective block valves are provided for plant operational flexibility and for limiting the
+number of challenges to the pressurizer safety valves. The normal source of motive power for PORVs is the plant nitrogen
+system [LK]. An accumulator in series with each PORV provides multiple cycles of operation if the nitrogen supply is lost.
+The alternate source of motive power is the instrument air system [LD]. If the nitrogen pressure to the valve operator falls
+below a preset value, instrument air is automatically aligned to the valve.
+The event described below is reportable per 10 CFR 50.73(a)(2)(i)(B): "Any operation or condition which was prohibited by
+the plant's Technical Specifications except when: (1) The Technical Specification is administrative in nature; (2) The event
+consisted solely of a case of a late surveillance test where the oversight was corrected, the test was performed, and the
+equipment was found to be capable of performing its specified safety functions; or (3) The Technical Specification was
+revised prior to discovery of the event such that the operation or condition was no longer prohibited at the time of
+discovery of the event." This criterion requires a Licensee Event Report be submitted within 60 days of the event date.
+EVENT DESCRIPTION
+On June 12, 2023, at 16:41 Eastern Daylight Time (EDT), a containment vessel [NH] entry was performed to identify a
+nitrogen leak in containment. The operator found the "A" Accumulator Low Pressure Safety Relief Valve [RV] lifting.
+PCV-3, Train "A" Nitrogen Regulator [RG] (Victor Model SR700MD (1/2")), pressure indicated greater than 130 psig. The
+normal setpoint for PCV-3 is 90-95 psig. An attempt to adjust the regulator to the correct pressure was unsuccessful. This
+resulted in the decision to close OPP-25, Train "A" Isolation for nitrogen. Closure of OPP-25 resulted in isolation of the
+nitrogen line and nitrogen accumulator from pressurizer PORV PCV-456. Instrument air backup was still available.
+Limiting Condition for Operation (LCO) 3.4.11 was entered on June 14, 2023, at time 11:11 EDT to replace PCV-3. The
+PORV was returned to service and the LCO exited on June 14, 2023 at time 11:52 EDT.
+Upon further review, closure of OPP-25 isolated the nitrogen supply to the "A" PORV which resulted in the inability to meet
+Surveillance Requirement (SR) 3.4.11.4 to verify accumulators are capable of operating a PORV through one complete
+cycle. Technical Specification (TS) LCO 3.4.11 Condition A should have been entered for an inoperable PORV. The
+required actions are to close and maintain power to the associated PORV block valve within one hour or, as required by
+TS LCO 3.4.11 Condition D, be in Mode 3 within six hours and Mode 4 in twelve hours. The failure to perform the TS
+required actions within the required completion time resulted in a condition prohibited by the TS which is reportable in
+accordance with 10 CFR 50.73(a)(2)(i)(B).
+CAUSAL FACTORS
+An incorrect conclusion was reached by Duke Energy licensed operators on applicability of TS 3.4.11. Specifically, it was
+not identified that isolating the nitrogen accumulator resulted in the inability to meet TS SR 3.4.11.4 to demonstrate the
+accumulators are capable of supplying sufficient nitrogen to operate the PORVs.
+A contributing factor to this event is that Operations Work Procedure OWP-016, Safety Injection System, includes a
+Precaution that inaccurately states: "Isolating Nitrogen to the PORVs has no impact on Tech Spec operability of the
+PORVs or plant risk profile provided the PORVs are supplied by Instrument Air as a backup motive force and the PORVs
+can be cycled manually". This contributed to the operators' decision on applicability of TS 3.4.11.
+(cid:9)
+NRC FORM 366A (03-14-2023) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+iO3-'4-2023)
+Estimated burcen per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at. OMB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Office for the Nuclear Regulatory Commission. 725 17th Street NW,
+Washington, DC 20503: email: oira submission@omb.eop.g. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required o respond to, a collection of information unless the document
+htto://www.nrc.govireading-rmicloc-collectionsinuregsistaff/sr1022/r3/1 requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER
+050 YEAR SEQUENTIAL REV
+H. B. Robinson Steam Electric Plant, Unit NUMBER NO.
+00261
+No. 2 052 2023 001 00
+NARRATIVE
+CORRECTIVE ACTIONS
+Completed Actions:
+1. PCV-3 was replaced, and nitrogen supply restored.
+2. A Crew Learning was shared with Operations.
+3. Missed Technical Specification entered into corrective action program
+Planned Actions:
+1. Evaluate a change to the TS and TS basis to ensure the operability requirements are clear and the SRs are correct to
+test the system requirements.
+2. Revise Precaution in OWP-016.
+3. Provide training to Licensed Operators on the event to include a discussion on SR 3.0.1.
+Any changes to the corrective actions or completion schedules will be made in accordance with the site's corrective action
+program.
+SAFETY ANALYSIS
+This condition was assessed utilizing the zero test and maintenance probabilistic risk assessment model for RNP and was
+determined to have a very low safety significance. This event resulted in no impact to the health and safety of the public.
+ADDITIONAL INFORMATION
+An operating experience (OE) search was conducted and no previous Licensee Event Reports were found at RNP
+regarding any operation or condition which was prohibited by the plant's Technical Specifications within the past five
+years.
+Energy Industry Identification System (EIIS) codes for systems and components relevant to this event are identified in the
+text of this document within brackets [ ].
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 3

@@ -1,0 +1,236 @@
+Indiana Michigan Power
+INDIANA Cook Nuclear Plant
+MICHIGAN One Cook Place
+POWER" Bridgman, MI 49106
+indianamichiganpower.com
+1
+1
+An AEP Company
+BOUNDLESS ENERGY"
+January 4, 2023(cid:9) AEP-NRC-2023-01
+10 CFR 50.73
+Docket No.: 50-316
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+11555 Rockville Pike
+Rockville, MD 20852
+Donald C. Cook Nuclear Plant Unit 2
+LICENSEE EVENT REPORT 316/2022-001-00
+Automatic Reactor Trip Due to High-High Steam Generator Level
+In accordance with 10 CFR 50.73, Licensee Event Report (LER) System, Indiana Michigan Power
+Company, the licensee for Donald C. Cook Nuclear Plant Unit 2, is submitting as an enclosure to
+this letter the following report:
+LER 316/2022-001-00: Automatic Reactor Trip Due to High-High Steam Generator Level
+There are no commitments contained in this submittal.
+Should(cid:9) you(cid:9) have(cid:9) any(cid:9) questions,(cid:9) please(cid:9) contact(cid:9) Mr. Michael(cid:9) K.(cid:9) Scarpello,
+Regulatory Affairs Director, at (269) 466-2649.
+Sincerely,
+9
+Kelly J F neau
+Site Vice President
+SJM/sjh
+Enclosure:(cid:9) Licensee Event Report 316/2022-001-00: Automatic Reactor Trip Due to High-High
+Steam Generator Level
+U. S. Nuclear Regulatory Commission(cid:9) AEP-NRC-2023-01
+Page 2
+c:(cid:9) EGLE — RMD/RPS
+J. B. Giessner — NRC Region III
+M. G. Menze — AEP Ft. Wayne
+NRC Resident Inspector
+N. Quilico — MPSC
+R. M. Sistevaris — AEP Ft. Wayne
+S. P. Wall — NRC, Washington D.C.
+A. J. Williamson — AEP Ft. Wayne
+Enclosure to AEP-NRC-2023-01
+Licensee Event Report 316/2022-001-00: Automatic Reactor Trip Due to High-High Steam
+Generator Level
+(cid:9)
+F NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08 2020)
+Estimated burden per response to comply with this mandatory collection request 80 hours Reporter
+LICENSEE EVENT REPORT (LER)
+• s.(cid:9) lessons teamed are incorporated into the licensing process and fed back to industry Send comment'
+(46 (cid:9) (See Page 3 for required number of digits/characters for each block) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S
+NinufoccleoalierctsRReegsuolaurtocreyanCrcogmams isansidon.e 0Wmasshreinvigetwoenr. at DoCm82005ScSe-c0f010n1i0.rmoartionbaynd Re-em9auillatontc
+..... j(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this th ffi
+form http://www.nrc.govireading-rm/doc-collections/nureas/staff/sr1022/r3/) Affairs. (3150-0104). Attn: Desk ail:(cid:9) .. :.(cid:9) .„.(cid:9) ,(cid:9) ....(cid:9) • .. -..••••(cid:9) .....(cid:9) •..•.. The NRC may not conduct o
+sponsor, and a person is not required to respond to, a collection of information unless the documen
+requesting orrequiring the collection displays a currentlyvalid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000316 1 OF 4
+Donald C. Cook Nuclear Plant Unit 2
+4.(cid:9) Title
+Automatic Reactor Trip Due to Steam Generator High-High Level
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+._._. ._
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 05000
+11 10 2022 2022 001 00 01 04 2023 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 44
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+-- -
+10 CFR Part 20 q 20.2203(a)(2)(vi) q 50.36(c)(2) 50.73(a)(2)(iv)(A) q 50.73(a)(2)(x)
+q 20.2201(b) q 20.2203(a)(3)(i) q 50.46(a)(3)(ii) q 50.73(a)(2)(v)(A) 10 CFR Part 73
+q 20.2201(d) q 20.2203(a)(3)(ii) q 50.69(g) q 50.73(a)(2)(v)(B) q 73.71(a)(4)
+• 20.2203(a)(1) q 20.2203(a)(4) q 50.73(a)(2)(i)(A) q 50.73(a)(2)(v)(C) q 73.71(a)(5)
+q 20.2203(a)(2)(i) 10 CFR Part 21 q 50.73(a)(2)(i)(B) q 50.73(a)(2)(v)(D) q 73.77(a)(1)(i)
+q 20.2203(a)(2)(ii) q 21.2(c) q 50.73(a)(2)(i)(C) q 50.73(a)(2)(vii) q 73.77(a)(2)(i)
+q 20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) q 73.77(a)(2)(ii)
+q 20.2203(a)(2)(iv) q 50.36(c)(1)(i)(A) q 50.73(a)(2)(ii)(B) q 50.73(a)(2)(viii)(B)
+q 20.2203(a)(2)(v) q 50.36(c)(1)(ii)(A) q 50.73(a)(2)(iii) q 50.73(a)(2)(ix)(A)
+q OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Michael K. Scarpello, Regulatory Affairs Director (269) 466-2649
+13. Complete One Line for each Component Failure Described in this Report
+1
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+al No q Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces. i.e., approximately 15 single-spaced typewritten lines)
+On November 10, 2022, at 0744 hours, the Donald C. Cook Nuclear Plant Unit 2 Reactor automatically tripped from 44 percent
+power, due to reaching the automatic trip setpoint for a high-high level in the #3 Steam Generator (SG).
+Following the trip, Unit 2 was supplied by offsite power. All control rods fully inserted. The Auxiliary Feedwater Pumps started
+and operated properly, and decay heat removal was through the Steam Dump System. All required equipment operated as
+expected, and the trip was not complicated.
+The high-high level in the #3 SG was caused by unrecoverable feedwater oscillations that occurred during power ascension.
+A preliminary root cause of the oscillations was the organization's failure to recognize the effects of digital positioner tuning
+on feedwater system stability. A root cause evaluation is ongoing at the time of the submittal of this Licensee Event Report
+(LER). A supplement will be submitted if the causes or corrective actions are significantly different than described in this LER.
+The event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), System Actuation, due to the valid actuation of the
+Reactor Protection System and the Auxiliary Feedwater System, as a result of the automatic reactor trip.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORYCOMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08131/202
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reporte
+les sons learned are incorporated into the licensing process and fed back to industry. Send comment
+c•W""...
+\ LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.
+Nuclear Regulatory Commission, Washington, DC 20555.0001, or by e-mail t
+4)(cid:9) CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulator
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NV.
+Washington, DC 20503; e-mail: i.rira submission,a omb eop.gov. The NRC may not conduct
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the documer
+htto://www.nrc ciovireadinci-rm/doc-collectionsinuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER(cid:9) 3. LER
+YEAR SEQUENTIAL REV
+Donald C. Cook Nuclear Plant Unit 2 05000316 NUMBER NO.
+2022 001 00
+NARRATIVE
+EVENT DESCRIPTION
+On November 10, 2022, at 0744 hours, the Donald C. Cook Nuclear Plant (CNP) Unit 2 Reactor automatically
+tripped from 44 percent power, due to reaching a high-high level automatic trip setpoint in 2-OME-3-3, "Number 3
+Steam Generator" (#3 SG) [SB][SG].
+Following the reactor trip, Unit 2 was supplied by offsite power. All control rods fully inserted. The Auxiliary
+Feedwater Pumps [BA][P] started as required and operated properly. Decay heat removal was through the
+Condenser Steam Dump System [JI][COND]. All required equipment operated as expected, and the trip was not
+complicated.
+Prior to the event, CNP had completed a scheduled refueling outage by synchronizing the generator [EL][GEN] to
+the electrical grid on November 9, 2022, at 0011 hours.
+On November 10, 2022, at 0515 hours, operators commenced power ascension at 1.6 Megawatts per hour, starting
+from 26% power. At 0522 hours, feedwater system oscillations were observed on SG water level indications
+[JB][L1] and operators performed actions to place 2-PP-1E, East Main Feed Pump [SJ][P] in manual Differential
+Pressure (DP) control and raise pump speed.
+In response to abnormal SG level indications becoming synchronized, operators began to stabilize power at 44%.
+The East Main Feed Pump was placed in speed control and pump speed was raised from 4300 RPM to 4500
+RPM. Operators attempted to control SG level by adjusting feedwater regulating valve controllers [JB][FCO]. SG
+level rapidly increased and actions performed were unable to prevent level from rising to the reactor trip setpoint
+of 67% in the #3 SG, and automatically tripping the reactor.
+Investigation following the trip determined that the feedwater oscillations that occurred during power ascension
+was due in part to the method used by operators to operate the Main Feed Pump with respect to the digital controls
+and feedwater system configuration. Configuration of the system is based on 100% power output and two main
+feed pumps in operation. Validation was obtained by providing pertinent input data to the site simulator team to
+evaluate the scenario. The simulator results demonstrated that operating one Main Feed Pump in manual DP
+mode at lower than program DP resulted in unrecoverable feedwater oscillations and SG levels.
+Event Notification No. 56216 was submitted in accordance with 10 CFR 50.72(b)(2)(iv)(B), Reactor Protection System
+(RPS) [JG] actuation as a four (4) hour non-emergency report, and under 10 CFR 50.72(b)(3)(iv)(A), specified
+system actuation of the Auxiliary Feedwater System [BA], as an eight (8) hour non-emergency report.
+The event is also reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A), System Actuation, due to the valid
+actuation of the RPS and the Auxiliary Feedwater System, as a result of the automatic reactor trip.
+(cid:9)
+NRC FORM 366A (08-2020. Page 2 of 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORYCOMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/202:
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reporte
+lessons learned are incorporated into the licensing process and fed back to industry. Send comment
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library. and Information Collections Branch (T-6 A10M), U.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail t
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulator
+••••• (cid:9) „di(cid:9)
+••••• Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NA
+Washington, DC 20503: e-mail: oira submissiondomb eop.qov. The NRC may not conduct c
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the documer
+http://www.nrc.qovireading-rm/doc-collections/nureqs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3, LER NUMBER
+YEAR SEQUENTIAL REV
+Donald C. Cook Nuclear Plant Unit 2 05000316 NUMBER NO.
+2022 ▪ 001 ▪ 00
+NARRATIVE
+COMPONENT
+There were no component failures that contributed to the event.
+CAUSE OF THE EVENT
+The high-high level in the #3 SG was caused by unrecoverable feedwater oscillations that occurred during power
+ascension. A preliminary root cause of the oscillations was the organization's failure to recognize the effects of
+digital positioner tuning on Unit 2 feedwater regulating valves which resulted in system instabilities. A root cause
+evaluation is ongoing at the time of the submittal of this Licensee Event Report (LER). A supplement will be
+submitted if the causes or corrective actions are significantly different than described in this LER.
+ASSESSMENT OF SAFETY CONSEQUENCES
+NUCLEAR SAFETY
+All equipment operated as designed, and there was no actual or potential nuclear safety hazards that resulted
+from the automatic reactor trip due to reaching the automatic trip setpoint for a high-high level in the #3 SG.
+INDUSTRIAL SAFETY
+There was no actual personnel safety hazard that resulted from the automatic reactor trip due to reaching the
+automatic trip setpoint for a high-high level in the #3 SG.
+RADIOLOGICAL SAFETY
+There was no actual or potential radiological safety hazard or radiological release that resulted from the automatic
+reactor trip due to reaching the automatic trip setpoint for a high-high level in the #3 SG.
+PROBABILISTIC RISK ASSESSMENT (PRA)
+The safety significance of the Unit 2 trip during power ascension can be estimated by calculating the Conditional
+Core Damage Probability (CCDP) and Conditional Large Early Release Probability (CLERP) of the transient
+initiating event. A PRA risk assessment was performed and determined the estimated CCDP and the estimated
+CLERP of this event. A comparison of the CCDP and CLERP estimates to regulatory guidance resulted in the
+conclusion that this event was of very low safety significance.
+(cid:9)
+NRC FORM 366A (08-2020) Page 3 of 4
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORYCOMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/202::
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reporter
+lessons learned are incorporated into the licensing process and fed back to industry. Send comment!
+."°‘ 4,
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S
+"t
+Nuclear Regulatory Commission, Washington, DC 20555.0001, or by e-mail ti
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulator
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW
+Washington, DC 20503; e-mail: oira submissions.,..omb eop goy. The NRC may not conduct o
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the documen
+http://www.nrc.qovireading-rm/doc-collections/nureqs/staff/sr10221r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Donald C. Cook Nuclear Plant Unit 2 05000316 NUMBER NO.
+2022 ▪ 001 ▪ 00
+NARRATIVE
+CORRECTIVE ACTIONS
+COMPLETED ACTIONS
+Engineering direction was provided to operate the Unit 2 Main Feed Pumps in speed control and raise the pump
+speed to achieve a higher DP during power ascension. The current operating procedure used allows for both DP
+and speed control to operate the main feed pump. Therefore, a procedure change was not required to support
+the recommendation.
+PLANNED ACTIONS
+Adjust digital tuning of the feedwater regulating valve positioners to improve feedwater system stability.
+PREVIOUS SIMILAR EVENTS
+A review of LERs for the past five years involving reactor trips was performed. None of the trips occurred from
+similar causes.
+NRC FORM 366A (08-2020) Page 4 of 4

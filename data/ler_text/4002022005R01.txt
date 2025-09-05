@@ -1,0 +1,135 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory (cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Shearon Harris Nuclear Power Plant, Unit 1
+05000(cid:9) 400 1 OF(cid:9) 3
+4. Title
+Manual Reactor Trip due to “B” Condensate Pump Motor Failure
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+08 28 2022 2022 -(cid:9) 005(cid:9) - 01 11 28 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 4 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Sarah McDaniel, Regulatory Affairs Engineer (984) 229-2002
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+C SD MO S188 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On August 28, 2022, at 03:29 Eastern Daylight Time, with Shearon Harris Nuclear Power Plant, Unit 1 (HNP), in Mode 1 at 100
+percent power, the reactor was manually tripped in response to an automatic trip of the “B” main feedwater pump (MFP) caused
+by a trip of the “B” condensate pump (CP). The “B” CP tripped following an electrical failure of its motor. The trip of the “B” CP
+resulted in subsequent trips of the “B” condensate booster pump and the “B” MFP as designed. In accordance with plant
+procedures, the operations crew manually tripped the reactor upon the trip of a MFP with initial reactor power greater than 90
+percent. The “A” MFP tripped shortly after the manual reactor trip due to a low suction pressure condition created from the
+condensate and feedwater transient. The auxiliary feedwater pumps auto-started on low steam generator level as designed.
+Safety systems functioned as required. This event had no impact on the health and safety of the public.
+The “B” CP motor electrical failure was caused by a lightning strike. The design of CP motors and associated surge protection
+did not prevent motor damage and failure from a lightning strike. The “B” CP motor was replaced. The “A” CP and “B” CP motor
+surge protectors were inspected and tested, with no deficiencies identified. A study will be completed to determine changes
+needed to prevent future lightning induced failures of the CP motors.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Shearon Harris Nuclear Power Plant, Unit 1 400
+2022 - 005 - 01
+NARRATIVE
+Note: Energy Industry Identification System (EIIS) codes are identified in the text within brackets [].
+A. Background
+Prior to the event, Shearon Harris Nuclear Power Plant, Unit 1 (HNP), was operating in Mode 1 at approximately 100
+percent power. There were no structures, systems, or components that were inoperable at the time of this event that
+contributed to the event. This event is reportable per 10 CFR 50.73(a)(2)(iv)(A) as “Any event or condition that resulted in
+manual actuation or automatic actuation of any of the systems listed in paragraph (a)(2)(iv)(B) of [10 CFR 50.73]...” due to
+actuation of the Reactor Protection System (RPS) [JC] and Auxiliary Feedwater System (AFWS) [BA]. All actuated safety
+systems functioned as designed.
+The HNP condensate system [SD] and feedwater system [SJ] design includes two redundant trains each with a
+condensate pump (CP) [SD P], a condensate booster pump (CBP), and a main feedwater pump (MFP) [SJ P]. The CPs
+take suction from the main condenser [COND] hotwell. The discharge from both CPs combine and flow to the suction of
+both CBPs. The discharge of the CBPs flow through a series of feedwater heaters [ SJ HX] and combines with the
+discharge of the heater drain pumps [SN P] to provide suction to the two MFPs. The MFPs discharge flow through two
+additional feedwater heaters, and then the flow is separated into three lines to provide inventory to the three steam
+generators [SGs]. The HNP condensate system and feedwater system design results in a trip of the associated CBP and
+MFP following a CP trip when both MFPs are in service.
+B. Event Description
+On August 28, 2022, at 03:29 Eastern Daylight Time, the reactor was manually tripped in response to an automatic trip of
+the “B” MFP caused by a trip of the “B” CP. The “B” CP tripped following an electrical failure of its motor. The “B” CP motor
+is a 6.6 kilovolt motor manufactured by Siemens-Allis, serial number 1-5017-10368-1-1. The trip of the “B” CP resulted in
+subsequent trips of the “B” CBP and the “B” MFP as designed. In accordance with plant procedures, the operations crew
+manually tripped the reactor upon the trip of a MFP with initial reactor power greater than 90 percent. The “A” MFP tripped
+shortly after the manual reactor trip due to a low suction pressure condition created from the condensate and feedwater
+transient. The AFWS pumps auto-started on low steam generator level as designed. Safety systems functioned as
+required.
+C. Causal Factors
+The “B” CP motor electrical failure was caused by a lightning strike. The design of CP motors and associated surge
+protection did not prevent motor damage and failure from a lightning strike.
+D. Corrective Actions
+The “B” CP motor was replaced. The “A” CP and “B” CP motor surge protectors were inspected and tested, with no
+deficiencies identified. A study will be completed to determine changes needed to prevent future lightning induced failures
+of the CP motors. Necessary changes identified by this study will be implemented.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Shearon Harris Nuclear Power Plant, Unit 1 400
+2022 - 005 - 01
+NARRATIVE
+E. Safety Analysis
+The manual reactor trip had no impact on public health and safety. The reactor was manually tripped by control room
+operators as directed by plant procedures. The plant is designed for a loss of main feedwater and plant systems
+responded as expected for this condition. The condition did not result in a safety system functional failure and had no
+adverse impact on the health and safety of the public.
+F. Additional Information
+There have been no events at HNP similar to the event documented in this LER in the past three years.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 3

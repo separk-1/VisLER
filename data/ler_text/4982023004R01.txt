@@ -1,0 +1,243 @@
+Nuclear Operating Company
+April 25, 2024
+NOC-AE-24004030
+10 CFR 50.73
+STI: 35580872
+File No. G26
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+South Texas Project
+Unit 1
+Docket No. STN 50-498
+Licensee Event Report 2023-004-01
+Supplement to Condition Prohibited by Technical Specifications Due to
+Inoperable Train of Essential Chilled Water
+Reference: Letter; A. Capristo (STP) to Document Control Desk (NRC); "Licensee Event Report
+2023-004-00 Condition Prohibited by Technical Specifications Due to Inoperable
+Train of Essential Chilled Water;" February 5, 2024; (NOC-AE-24004012)
+(ML24036A352).
+Pursuant to reporting requirements of 10 CFR 50.73(a)(2)(i)(B), STP Nuclear Operating
+Company (STPNOC) hereby submits the supplemented South Texas Project (STP) Unit 1
+Licensee Event Report (LER) 2023-004-01.
+The event did not have an adverse effect on the health and safety of the public.
+There are no commitments in this submittal.
+If there are any questions on this submittal, please contact Walter Fulton at 361-972-4349 or me
+at 361-972-8945.
+Jason R. Tomlinson
+Site Vice President
+Attachment:(cid:9) LER 2023-004-01, Supplement to Condition Prohibited by Technical
+Specifications Due to Inoperable Train of Essential Chilled Water
+cc:
+Regional Administrator, Region IV
+U.S. Nuclear Regulatory Commission
+1600 E. Lamar Boulevard
+Arlington, TX 76011-4511
+NOC-AE-24004030
+Attachment
+Attachment
+LER 2023-004-01
+Supplement to Condition Prohibited by Technical Specifications Due to Inoperable
+Train of Essential Chilled Water
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 04/30/2027
+(04-02-2024)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503. The NRC may not conduct or sponsor, and a person is
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not required to respond to, a collection of information unless the document requesting or requiring the collection
+displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+South Texas, Unit 1
+00498 1 OF(cid:9) 4
+052
+4. Title
+Condition Prohibited by Technical Specifications Due to Inoperable Train of Essential Chilled Water
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+11 27 2023 2023 -(cid:9) 004(cid:9) - 01 04 25 2024 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 4 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Walter Fulton / Specialist Engineer Consulting (361) 972-4349
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A KM CHU Y018 Yes
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On 11/20/23 at 1530 Essential Chiller 12C was declared OPERABLE following maintenance. The following day at 1245,
+Train 'C' Essential Chilled Water System (EChWS) was declared inoperable due to excessive chilled water leakage. A
+subsequent Engineering evaluation determined that due to the leakage, Train 'C' EChWS should be considered inoperable
+from the date and time the 12C Essential Chiller was restored from maintenance and declared OPERABLE. With only two
+EChWS loops OPERABLE, Technical Specification (TS) 3.7.14 Action a requires restoration of the inoperable loop within
+7 days or application of the Configuration Risk Management Program (CRMP), or to be in at least HOT STANDBY within
+the next 6 hours. The Engineering evaluation determined that Train 'C' EChWS was inoperable without any of the required
+TS actions taken from 1530 on 11/20/23 to 1245 on 11/28/23 when the CRMP was entered. This is a total of 189 hours
+and 15 minutes which exceeds the 174 hours (7 days plus 6 hours) allowed by the TS. Therefore, this event is reportable
+under 10 CFR 50.73(a)(2)(i)(B) as a condition which is prohibited by the plant's TS.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503.(cid:9) The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas, Unit 1 00498
+052 2023 - 004 - 01
+NARRATIVE
+I. Description of Event
+A. Reportable Event Classification
+On 11/11/23 a condition report identified Train ‘C’ Essential Chilled Water Expansion Tank level lowering over the past
+three months to the low-level alarm setpoint. Subsequent maintenance was performed from 11/14/23 to 11/20/23. On
+11/20/23 at 1530 Essential Chiller 12C was declared OPERABLE following maintenance. The following day, 11/21/23 at
+1245, Train 'C' Essential Chilled Water was declared inoperable due to excessive chilled water leakage. An Engineering
+evaluation was requested and it was completed on 12/7/2023. The evaluation determined that due to the excessive chilled
+water leakage, Train 'C' Essential Chilled Water should be considered to have been inoperable from the date and time
+(11/20/23 at 1530) the 12C Essential Chiller was restored from maintenance and declared OPERABLE until 12/3/23 at
+2254. Technical Specification 3.7.14 Action a requires implementation of the following actions with only two Essential
+Chilled Water System loops OPERABLE: within 7 days restore at least three loops to OPERABLE status or apply the
+requirements of the Configuration Risk Management Program (CRMP), or be in at least HOT STANDBY within the next 6
+hours and in COLD SHUTDOWN within the following 30 hours. It was determined that Train 'C' Essential Chilled Water
+was inoperable without any of the required Technical Specification actions taken from 1530 on 11/20/23 to 1245 on
+11/28/23 when the CRMP was entered. This is a total time of 189 hours and 15 minutes which exceeds the 174 hours (7
+days plus 6 hours) allowed by Technical Specification. Therefore, this event was determined to be reportable under 10
+CFR 50.73(a)(2)(i)(B) as a condition which is prohibited by the plant’s Technical Specifications. The event date for this
+LER is considered to be 11/27/23, which is the date that the Technical Specification Action statement allowed time (174
+hours) for the Essential Chilled Water System was exceeded. However, the event was not discovered until completion of
+the Engineering evaluation on 12/7/23. Therefore, the report date for this event is 2/5/24 (60 days from the date of
+discovery).
+B. Plant Operating Conditions Prior To Event
+Prior to the event on November 27, 2023, Unit 1 was in MODE 1 at 100% power.
+C. Status Of Structures, Systems, and Components That Were Inoperable At the Start of the Event and That Contributed
+To the Event
+There were no inoperable Structures, Systems, or Components at the start of the event that contributed to the event.
+D. Narrative Summary of the Event
+Timeline (Note: All times are Central Standard Time)
+11/10/23 (1413) - Essential Chilled Water 'C' train declared inoperable due to exceeding the maximum compressor
+discharge pressure.
+11/17/23 (0642) - Entered CRMP.
+11/20/23 (1530) - Essential Chilled Water ‘C’ train declared OPERABLE following completion of maintenance and
+successful post-maintenance testing. Technical Specification 3.7.14 and CRMP exited.
+11/21/23 (1245) - Essential Chilled Water ‘C’ train declared inoperable due to excessive chilled water leakage.
+11/28/23 (1245) - Entered CRMP.
+12/03/23 (2254) - Essential Chilled Water ‘C’ train declared OPERABLE, Technical Specification 3.7.14 and CRMP exited.
+NRC FORM 366A (04-02-2024)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503.(cid:9) The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas, Unit 1 00498
+052 2023 - 004 - 01
+NARRATIVE
+12/07/23 (1639) - Shift Manager concurrence that the event was reportable was obtained following completion of an
+Engineering evaluation which determined the excessive Essential Chilled Water 'C' train leakage would render the system
+incapable of meeting its safety-related function for a prolonged duration beginning with the time of completion of
+maintenance on 11/20/23 (1530).
+E. Method of Discovery
+The excessive chilled water leakage that led to the inoperability of Essential Chilled Water 'C' train was self-revealing.
+Following Engineering evaluation, it was discovered that the Technical Specification Action statements for Essential
+Chilled Water were not met.
+II. Component Failures
+A. Failure Mode, Mechanism, and Effects of Failed Component
+Chilled water system leakage was found to have been at the chiller evaporator end bells. The condition report associated
+with this event discusses an unexpected trend of the Train C Essential Chilled Water Expansion Tank level lowering and
+more frequently refilling the tank to restore level for three months prior to this event. The Engineering evaluation for this
+event concluded that the leak rate occurring in the three months leading up to this event was within acceptable limits.
+However, the leak rate increased significantly from 11/20/24 to 11/21/24. The Engineering evaluation of this increased
+leakage concluded that the leakage rendered the system incapable of meeting its safety-related function for a prolonged
+duration, beginning with the time after the maintenance ending on 11/20/23 at 1530 and recommended that the system
+be considered to have been inoperable from 11/20/23 at 1530 until 12/3/23 at 2254.
+B. Cause of Component or System Failure
+The cause of the component failure was corrosion of the sealing surfaces of the tube sheet combined with the incorrect
+orientation of the end bell gasket (installed backwards).
+C. Systems or Secondary Functions That Were Affected by the Failure of Components with Multiple Functions
+Inoperability of Essential Chilled Water 'C' train rendered the 'C' train of the following systems inoperable: High Head
+Safety Injection, Low Head Safety Injection, Containment Spray, Control Room Envelope HVAC.
+D. Failed Component Information
+System: Chilled Water System {KM}
+Component: Chiller Unit {CHU}
+Manufacturer: York {Y018}
+Model: OTK5C1-IMCS-R11
+Ill. Analysis of Event
+A. Safety System Responses that Occurred
+No safety system responses occurred because of this event.
+B. Duration of Safety System lnoperability
+Essential Chilled Water Train 'C' was inoperable from 1530 on November 20, 2023, to 2254 on December 3, 2023. This
+was a total of 319 hours and 24 minutes.
+NRC FORM 366A (04-02-2024)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 04/30/2027
+(04-02-2024) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503.(cid:9) The NRC may not conduct or sponsor, and a person is not required to
+respond to, a collection of information unless the document requesting or requiring the collection
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas, Unit 1 00498
+052 2023 - 004 - 01
+NARRATIVE
+C. Safety Consequences and Implications
+A risk evaluation was performed to estimate the Incremental Core Damage Probability (ICDP) associated with this event.
+The calculated ICDP is above the Non-Risk Significant threshold but below the Potentially Risk Significant threshold.
+The event did not result in any offsite release of radioactivity or increase of offsite dose rates and there were no personnel
+injuries or damage to any other safety-related equipment associated with this event.
+Therefore, there was no adverse effect on the health and safety of the public.
+IV. Cause of Event
+Station troubleshooting processes were not used to evaluate the inventory loss associated with Essential Chiller 12C.
+V. Corrective Actions
+1. Complete an evaluation on processes used by Operations, Engineering, and Maintenance to ensure the troubleshooting
+process is entered appropriately.
+VI. Previous Similar Events
+STP Nuclear Operating Company submitted two Licensee Event Reports in January 2024 associated with the Essential
+Chilled Water System. Unit 1 LER 2023-003-00 was submitted on 01/09/24 and Unit 2 LER 2023-001-00 was submitted on
+01/15/24. Each event was reported under 10 CFR 50.73(a)(2)(v)(D) as a condition that could have prevented fulfillment of
+a safety function which is a different reporting criteria than this event (10 CFR 50.73(a)(2)(i)(B)). STPNOC has performed
+additional evaluations to determine if any common causes exist between this event and the other two Essential Chilled
+Water System events.
+NRC FORM 366A (04-02-2024)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 4

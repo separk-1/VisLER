@@ -1,0 +1,282 @@
+TENNESSEE
+TVA VALLEY
+AUTHORITY
+Tennessee Valley Authority. Post Office Box 2000. Spring City. Tennessee 37381
+WBL-21-017
+May 10, 2021
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant. Unit 2
+Facility Operating License No. NPF-96
+NRC Docket No. 50-391
+Subject:(cid:9) Licensee Event Report 391/2021-001-00, Automatic Reactor Trip on Main
+Turbine Trip caused by Main Feed Pump Trip due to Low Condenser Vacuum
+This submittal provides Licensee Event Report (LER) 391/2021-001-00. This LER provides
+details concerning a recent event where the operating main feedwater pumps tripped on low
+condenser vacuum, resulting in a turbine and subsequent reactor trip. This condition is being
+reported as a safety system actuation of the reactor protection system and the auxiliary
+feedwater system in accordance with Title 10 of the Code of Federal Regulations (10 CFR)
+50.73(a)(2)(iv)(A).
+There are no new regulatory commitments contained in this letter. Please direct any questions
+concerning this matter to Tony Brown. WBN Licensing Manager, at (423) 365-7720.
+Respegtfutly7----.
+Anthony L. Williams IV
+Site Vice President
+Watts Bar Nuclear Plant
+U.S. Nuclear Regulatory Commission
+WBL-21-017
+Page 2
+May 10, 2021
+Enclosure:(cid:9) LER 391/2021-001-00, “Automatic Reactor Trip on Main Turbine Trip caused by
+Main Feed Pump Trip due to Low Condenser Vacuum”
+cc (w/Enclosure):
+NRC Regional Administrator – Region II
+NRC Senior Resident Inspector – Watts Bar Nuclear Plant
+NRC Project Manager – Region II
+ENCLOSURE
+Tennessee Valley Authority
+Watts Bar Nuclear Plant
+Unit 2
+LER 391/2021-001-00, “Automatic Reactor Trip on Main Turbine Trip caused by Main Feed
+Pump Trip due to Low Condenser Vacuum”
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Watts Bar Nuclear Plant, Unit 2 05000391 1 OF 5
+4. Title
+Automatic Reactor Trip on Main Turbine Trip caused by Main Feed Pump Trip due to Low Condenser Vacuum
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year NA
+Number No. 05000
+Facility Name Docket Number
+03 17 2021 2021 - 001 - 00 05 10 2021
+NA 05000
+9. Operating Mode(cid:9) 10. Power Level
+1(cid:9) 90
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Daniel Fox, Licensing Engineer (423) 368-0977
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufa Reportable To IRIS
+cturer
+B EA 52 GE Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+N/A N/A N/A
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On March 17, 2021, at 1004 Eastern Daylight Time (EDT), the Watts Bar Nuclear Plant (WBN) Unit 2
+experienced an automatic reactor trip on a main turbine trip due to a main feed pump trip on low condenser
+vacuum. Concurrent with the reactor trip, the Auxiliary Feedwater system actuated as designed. All control and
+shutdown rods inserted properly and all safety systems responded as designed.
+The direct cause of the event was failure of a close latch to maintain an Alternate Supply Breaker open after
+installation in the Unit 2C Board. The Alternate Supply Breaker closed causing the Normal Supply Breaker to
+open, de-energizing the Unit 2C Board. The 2C Condenser Circulating Water (CCW) Pump lost power causing
+a reduction of CCW flow and subsequent main feed pump trip on low condenser vacuum. Corrective actions
+include incorporating vendor enhancements to the breaker maintenance procedures.
+This condition is being reported as a safety system actuation in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 2 05000391 NUMBER NO.
+2021 - 001 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+Watts Bar Nuclear Plant (WBN) Unit 2 was at 90 percent Rated Thermal Power (RTP). Unit 1 was
+unaffected by this event.
+II. Description of Event
+A. Event Summary
+On March 17, 2021, during the performance of a breaker swap Work Order, the Alternate
+Supply Breaker [EIIS:BKR] on the Unit 2C Board [EIIS:EA] inadvertently closed and tripped
+open upon installation. The Normal Supply Breaker opened as designed when the Alternate
+Supply Breaker closed. This caused a loss of power to the non-safety related Unit 2C Board
+and subsequent de-energization of the 2C Condenser Circulating Water (CCW) pump
+[EIIS:P] and reduction of CCW flow to the plant.
+The lower CCW flow caused condenser vacuum [EIIS:SH] to lower and resulted in a reactor
+trip on a main turbine trip due to Main Feed Pump (MFP) trip on low condenser vacuum.
+Concurrent with the reactor trip, all control and shutdown rods fully inserted, the Auxiliary
+Feedwater (AWF) System [EIIS:BA] actuated as designed, and all safety systems
+responded as designed. There were no complications associated with the reactor trip.
+This event is being reported to the Nuclear Regulatory Commission (NRC) under
+10 CFR 50.73(a)(2)(iv)(A) as a safety system actuation of the Reactor Protection System
+(RPS) and the AFW system.
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and that contributed to the event
+There were no safety related inoperable structures, components, or systems that
+contributed to this event.
+C. Dates and approximate times (Eastern Daylight Time [EDT]) of occurrences
+Date Time Event
+(EDT)
+3/17/2021 0957 The 2C Board de-energized and 2C CCW pump lost power
+lowering CCW flow to the main condenser.
+3/17/2021 0959 Operators started lowering reactor power in accordance
+with 2-AOI-39, “Rapid Load Reduction” in response to
+lowering vacuum in the main condenser.
+3/17/2021 1002 Remaining condensate booster pumps tripped.
+3/17/2021 1004 Automatic Main Turbine and Reactor trip occurred,
+Operators entered 2-E-0, “Reactor Trip or Safety Injection.”
+3/17/2021 1048 Transitioned to 2-GO-5, Unit Shutdown from 30 percent
+Reactor Power to Hot Standby.
+Page 2 of 5
+NRC FORM 366A (08-2020)(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 2 05000391 NUMBER NO.
+2021 - 001 - 00
+D. Manufacturer and model number of each component that failed during the event
+General Electric - AM 7.2-500-6HB, - 6.9KV - 2000 Amp Magne-Blast Circuit Breaker,
+Manufacture Date 5/27/1996.
+E. Other systems or secondary functions affected
+No other systems or secondary functions were affected.
+F. Method of discovery of each component or system failure or procedural error
+The component failure became evident when the Alternate Supply Breaker inadvertently
+closed after installation into the Unit 2C Board.
+G. Failure mode, mechanism, and effect of each failed component
+Upon racking in, the 2C Alternate Supply Breaker charging motor energizes to compress the
+breaker springs. The close latch maintains the springs in a charged state with the breaker
+open. In this case, the close latch did not properly engage with the charging spring cam
+roller to maintain the springs charged. When the engagement of the closed latch was not
+obtained, the springs discharged, resulting in a mechanical closure of the breaker (no
+electrical signal).
+H. Operator actions
+Operators reduced reactor power in response to lowering vacuum in the main condenser.
+I. Automatically and manually initiated safety system responses
+The Main Feed Pumps tripped on low condenser vacuum, which resulted in an automatic
+Turbine and Reactor trip, and subsequent actuation of the AFW system.
+III.(cid:9) Cause of the Event
+A. Cause of each component or system failure or personnel error
+The most probable cause of the unintentional closure of the Unit 2C Board Alternate Supply
+Breaker was the inconsistent return of the close latch to the reset position as confirmed by
+the closing latch adjusting screw not in contact with the frame when the closing latch rotated
+to reset position (observation of breaker in shop during post event inspection). This was
+most likely caused by internal friction on the close latch shaft and bearings and could be
+further compounded by degraded spring tension on the latch.
+This failure had no effect on any safety systems or functions.
+Page 3 of 5
+NRC FORM 366A (08-2020)(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 2 05000391 NUMBER NO.
+2021 - 001 - 00
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance root causes were identified for this event.
+IV.(cid:9) Analysis of the Event
+At the time of the event, the Unit 2 CCW system was operating at reduced margin with the 2D CCW
+pump out of service for repairs. The loss of the additional CCW pump caused a pressure transient
+in the plant condenser systems. Operators in the control room responded to the event and began
+lowering reactor power to stabilize the plant. The MFP condenser vacuum lowered resulting in a
+MFP trip which led to an automatic Turbine and Reactor trip from approximately 90 percent RTP.
+V.(cid:9) Assessment of Safety Consequences
+This event closely matches and is bounded by the Loss of Normal Feedwater event described in
+the Updated Final Safety Analysis Report (UFSAR). A probablistic risk review of this event shows
+the risk from this trip is very small.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event
+Not applicable.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+Not applicable.
+C. For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from the discovery of the failure until the train was returned to service
+Not applicable.
+VI.(cid:9) Corrective Actions
+This event was entered into the Tennessee Valley Authority’s (TVA) Corrective Action Program and
+is being tracked under Condition Report 1679456.
+A. Immediate Corrective Actions
+The faulty breaker was removed from the Unit 2C Board and quarantined. As an
+intermediate compensatory measure, breaker swaps on Normal and Alternate Supply
+Breakers were put on hold pending an online risk evaluation.
+Page 4 of 5
+NRC FORM 366A (08-2020)(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Watts Bar Nuclear Plant, Unit 2 05000391 NUMBER NO.
+2021 - 001 - 00
+B. Corrective Actions to Prevent Recurrence or to reduce probability of similar events occurring
+in the future
+The overhaul procedure will be enhanced to include replacing specific internal components
+based on internal vendor operating experience. In addition, a step will be added to the
+Close Latch Reset check which will simulate breaker installation to verify proper close latch
+alignment.
+VII.(cid:9) Previous Similar Events at the Same Site
+LER 391/2016-005-00 describes a Unit 2 reactor trip that occurred on June 20, 2016, as a result of
+a MFP trip on low condenser vacuum. This specific event was caused by a human performance
+error.
+LER 391/2020-005-00 describes an event where a normal feeder breaker failed to close during a
+Shutdown Board transfer. This failure was due to a faulty switch contact internal to the breaker.
+No similar inadvertent breaker closure events are known.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments
+There are no new commitments.
+Page 5 of 5
+NRC FORM 366A (08-2020)(cid:9)

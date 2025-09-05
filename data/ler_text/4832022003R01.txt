@@ -1,0 +1,298 @@
+(cid:9)
+Ameren
+Callaway Plant
+11,1SSOURI
+July 13, 2023
+ULNRC-06799
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+10 CFR 50.73
+Ladies and Gentlemen:
+DOCKET NUMBER 50-483
+CALLAWAY PLANT UNIT 1
+UNION ELECTRIC CO.
+RENEWED FACILITY OPERATING LICENSE NPF-30
+LICENSEE EVENT REPORT 2022-003-01
+CLASS 1E ELECTRICAL AIR CONDITIONING SYSTEM THERMAL EXPANSION VALVE
+FAILURE RESULTED IN CONDITION PROHIBITED BY TECHNICAL SPECIFICATIONS
+The enclosed Licensee Event Report (LER) is submitted in accordance with 10 CFR 50.73(a)(2)(i)(B)
+to report a condition prohibited by Technical Specifications when one train of the Class 1 E Electrical
+Equipment Air Conditioning system was inoperable. This is a supplement to the initial report
+submitted via Ameren Missouri letter ULNRC-06790, "Class 1 E Electrical Air Conditioning System
+Thermal Expansion Valve Failure Resulted in Condition Prohibited by Technical Specifications,"
+dated December 21, 2022 (ADAMS Accession No. ML22355A439).
+This letter does not contain new commitments.
+Sincerely,
+Todd Witt
+Manager, Regulatory Affairs
+Enclosure
+LER 2022-003-01
+8315 County Road 459(cid:9) Steedman, MO 65077(cid:9) AmerenMissouri.com
+ULNRC-06799
+July 13, 2023
+Page 2 of 3
+cc:(cid:9) Mr. Robert Lewis
+Regional Administrator
+U. S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Boulevard
+Arlington, TX 76011-4511
+Senior Resident Inspector
+Callaway Resident Office
+U.S. Nuclear Regulatory Commission
+8201 NRC Road
+Steedman, MO 65077
+Mr. M. Chawla
+Project Manager, Callaway Plant
+Office of Nuclear Reactor Regulation
+U.S. Nuclear Regulatory Commission
+Mail Stop 08B 1 A
+Washington, DC 20555-0001
+ULNRC-06799
+July 13, 2023
+Page 3 of 3
+Index and send hardcopy to QA File A160.0761
+Hardcopy:
+Certrec Corporation
+6500 West Freeway, Suite 400
+Fort Worth, TX 76116
+(Certrec receives ALL attachments as long as they are non-safeguards and may be publicly
+disclosed.)
+Electronic distribution for the following can be made via LER ULNRC Distribution:
+F. M. Diya
+K. C. Scott
+B. L. Jungmann
+G. J. Perry
+T. A. Witt
+T. B. Elwood
+Corporate Oversight
+NSRB Secretary
+Performance Improvement Coordinator
+Resident Inspectors (NRC)
+STARS Regulatory Affairs
+Mr. Jay Silberg (Pillsbury Winthrop Shaw Pittman LLP)
+Ms. Kathleen McNelis (Public Service Commission)
+Ms. Claire Eubanks (Public Service Commission)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding(cid:9) burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at:(cid:9) OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs,(cid:9) (3150-0104),(cid:9) Attn:(cid:9) Desk ail: oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Callaway Plant Unit 1 05000483 1 OF 4
+4. Title
+Class 1E Electrical Air Conditioning System Thermal Expansion Valve Failure Resulted in Condition Prohibited by Technical
+Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Revision Month Day Year
+Number No. 05000
+Facility Name Docket Number
+10 25 2022 2022 - 003 - 01 7 13 2023
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+T.B. Elwood, Supervising Engineer, Regulatory Affairs and Licensing 314-225-1905
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS(cid:9) Cause System Component Manufacturer Reportable To IRIS
+B VI V ME34 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1530 on 10/25/22, a condition was identified for one of the two Class 1E Electrical Equipment Air Conditioning (Class 1E
+A/C) trains. Specifically, frost and condensation were observed on the equalizing line for the #1 thermal expansion valve
+(TXV) associated with the compressor on the "A" train's refrigeration unit, SGK05A [EIIS system: VI, component: ACU]. At
+that time, the unit was considered Operable but degraded. At 0947 on 10/27/22, however, SGK05A was discovered to be
+tripped due to high discharge temperature. The "A" Class 1E A/C train was declared inoperable.
+Upon further review, it was determined that the condition observed on 10/25/22 was firm evidence of a malfunctioning TXV
+(#1), which caused inadequate refrigerant flow to the compressor. It was thus determined that SGK05A became inoperable
+at that time.
+With one Class 1E A/C train inoperable, Required Action A.1 of TS 3.7.20, "Class 1E Electrical Equipment Air Conditioning
+(A/C) System," requires immediately taking action to implement mitigating actions. With Required Action A.1 not met, the
+plant must be in Mode 3 within 6 hours per Required Action B.1. Since SGK05A was not considered to be inoperable on
+10/25/22, these Required Actions and Completion Times were not met, thus resulting in a condition prohibited by TS
+3.7.20.
+TXV #1 was replaced, and SGK05A was declared OPERABLE on 10/30/22 at 1420.
+This LER is a supplement/revision to the original LER submitted 12/21/2022.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Callaway Plant Unit 1 05000-483 NUMBER NO.
+2022 - 003 - 01
+NARRATIVE
+1. DESCRIPTION OF STRUCTURE(S), SYSTEM(S), AND COMPONENT(S):
+The Class 1E electrical equipment air conditioning (Class 1E A/C) trains provide a suitable environment for the Class 1E
+electrical equipment trains. The Class 1E A/C system [EIIS system: VI] consists of two independent trains such that each
+train provides cooling of recirculated air in the rooms normally dedicated to that train. Each train consists of a prefilter,
+self-contained refrigeration unit (SGK05A/B) [EIIS system: VI, component: AHU] using normal service water or essential
+service water (ESW) [EIIS system: BI] as a heat sink, centrifugal fans, instrumentation, and controls to provide for electrical
+equipment room temperature control.
+The Class 1E A/C trains have emergency operation functions and also operate during normal unit operation. Each train is
+normally aligned to cool only the equipment associated with its emergency load group. The Class 1E A/C trains are
+operated in a continuous recirculation mode to maintain the ESF switchgear [EIIS systems: EB, ED, and EJ, component
+SWGR] rooms, the battery [EIIS system: EJ, component: BTRY] rooms, and the DC switchboard [EIIS system: EJ] rooms
+to a temperature of less than or equal to 90 degrees F.
+Additional recirculation capability is provided via the supplemental cooling system, which consists of two trains of standby
+fans and dampers that may be actuated via operator action. With a Class 1E A/C train inoperable, the additional
+recirculation capability (either train) may be utilized in conjunction with the remaining Class 1E A/C train to provide
+adequate area cooling for both trains of Class 1E electrical equipment during normal and accident conditions.
+Requirements for the Class 1E A/C trains are specified in Technical Specification (TS) 3.7.20, "Class 1E Electrical
+Equipment Air Conditioning (A/C) System." Limiting Condition for Operation (LCO) 3.7.20 specifies that two Class 1E
+electrical equipment A/C trains shall be Operable during Modes 1, 2, 3 and 4. With one Class 1E electrical equipment A/C
+train inoperable, Condition A and its three Required Actions under LCO 3.7.20 apply. Required Action A.1 requires
+immediately initiating action to implement mitigating Actions; Required Action A.2 requires verifying room area
+temperatures less than or equal to 90 degrees F within 1 hour and once per 4 hours thereafter; Required Action A.3
+requires restoring the inoperable Class 1E electrical equipment A/C train to Operable status within 30 days. With the
+Required Action(s) and Completion Time(s) not met, Condition B and its Required Actions under LCO 3.7.20 apply.
+Specifically, Required Actions B.1 and B.2 require the plant to be in Mode 3 (Hot Shutdown) within 6 hours and in Mode 5
+(Cold Shutdown) within 36 hours, respectively.
+2. INITIAL PLANT CONDITIONS:
+Callaway Plant was in MODE 1 at approximately 100% rated thermal power at the time of discovery of this event. For the
+period of time during which it was determined that the affected Class 1E A/C train had been inoperable, the plant remained
+in Mode 1. No other contributing inoperable SSCs were identified during this event.
+3. EVENT DESCRIPTION:
+On 10/25/22 at 1530, frosting and condensation were observed on the equalizing line from the thermal expansion valve
+(TXV) #1 for the compressor on the "A" Class 1E A/C unit, SGK05A. TXV #1 is the first of four thermal expansion valves
+(for each A/C unit) that sequentially operate to regulate refrigerant flow to the unit's compressor. The identified frosting
+and condensation indicated that TXV #1 could be impeding refrigerant flow to the compressor. An Immediate Operability
+Determination (IOD) was performed, which concluded that SGK05A was Operable but degraded, as the associated ESF
+switchgear room temperature was still being maintained at approximately 67 degrees (i.e., within its normal day-to-day
+range), thus providing evidence that the A/C unit was providing adequate cooling at that time.
+NRC FORM 366A (06-2016)(cid:9) Page 2 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Callaway Plant Unit 1 05000-483 NUMBER NO.
+2022 - 003 - 01
+On 10/27/22 at approximately 0947, electricians investigating an elevated compressor head temperature on SGK05A
+noticed that the compressor was not running upon arrival. The thermostat was adjusted (downward) to attempt to start the
+compressor; however, SGK05A failed to start and was declared inoperable. The unit had tripped due to high compressor
+discharge temperature and was thus declared inoperable. Plant operators logged entry into the applicable Condition and
+completed the Required Actions of TS LCO 3.7.20.
+With a Class 1E A/C unit inoperable, LCO 3.7.20 Required Action A.1 requires starting a supplemental cooling train to
+provide additional recirculation capability. (As explained in the Bases for TS 3.7.20, starting and running the supplemental
+cooling train is the primary "mitigating Action" required for fulfilling Required Action A.1.) This action was implemented at
+1035 on 10/27/22. LCO 3.7.20 Required Action A.2 requires verifying room area temperature is less than 90 degrees
+within 1 hour and at least once per 4 hours thereafter. This action was initially performed at 1030 on 10/27/22.
+Based on subsequent investigation into this event, and as further described in the "Cause of Event" section of this LER, it
+has been determined that the period of SGK05A inoperability began when the frosting and condensation were first
+observed on TXV #1, which as stated above, was at 1530 on 10/25/22. Since the IOD determined SGK05A was
+OPERABLE at that time, the supplemental cooling system was not immediately inititated per TS LCO 3.7.20 Required
+Action A.1, and room temperatures were not verified per station procedures to be less then 90 degrees within the required
+time(s) for compliance with Required Action A.2. Thus, retrospectively, the Required Actions of TS LCO 3.7.20 were not
+entered and met when SGK05A actually became inoperable.
+SGK05A was declared OPERABLE on 10/30/22 at 1420 after replacement of TXV #1 and completion of post-maintenance
+testing.
+4. ASSESSMENT OF SAFETY CONSEQUENCES:
+There were no actual nuclear, radiological, or personnel safety impacts associated with this event. The potential impact
+was on nuclear safety with respect to ensuring adequate area cooling for the potentially affected Class 1E electrical
+equipment. The temperature limit for the ESF switchgear rooms, the battery rooms, and the DC switchboard rooms is 87
+degrees F. The room temperatures are constantly monitored, and control room annunciator 19F is designed to alarm if the
+room temperature reaches 83 degrees F. No control room log entries were made for this annunciator coming in during the
+timeframe of this event. All temperatures recorded locally in this timeframe were between 72.5 and 77.5 degrees F. This
+provides reasonable assurance that the Class 1E electrical equipment in the ESF switchgear rooms, battery rooms and
+DC switchboard rooms was not affected by the identified condition. However, there is not reasonable assurance that
+SGK05A itself would have been capable of performing its required cooling function for the entirety of its 30-day mission
+time in the event of a DBA during the noted timeframe.
+During the timeframe of this event (10/25/22 at 1530 until 10/30/22 at 1420), the second train (i.e., the B train) of Class 1E
+A/C was OPERABLE and able to fulfill its mission time of 30 days. With a supplemental cooling system train capable of
+being placed into service and one train of Class 1E electrical equipment air conditioning OPERABLE, the capability to cool
+both trains of Class 1E electrical equipment was maintained.
+NRC FORM 366A (06-2016)(cid:9) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Callaway Plant Unit 1 05000-483 NUMBER NO.
+2022 - 003 - 01
+5. REPORTING REQUIREMENTS:
+This LER is submitted pursuant to 10 CFR 50.73(a)(2)(i)(B) to report a condition prohibited by the Technical Specifications.
+As described above, it has been determined, retrospectively, that the SGK05A unit actually became inoperable at 1530 on
+10/25/22. At that point, Required Action A.1 of TS 3.7.20 should have been entered such that action should have been
+immediately taken "to implement mitigating actions" (i.e., to start the supplemential cooling train). With that Required
+Action not met, the plant should have then been placed in Mode 3 within 6 hours per Required Action B.1 of TS 3.7.20.
+With these Required Actions and their Completion Times not met (due to the unknown inoperability at the time), a
+condition prohibited by TS 3.7.20 occurred. That is, with the plant in Mode 1 throughout the time of the noted condition,
+the affected Class 1E A/C train was inoperable for a period of time longer than allowed by the Technical Specifications.
+6. CAUSE OF THE EVENT:
+The cause of this event was due to TXV #1 being stuck closed, which deprived the compressor of refrigerant, causing it to
+trip on high discharge temperature. A contributing cause of this event was that the new valve internals of TXV #1 on
+SGK05A were binding with the original valve body push rod holes, causing the valve to stick and not function properly. An
+additional contributing cause was an inadequate post-maintenance testing strategy that did not identify the degraded
+condition.
+7. CORRECTIVE ACTIONS:
+Upon declaring the SGK05A unit inoperable, the TXV valve was replaced, post-maintenance testing was completed, and
+the unit was restored to OPERABLE status. In addition, based on the extent of condition and cause evaluation performed
+for this event, corrective actions were identified for SGK05A and SGK05B as well as for the identical units SGK04A and
+SGK04B [EIIS system: VI, component: AHU] for the control room ventilation system. Specifically, the following corrective
+actions were identified.
+• Establish preventive maintenance (PM) tasks that replace TXV #1 fully for all four identical air conditioners
+(SGK04A, SGK04B, SGK05A, SGK05B) on an 18-year frequency. The internals and body will be replaced on
+TXV #1, and the remaining TXVs will have the internals replaced.
+• Revise active corrective jobs, PM work instructions, and PM basis/planner notes to check superheat values at
+various operating points of SGK04A, SGK04B, SGK05A, and SGK05B. Additionally, adjust the specified post-
+maintenance testing to take superheat measurements for TXV #1 to confirm its Operability.
+In addition, the following actions were identified:
+• Generate training request to communicate event and lessons learned. When Operability was challenged for the
+Class 1E A/C units, placing supplemental cooling in service could have prevented an LER.
+• Communicate a summary of the results/learnings from the equipment failure analysis evaluation to designated
+Callaway personnel.
+8. PREVIOUS SIMILAR EVENTS:
+Failure of the SGK05A/B units was previously reported in LER 2013-001-00, as submitted to the NRC on February 15,
+2013. In that case, the failure was due to refrigerant leakage. Compared to the currently reported event, the Technical
+Specification compliance aspect of the LER 2013-001-00 event was different because Technical Specification 3.7.20 was
+not incorporated into the Callaway Technical Specifications until 2019.
+NRC FORM 366A (06-2016)(cid:9) Page 4 of 4

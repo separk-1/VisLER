@@ -1,0 +1,272 @@
+or,
+(cid:9)
+wAmeren
+Callaway Plant
+MISSOURI
+March 7, 2022
+ULNRC-06713
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+10 CFR 50.73
+Ladies and Gentlemen:
+DOCKET NUMBER 50-483
+CALLAWAY PLANT UNIT 1
+UNION ELECTRIC CO.
+RENEWED FACILITY OPERATING LICENSE NPF-30
+LICENSEE EVENT REPORT 2022-001-00
+REACTOR TRIP DURING REACTOR TRIP BREAKER SURVEILLANCE TESTING
+The enclosed licensee event report (LER) is submitted in accordance with 10CFR50.73(a)(2)(iv)(A) to
+report a reactor protection system actuation (reactor trip) and auxiliary feedwater actuation.
+This letter does not contain new commitments.
+Sincere
+r
+Fred B1
+Senior Director, Nuclear Operations
+Enclosure
+LER 2022-001-00
+8315 County Road 459(cid:9) Steedman, MO 65077(cid:9) AmerenMissouri.com
+ULNRC-06713
+March 7, 2022
+Page 2 of 3
+cc:(cid:9) Mr. Scott A. Morris
+Regional Administrator
+U. S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Boulevard
+Arlington, TX 76011-4511
+Senior Resident Inspector
+Callaway Resident Office
+U.S. Nuclear Regulatory Commission
+8201 NRC Road
+Steedman, MO 65077
+Mr. M. Chawla
+Project Manager, Callaway Plant
+Office of Nuclear Reactor Regulation
+U.S. Nuclear Regulatory Commission
+Mail Stop 08B 1 A
+Washington, DC 20555-0001
+ULNRC-06713
+March 7, 2022
+Page ,3 of 3
+Index and send hardcopy to QA File A160.0761
+Hardcopy:
+Certrec Corporation
+6500 West Freeway, Suite 400
+Fort Worth, TX 76116
+(Certrec receives ALL attachments as long as they are non-safeguards and may be publicly
+disclosed.)
+Electronic distribution for the following can be made via LER ULNRC Distribution:
+F. M. Diya
+B. L. Cox
+F. J. Bianco
+S. P. Banker
+M. A. McLachlan
+K. A. Mills
+T. A. Witt
+R. C. Wink
+T. B. Elwood
+Corporate Oversight
+NSRB Secretary
+Performance Improvement Coordinator
+Resident Inspectors (NRC)
+STARS Regulatory Affairs
+Mr. Jay Silberg (Pillsbury Winthrop Shaw Pittman LLP)
+Ms. Kathleen McNelis (Public Service Commission)
+Ms. Claire Eubanks (Public Service Commission)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(06-2020)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+0 RN., LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
++. regarding(cid:9) burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+%.. (See Page 3 for required number of digits/characteis for each block) Nuclear (cid:9) Regulatory (cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+.L.f . .(cid:9) Infocollects.Resource@nrc.gov,(cid:9) and the OMB reviewer at(cid:9) OMB Office of Information and Regulatory
+w(cid:9) 1 (cid:9) II a(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs,(cid:9) (3150-0104),(cid:9) Attn:(cid:9) Desk ail: oira submissionfffiomb.emoov.(cid:9) The NRC may not conduct or
+'f•* .°(cid:9) https://www.nrc.aoy/readino-rm/doc-collections/nureas/staff/sr1022/r3f) srepqounessorti..n ganord(cid:9) requiring go (cid:9) nthiescnoontecznuicrVpitaoysreaspcournrdeny , va aa lz id ilrtiAtirc oonftrionlfonnunmabtierorn unless the document
+1. Facility Name 2. Docket Number 3. Page
+Callaway Plant. Unit No. 1 05000483 1 OF 4
+4. Title
+Reactor Trip During Reactor Trip Breaker Surveillance Testing
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Revis io n Month Day Year
+Number No. 05000
+Facility Name Docket Number
+01 07 2022 2022 - 001 - 00 03 07 2022
+05000
+a Operating Mode 10. Power Level
+MODE 1 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 II 20.2203(a)(2)(vi) • 50.36(c)(2) • 50.73(a)(2)(iv)(A) q 50.73(a)(2)(x)
+El(cid:9)
+q 20.2201(b) • 20.2203(a)(3)(i) 50.46(a)(3)(ii) q 50.73(a)(2)(v)(A) 10 CFR Part 73
+q 20.2201(d) • 20.2203(a)(3)(ii) q 50.69(g) • 50.73(a)(2)(v)(B) q 73.71(a)(4)
+• 20.2203(a)(1) • 20.2203(a)(4) q 50.73(a)(2)(i)(A) • 50.73(a)(2)(v)(C) q 73.71(a)(5)
+q 20.2203(a)(2)(i) 10 CFR Part 21 q 50.73(a)(2)(i)(B) q 50.73(a)(2)(v)(D) q 73.77(a)(1)(i)
+q 20.2203(a)(2)(ii) • 21.2(c) q 50.73(a)(2)(i)(C) q 50.73(a)(2)(vii) q 73.77(a)(2)(i)
+q 20.2203(a)(2)(iii) 10 CFR Part 50 q 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) q 73.77(a)(2)(ii)
+Ej(cid:9)
+q 20.2203(a)(2)(iv) • 50.36(c)(1)(i)(A) q 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+q 20.2203(a)(2)(v) • 50.36(c)(1)(ii)(A) q 50.73(a)(2)(iii) q 50.73(a)(2)(ix)(A)
+q Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+tT. B. Elwood, Supervising Engineer, Regulatory Affairs and Licensing 1314-225-1905
+13. Complete One Line foreach Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+D JG RLY T405 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+• No q Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+With the plant at full power on January 7, 2022, an undetected relay failure caused the solid-state reactor protection system
+(SSPS) to actuate during restoration from a Reactor Trip Breaker 'B' Trip Actuating Device Operational Test, thus resulting
+in an unplanned reactor trip.
+The reactor trip was reported per Event Notification 55698 in accordance with 10 CFR 50.72(b)(2)(iv)(B) and
+50.72(b)(3)(iv)(A).
+The cause of the reactor trip was that procedure OSP-SB-0001B, "Reactor Trip Breaker 'B' Trip Actuating Device
+Operational Test," did not include adequate instructions for verifying the absence of a "B" train General Warning trip signal
+prior to operating the "A" train Multiplexer Test Switch during test restoration. This was due to inadequate guidance for
+development of the procedure.
+Corrective Actions include revising Operations surveillance procedures to include verification of green and amber test lights
+at panel SB032B during restoration and revising Operations and l&C surveillance procedures to include verification that
+contacts for relays that have actuated during the test have changed back to their normal state, prior to test restoration.
+Additional corrective actions include revising the procedure preparation process, improving the screening and incorporation
+of Operating Experience, improving lesson plans, conducting training, placing operator aids adjacent to the Multiplexer Test
+Switch, and requiring an inspection on other master relays.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+infocollects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submissionOomb.eop.qov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+httos://www.nrc.aovireadino-rm/doc-collections/nureasistaff/sr1022/r3/) requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Callaway Plant, Unit No. 1 05000-483 NUMBER NO.
+2022 - 001 - 00
+NARRATIVE
+1. DESCRIPTION OF STRUCTURE(S), SYSTEM(S), AND COMPONENT(S):
+The systems and components affected by this event include the reactor protection system (RPS) and the solid-state protection
+system (SSPS).
+The RPS at Callaway Plant initiates a unit shutdown, based on the values of selected unit parameters, to protect against violating
+the core fuel design limits and reactor coolant system pressure boundary design limits during anticipated operational occurrences
+and to assist the Engineered Safety Features systems in mitigating accidents.
+2. INITIAL PLANT CONDITIONS:
+Callaway was in MODE 1 at approximately 100% rated thermal power at the time of this event. No major safety related systems
+were out of service.
+3. EVENT DESCRIPTION:
+On January 7, 2022 at 1223 with the reactor at approximately 100% rated thermal power, the reactor automatically tripped as a
+result of a set of contacts internal to SSPS 'B' train Master Relay SB032CK524 that failed to close. Safety systems functioned as
+expected. The Operations staff responded to the event in accordance with applicable plant procedures. An ENS notification (EN#
+55698) was made for this event at 1629 hours on January 7, 2022.
+Prior to the reactor trip, Operations and Instrumentation and Control (I&C) personnel coordinated the performance of ISF-SB-00A32,
+"SSPS Tm B Functional Test," and OSP-SB-0001B, "Reactor Trip Breaker 'B' Trip Actuating Device Operational Test," to perform
+regularly scheduled Technical Specification surveillances on the "B" Train Solid State Protection System and "B" Train Reactor Trip
+Breaker. All steps in both procedures were performed as written, with MC completing ISF-SB-00A32 as briefed prior to the
+performance of Section 6.4 of OSP-SB-0001B.
+With AC testing completed, Operations proceeded with the performance of Section 6.4 for the Trip Breaker 'B' Trip Actuating
+Device Operational Test (TADOT), which closes Reactor Trip Breaker Bypass Breaker "B" in order to conduct testing that opens
+Reactor Trip Breaker "B". By design, closing Reactor Trip Breaker Bypass Breaker "B" creates a General Warning signal which has
+the potential to trip the reactor if a second General Warning signal is received. After testing was completed and during the
+restoration of Section 6.4, once Reactor Trip Breaker "B" was closed, Reactor Trip Breaker Bypass Breaker "B" was opened.
+In accordance with OSP-SB-0001B, Operations verified that Annunciator 76A, "SSPS B GENERAL WARNING," was clear
+and that the General Warning red light on panel SB029B for SSPS Train 'B' was off. These indications led Operators to
+believe that the General Warning signal was no longer present, and consequently, the Operators proceeded on with Step
+6.4.45 to return the multiplexer test switch through "Inhibit" to the "A+B" position at SB029B. Moving the multiplexer test
+switch through "Inhibit" is known to generate a second General Warning signal, but this is required to restore SSPS to the
+normal configuration. When Operations performed Step 6.4.45 to place the multiplexer test switch through "Inhibit" at
+SB029B, a reactor trip occurred unexpectedly.
+Per plant design, an auxiliary feedwater system actuation occurred as expected in response to the reactor trip. Also, consistent with
+plant response to a reactor trip from a high power level, a main feedwater isolation signal was generated.
+Following the reactor trip, an erratic position indication was observed for one feedwater isolation valve, but the valve was
+subsequently confirmed to be closed. In addition, one intermediate range nuclear instrumentation channel failed. Other nuclear
+instrumentation channels functioned correctly to indicate the shutdown state of the reactor. These failures did not complicate the
+(cid:9)
+NRC FORM 3668 (08-2020)
+Page 2 of 4
+(cid:9)(cid:9)
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+$ (cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+4,1(cid:9) CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at OMB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk all: oira submissioneomb.eocoov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+httos://www.nrc.00vireadino-rm/doc-collections/nureas/staff/srl 022/r30 requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Callaway Plant, Unit No. 1 05000-483 NUMBER NO.
+2022 - 001 - 00
+Operators' response to the event.
+After the immediate actions of procedure E-0, "Reactor Trip or Safety Injection," were performed, and once the plant was
+stabilized, Operations contacted I&C to investigate the cause of the failure. l&C discovered that the green test light was
+de-energized on panel SB032B. After reviewing the appropriate electrical drawings, failure of the 6-10 contacts for relay
+SB032CK524 was identified as a potential cause. With permission from Operations, relay SB032CK524 was mechanically
+agitated. This caused the green test light on SB032B to illuminate, indicating that the 6-10 contacts had previously not
+properly closed.
+4.(cid:9) ASSESSMENT OF SAFETY CONSEQUENCES:
+There were no actual nuclear, radiological, or personnel safety impacts associated with this event. The potential impact
+was on nuclear safety with respect to challenging the reactor trip system as well as any potential challenges to the plant due
+to the transient associated with a reactor trip. However, the reactor automatically tripped (i.e., shut down) per design, and
+all safety systems functioned as designed with the minor exceptions as described above in the Event Description section.
+5.(cid:9) REPORTING REQUIREMENTS:
+This LER is submitted pursuant to 50.73(a)(2)(iv)(A) to report a reactor protection system actuation during surveillance
+testing, as well as an auxiliary feedwater actuation. Specifically, 10 CFR 50.73(a)(2)(iv)(A) states in part, "The licensee
+shall report:
+(A) Any event or condition that resulted in manual or automatic actuation of any of the systems listed in paragraph (a)(2)(iv)(B) of
+this section...
+(B) The systems to which the requirements of paragraph (a)(2)(iv)(A) of this section are:
+(1)(cid:9) Reactor protection system (RPS) including: reactor scram or reactor trip....
+(6) PWR auxiliary or emergency feedwater system.
+The Callaway plant RPS was actuated on January 7, 2022 at 1223. This fulfills the reporting requirement of 10 CFR
+50.73(a)(2)(iv)(A) by actuation of the system specified in 10 CFR 50.73(a)(2)(iv)(B)(1).
+A valid auxiliary feedwater system actuation was initiated after the reactor trip. This fulfills the reporting requirement of 10 CFR
+50.73(a)(2)(iv)(A) by actuation of the system specified in 10 CFR 50.73(a)(2)(iv)(B)(6).
+6.(cid:9) CAUSE OF THE EVENT:
+The cause of the reactor trip was that procedure OSP-SB-0001B, "Reactor Trip Breaker 'B' Trip Actuating Device Operational Test,"
+did not include adequate instructions for verifying the absence of a "B" train General Warning trip signal prior to operating the "A"
+train multiplexer test switch during test restoration. This was due to inadequate guidance for development of the procedure.
+(cid:9)
+NRC FORM 366A (06-2016) Page 3 of 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08131/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: BO hours. Reported
+A lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U.S.
+°M,(cid:9) CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource©nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submissionpomb.eon.qov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+httos://www.nrc.00vireadino-rm/doc-collections/nureas/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Callaway Plant, Unit No. 1 05000-483 NUMBER NO.
+2022 - 001 - 00
+7. CORRECTIVE ACTIONS:
+Corrective Actions include revising Operations surveillance procedures to include verification of green and amber test lights at panel
+SB032B (A) prior to operation of the multiplexer test switch and revising Operations and l&C surveillance procedures to include
+verification that contacts for relays that actuated during the test have changed back to their normal state prior to test restoration.
+Additional corrective actions include revising the procedure preparation process, improving the screening and incorporation of
+Operating Experience, improving lesson plans, conducting training, placing operator aids adjacent to the multiplexer test switch, and
+requiring an inspection on other master relays.
+8. PREVIOUS SIMILAR EVENTS:
+No previous occurrences of a reactor trip due to inadequate verification that a "B" ('A") train general warning trip signal did not exist
+prior to the operation of the "A" ("B") train multiplexer test switch have occurred at Callaway Plant. There were three
+previous occurrences of reactor trips that occurred in 2020 (listed below), but there is no commonality in the causes of those
+reactor trips in comparison to the cause of the reactor trip described in this LER.
+1. LER 2020-002, "Reactor Trip and AFW Actuation Following Spurious MFRV Closure," submitted via Ameren Missouri letter
+ULNRC-06585, dated June 3, 2020 (Accession Nos. ML20155K872, ML20155K873)
+2. LER 2020-006, "Reactor Trip due to Main Generator Ground Fault, submitted via Ameren Missouri letter ULNRC-06620,
+dated November 25, 2020 (Accession Nos. ML20330A266, ML20330A267)
+3. LER 2020-008, "Reactor Trip due to Main Generator Ground Fault," submitted via Ameren Missouri letter ULNRC-06638,
+dated February 18, 2021 (Accession No. ML21049A109)
+(cid:9)
+NRC FORM 366A (06-2016) Page 4 of 4

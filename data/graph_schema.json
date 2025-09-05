@@ -1,0 +1,61 @@
+{
+  "node_types": [
+    "Operating_Mode",
+    "Power_Level",
+    "Condition",
+    "Procedure_or_Regulation",
+    "Human_Action",
+    "Outcome",
+    "Cause",
+    "CorrectiveAction"
+  ],
+  "edge_rules": [
+    {
+      "from": "Operating_Mode",
+      "to": "Human_Action",
+      "relation": "context"
+    },
+    {
+      "from": "Power_Level",
+      "to": "Human_Action",
+      "relation": "context"
+    },
+    {
+      "from": "Condition",
+      "to": "Human_Action",
+      "relation": "triggers"
+    },
+    {
+      "from": "Procedure_or_Regulation",
+      "to": "Human_Action",
+      "relation": "guides"
+    },
+    {
+      "from": "Human_Action",
+      "to": "Outcome",
+      "relation": "leads_to"
+    },
+    {
+      "from": "Cause",
+      "to": "Outcome",
+      "relation": "explains"
+    },
+    {
+      "from": "CorrectiveAction",
+      "to": "Procedure_or_Regulation",
+      "relation": "revises_or_trains"
+    },
+    {
+      "from": "CorrectiveAction",
+      "to": "Outcome",
+      "relation": "mitigates_if_no_proc"
+    }
+  ],
+  "display": {
+    "label_field_priority": [
+      "extraction_text",
+      "text"
+    ],
+    "truncate": 60
+  }
+}

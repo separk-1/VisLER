@@ -1,0 +1,231 @@
+James D. Blankenship
+Site Vice President
+R.E. Ginna Nuclear Power Plant
+1503 Lake Rd.
+Ontario. NY 14519
+315-791-5200 Office
+james.blankenship@constellation.com
+Amew Constellation
+www.constellation.com
+March 7, 2024
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+RE. Ginna Nuclear Power Plant
+Renewed Facility Operating License No. DPR-18
+NRC Docket No. 50-244
+Subject:(cid:9) Supplement to LER 2023-003, Manual Reactor Trip due to
+Degraded Condenser Vacuum from Lowering Main Steam to Air
+Ejectors and Auxiliary Feedwater Actuation due to low Steam
+Generator Level
+The attached Licensee Event Report (LER) 2023-003-01 is submitted in
+accordance with 10 CFR 50.73 under the provisions of NUREG-1022, Revision
+3, Event Reporting Guidelines 10 CFR 50.72 and 50.73. There are no new
+commitments contained in this submittal. This submittal is for Revision 01 of the
+LER.
+Should you have any questions regarding this submittal, please contact Justin
+Knowles at (315) 791-3393.
+Sincerely,
+James D. Blankenship
+Attachment: LER 2023-003, Revision 01
+cc:(cid:9) NRC Regional Administrator, Region 1
+NRC Project Manager, Ginna
+NRC Resident Inspector, Ginna (e-mail)
+Attachment
+LER 2023-003, Revision 01
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nureg s/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+R.E. Ginna Nuclear Power Plant, Unit 1
+00244 1 OF(cid:9) 4
+052
+4. Title
+Supplement to LER 2023-003-00, Manual Reactor Trip due to Degraded Condenser Vacuum from Lowering Main Steam to Air
+Ejectors and Auxiliary Feedwater Actuation due to low Steam Generator Level
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+10 12 2023 2023 -(cid:9) 003(cid:9) - 01 03 07 2024 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 4 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Justin Knowles, Regulatory Assurance Manager 315-791-3393
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B LD PCV M0120 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On 10/12/2023, Ginna Unit 1 experienced an uncomplicated manual reactor trip due to high Main Condenser back pressure and
+a valid Auxiliary Feedwater actuation due to low Steam Generator level. At 2116, Operations received a high limit alarm for Air
+Ejector Mass Flow Rate and observed condenser vacuum degrading and generator output beginning to lower. Field personnel
+began bypassing the Main Air Ejector Steam Pressure Control Valve to restore steam to the Air Ejectors. Concurrently with
+actions in the field, the Main Control Room (MCR) Operators began a procedurally directed downpower. At 2127, the five-minute
+restriction for turbine operation in the 'Back Pressure' region was exceeded and the MCR Unit Supervisor directed a reactor trip
+as procedurally required.
+Loss of supply air to the Main Air Ejector Steam Pressure Control Valve was due to the Instrument Air (IA) Pressure Control
+Valve (PCV) not providing adequate output pressure to keep the valve open. The IA PCV was replaced and tested satisfactory
+prior to return to service.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 00244
+052 2023 - 003 - 01
+NARRATIVE
+I.P RE-EVENT PLANT CONDITIONS
+At the time of the component failure, the plant was in MODE 1 at 100% rated thermal power.
+II. DESCRIPTION OF EVENT
+A. EVENT
+On 10/12/2023 at 2127, Operations staff at Ginna Unit 1 initiated a manual reactor trip due to high Main Condenser back
+pressure. The trip was uncomplicated and the operating crew stabilized the plant at the no-load reactor coolant
+temperature.
+The operating crew received a Plant Process Computer System (PPCS) high limit alarm for Air Ejector Mass Flow Rate at
+2116. Operators concurrently observed condenser vacuum degrading and generator output beginning to lower. Loss of
+Condenser Vacuum procedure was entered. The Field Supervisor and Principal Plant Operator (PPO) were dispatched to
+investigate and found that the Main Air Ejector Steam Pressure Control Air Operated Valve (AOV) was approximately 20%
+open and closing and steam supply pressure to the Air Ejectors was abnormally low and lowering. Field personnel began
+bypassing the Main Air Ejector Steam Pressure Control AOV to restore steam to the Air Ejectors. At approximately 2125,
+field personnel were successful in bypassing the valve and restoring Air Ejector operation. Concurrently with actions in
+the field, the Main Control Room (MCR) Operators began a procedurally directed downpower. At 2125 the Main
+Condenser back pressure began to lower, approximately 30 seconds after Air Ejector operation was restored. At 2127,
+the five minute restriction for turbine operation in the 'Back Pressure' region was exceeded and the MCR Unit Supervisor
+directed a reactor trip as required per the Loss of Condenser Vacuum procedure.
+Loss of supply air to the Main Air Ejector Steam Pressure Control valve was the result of the Instrument Air Pressure
+Control Valve failing to provide adequate output pressure to maintain the valve in the open position. The Instrument Air
+Pressure Control Valve was replaced and tested satisfactory prior to return to service.
+B. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS CONTRIBUTED TO THE EVENT:
+No other Systems, Structures, or Components (SSCs) were inoperable at the start of the event and contributed to the
+event.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 00244
+052 2023 - 003 - 01
+NARRATIVE
+C. DATES AND APPROXIMATE TIMES OF MAJOR OCCURENCES:
+2116 10/12/2023 PPCS Air Ejector Mass Flow Rate high limit alarm received
+2121 10/12/2023 Loss of Condenser Vacuum entered
+2125 10/12/2023 Main Air Ejector Steam Pressure Control Valve bypassed by field personnel
+2127 10/12/2023 Manual Reactor Trip
+D. OTHER SYSTEMS OR SECONDARY FUNCTIONS AFFECTED:
+None
+E. METHOD OF DISCOVERY:
+Self-revealing: At 2116, MCR received PPCS Air Ejector Mass Flow Rate high limit alarm. Operators were dispatched to
+the field and found that the Main Air Ejector Steam Pressure Control AOV was approximately 20% open and closing and
+steam supply pressure to the Air Ejectors was abnormally low and lowering.
+F. SAFETY SYSTEM RESPONSES:
+The manual reactor trip was not complex, and all systems responded normally post-trip. The Auxiliary Feedwater (AFW)
+System actuated on low Steam Generator water level.
+III. CAUSE OF EVENT:
+A Root Cause Investigation performed by the station determined that the loss of supply air to the Main Air Ejector Steam
+Pressure Control valve was the result of the Instrument Air Pressure Control Valve failing to provide adequate output
+pressure to maintain the valve in the open position. A failure analysis concluded the supply air flow-path of the Instrument
+Air Pressure Control Valve was obstructed due to poor manufacturing quality resulting in lowered output pressure.
+Organizational factors were also investigated and the team identified improvement opportunities during the stations
+implementation of the Single Point Vulnerability (SPV) project in diverse stakeholder engagement and use of risk-
+elimination bias.
+IV. ASSESSMENT OF THE SAFETY CONSEQUENCES OF THE EVENT:
+Per UFSAR 15.0.8.2, this reactor trip falls under Condition II - Faults of Moderate Frequency. The plant was capable of
+being returned to operation after corrective action. As there was no loss of any barrier to the escape of radioactive
+products, there was no release of radioactive materials in effluents to unrestricted areas (in conformance with 10 CFR 20,
+Standards for Protection Against Radiation). The event did not propagate to a more serious incident of the Condition III or
+Condition IV type.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 00244
+052 2023 - 003 - 01
+NARRATIVE
+V. CORRECTIVE ACTIONS
+The Instrument Air Pressure Control Valve was replaced and tested satisfactory prior to return to service.
+Long-term corrective actions include:
+1. Dresser Masoneilan Model 77-20 regulators installed in single point vulnerability (SPV) locations will be replaced to
+prevent SCRAM recurrence.
+2. Creation of independent, cross-functional SPV Challenge team to challenge all existing mitigation and elimination
+strategies.
+3. Conduct a Leadership Training Case Study for Operations, Maintenance, and Engineering focusing on the contributing
+causes of this event. The training includes all Front Line Supervisors (FLS), Mid Level Managers (MLMs) and Senior
+Leadership Team (SLT) personnel.
+4. Upgrade Air Ejector Steam Control AOV from Low Risk SPV to Medium Risk SPV and implement and elimination
+strategy.
+VI. ADDITIONAL INFORMATION:
+LER 2023-003-00 documented the Expected Submission Dated of the Supplemental Report as 03/08/2023 and it should
+have been dated 03/08/2024.
+A. FAILED COMPONENTS:
+Instrument Air Pressure Control Valve to the Main Air Ejector Steam Pressure AOV
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+A LER historical search was conducted and no similar LER events were identified.
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION IDENTIFIER AND SYSTEM
+NAME OF EACH COMPONENT OR SYSTEM REFERRED TO IN THIS LER:
+COMPONENT - Pressure Control Valve
+IEEE 803 FUNCTION NUMBER - PCV
+IEEE 805 SYSTEM IDENTIFICATION - LD
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 4

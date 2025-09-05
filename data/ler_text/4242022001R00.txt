@@ -1,0 +1,100 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+,,...,.‹,, (cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOR, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block)
+Nuclear(cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+,,.(cid:9) .(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of Information and Regulatory
+• ' Affairs, (3150-0104), Attn:(cid:9) Desk ail:(cid:9) c_r.a s.,,:',.-f.,(cid:9) .,:',::,,,-:-:-.e-,:.::(cid:9) .(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+Vogtle Electric Generating Plant
+05000(cid:9) 00424 1 OF(cid:9) 2
+4. Title
+Manual Reactor Trip due to loss of a Main Feed Pump
+5 Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision month Facility Name Docket Number
+Month Day Year Year Day Year
+Number No.
+N/A
+05000
+05 03 2022 2022 -(cid:9) 001(cid:9) - 00 06 24 2022 Facility Name Docket Number
+N/A
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) •, / 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(iXA) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+ri r--
+(cid:9) 20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Jeff Deal (Licensing Manager) 706-848-3792
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X SJ SC GE Y N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+,/ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 15613 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On May 3, 2022 at 15:41 EDT, with Unit 1 in Mode 1 and 100 percent power, the Control Room Operators observed lowering
+steam generator water levels and manually tripped the reactor. The lowering steam generator levels were caused by a
+malfunction of the 1B Main Feed Pump control system. The trip was not complex, and all systems responded normally post trip.
+The Operators stabilized the plant in Mode 3, and decay heat was removed by the steam generators, through the steam dumps
+to the condenser. Unit 2 was not affected. The operating crew performed as expected. The Main Feed Pump control system
+was repaired and the unit was restarted.
+Due to the manual Reactor Protection System (RPS) actuation and the automatic actuation of Auxiliary Feedwater (AFVV)
+System, this event is being reported under 10 CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, library, and Information Collections Branch (T-6 Al0M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omh.eop.gov. The NRC may not conduct or
+blip://www.nrc.g_ovireading-rm/doc-collections/nuregsistaff/srl 022/r3/ r sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection di plays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Vogtle Electric Generating Plant 00424
+2022
+001 00
+NARRATIVE
+NARRATIVE
+A. Event Description
+On May 3, 2022 at 15:41 EDT, with Unit 1 in Mode 1 and 100 percent power, the Control Room Operators observed
+lowering steam generator water levels and manually tripped the reactor. The lowering steam generator levels were caused
+by a malfunction of the 1B Main Feed Pump control system [JK]. The trip was not complex, and all systems responded
+normally post trip. The components that failed were General Electric IS420UCSBH1A control modules.
+There were no Structures, Systems, or Components (SSCs) that were out of service at the beginning of the event that
+contributed to the event.
+Due to the actuation of the Reactor Protection System (RPS)[JC] and the actuation of the Auxiliary Feedwater (AFW)[BA]
+System, this event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+B. Cause of Event
+The cause of the event was a failure of the 1B Main Feed Pump control system which caused the pump to slow down,
+resulting in lowering main feedwater flow to the steam generators.
+C. Safety Assessment
+The Main Feed Pumps [SJ] serve no safety-related function for the unit. When the Operators manually tripped the plant,
+all the appropriate safety systems responded as designed. The AFW system actuated as designed and all control rods
+[AA] fully inserted into the core. The operating crew performed as expected. The event was within the analysis of the
+Updated Final Safety Analysis Report, Chapter 15, and there was no release of radioactivity. This event did not pose a
+threat to the health and safety of the public, therefore the safety significance of this issue is very low.
+D. Corrective Actions
+The control system for the Main Feed Pump was repaired.
+E. Previous Similar Events
+None.
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 2(cid:9) of(cid:9) 2

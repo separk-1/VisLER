@@ -1,0 +1,105 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burdenper response to comply with this mandatory reflection request 80 hours(cid:9) Reported lessons
+re..." (cid:9) LICENSEE EVENT REPORT (LER) teamed are incorporated into the licensing process and fed bad( to industry. Send comments regarding burden
+N estimate to the FOIA, Library, and information Collections Branch (T-6 MOM), U. S. Nuclear Regulatory
+s (cid:9) (See Page 2 for required number of digits/characters for each block) Commssi ion, Washington, DC 20555-0001, or by erna6 to infocolleds.Resorce@drc.gov, and the OMBrevievrer
+at OMB Ofbre of Information and Regulatory Affairs, (3150-0104), Attn: Desk Of (cid:9)for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Sheet NW, Washington, DC 20503; email pica subinissionGombeoo.gov. The NRC may
+htto://www.nrc.goWreading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person Is not reverted to respond to, a collection of Information unless the document
+requesting or regtirbtg the collection displays a amently valid OMB control number.
+1. Facility Name • 050 2. Docket Number 3. Page
+Joseph M. Farley Nuclear Plant, Unit 2 364 1 OF(cid:9) 2
+052
+4. Title
+Pressurizer Code Safety Valve Lift Pressure Outside of Technical Specifications Limits
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S Neq uu me bn eti ra l Re Nvi os .i on Month Day Year Facility Name q 050 Docket Number
+10 24 2023 2023 -(cid:9) 003(cid:9) - 00 12 07 2023 Facility Name Docket Number
+052
+9. Operat ng Mode 10. Power Level
+6 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 0(cid:9) 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) q 73.1200(a)
+20.2201(b) 20.2203(a)(3)(1) 50.36(c)(1)(I)(A) 50.73(a)(2)(II)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+fl(cid:9)
+20.2201(d) 20.2203(a)(3)(11) 50.36(c)(1)(11)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+j(cid:9)
+20.2203(a)(1) q 20.2203(a)(4) q 50.36(c)(2) [](cid:9) 50.73(a)(2)(iv)(A) [](cid:9) 50.73(a)(2)(x) q 73.1200(d)
+II 20.2203(a)(2)(1) 10 CFR Part 21 50.46(a)(3)(1i) fl(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73 q 73.1200(e)
+II 20.2203(a)(2)(9) 21.2(c) q 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) q 50.73(a)(2)(i)(A) Li(cid:9) 50.73(a)(2)(v)(C) q 73.77(a)(2)(i) Li(cid:9) 73.1200(g)
+20.2203(a)(2)(iv) V(cid:9) 50.73(a)(2)(i)(B)
+fl(cid:9)
+50.73(a)(2)(v)(D) 73.77(a)(2)(11) 73.1200(h)
+20.2203(a)(2)(v) fl(cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+II OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Gene Surber. Licensina Manaaer (334) 661-2265
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X AB RV C710 Y
+7
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+g/ (cid:9) No II(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On October 24, 2023, while at 0% power level and Mode 6 (refueling), it was discovered that a Unit 2 pressurizer code safety
+valve (PSV), which had been removed during the refueling outage (2R29) and shipped off-site for testing, failed its as-found lift
+pressure test. The PSV lifted above the Technical Specification (TS) 3.4.10 allowable lift setting value. Setpoint drift of the PSV
+is the most likely cause of the failure.
+It is likely that the PSV was outside of the TS limits longer than allowable by the Required Action Statement (15 minutes) during
+the previous operating cycle in all applicable modes of operation. Therefore, this condition is being reported in accordance with
+10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+The PSV was replaced during the October 2023 refueling outage.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons teamed are Incorporated into the licensing process and fed back to Industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOR, Library, and Information Collections Branch (T-6 A10M), U. S
+(cid:9) Nuclear Regulatory Commission, Washington, DC 20555.0001, or by email to
+2 CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: Dire submissionftkomb,eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.,gov/reading-rm/doc-collections/nuregs/staff/sr10221r3/) requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+111 050 YEAR SEQUENTIAL REV
+Joseph M. Farley Nuclear Plant, Unit 2 364 NUMBER NO.
+2023
+111 052 003 00
+NARRATIVE
+EVENT DESCRIPTION:
+On October 24, 2023, while Unit 2 was at 0% power level and in Mode 6 (Refueling), with the Reactor Coolant System
+(RCS) [AB] at atmospheric pressure and 91 degrees Fahrenheit, the 2C Pressurizer Code Safety Valve (PSV) [RV] (Serial #
+N56963-01-0003, Manufacturer: Crosby; Model: HB-86-BP) was removed as part of the routine In-Service Testing (1ST)
+program and sent to an off-site testing facility. The as-found lift pressure was discovered to be 2522 psig which was outside
+of the Technical Specification (TS) 3.4.10 allowable lift pressure settings of >/= 2423 psig and <1= 2510 psig. The tested
+valve was within the ASME code acceptance band of +/- 3% (2411-2559 psig). Based on the lift pressure meeting the 1ST
+program (ASME code) monitored requirements, there was no 1ST scope expansion for the PSV.
+EVENT ANALYSIS:
+Setpoint drift of the PSV was determined to be the most likely cause of the failure.
+REPORTABILITY AND SAFETY ASSESSMENT:
+This failure constitutes a condition that is reportable pursuant to 10 CFR 50.73(a)(2)(i)(B), "Any operation or condition which
+was prohibited by the plant's Technical Specifications." There is no firm evidence, prior to the time of discovery at the test
+facility, of when the failure occurred. Since the as-found lift setpoint was within ASME Code allowance and less than 110%
+design pressure of the RCS, the condition did not have an adverse impact on its over-pressurization function. The as-found
+lift pressure was 2522 psig, and the valve re-closed following the lift. There were no actual safety consequences for this
+event. No safety system responses occurred. There was no release of radioactivity.
+CORRECTIVE ACTIONS:
+The PSV was replaced during the October 2023 refueling outage. The as-left setpoints were within +1- 1% tolerance.
+Previous corrective actions for PSV failures included a spring changeout campaign for all PSV's and TS 3.4.10 was also
+previously revised. The 2C PSV that was removed was the last PSV in the spring changeout campaign.
+PREVIOUS SIMILAR EVENTS:
+Similar events have been reported for Unit 1 and Unit 2.
+LER 2023-01-00
+LER 2020-02-00
+LER 2019-01-00
+LER 2018-01-00
+LER 2017-03-00
+OTHER SYSTEMS AFFECTED:
+No other systems were affected by this event.
+NRC FORM 366A (10-01-2023) Page 2(cid:9) of 2

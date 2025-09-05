@@ -1,0 +1,279 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections Branch
+(T-6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and
+Regulatory Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+conduct or sponsor, and a person is not required to respond to, a collection of information unless
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+the document requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Sequoyah Nuclear Plant Unit 1 05000327 1 OF 6
+4. Title
+Failure of 1B-B Centrifugal Charging Pump Results in Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year NA
+Number No. 05000
+Facility Name Docket Number
+07 22 2022 2022 - 001- 00 09 15 2022
+NA 05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Scott Bowman 423.843.6910
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+X CB P P025 Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+N/A N/A N/A
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 2230 eastern daylight time (EDT) on July 18, 2022, operators declared the 1B-B Centrifugal Charging Pump
+(CCP) inoperable and entered Condition A of the Technical Specification (TS) Limiting Condition for Operation
+(LCO) 3.5.2 for one or more trains of the Emergency Core Cooling System inoperable. Enforcement discretion of
+TS LCO 3.5.2 was requested because the estimated time required to troubleshoot, repair, and test the 1B-B CCP
+would exceed the 72 hours allowed by Condition A. The request was granted for a period of 69 hours not to
+exceed a total time of 141 hours. At 1635 EDT on July 24, 2022, the 1B-B CCP was declared OPERABLE.
+Because the 1B-B CCP was inoperable for approximately 138 hours and the unit was not placed in MODE 3 within
+78 hours, this constitutes an operation or condition prohibited by TSs.
+Disassembly of the 1B-B CCP element showed severe wear on impellers 11 through 6 and less severe wear on
+impellers 5 through 1. The wear was on one side of the impellers. This is indicative of shaft bowing. Dye
+penetrant examination of the shaft showed a crack in the split ring keeper key groove at the 11th stage impeller.
+Pending completion of the destructive analysis, the most likely cause of the failure is low stress, high cycle fatigue.
+The 1B-B CCP element was replaced. Corrective actions include implementing preventative maintenance tasks to
+periodically replace CCP shafts.(cid:9) There were no actual safety consequences as a result of this event as the
+1A-A CCP was started and available until the 1B-B CCP was OPERABLE.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2022 - 001 - 00
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of the event, Sequoyah Nuclear Plant (SQN) Unit 1 was in Mode 1 at 100 percent rated
+thermal power.
+II. Description of Event
+A. Event Summary:
+At 2130 eastern daylight time (EDT), on July 18, 2022, operators in the main control room
+(MCR) noticed that the pressurizer [EIIS: PZR] level was slowly lowering with the downstream
+flow control valve near 100 percent open with the 1B-B Centrifugal Charging Pump (CCP)
+[EIIS: CB] [EIIS: P] in service. Thereafter, operators received an unexpected alarm for low flow
+to the reactor coolant pump (RCP) 1 [EIIS: AB] seal. Seal injection flow was adjusted and the
+low flow alarm for RCP 1 cleared. Operators dispatched auxiliary unit operators (AUOs) to the
+field to validate MCR indications. Subsequently, operators received an alarm indicating a
+lowering pressurizer level with level indicating 54 percent and slowly lowering. Operators
+placed the 1A-A CCP in service and pressurizer level began to recover. At 2230 EDT, on
+July 18, 2022, operators declared the 1B-B CCP inoperable and entered Condition A of the
+Technical Specification (TS) Limiting Condition for Operation (LCO) 3.5.2 for one or more trains
+of the Emergency Core Cooling System (ECCS) inoperable.
+TS LCO 3.5.2 Condition A has a 72-hour Completion Time (CT) to restore a train(s) to
+OPERABLE status. If the train is not restored to OPERABLE within 72 hours, the unit is
+required to be in MODE 3 within 6 hours and MODE 4 within 12 hours. Enforcement discretion
+of TS LCO 3.5.2 was requested because the estimated time required to troubleshoot, repair,
+and test the 1B-B CCP would exceed the 72 hours allowed by Condition A. The request was
+granted for a period of 69 hours not to exceed a total time of 141 hours.
+At 1635 EDT on July 24, 2022, the 1B-B CCP was declared OPERABLE. Because the
+1B-B CCP was inoperable for approximately 138 hours and the unit was not placed in MODE 3
+within 78 hours, this constitutes an operation or condition prohibited by TSs and is therefore
+being reported in accordance with 10 CFR 50.73(a)(2)(i)(B).
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and contributed to the event:
+No inoperable structures, components, or systems contributed to this event.
+NRC FORM 366A (08-2020)(cid:9) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2022 - 001 - 00
+C.(cid:9) Dates and approximate times of occurrences:
+Date/Time (EDT) Description
+An operator noted that pressurizer level was slowly lowering and the
+07/18/22, 2130 MCR received an unexpected annunciator for RCP 1 seal water flow
+low.
+The MCR received an unexpected annunciator for pressurizer level
+2220
+high-low.
+Operators declared the 1B-B CCP inoperable. Unit 1 entered
+2230 TS LCO 3.5.2, Condition A. Subsequently, the 1A-A CCP was
+started, and pressurizer level began to return to program level.
+Enforcement discretion of TS LCO 3.5.2 was requested, from NRC,
+because the estimated time required to troubleshoot, repair, and test
+07/21/22, 1730
+the 1B-B CCP exceeded the CT. The request was granted for an
+additional 69 hours.
+The unit was not placed in MODE 3 as required by TS LCO 3.5.2,
+07/22/22, 0430
+Condition B.
+The 1B-B CCP was declared OPERABLE. TS LCO 3.5.2
+07/24/22, 1635
+Condition A was exited.
+D. Manufacturer and model number of each component that failed during the event:
+The 1B-B CCP was manufactured by the Pacific Pump Company (now Flowserve), model 2.5
+RLIJ-11 stage horizontal pump.
+E. Other systems or secondary functions affected:
+There were no other systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+An operator noted that pressurizer level was slowly lowering and the MCR received an
+unexpected annunciator for RCP 1 seal water flow low. The MCR received an unexpected
+annunciator for pressurizer level high-low.
+G. Failure mode, mechanism, and effect of each failed component:
+The most likely failure mode of the 1B-B CCP was low stress, high cycle fatigue.
+NRC FORM 366A (08-2020)(cid:9) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2022 - 001 - 00
+H. Operator actions:
+Operators declared the 1B-B CCP inoperable. The 1A-A CCP was started, and pressurizer level
+began to return to program level.
+I. Automatically and manually initiated safety system responses:
+The 1A-A CCP was manually started in response to the observed plant parameters.
+III. Cause of the Event
+A. Cause of each component or system failure or personnel error:
+Disassembly of the 1B-B CCP element showed severe wear on impellers 11 through 6 and less
+severe wear on impellers 5 through 1. The wear was on one side (180 degrees around the
+circumference) of the impellers. This is indicative of shaft bow. Dye penetrant examination of the
+th
+shaft showed a crack in the split-ring keeper key groove at the 11 stage impeller. Pending
+completion of the destructive analysis, the most likely cause of the failure is low stress, high cycle
+fatigue.
+B. Cause(s) and circumstances for each human performance related root cause:
+There was no identified human performance related root cause.
+IV.(cid:9) Analysis of the Event:
+The function of the ECCS is to provide core cooling and negative reactivity to ensure that the
+reactor core is protected after any of the following accidents: loss of coolant accident (LOCA),
+coolant leakage greater than the capability of the normal charging system; rod ejection accident;
+loss of secondary coolant accident, including uncontrolled steam release or loss of feedwater; and
+a steam generator tube rupture. The addition of negative reactivity is designed primarily for the loss
+of secondary coolant accident where primary cooldown could add enough positive reactivity to
+achieve criticality and return to significant power.
+The ECCS consists of three separate subsystems: centrifugal charging (high head), safety injection
+(SI) (intermediate head), and residual heat removal (RHR) (low head). The ECCS accumulators
+and the refueling water storage tank (RWST) are also part of the ECCS. The ECCS flow paths
+consist of piping, valves, heat exchangers, and pumps such that water from the RWST can be
+injected into the reactor coolant system (RCS) following the accidents described, above. The major
+components of each subsystem are the CCPs, the RHR pumps, the RHR heat exchangers, and the
+SI pumps. Each of the three subsystems consists of two 100% capacity trains that are
+interconnected and redundant such that either train is capable of supplying 100% of the flow
+required to mitigate the consequences of an accident.
+NRC FORM 366A (08-2020)(cid:9) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2022 - 001 - 00
+A probabilistic risk assessment determined the incremental conditional core damage probability for
+SQN Unit 1 associated with an additional 5 days of unavailability of the 1B-B CCP was 2.15E-07.
+The incremental conditional large early release probability for SQN Unit 1 was 3.05E-09. These
+values were below acceptable thresholds and the enforcement discretion granted for an additional
+69 hours was acceptable from a risk perspective.
+V.(cid:9) Assessment of Safety Consequences
+There were no actual safety consequences as a result of this event. The 1A-A CCP was started,
+and pressurizer level began to return to program level.
+A. Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+The 1A-A CCP was OPERABLE and placed in service.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+The event did not occur when the reactor was shut down.
+C.(cid:9) For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+The 1B-B CCP was inoperable for approximately 138 hours.
+VI.(cid:9) Corrective Actions
+The event was entered into the Tennessee Valley Authority Corrective Action Program (CAP)
+under Condition Report 1790511.
+A.(cid:9) Immediate Corrective Actions:
+The 1B-B CCP element was replaced, testing was completed, and the pump was returned to
+service.
+B.(cid:9) Corrective Actions to Prevent Recurrence or to reduce probability of similar events occurring
+in the future:
+Corrective actions include implementing preventative maintenance tasks to periodically
+replace CCP shafts.
+NRC FORM 366A (08-2020)(cid:9) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 1 05000-327 NUMBER NO.
+2022 - 001 - 00
+VII. Previous Similar Events at the Same Site:
+There have been no previous similar events at SQN in the past three years.
+VIII. Additional Information
+There is no additional information.
+IX. Commitments:
+There are no commitments.
+NRC FORM 366A (08-2020)(cid:9) Page 6 of 6

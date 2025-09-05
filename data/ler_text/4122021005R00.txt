@@ -1,0 +1,187 @@
+Beaver Valley Power Station
+P.O. Box 4
+Shippingport, PA 15077
+John J. Grabnar (cid:9) 724-682-5234
+Site Vice President (cid:9) Fax: 724-643-8069
+January 17, 2022
+L-21-294(cid:9) 10 CFR 50.73
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Beaver Valley Power Station, Unit No. 2
+Docket No. 50-412, License No. NPF-73
+LER 2021-005-00
+Enclosed is Licensee Event Report (LER) 2021-005-00, “Manual Reactor Trip and
+Auxiliary Feedwater Actuation due to trip of a Main Feedwater Pump.” This event is
+being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+There are no regulatory commitments contained in this submittal. Any actions described
+in this document represent intended or planned actions and are described for
+information only.
+If there are any questions or if additional information is required, please contact
+Mr. Steve Sawtschenko, Manager, Regulatory Compliance and Emergency Response,
+at 724-682-4284.
+Sincerely,
+John J. Grabnar
+Enclosure: Beaver Valley Power Station, Unit 2 LER 2021-005-00
+cc: Mr. D. C. Lew, NRC Region I Administrator
+NRC Senior Resident Inspector
+Ms. S. Goetz, NRC Project Manager
+INPO Records Center (via INPO Industry Reporting and Information System)
+Mr. L. Winker (BRP/DEP)
+Enclosure
+L-21-294
+Beaver Valley Power Station, Unit 2 LER 2021-005-00
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 (cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block)
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Beaver Valley Power Station, Unit 2
+05000(cid:9) 412 1 OF(cid:9) 3
+4. Title
+Manual Reactor Trip and Auxiliary Feedwater Actuation due to trip of a Main Feedwater Pump
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+11 17 2021 2021 -(cid:9) 005(cid:9) - 00 01 17 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Steve Sawtschenko, Manager, Regulatory Compliance and Emergency Response 724-682-4284
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1313 on November 17, 2021, the Beaver Valley Power Station, Unit No. 2 (BVPS-2) reactor was manually tripped while at
+approximately 100 percent power following a trip of a main feedwater pump (MFP) caused by a loss of adequate suction
+pressure. A transient in the Heater Drain System occurred from a level increase in a Second Point Heater Drain Receiver Tank.
+The level fluctuation resulted in an unexpected actuation of the tank's low-low level switch, which tripped the Train A Heater
+Drain and Separator Drain Receiver Drain Pumps. The trip of these pumps reduced flow and lowered MFP suction pressure. The
+standby condensate pump was not available to automatically start on low MFP pressure. When the MFP tripped, operators
+manually tripped the reactor per procedure. With the spare condensate pump unavailable, MFP suction pressure was unable to
+be restored and the manual reactor trip was procedurally required.
+This event is being reported pursuant to 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a manual actuation of the Reactor
+Protection System, 10 CFR 50.73(a)(2)(iv)(B)(1), and an automatic actuation of the Auxiliary Feedwater System,
+10 CFR 50.73(a)(2)(iv)(B)(6). Corrective actions include changes to procedural controls for conditional single point vulnerabilities
+and condensate pump alignments above 40% power.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Beaver Valley Power Station, Unit 2 412
+2021 - -
+005 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+BACKGROUND
+The heater drain pumps and separator drain receiver drain pumps along with the condensate pumps provide flow at
+sufficient pressure to the suction of the Main Feedwater Pumps (MFPs). BVPS-2 requires two condensate pumps in
+service at full power to provide adequate MFP suction pressure. A third standby condensate pump provides redundancy
+for any MFP suction flow transients that could challenge MFP operation and is normally aligned to auto-start on low MFP
+suction pressure.
+DESCRIPTION OF EVENT
+At 1313 on November 17, 2021 while at approximately 100 percent power, the BVPS-2 reactor was manually tripped
+following a trip of the 21B MFP [SJ] due to a loss of suction pressure. A transient in the Heater Drain System [SN]
+commenced at 1300 due to a level increase in the 21A Second Point Heater Drain Receiver Tank. The level fluctuation
+resulted in high tank level alarms in the control room at 1310, and due to the system perturbations an unexpected
+actuation of the tank's low-low level switch occurred at 1312, which by design tripped the 21A Heater Drain Pump and the
+22A Separator Drain Receiver Drain Pump. The trip of these two pumps reduced flow and lowered MFP suction pressure.
+The standby third condensate pump [SD] was out of service for maintenance since prior to startup from refueling outage
+2R22 on November 12, 2021, and was not available to automatically start on low MFP pressure. When the 21B MFP
+tripped on low suction pressure at 1313, Control Room operators recognized the loss of a running MFP outside of
+procedural requirements and manually tripped the reactor.
+The trip was not complicated and the plant was stabilized in Mode 3. All control rods [AA] fully inserted into the reactor
+core. The Auxiliary Feedwater System (AFW) [BA] automatically actuated on low steam generator [SJ] water level as
+expected, and the AFW system performed as designed. There was no safety-related equipment inoperable at the start of
+the event that contributed to the event. The standby third condensate pump was unavailable at the start of the event and
+this did contribute to the event.
+CAUSE OF EVENT
+The direct cause of the need to perform the manual reactor trip was the loss of MFP suction pressure resulting in an
+automatic trip of a running MFP.
+The apparent cause of this event is additional mitigating actions were not taken when the third condensate pump motor
+was not returned from the vendor as scheduled. Had the standby third condensate pump been available, it would have
+auto-started on low MFP suction pressure, preventing the trip of the running MFP, thus a manual reactor trip would not
+have been necessary. Not having the standby condensate pump available created a conditional single point vulnerability
+within the Condensate [SD] and Heater Drains systems that were not identified or mitigated.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Beaver Valley Power Station, Unit 2 412
+2021 - -
+005 00
+NARRATIVE
+ANALYSIS OF EVENT
+The event was reported per Event Notification 55586 as an event that resulted in the actuation of the reactor protection
+system, 10 CFR 50.72(b)(2)(iv)(B), and a specific system actuation, 10 CFR 50.72(B)(3)(iv)(A). This event is reportable
+pursuant to 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in a manual actuation of the Reactor Protection System,
+10 CFR 50.73(a)(2)(iv)(B)(1), and the automatic actuation of the Auxiliary Feedwater System,
+10 CFR 50.73(a)(2)(iv)(B)(6).
+The plant risk associated with the BVPS-2 reactor trip on November 17, 2021, is considered to be very low. This is based
+on the change in average core damage frequency derived using the conditional core damage probability and change in
+average large early release frequency derived using conditional large early release probability for the event. Therefore,
+this event had very low safety significance.
+CORRECTIVE ACTIONS
+Completed Actions:
+1) The standby third condensate pump was returned to service on November 20, 2021.
+Planned Actions:
+1) Revise the risk management procedure to require additional risk management actions and to reassess conditional
+single point vulnerabilities that remain out of service when exiting an outage.
+2) Revise the maintenance notification screening procedure to incorporate conditional single point vulnerability screening
+guidance.
+3) Verify that planned maintenance strategies for the Unit 2 condensate pumps minimize out of service time when greater
+than 40 percent power.
+4) Revise the startup procedure that if the standby condensate pump is not available, enter an evaluation process prior to
+power ascension above 40 percent power.
+PREVIOUS SIMILAR EVENTS
+A review of the previous three years identified that no similar events have occurred at BVPS.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 3

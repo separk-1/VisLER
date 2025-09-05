@@ -1,0 +1,296 @@
+Ameren
+CallawayPlant
+MISSOURI
+August 18, 2022
+ULNRC-06759
+U.S NuclearRegulatory Commission
+.
+Attn: Document Control Desk
+Washington, DC 20555-0001
+10 CFR 50.73(a)(2)(i)(B)
+10 CFR 50.73(a)(2)(v)(C)
+10 CFR 50.73(a)(2)(v)(D)
+Ladies and Gentlemen:
+DOCKET NUMBER 50-483
+CALLAWAY PLANT UNIT 1
+UNION ELECTRIC CO.
+RENEWED FACILITY OPERATING LICENSE NPF-30
+LICENSEE EVENT REPORT 2022-002-00
+CONTAINMENT SPRAY RECIRCULATION VALVE OUT OF POSITION
+WHICH RESULTED IN CONDITION PROHIBITED BY TECHNICAL
+SPECIFICATIONS AND CONDITION WHICH COULD HAVE PREVENTED
+FULFILLMENT OF A SAFETY FUNCTION
+The enclosed Licensee Event Report (LER) is submitted in accordance with 10 CFR 50.73(a)(2)(i)(B),
+10 CFR 50.73(a)(2)(v)(C), and 10 CFR 50.73(a)(2)(v)(D) to report a violation ofTechnical
+Specification 3.6.6, “Containment Spray and Cooling Systems,” and a condition which could have
+prevented fulfillment ofthe safety function ofthe Containment Spray System.
+This letter does not contain new commitments.
+çO7.
+Fred Bianco
+Senior Director, Nuclear Operations
+Enclosure
+LER 2022-002-00
+8315 CountyRoad459 Steedman, MO 65077 AmerenMissouricom
+ULNRC-06759
+August 18, 2022
+Page 2 of3
+cc: Mr. Scott A. Morris
+Regional Administrator
+U. S. Nuclear Regulatory Commission
+Region IV
+1600 East Lamar Boulevard
+Arlington, TX 76011-4511
+Senior Resident Inspector
+Callaway Resident Office
+U.S. Nuclear Regulatory Commission
+8201 NRC Road
+Steedman, MO 65077
+Mr. M. Chawla
+Project Manager, Callaway Plant
+Office ofNuclear Reactor Regulation
+U.S. Nuclear Regulatory Commission
+Mail Stop O8B1A
+Washington, DC 20555-0001
+ULNRC-06759
+August 18, 2022
+Page3of3
+Index and send hardcopy to QA File A160.0761
+Hardcopy:
+Certrec Corporation
+6500 West Freeway, Suite 400
+Fort Worth, TX 76116
+(Certrecreceives ALL attachments as long as they are non-safeguards and maybe publicly
+disclosed.)
+Electronic distribution for the following can be made via LER ULNRC Distribution:
+F. M. Diya
+B. L. Cox
+F. J. Bianco
+D. E. Farnsworth
+T. A. Witt
+T. B. Elwood
+Corporate Oversight
+NSRB Secretary
+Performance Improvement Coordinator
+Resident Inspectors (NRC)
+STARS Regulatory Affairs
+Mr. Jay Silberg (PillsburyWinthrop Shaw Pittman LLP)
+Ms. Kathleen McNelis (Public Service Commission)
+Ms. Claire Eubanks (Public Service Commission)
+(cid:9)(cid:9)(cid:9)(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+„spa iita,,,,(cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry Send comments
+i'(cid:9) ., Q1. , regarding(cid:9) burden estimate to the FOIA, Library. and Information Collections Branch (T-6 A10M), U.S
+: .(cid:9) ((cid:9) 2.(cid:9) (See Page 3 for required number of digits/characters for each block) Nuclear(cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+.71(cid:9) . Infocollects.Resource@nrc.gov,(cid:9) and the 0MB reviewer at:(cid:9) 0MB Office of Information and Regulatory
+i(cid:9) $(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs.(cid:9) (3150-0104)(cid:9) Attn:(cid:9) Desk ail: oira submissionaomb.eop ciov.(cid:9) The NRC may not conduct or
+4, *,(cid:9) (cid:9) **w *, *- *• ,,,, https://www.nrc.00vireadinci-rm/doc-collections/nureos/staff/sr1022/r31) rs ep qo un es so tir n,
+g
+a on rd
+r
+ea
+q
+p ue irr ins go n
+th
+i es cn oo lt
+le
+r ce tq iou ni r de id
+sp
+t lo
+a
+yr se s ap co un rd
+re
+t no tl,
+y
+a
+v
+aco lidll e 0c Mti Bon
+c
+oo nf ti rn of lo nr um ma bti eo rn
+.
+unless the document
+1. Facility Name 2. Docket Number 3. Page
+Callaway Plant Unit 1 05000483 1 OF 4
+4. Title
+Containment Spray Recirculation Valve Out of Position Resulted in Condition Prohibited by Technical
+Specifications and Condition Which Could Have Prevented Fulfillment of a Safety Function
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+1 '7 Facility Name(cid:9) !Docket Number
+Month i(cid:9) Day (cid:9) Year Year S Neq uu me bn eti ra l : I(cid:9) Rev Nis oi . on Month Day Year '(cid:9) tio-oO--- --(cid:9) -
+I Facility Name(cid:9) iDocket Number
+06 21(cid:9) i 2022 2022 - 002 - 00 08 18 2022(cid:9) '
+05000
+1(cid:9) 1
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 q 20.2203(a)(2)(vi) q 50.36(c)(2) q 50.73(a)(2)(iv)(A) q 50.73(a)(2)(x)
+q 20.2201(b) q 20.2203(a)(3)(i) q 50.46(a)(3)(ii) q 50.73(a)(2)(v)(A) 10 CFR Part 73
+q 20.2201(d) q 20.2203(a)(3)(ii) q 50.69(g) q 50.73(a)(2)(v)(B) q 73.71(a)(4)
+q 20.2203(a)(1) q 20.2203(a)(4) q 50.73(a)(2)(i)(A) /1 50.73(a)(2)(v)(C) q 73.71(a)(5)
+q 20.2203(a)(2)(i) 10 CFR Part 21 ' 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) q 73.77(a)(1)(i)
+q 20.2203(a)(2)(ii) q 21.2(c) q 50.73(a)(2)(i)(C) q 50.73(a)(2)(vii) q 73.77(a)(2)(i)
+q 20.2203(a)(2)(iii) 10 CFR Part 50 q 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) q 73.77(a)(2)(ii)
+q 20.2203(a)(2)(iv) q 50.36(c)(1)(i)(A) q 50.73(a)(2)(ii)(B) q 50.73(a)(2)(viii)(B)
+q 20.2203(a)(2)(v) q 50.36(c)(1)(ii)(A) q 50.73(a)(2)(iii) q 50.73(a)(2)(ix)(A)
+q Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+- T '-
+Licensee Contact(cid:9) rhone Number (Include Area Code)
+T.B. Elwood, Supervising Engineer, Regulatory Affairs and Licensing(cid:9) 014-225-1905
+13. Complete One .Line for each Component Failure Described in this Report
+Cause(cid:9) System(cid:9) Component(cid:9) Manufacturer 1 Reportable To IRIS Cause System(cid:9) Component Manufacturer Reportable To IRIS
+A(cid:9) BE(cid:9) V(cid:9) I(cid:9) Y
+14. Supplemental Report Expected Month(cid:9) Day(cid:9) Year
+15. Expected Submission Date
+Pr No(cid:9) q Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On June 21, 2022 during performance of the B Train Containment Spray (CS) Pump Inservice Test quarterly surveillance,
+the discharge pressure of the B CS Pump failed to meet its Technical Specification (TS) minimum allowable value. A valve
+lineup for the B CS train identified that the CS Pump B Recirculation Throttle Valve, ENVOI 27, was locked open instead of
+its correct position, locked closed. Subsequently, ENVOI 27 was placed in the correct locked-closed position, and the B
+Train CS Pump Inservice Test quarterly surveillance was re-performed with results meeting the acceptance criteria.
+Investigation determined that ENV0127 was last positioned on May 11, 2022 during a fill-and-vent operation of the B CS
+train when the plant was shutdown, after which ENV0127 was not properly restored to a locked-closed position. A review
+of past operation determined that the condition resulted in the failure to meet TS Limiting Condition of Operation 3.6.6 from
+May 23, 2022, when the plant entered the mode of applicability at 0601, until ENVOI 27 was restored on June 21, 2022 at
+1000.
+The cause of this error was determined to be a failure of Operations Technicians to appropriately utilize human
+performance event prevention tools prior to operating ENV0127 during the fill-and-vent restoration activity and ensure
+ENV0127 was returned to the appropriate configuration. As a corrective action, the Operations staff will receive training on
+the requirements, expectations, and tools to ensure plant equipment is positioned correctly.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA. Library, and Information Collections Branch (T-6 MOM). U.S.
+Nuclear Regulatory Commission. Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk ail: oira submission@omb.eop.qov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.govireading-rm/doc-collections/nurects/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR (cid:9) SEQUENTIAL I REV
+Callaway Plant Unit 1 05000-483 NUMBER(cid:9) NO.
+I
+2022 (cid:9) - 002(cid:9) i - 00
+I
+NARRATIVE
+1. DESCRIPTION OF STRUCTURE(S), SYSTEM(S), AND COMPONENT(S):
+The systems and components affected by this event include the B Train of the Containment Spray (CS) System [El IS:BE].
+The CS System at Callaway Plant is responsible for providing containment atmosphere cooling to limit post-accident containment
+pressure and temperature to less than the design values. Additionally, reduction of containment pressure and the iodine removal
+and retention capability of the spray reduces the release of fission product radioactivity from containment to the environment, in the
+event of a Design Basis Accident, to within limits. The CS System consists of two separate trains of equal capacity, each capable of
+meeting the design bases.
+2. INITIAL PLANT CONDITIONS:
+Callaway Plant was in MODE 1 at approximately 100% rated thermal power at the time of discovery of this event. No major safety
+related systems were out of service at the time of discovery of the event, with the exception of the B Train CS System, which was
+inoperable for the surveillance testing leading to discovery of the event. The condition which led to this event occurred when the
+plant was in MODE 6, Cold Shutdown.
+3. EVENT DESCRIPTION:
+On June 21, 2022 Operations performed OSP-EN-P001B, 'Train B Containment Spray Pump Inservice Test," to run the B
+Containment Spray Pump for a quarterly surveillance. During the test the discharge pressure of the B CS Pump was identified as
+225 psig, which is lower than the Technical Specification (TS) minimum discharge pressure of 250 psig. Operations staff walked
+down the valve lineup for the B CS train and identified that ENVOI 27, Containment Spray Pump B Recirculation Throttle Valve, was
+not in the correct position. The normal TS-required position of ENVOI 27 is locked closed, but ENVOI 27 was found locked open.
+Operations repositioned ENVOI 27 to its correct position and reperformed OSP-EN-P001B, resulting in meeting the acceptance
+criteria with a discharge pressure of 255 psig.
+After investigation, it was determined that ENVOI 27 was last positioned during Refueling Outage 25, during a fill-and-vent operation
+for the B CS train on May 11, 2022. During this operation, restoration steps directed that ENVOI 27 be locked-closed; however, the
+valve was mistakenly left in a locked-open position.
+On May 23, 2022 at 0601, the plant entered MODE 4, which is one of the the Modes of applicability for TS Limiting Condition of
+Operation (LCO) 3.6.6, "Containment Spray and Cooling Systems" (Modes 1, 2, 3, 4). Callaway Plant remained in a Mode of
+applicability for TS LCO 3.6.6 from that time on, including when the condition was discovered on June 21, 2022.
+With respect to opposite Train A of the CS System, the period of operation from May 23 through June 21, 2022 was reviewed for
+concurrent inoperability of both trains. Train 'A' of the CS System was inoperable for planned surveillance activities on June 1, 2022,
+from 0346 until 0601 that day.
+An extent-of-condition review was performed per the Callaway Plant Corrective Action Program under Condition Report (CR)
+202204246 as part of the causal investigation for this event to ensure other similar valves were not subject to similar positioning
+errors. Of the five similar-style valves, i.e., those with 90-degree operators oriented in a similar manner that could lend themselves
+to possible mispositioning and which are installed in safety related systems, none were identified with a similar mispositioning issue.
+4. ASSESSMENT OF SAFETY CONSEQUENCES:
+There were no actual nuclear, radiological, or personnel safety impacts associated with this event. The potential impact was on
+radiological safety with respect to ensuring that the function of the CS system was met, if a transient had occurred that required the
+(cid:9)
+NRC FORM 366A (06-2016) Page 2 of 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library. and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submissionaomb.eop.qov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+httos://www.nrc.00vireading-rm/doc-collections/nureqs/staff/sr1022/r31) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+(cid:9) (cid:9)
+YEAR SEQUENTIA(cid:9) L REV
+Callaway Plant Unit 1 05000-483 NUMBER NO.
+2022 - 002(cid:9) - 00
+system's function during the period when TS LCO 3.6.6 was not met. A review of plant parameters and system capability performed
+by Callaway Engineering determined that even though the B CS train was degraded during the period ENVOI 27 was locked-open,
+adequate flow would still have been delivered had the system been called upon to respond to an actual event, i.e, the safety
+functions of the system remained met. Additionally, with the exception of the time period on June 1 from 0346 to 0601, Train 'A' of
+the CS System remained operable throughout the affected period.
+5. REPORTING REQUIREMENTS:
+This LER is submitted pursuant to 10 CFR 50.73(a)(2)(i)(B) to report a condition prohibited by TS LCO 3.6.6, "Containment Spray
+and Cooling Systems," which was not met from May 23, 2022 when the plant entered the Mode of Applicability (Modes 1, 2, 3, 4),
+until the time when ENVOI 27 was restored to its correct configuration of locked closed at 1000 on June 21, 2022.
+This LER is also submitted pursuant to 10 CFR 50.73(a)(2)(v)(C) and (D) as an event which could have prevented fulfillment of a
+safety function of a system that is needed to control the release of radioactive material and mitigate the consequences of an
+accident, since both 'A' and B Trains of CS were concurrently inoperable from June 1, 2022 at 0346 until 0601 the same day, when
+the 'A' Train was removed from service for planned surveillance testing.
+Based on the satisfactory results of the flow analysis performed for this event, this event does not represent a safety system
+functional failure per the reporting guidelines of NEI 99-02, Revision 7, "Regulatory Assessment Performance Indicator Guideline,"
+for the purpose of the NRC Reactor Oversight Process Performance Indicator Program.
+6. CAUSE OF THE EVENT:
+The cause of the event was the failure of Operations Technicians to appropriately use human performance event prevention tools
+prior to operating equipment. Specifically, in restoring the B CS Train from the fill-and-vent operation on May, 11, 2022, ENVOI 27
+was left in a locked-open position instead of the appropriate locked-closed position.
+7. CORRECTIVE ACTIONS:
+Corrective Actions taken in response to this event include repositioning ENV0127 to the appropriate locked-closed configuration,
+which was completed on June 21, 2022 at 1000.
+Corrective Actions planned in response to this event include providing training to Operations to reinforce requirements, expectations,
+and tools to ensure SSCs are positioned correctly. This corrective action is currently planned for completion by September 30,
+2022.
+8. PREVIOUS SIMILAR EVENTS:
+A review of internal operating experience was performed as part of the cause evaluation process and identified the following similar
+events:
+CR 199900079 identified a broken locking device for a similar component (valve) in a different system, EGV0004, Component
+Cooling Water Pump A Discharge Isolation. This event was reviewed and determined to have dissimilar causal factors when
+compared to the subject event of this LER.
+LER 2018-001-00 reported an event involving mispositioning of manual containment isolation valve KAV0118, Service Air
+Containment Supply Outer Isolation Valve, due to inadequate procedural control to ensure the valve was in the correct position prior
+to plant startup from Refueling Outage 22.
+(cid:9)
+NRC FORM 366A (06-2016) Page 3 of 4
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+(cid:9) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+f (cid:9) LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S
+NW
+Nuclear Regulatory Commission. Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov: and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oira submissionaomb.eorloov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor. and a person is not required to respond to: a collection of information unless the document
+https://www.nrc.qovireadino-rm/doc-collections/nureqs/staffisr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+(cid:9)
+YEAR SEQUENTIA(cid:9) L REV
+Callaway Plant Unit 1 05000-483 NUMBER NO.
+2022 - 002(cid:9) - 00
+CR 201802129 documents a valve misposition for KAV0600, Instrument Air Branch Isolation to Auxiliary Boiler Fuel Module. This
+valve is of a different design than ENV0127, but the valve similarly does not have position indication and is also in an unusual
+orientation to operate. This event is similar in that multiple operators performed an incorrect postion verification of the valve,
+ultimately resulting in the valve being left in a closed position instead of the required open position.
+NRC FORM 366A (06-2016) Page 4 of 4

@@ -1,0 +1,268 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections Branch
+(T-6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and
+Regulatory Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+conduct or sponsor, and a person is not required to respond to, a collection of information unless
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+the document requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Sequoyah Nuclear Plant Unit 2 05000328 1 OF 6
+4. Title
+Ice Bed Inoperable Due to Exceeding Surveillance Requirement Frequency
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Month Day Year Year Sequential Rev Month Day Year NA
+Number No. 05000
+Facility Name Docket Number
+07 25 2021 2021 - 001 - 00 09 22 2021
+NA 05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Scott Bowman 423.843.6910
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+X BC MPX Y006 N
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 25, 2021, at 0544 eastern daylight time (EDT), the SQN Unit 2 ice bed temperature monitoring system
+stopped providing accurate data for the ice bed. The data is used to complete a surveillance instruction (SI) to
+verify the ice bed temperature does not exceed 27 degrees Fahrenheit (F) as required by Technical
+Specification (TS) Surveillance Requirement (SR) 3.6.12.1 at a Frequency of every 12 hours. Due to the
+failure, Main Control Room operators authorized performance of 2-SI-IXX-061-138.0, Backup Ice Condenser
+Temperature Monitoring. At 1258, SR 3.6.12.1 was successfully performed; however, the completion time
+exceeded the specified Frequency plus the 25 percent extension allowed by SR 3.0.2 by 20 minutes (SR
+3.6.12.1 had last been completed at 2138 on July 24). Therefore, the Unit 2 ice bed was declared inoperable
+for 20 minutes from 1238 until 1258.
+The cause of the event was the failure of the ice bed temperature monitoring system remote scanner due to
+an internal power supply failure. Corrective actions for this event include developing procedural guidance for
+the response required for a nonfunctional ice bed temperature monitoring system and replacement of obsolete
+instrumentation in the ice bed temperature monitoring system.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 2 05000-328 NUMBER NO.
+2021 001 00
+- -
+NARRATIVE
+I. Plant Operating Conditions Before the Event
+At the time of the event, Sequoyah Nuclear Plant (SQN) Unit 2 was in Mode 1 at 100 percent rated
+thermal power.
+II. Description of Event
+A.(cid:9) Event Summary:
+On July 25, 2021, at 0544 eastern daylight time (EDT), the SQN Unit 2 ice bed [EIIS: BC]
+temperature monitoring system stopped providing accurate data for the ice bed due to the
+failure of a remote scanner [EIIS: MPX] in the system. The data is used to complete a
+surveillance instruction (SI) to verify the ice bed temperature does not exceed 27 degrees
+Fahrenheit (F) as required by Technical Specification (TS) Surveillance Requirement
+(SR) 3.6.12.1 at a Frequency of every 12 hours. Due to the failure, Main Control Room (MCR)
+operators authorized performance of 2-SI-IXX-061-138.0, Backup Ice Condenser Temperature
+Monitoring, which requires calling in instrumentation and controls technicians to take resistance
+temperature detector readings on individual temperature elements inside containment.
+At 1258, SR 3.6.12.1 was successfully performed; however, the completion time exceeded the
+specified Frequency plus the 25 percent extension allowed by SR 3.0.2 by 20 minutes
+(SR 3.6.12.1 had last been completed at 2138 on July 24). SR 3.0.1 states, in part, “[f]ailure to
+perform a Surveillance within the specified Frequency shall be failure to meet the LCO [limiting
+condition for operation].” Therefore, the Unit 2 ice bed was declared inoperable for 20 minutes
+from 1238 until 1258.
+At 1600, an 8-hour non-emergency event notification (EN 55379) was made to the NRC in
+accordance with 10 CFR 50.72(b)(3)(v), as an event or condition that could have prevented the
+fulfillment of a safety function of structures or systems that are needed to: (C) control the
+release of radioactive material and (D) mitigate the consequences of an accident. This LER is
+submitted based on NUREG-1022, Revision 3, Section 3.2.7 guidance that identifies that the
+requirements of 10 CFR 50.73(a)(2)(v) apply when a system that is within the scope of the
+criterion is declared inoperable and no redundant system or equipment could be declared
+operable (the ice bed is a single train system).
+Although the Frequency of SR 3.6.12.1 was exceeded and required the Unit 2 ice bed to be
+declared inoperable, the Unit 2 ice bed remained below 27 degrees F and capable of
+performing its required safety function to provide a heat sink during a Design Basis Accident
+(DBA) in containment. Therefore, no loss of safety function occurred.
+NRC FORM 366A (08-2020)(cid:9) Page 2 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 2 05000-328 NUMBER NO.
+2021 001 00
+- -
+B. Status of structures, components, or systems that were inoperable at the start of the event
+and contributed to the event:
+No inoperable structures, components, or systems contributed to this event.
+C. Dates and approximate times of occurrences:
+Date/Time (EDT) Description
+07/24/21, 2138 SR 3.6.12.1 successfully performed.
+The Plant Engineering Data System indicated the maximum ice bed
+07/25/21, 0538
+temperature was 20.93 degrees.
+MCR operators recognized the Ice Bed Temperature Monitoring
+0544
+System was nonfunctional.
+Operations personnel authorized a conditional performance of
+1030 2-SI-IXX-061-138.0, Backup Ice Condenser Temperature
+Monitoring.
+SR 3.6.12.1 declared not met due to exceeding the specified
+Frequency plus the 25 percent extension allowed by SR 3.0.2
+1238
+(15 hours total). Unit 2 entered TS 3.6.12, Condition A in
+accordance with SR 3.0.1.
+Conditional performance of SR 3.6.12.1 successfully completed.
+1258
+Unit 2 ice bed declared operable and TS 3.6.12, Condition A exited.
+D. Manufacturer and model number of each component that failed during the event:
+SQN-2-XS-061-0138B is an ice bed temperature monitoring system remote scanner
+manufactured by Yokogawa Corporation of America, model number 38826-232-12/NS-SR.
+E. Other systems or secondary functions affected:
+There were no other systems or secondary functions affected by this event.
+F. Method of discovery of each component or system failure or procedural error:
+The component failure was identified by operator walkdown.
+NRC FORM 366A (08-2020)(cid:9) Page 3 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 2 05000-328 NUMBER NO.
+2021 001 00
+- -
+G. Failure mode, mechanism, and effect of each failed component:
+The failure mode and mechanism of the component are unknown. The failure of the component
+caused the ice bed temperature monitoring system to become nonfunctional.
+H. Operator actions:
+Operations personnel authorized a conditional performance of 2-SI-IXX-061-138.0, Backup Ice
+Condenser Temperature Monitoring.
+I. Automatically and manually initiated safety system responses:
+There were no automatic or manually initiated safety system responses associated with this
+event.
+III. Cause of the Event
+A. Cause of each component or system failure or personnel error:
+The cause of the event was the failure of the ice bed temperature monitoring system remote
+scanner due to an internal power supply failure.
+B. Cause(s) and circumstances for each human performance related root cause:
+There was no identified human performance related root cause.
+IV.(cid:9) Analysis of the Event:
+The ice bed consists of a minimum of 1,916,000 pounds of ice stored within the ice condenser. The
+primary purpose of the ice bed is to provide a large heat sink in the event of a release of energy
+from a DBA in containment. The ice would absorb energy and limit containment peak pressure and
+temperature during the accident transient. Limiting the pressure and temperature reduces the
+release of fission product radioactivity from containment to the environment in the event of a DBA.
+The Unit 2 ice bed remained below 27 degrees F and remained capable of performing its required
+safety function to provide a heat sink during a DBA in containment.
+V.(cid:9) Assessment of Safety Consequences
+There were no actual safety consequences as a result of the ice bed inoperability. No actual loss
+of safety function occurred. The ice mass required for a DBA in containment was available.
+NRC FORM 366A (08-2020)(cid:9) Page 4 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+CONTINUATION SHEET Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 2 05000-328 NUMBER NO.
+2021 001 00
+- -
+A.(cid:9) Availability of systems or components that could have performed the same function as the
+components and systems that failed during the event:
+None.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident:
+The event did not occur when the reactor was shut down.
+C.(cid:9) For failure that rendered a train of a safety system inoperable, an estimate of the elapsed
+time from discovery of the failure until the train was returned to service:
+The ice bed is a single train safety system that was rendered inoperable for approximately
+20 minutes.
+VI. Corrective Actions
+The event was entered into the Tennessee Valley Authority Corrective Action Program (CAP)
+under condition reports (CRs) 1709839 and 1709881.
+A. Immediate Corrective Actions:
+Operations personnel authorized the conditional performance 2-SI-IXX-061-138.0, Backup
+Ice Condenser Temperature Monitoring, so the ice bed temperatures could be obtained.
+B.(cid:9) Corrective Actions to Prevent Recurrence or to reduce probability of similar events occurring
+in the future:
+Corrective actions for this event include developing procedural guidance for the response
+required for a nonfunctional ice bed temperature monitoring system and replacement of obsolete
+instrumentation in the ice bed temperature monitoring system.
+VII. Previous Similar Events at the Same Site:
+LER 2-2020-001-00 was submitted for an inoperable Unit 2 ice bed. The cause of the event was
+the failure of a gasket on vendor supplied equipment at the flanged connection of the Auxiliary
+Glycol Cooling System skid. The corrective action was to repair the skid.
+LER 1-2021-002-00 was submitted for an inoperable Unit 1 ice bed (although reported in 2021,
+the event occurred in 2018). The cause of the event was the failure of the Unit 1 ice bed
+temperature monitoring system temperature recorder. The corrective action was to replace the
+ice bed temperature monitoring system temperature recorder.
+NRC FORM 366A (08-2020)(cid:9) Page 5 of 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Sequoyah Nuclear Plant Unit 2 05000-328 NUMBER NO.
+2021 - 001 - 00
+VIII. Additional Information
+There is no additional information.
+IX. Commitments:
+There are no commitments.
+NRC FORM 366A (08-2020)(cid:9) Page 6 of 6

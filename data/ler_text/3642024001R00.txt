@@ -1,0 +1,154 @@
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+learned are incorporated into the licensing process and fed back to indu try. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+F1 (cid:9) ,i Ces ot mim mat ise s(cid:9) ioto n ,t h We a F shO inIA gt. o(cid:9) nL .i b Dr Car 2y 0. 5a 5n 5d -(cid:9) 0I 0n 0fo 1r ,m ora t bio y n e nC to al il le toct i Io nn fos c B olr lea cn tc sh .R(cid:9) e(T s 6 u rA ce1 @01 n0 r) c,(cid:9) .gU o. v(cid:9) . S a. n(cid:9) dN tu hc ele Oa Mr R Be rg eu vl ia et wo ery r
+. -.., (cid:9) tO -ill (cid:9) 61.., - !(cid:9) (See Page 2 for required number of digits/characters for each block) at:(cid:9) OMB Office of Information and Regulatory Affairs. (3150-0104). Attn:(cid:9) Desk Officer for the Nuclear Regulatory
+•• • '(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Commission. 725 17th Street NW. Washington. DC 20503: email:(cid:9) ura su mission@omo.eop.gov. The NRC may
+http://www.nrc.govireading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor. and a person is not required to respond to. a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name • 050 2. Docket Number 3. Page
+Joseph M. Farley Nuclear Plant, Unit 2 364 1(cid:9) OF(cid:9) 3
+052
+4. Title
+Manual Reactor Trip due to Rising Steam Generator Levels
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+11 14 2023 2024 -(cid:9) 001(cid:9) - 00 01 11 2024 Facility Name Docket Number
+n 052
+9. Operating Mode 10. Power Level
+1 010
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+17 (cid:9) 7(cid:9) 7(cid:9)
+10 CFR Part 20 - 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) (cid:9) 73.1200(a)
+7(cid:9) 7(cid:9) ri(cid:9) 7(cid:9)
+IT(cid:9) 20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+n(cid:9)
+n(cid:9) E(cid:9) Fl(cid:9) E(cid:9) I(cid:9) i(cid:9)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+FT (cid:9) 7(cid:9) 7(cid:9)
+20.2203(a)(1) 20.2203(a)(4) n(cid:9) 50.36(c)(2) [V](cid:9) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) C(cid:9) 73.1200(d)
+7(cid:9) n(cid:9)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) r7(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+H(cid:9) 7(cid:9)
+Pi(cid:9) 20.2203(a)(2)(ii) 21.2(c) n(cid:9) 50.69(g) 50.73(a)(2)(v)(B) Ll(cid:9) 73.77(a)(1) (cid:9) 73.1200(f)
+Cl
+ri(cid:9) 7(cid:9) I (cid:9)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 1(cid:9) 73.1200(g)
+I(cid:9) 1(cid:9)
+n(cid:9) n(cid:9) (cid:9) n(cid:9)
+IT
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) El(cid:9) 73.1200(h)
+n(cid:9)
+p 20.2203(a)(2)(v) 50.73(a)(2)(i)(C) ri(cid:9) 50.73(a)(2)(vii)
+7(cid:9)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Gene Surber. Farley Licensina Manaaer 3346612265
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B JB FCO E232 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+[7
+No (cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On November 14, 2023, Farley Nuclear Plant (FNP) Unit 2 was performing an initial reactor startup following Refueling Outage
+29 (2R29). With reactor power at approximately 10%, steam generator (SG) levels began to rise while in automatic control.
+Operators took manual control of the main feedwater regulating and main feedwater regulating bypass valves but were unable
+to control the rise in SG levels. At 1041 CST the operators initiated a manual reactor trip prior to reaching high SG level
+setpoint. All equipment responded as expected. NRC was notified in accordance with 10 CFR 50.72(b)(2)(iv)(B) due to reactor
+scram and 10 CFR 50.72(b)(3)(iv)(A) for a specified system actuation via ENS 56852.
+The cause of the event was determined to be Ovation steam and feedwater flow signal errors resulting in the automatic
+feedwater controls transferring to 'high power mode' at a lower reactor power level than designed (10% versus 20%). This
+resulted in rising SG Levels and led the operators to manually trip the reactor. Following correction of Ovation signal errors post
+trip, operators were able to complete the reactor startup and reached full power on November 19, 2023.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(' 0-01-2023)
+Estimated burden per response to comply wit^ this mandatory collec:ion request: 80 hours. Repored
+lessons learned are incorporated into the I censing process and fed pack to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library, and Irformation Collections Branca (T-6 MOM). U. S.
+Nuclear Regulatory Commission. WasNngton, DC 20555-0001. or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). At:n: Desk Officer for the N.clear Regulatory Comm:ss'•on. 725 17th Street NW
+Wash:ngton. DC 20503: email: o ra sum ssion@omb.eop.gov. The NRC may not conduct 0,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor. and a person is not required o respono to. a collection of information unless t'ne document
+http://www.nrc.govireading-rm/doc-collections/nuregs/staff/sr10221r31)
+•equesting or ,equi,ng the collection di plays a currently val c OMB con:rol numoer.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+Joseph M. Farley Nuclear Plant, Unit 2 364 NUMBER NO.
+2024
+052 001 00
+NARRATIVE
+INITIAL PLANT CONDITIONS:
+On November 14, 2023, while in Mode 1 and 10% reactor power, Farley Nuclear Plant (FNP) Unit 2 was returning to power
+following Refueling Outage 29 (2R29). During 2R29, the feedwater control system [EEIS:JB] was upgraded. The newly
+upgraded system is a digital-based Emerson Ovation System. This system operates in two modes: low-power and
+high-power. The transition between the two modes is automatic and based on the measured loop feedwater flow exceeding
+a predefined threshold. Both control modes operate the main feed regulating valves (MFRVs) and the MFRV bypass valves
+[EEIS: SJ-FCV], as appropriate. No systems, structures, or components (SSCs) were inoperable that contributed to the
+event.
+EVENT DESCRIPTION:
+At 1041 CST on November 14, 2023, FNP Unit 2 reactor was manually tripped due to rising Steam Generator (SG) [EEIS:
+SB / SG] water levels. Prior to the reactor trip, control room personnel had raised power from approximately 3% to 7%
+power and had entered Mode 1. Operators stabilized power at 7% to troubleshoot an issue related to the newly-installed
+modification. Operators had established a control limit of 20% power while troubleshooting continued and began a power
+ascension to 12%. Although SG level control was initially stable in automatic, operators observed that SG levels began to
+rapidly rise at 10% reactor power.
+As SG levels increased, operators took manual control of the MFRVs and MFRV bypass valves to stabilize levels.
+However, during the transient the SG levels rose above a predetermined manual reactor trip criteria based on SG level.
+Operators tripped the reactor prior to reaching any automatic reactor trip setpoint. At the current power level and Reactor
+Coolant System temperature an automatic feedwater isolation occurred per design. During restoration after the trip, the
+operators restored feedwater capability by manually initiating Auxiliary Feedwater (AFW).
+BASIS FOR REPORTABILITY AND SAFETY ASSESSMENT:
+There were no safety consequences as result of this event. The operating crew responded appropriately to the event.
+This event was within the analysis of the UFSAR Chapter 15. This event is reportable per 10 CFR 50.73(a)(2)(iv)(A) due to
+the automatic actuation of the Reactor Protection System (RPS) and AFW system as listed in 10 CFR 50.73(a)(2)(iv)(B).
+FNP Unit 1 was not affected during this event.
+CAUSE:
+The cause of the event was determined to be the Ovation steam and feedwater flow signal errors resulted in automatic
+feedwater controls to transfer to 'high power mode' at low reactor power. This resulted in SG levels rising forcing the
+operators to initiate a manual reactor trip.
+It was determined that during the design change, process errors were introduced which were not identified during testing.
+Steam flow and feed flow inputs to the Ovation system were higher than actual control board indications. The Ovation
+system performs an automatic swap to high-power control at 20% feedwater flow. With the higher Ovation feedwater flow
+signals, the swap to high-power flow control occured at approximately 10% reactor power. It was identified that there was a
+flow correction duplication in Ovation. This flow correction was already present in the Control System. A contributor to this
+event was inadequate communication surrounding the signal errors between plant departments and the Outage Control
+Center due to the lack of adequate team structure.
+NRC FORM 366A (10-0'-2073)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Afin: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW
+Washington, DC 20503; email: sta_submission@ombRoo.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person Is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/readi g-rmicloc-collections/nuregs/staff/sr1022/r3/1
+requesting or requiring the collection di plays a currently valid 0MB control number.
+1. FACILITY NAME (cid:9) 1 El 050 2. DOCKET NUMBER YEAR 3 S. E L QE UR E N NU TM IAB LE R REV
+Joseph M. Farley Nuclear Plant, Unit 2 364 NUMBER NO.
+2024
+0 052 001 00
+NARRATIVE
+CORRECTIVE ACTIONS:
+• Corrected U2 inaccurate Ovation signals which resulted in the early transfer to Feed Regulating Valve operation.
+• Develop a Modification Acceptance Test procedure for Ovation project to ensure field devices are checked through
+Ovation engineering values and/or logic.
+• Conduct teaching and learning sessions with Engineering, Operations, Maintenance, and Site Projects first line leaders
+and above related to risk management and communications.
+PREVIOUS SIMILAR EVENTS:
+• None
+NRC FORM 366A (10-01-2023) Page 3 of 3

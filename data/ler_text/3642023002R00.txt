@@ -1,0 +1,101 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply alto this mandatory collection request 80 hours.(cid:9) Reported lessons
+,p,'''',.., LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, library, and Information Collections Branch (T-6 AIOM), U. S. Nuclear Regulatory
+2(cid:9) I '(cid:9) (See Page 2 for required number of digits/characters for each block) aC to Om Mm Bis s Oio ffn i, c eW oa fs th ri in fog mto sn e, t iD oC n a2 n0 d5 5 R5 e- g0 u0 l0 at1 o, ro yr Ab fy f ae ir rn sa , l ( 3to 1 5In 0-f 0o 1co 0l 4e )c , t As. lR be : s Do eu sr kce O@ ffn ir cc e. rg fo ov r, ta hn ed N th ue c lO eaM r B Re r ge uv li ae tw ore yr
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 72517th Street NW, Washington, DC 20503; email gira submisson@ornb.eop,gin. The NRC may
+httoftwww.nrc.govireading-rmtdoc-collections/nuregs/staff/srl 022/r3n not conduct or sponsor, and a person Is not required to respond to, a cdlection of Information unless the document
+requesting or requiring the collection displays a amenity valid OMB control number
+1. Facility Name • 050 2. Docket Number 3. Page
+Joseph M. Farley Nuclear Plant, Unit 2 364 1 OF(cid:9) 2
+LI(cid:9) 052
+4. Title
+Main Steam Safety Valve Lift Pressure Outside of Technical Specifications Limits due to Setpoint Drift
+5. Event Date 6. LER Number 7. Report Date 13. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+q 050
+10 03 23 2023 -(cid:9) 002(cid:9) - 00 11 30 2023 Facility Name Docket Number
+052
+9. Operat ng Mode 10. Power Level
+1 92
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 LI 20.2203(a)(2)(vi) 10 CFR Part 50 q 50.73(a)(2)(ii)(A) q 50.73(a)(2)(vili)(A) fl(cid:9) 73.1200(a)
+20.2201(b) fl(cid:9) 20.2203(a)(3)(i) 50.36(c)(1)(I)(A) q 50.73(a)(2)(ii)(B) q 50.73(a)(2)(viii)(B) q 73.1200(b)
+20.2201(d) 20.2203(a)(3)(11) q 50.36(c)(1)(11)(A) 50.73(a)(2)(iii) fl(cid:9) 50.73(a)(2)(ix)(A) q 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) q 50.36(c)(2) J(cid:9) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) II(cid:9) 73.1200(d)
+20.2203(a)(2)(1) 10 CFR Part 21 q 50.46(a)(3)(9) J(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(11) fl(cid:9) 21.2(c) fl(cid:9) 50.69(g) fl(cid:9) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(111) 50.73(a)(2)(I)(A) J(cid:9) 50.73(a)(2)(v)(C) 73.77(a)(2)(1) LI(cid:9) 73.1200(g)
+ri
+20.2203(a)(2)(iv) V(cid:9) 50.73(a)(2)(i)(B) (cid:9) 50.73(a)(2)(v)(D) 73.77(a)(2)(II) [}(cid:9) 73.1200(h)
+20.2203(a)(2)(v) q 50.73(a)(2)(I)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Gene Surber. Licensina Manaaer (334) 661-2265
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X SB RV D245 Y
+14. Supplemental Report Expected Month Day Year
+(cid:9) 15. Expected Submission Date
+6/ No fl Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On October 3, 2023, while in Mode 1 at 92% power level, it was discovered that a Unit 2 Main Steam Safety Valve (MSSV)
+failed its as-found lift pressure test. The MSSV lifted above the Technical Specification (TS) 3.7.1 allowable lift setting value.
+Setpoint drift is the most likely cause of the MSSV setpoint failure.
+It is likely that the MSSV was outside of the TS limits longer than the allowable completion times for the associated Required
+Action Statements during the operating cycle in all applicable modes of operation. Therefore, this condition is being reported in
+accordance with 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by TS.
+The MSSV setpoint was adjusted to within the TS limits and returned to service restoring compliance. The MSSV that failed the
+surveillance setpoint test was replaced with a refurbished valve during the 2R29 refueling outage and sent to vendor for
+analysis.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated Into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOlA, Library, and Information Collections Branch (T-6 A10M), U. S.
+!;4$0,1 Nuclear Regulatory Commission, Washington, DC 20555.0001, or by email to
+\ (cid:9) CONTINUATION SHEET
+Inf000llects.Resource@nrc.gov, and the 0MB reviewer at OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nudear Regulatory Commission, 725 17th Street NW
+Washington, DC 20503; email: oira submission@omb.eoo.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+httpl/www,nrc.govireading-rm/doc-collections/nuregs/staff/srl 022/r311 requesting or requiring the collection di plays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+111 050 YEAR SEQUENTIAL REV
+Joseph M. Farley Nuclear Plant, Unit 2 364 NUMBER NO.
+2023
+052 002 00
+NARRATIVE
+EVENT DESCRIPTION:
+On October 3, 2023, at 1650 CDT, while operating in Mode 1 and at 92% power level, a B Loop Main Steam Safety Valve
+(MSSV), Q2N11V0011C [EIIS:SB:RV] as-found lift pressure did not meet the acceptance criteria of +/- 3% of setpoint (1102
+psig) as required by Technical Specifications (TS) Surveillance Requirement (SR) 3.7.1.1. The MSSV lifted high at 1140
+psig which is 5 psig outside of its acceptance range of 1069 to 1135 psig. The +/- 3% as-found lift pressure requirement is
+an ASME Section III, 1971 edition, and Farley TS requirement to ensure that the MSSV provides adequate protection by
+preventing the steam pressure from exceeding 110% of the main steam system design pressure.
+EVENT ANALYSIS:
+The MSSV (Manufacturer: Dresser, Model Number: 3707R, Serial Number: BP-09820) was sent to NWS Technologies for
+failure analysis due to the failed as-found test. Setpoint drift is the most likely cause of the MSSV setpoint failure.
+REPORTABILITY AND SAFETY EVALUATION:
+This failure constitutes a condition that is reportable pursuant to 10 CFR 50.73(a)(2)(i)(B), "Any operation or condition
+which was prohibited by the plant's Technical Specifications." The applicable accident/transient analyses requires five
+MSSVs per Steam Generator [EIIS:SB:SG] to provide overpressure protection for design basis transients occurring at
+102% Rated Thermal Power. On October 3, 2023, MSSV Q2N11V0011C was found outside of its required setpoint range
+and was declared inoperable. As it is not possible to determine when the valve exceeded the allowable setpoint range,
+the MSSV was likely inoperable for greater than the TS allowed completion time. Based on the MSSV as-found lift setpoint
+being less than 110% of design Steam Generator pressure (1194 psig), and properly reseating, this one MSSV failure did
+not result in a loss of safety function.
+CORRECTIVE ACTIONS:
+MSSV Q2N11V0011C was adjusted within TS tolerance and returned to operable status. Additonally, an expanded scope
+inspection of MSSVs Q2N11V0011E and Q2N11V0011D was completed satisfactory. The MSSV (SN BP-09820) was
+subsequently removed from its location during the 2R29 refueling outage for analysis and was replaced on October 17,
+2023, with a refurbished valve that was heat soaked and placed in the Q2N11V0011C location at the required 1102 psig
++/-1%.
+PREVIOUS SIMILAR EVENTS:
+A similar event was reported in 2017 (LER 2017-002-00) and in 2020 (LER 2020-001-01).
+OTHER SYSTEMS IMPACTED:
+No other systems were affected by this event.
+NRC FORM 366A (10-01-2023) Page 2(cid:9) of 2

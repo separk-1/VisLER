@@ -1,0 +1,238 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons learned
+LICENSEE EVENT REPORT (LER) are incorporated into the licensing process and fed back to industry. Send comments regarding burden estimate to
+the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+(See Page 2 for required number of digits/characters for each block) Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office
+of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document requesting or
+requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+00391
+Watts Bar Nuclear Plant, Unit 2 1(cid:9) OF 5
+052
+4. Title
+Automatic Reactor Trip Due to Main Generator Protection Relay Actuation
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. N/A 050
+06 27 2023 2023 -(cid:9) 002(cid:9) - 00 08 24 2023 Facility Name Docket Number
+N/A 052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Kevin Lovell, Licensing Engineer 423-365-8196
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected
+Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On June 27, 2023 at approximately 1626 Eastern Daylight-Saving Time (EDT), while both units were at 100% rated
+thermal power, Watts Bar Nuclear Plant (WBN) Unit 2 experienced an automatic reactor trip due to a main turbine
+trip. All control and shutdown bank rods inserted properly in response to the reactor trip. All safety systems,
+including the Auxiliary Feedwater (AFW) System, performed as designed and there were no complications with the
+trip.
+The most likely cause for the main turbine trip was a loose terminal connection for current input into a main
+transformer phase differential trip relay. A design change was implemented to relocate the differential trip signal
+such that the one out of two taken twice logic and circuit protection is maintained.
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A), as an automatic actuation of the Reactor
+Protection System (RPS).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 002 - 00
+NARRATIVE
+I. Plant Operating Conditions before the Event
+Both Watts Bar Units 1 and 2 were at 100 percent Rated Thermal Power (RTP).
+II. Description of Event
+A. Event Summary
+On June 27, 2023 at approximately 1626 Eastern Daylight-Saving Time (EDT), while both
+units were at 100% rated thermal power, Watts Bar Nuclear Plant (WBN) Unit 2 experienced
+an automatic reactor trip in response to a main turbine trip. All control and shutdown bank
+rods inserted properly in response to the reactor trip. All safety systems, including the
+Auxiliary Feedwater (AFW)[EIIS:BA] System, performed as designed and there were no
+complications with the trip. The most probable cause of this event was identified as a loose
+connection on the terminal number 4 for B phase current input to the main transformer
+differential current relay (287T)[EIIS:87]
+Notification to the NRC of the reactor trip was made by Operations at 1904 EDT (Event
+Notification number 56593). This event is being reported in accordance with 10 CFR
+50.73(a)(2)(iv)(A) due to actuation of the Reactor Protection System (RPS) and AFW System.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no safety related inoperable structures, components, or systems that contributed
+to this event.
+C. Dates and approximate times of occurrences
+Dates and Approximate(cid:9)
+Occurrence
+Times
+6/27/2023 at 1626 EDT(cid:9) Unit 2 Reactor and Turbine tripped
+6/27/2023 at 1628 EDT(cid:9) Transitioned to 2-ES-0.1, Reactor Trip Response
+Relay room inspection revealed that the lockout for the
+6/27/2023 at 1639 EDT Main Transformer 2 Differential Trip 286T was tripped. B
+Phase Differential flag was dropped.
+Transitioned to 2-GO-5, Unit Shutdown from 30 percent
+6/27/2023 at 1654 EDT(cid:9)
+Reactor Power to Hot Standby
+NRC FORM 366A (03-14-2023)(cid:9) Page 2 of 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 002 - 00
+NARRATIVE
+D. Manufacturer and model number of each component that failed during the event
+No failed component have been identified at this time.
+E. Other systems or secondary functions affected
+None.
+F. Method of discovery of each component or system failure or procedural error
+The loose connection of the number 4 phase current input supply to the generator protection
+relay was identified during troubleshooting and field inspections following the trip.
+G. The failure mode, mechanism, and effect of each failed component
+During troubleshooting following the event, terminal number 4 for the B phase current input to
+the main transformer differential current relay (287T) was found loose. This loose connection
+likely caused the actuation and trace indication on the associated relay.
+H. Operator actions
+Operations personnel promptly stabilized the plant following the reactor and turbine trip.
+I. Automatically and manually initiated safety system responses
+The turbine trip resulted in a reactor trip. Safety systems responded as expected.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+The most probable cause of this event was identified as a loose connection on the terminal
+number 4 for B phase current input to the main transformer differential current relay (287T).
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance issues were attributed to this event.
+NRC FORM 366A (03-14-2023)(cid:9) Page 3 of 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ (cid:9) 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 002 -(cid:9) 00
+NARRATIVE
+IV. Analysis of the event
+While operating at approximately 100% power during steady state operation, the Watts Bar Unit 2
+reactor experienced an automatic reactor trip at approximately 1626 EDT on June 27, 2023, in
+response to a turbine trip. The turbine trip was caused by an electrical issue which tripped the main
+transformer differential current relay 287T. This automatic Unit 2 reactor trip is generally comparable to
+the Updated Final Safety Analysis Report (UFSAR) description of the Loss of External Electrical Load
+and/or Turbine Trip described in the UFSAR Section 15.2.7. The plant response post-trip was
+uncomplicated and the plant responded as designed. Operations entered 2-E-0, Reactor Trip or Safety
+Injection and subsequently transitioned to 2-ES-0.1, Reactor Trip Response and 2-GO-5, Unit
+Shutdown from 30% Reactor Power to Hot Standby..
+V. Assessment of Safety Consequences
+In review of the associated plant system performance data from the key plant parameters and plant
+response to the transient it is concluded that all safety systems performed as designed. There were no
+conditions identified where actuation signals were not appropriately generated based on the plant
+transient. The parameter response for this automatic reactor trip is bounded by the FSAR analyses in
+UFSAR Section 15.2.7, “Loss of External Electrical Load and/or Turbine Trip.”
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+Not applicable.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+Not applicable.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+Not applicable.
+NRC FORM 366A (03-14-2023)(cid:9) Page 4 of 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ (cid:9) 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 002 -(cid:9) 00
+NARRATIVE
+VI.(cid:9) Corrective Actions
+This event was entered into the TVA Corrective Action Program and is being tracked under
+Condition Report 1864894.
+A. Immediate Corrective Actions
+Operations personnel promptly stabilized the plant in Mode 3. Troubleshooting and field
+inspections identified the associated loose connection and corrected it.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+Design change WBN-23-040 was issued to relocate the 287T differential trip signal from the
+252 current transformer (CT) loop to the 251 CT loop through relays RLY-244-S300G3/1 and
+2-RLY-244-M3425A/2 such that the one out of two taken twice logic and circuit protection is
+maintained. Terminal connection tightness was verified on all other 287T relay current inputs.
+Additionally, preventive maintenance change requests are being processed to add wire
+termination checks to associated relay calibration activities.
+VII. Previous Similar Events at the Same Site
+LER 391/2018-003-00 documents a unit trip that occurred on June 22, 2018 due to actuation of
+the main transformer differential current relay. The most probable cause of that event was
+attributed to an intermittent equipment failure between the neutral side current transformer of the
+main generator and the protection relays which led to actuation of the A phase main transformer
+differential current relay and subsequent trip.
+VIII. Additional Information
+None.
+IX. Commitments
+None.
+NRC FORM 366A (03-14-2023)(cid:9) Page 5 of 5

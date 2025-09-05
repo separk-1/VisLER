@@ -1,0 +1,196 @@
+(cid:9)(cid:9)(cid:9)
+r
+Beaver Valley Power Station
+energy
+P.O. Box 4
+Shippingport, PA 15077
+harbor
+Barry N. Blair(cid:9) 724-682-5234
+Site Vice President (cid:9) Fax: 724-643-8069
+July 12, 2023
+(cid:9)
+L-23-158 10 CFR 50.73
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Beaver Valley Power Station, Unit No. 2
+Docket No. 50-412, License No. NPF-73
+LER 2023-002-00
+Enclosed is Licensee Event Report (LER) 2023-002-00, "Automatic Actuation of
+Auxiliary Feedwater System." This event is being reported in accordance with 10 CFR
+50.73(a)(2)(iv)(A).
+There are no regulatory commitments contained in this submittal. If there are any
+questions or if additional information is required, please contact Ms. Julie Hartig,
+Manager (Acting), Regulatory Compliance and Emergency Response, at 724-682-4224.
+Barry N. Blair
+Enclosure: Beaver Valley Power Station, Unit No. 2 LER 2023-002-00
+cc: NRC Region I Administrator
+NRC Senior Resident Inspector
+NRC Project Manager
+INPO Records Center (via INPO Industry Reporting and Information System)
+BRP/DEP
+Enclosure
+L-23-158
+Beaver Valley Power Station, Unit No. 2 LER 2023-002-00
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08131/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request 80 hours.(cid:9) Reported lessons
+„oi,"",,,,,,, leaned are incorporated Into the icenang process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER) estimate to the FOIA, Library, end Information Collections Branch (T-8 A10M), U. S. Nuclear Regulatory
+r.(cid:9) :(cid:9) Commission, Washington, DC 20555-0001, or by anal b Intoeollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) . The NRC may
+tittp://wv_vw,rircaov/rpadirig,m/cloQ-cojJectiosintirtg iAtatfisr 1 022/r3h not conduct or sponsor, and a person is not requied to respond to, a colection of information unless the document
+requesting or requiring the collodion displays a currently valid OMB control number.
+0(cid:9)
+1. Facility Name 050 2. Docket Number 3. Page
+Beaver Valley Power Station, Unit No. 2
+00412 1(cid:9) OF(cid:9) 3
+052
+4. Title
+Automatic Actuation of Auxiliary Feedwater System
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year q 050
+05 19 2023 2023 -(cid:9) 002(cid:9) - 00 07 12 2023 Facility Name Docket Number
+052
+9. Operating Mode ' 10. Power Level
+3 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 fl(cid:9) 20.2203(a)(2)(vi) 10 CFR Part 50 E(cid:9) 50.73(a)(2)(ii)(A) fl(cid:9) 50.73(a)(2)(viii)(A) fl(cid:9) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) fl(cid:9) 50.36(c)(1)(0(A) E(cid:9) 50.73(a)(2)(ii)(B) LI(cid:9) 50.73(a)(2)(viii)(B) LI(cid:9) 73.1200(b)
+20.2201(d) fl(cid:9) 20.2203(a)(3)(ii) j(cid:9) 50.36(c)(1)(ii)(A) LI(cid:9) 50.73(a)(2)(iii) fl(cid:9) 50.73(a)(2)(ix)(A) fl(cid:9) 73.1200(c)
+20.2203(a)(1) fl(cid:9) 20.2203(a)(4) fl(cid:9) 50.36(c)(2) ,,/ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) fl(cid:9) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 LI 50.46(a)(3)(ii) LI(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73 LI(cid:9) 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) f(cid:9) 50.73(a)(2)(v)(B) J(cid:9) 73.77(a)(1) j(cid:9) 73.1200(f)
+20.2203(a)(2)(iii) LI(cid:9) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) J(cid:9) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) [] 50.73(a)(2)(i)(B) fl(cid:9) 50.73(a)(2)(v)(D) LI(cid:9) 73.77(a)(2)(ii) LI(cid:9) 73.1200(h)
+20.2203(a)(2)(v) fl(cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+-- -(cid:9) ---- -(cid:9) - - 7--
+Licensee Contact(cid:9) I Phone Number (Include area code)
+Julie Hartig, Manager (Acting), Regulatory Compliance and Emergency Response(cid:9) 1 (cid:9) 724-682-4224
+13. Complete One Line for each Component Failure Described in this Report
+Cause System(cid:9) Component Manufacturer Reportable to IRIS Cause (cid:9) System Component Manufacturer Reportable to IRIS
+_
+I
+14. Supplemental Report Expected Month Day(cid:9) 1(cid:9) Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+/ LI(cid:9) I
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 0852 on May 19, 2023, with Beaver Valley Power Station, Unit No. 2 (BVPS-2) in Mode 3 at 0 percent power, an actuation of
+the Auxiliary Feedwater (AFW) System occurred. Both Motor Driven Auxiliary Feedwater (MDAFW) Pumps automatically started
+as designed when a 'Loss of Both Main Feedwater Pumps (MFP)' signal was received upon the start failure of the 'B' MFP,
+2FWS-P21B. The 2FWS-P216 failure to start was because the lube oil (LO) pressure start permissive was not met when the LO
+system relief valve, 2FWS-RV205B, setpoint was set too low during the refueling outage. Also, the MDAFW pump auto-start
+signal was able to be generated during a plant condition where it was not necessary.
+This event is being reported pursuant to 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in the automatic actuation of the
+AFW System, 10 CFR 50.73(a)(2)(iv)(B)(6). Planned corrective actions include adjusting 2FWS-RV2056 setpoint to restore LO
+system margin and start-up procedures will be revised to disable the MDAFW Pump auto-start circuit when plant conditions do
+not require the auto-start function. Also, maintenance documents will be enhanced to clarify the desired setpoint value.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+r lessors learned are incorporated into :he licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regu'atory Commission. Washington. DC 20555-0001. or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at 0MB Office of information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email:(cid:9) . •(cid:9) . The NRC may not conduct cr
+sponsor. and a person is not required to respond to. a collection of information unless the document
+httpj/www nrovireaoi
+requesting or requiring Me collection displays a currently valid 0MB control nJrnber.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+_ NUMBER NO.
+Beaver Valley Power Station, Unit No. 2 00412
+2023
+[I] 052 002 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+BACKGROUND
+The Steam Generator Feedwater System (FWS) [SJ] supplies heated feedwater to the steam generators [SG] under all
+load conditions maintaining level within the programmed band. Two 50 percent capacity motor-driven Main Feedwater
+Pumps (MFPs) [SJ-P], 2FWS-P21A and 2FWS-P216, supply sufficient feedwater flow to the three steam generators for
+full power operation. Each MFP has a lube oil (LO) system which consists of a reservoir, a shaft-driven pump, an auxiliary
+motor-driven pump, a relief valve, an oil cooler, and the necessary piping, valves and instrumentation. Oil is normally
+supplied by the shaft-driven LO pump. The auxiliary motor-driven LO pump provides lubrication requirements during
+startup and as a backup to the shaft-driven pump. The LO system relief valve [SJ-RV] maintains the LO system operating
+pressure. The MFP start circuit requires sufficient LO pressure to enable the start permissive to be met when starting a
+MFP. On a 'Loss of both Main Feedwater Pump(s)' signal, the Motor Driven Auxiliary Feedwater (MDAFW) Pumps [BA-P]
+auto start to provide feedwater flow to the steam generators to remove decay heat from the Reactor Coolant System [AB].
+DESCRIPTION OF EVENT
+At 0852 on May 19, 2023, with Beaver Valley Power Station, Unit No. 2 (BVPS-2) at 0 percent power in Mode 3 during the
+twenty-third refueling outage (2R23), Operations attempted to start the 'B' MFP, 2FWS-P21B, per plant start-up
+procedures. When 2FWS-P21B failed to start with the 'A' MFP, 2FWS-P21A, secured, a 'Loss of Both Main Feedwater
+Pump(s)' signal was received and the 'A' and 'B' MDAFW Pumps started as designed. There was no safety-related
+equipment inoperable at the start of the event that contributed to the event.
+Following the Auxiliary Feedwater (AFW) actuation, the MDAFW Pumps were secured and returned to auto by the control
+room operators.
+CAUSE OF EVENT
+The direct cause for 2FWS-P216 failing to start was that the LO pressure start permissive was not met. This was because
+the LO system relief valve, 2FWS-RV2056, setpoint was set too low during 2R23.
+2FWS-RV2056 had been replaced during 2R23 and the new relief valve had been set to 10.83 psig which is at the low
+end of the 10 — 14 psig range prescribed by the setpoint documents. The LO system pressure needs to be at least 12 psig
+to meet the start permissive of the MFPs. A contributing cause is that the setpoint document and the PM replacement
+order incorrectly document the relief valve setpoint as 12 psig and not that the LO system operating pressure is to be at
+least 12 psig.
+A second contributing cause to the consequence of the event was that the MDAFW pump auto-start signal was able to be
+generated during a plant condition where it was not necessary.
+(cid:9)
+NRC FORM 366A (03-14-2023) Page(cid:9) 2(cid:9) of(cid:9) 3
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+c,.00,(cid:9) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email:(cid:9) . The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+ladpj/www.nrc._ggivireading-rm/doc-collectipirdnuregs/staft/srl 0221r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME Q 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Beaver Valley Power Station, Unit No. 2 00412
+2023
+052 002 00
+NARRATIVE
+ANALYSIS OF EVENT
+The automatic actuation of the AFW System was reported to the NRC per 10 CFR 50.72(b)(3)(iv)(A) on May 19, 2023
+(Event Notification #56527). This event is reportable pursuant to 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in the
+automatic actuation of the AFW System as specified in 10 CFR 50.73(a)(2)(iv)(B)(6).
+The plant risk associated with the BVPS-2 start failure of the 'B' MFP and the auto start of 'A' and 'B' MDAFW Pumps is
+considered to be very low safety significance. This is based on the following: the event occurred in Mode 3, neither 'A' nor
+'B' MFP was required to be in-service, the 'A' and 'B' MDAFW Pumps automatically started as designed, and the 'A' MFP
+did successfully start upon demand. The change in core damage frequency derived using the conditional core damage
+probability and the change in large early release frequency derived using conditional large early release probability for the
+observed condition are very small.
+CORRECTIVE ACTIONS
+Completed Actions:
+1) The MFP LO system relief valve was set to a pressure that allowed the MFP start permissive to be met. 2FWS-P21B
+was successfully started on May 25, 2023 during 2R23 plant start-up.
+Planned Actions:
+1) To establish the desired margin to the start permissive required pressure, 2FWS-RV205B setpoint will be increased
+during the next refueling outage.
+2) Revise the start-up procedures to disable the MDAFW Pump auto-start circuit upon a 'Loss of Both MFPs' signal while
+starting the first MFP when plant conditions do not require the auto-start function.
+Planned Enhancements:
+1) The setpoint documents for the 'A' and 'B' MFP LO system relief valves will be revised to provide the correct setpoint
+and improve margin to the start permissive required pressure.
+2) The maintenance plans for the LO system relief valve PM replacements will be revised to include steps to verify the
+relief valve is set to maintain 12 —15 psig in the LO system while operating.
+PREVIOUS SIMILAR EVENTS
+A review of the previous three years identified that no similar events involving automatic AFW actuation resulting from a
+MFP failure to start have occurred at BVPS.
+(cid:9)
+NRC FORM 366A (03-14-2023) Page(cid:9) 3(cid:9) of(cid:9) 3

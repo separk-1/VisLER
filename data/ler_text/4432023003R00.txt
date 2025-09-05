@@ -1,0 +1,136 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: No.3150-0104(cid:9) EXPIRES: 08131/2023
+(03-14-2023)
+Estimated burden per response to comply Wit this mandatory colection request: 50 tows.(cid:9) Reported lessons
+i'''''s,(cid:9) LICENSEE EVENT REPORT (LER) r ee sa tm ime ad t ea r te o i Onc leor p Fo Ora Lt Ae ,d Lin ibto ra t rh ye , l aic ne dn s inin rg rn p ar to ioc ne s Cs C oa oln leld lce f tce iotd ino b sna sc Nk l ao r i dn id (u Tst -r 6y . A S Ie Mnd U c .o Sm .m Nen ut cs l ere ag ra Rrd ein gg u b laur td oe ryn
+? 40I Commission. Washington, CC 26565-00ti I, a by email to infocancts.Resourougotgati, and the 01.46 (Wawa
+‘,„(cid:9) J(cid:9) (See Page 2 for required number of digits/characters for each block) al: OA'S Office of Information and Regulatory Affairs, (31504104 Alin: Desk Officer for the %iciest- Regulatory
+(See NUREG-1022, R.3 for Instruction and guidance for completing this form Commission, 725 lilt Street NW. Washington. DC 20503: email: ntia. submi,r,inn4tursti ecip.go The NRC may
+htto:llwvinv.nrc.aovireading-rmIdoc-collectionsinuregs/stafffsrl0221r3/1 not conduct or sponsor. and a person Is eel required to respond to. a collection of information unless the document
+requesting or requiring the collection displays a current!), v alid OMB contra number.
+1. Facility Name 0 050 2, Docket Number 3. Page
+Seabrook Station 00443 1 OF(cid:9) 3
+q 052
+4.(cid:9) Title
+Reactor Protection System Manual Actuation due to failed Silicon Controlled Rectifiers
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Se Nq uu me bn eti ra l(cid:9) Rev Nis o ton Month Day Year F Nac Aili ty Name 050 Docket Number
+05 06 2023 2023 -(cid:9) 003(cid:9) - 00 06 30 2023 Facility Name 052 Docket Number
+NA
+. -
+9. Operat ng Mode 10. Power Level
+3 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203 (a)(2)(w) CIF_ i. T t(cid:9)• P ali s(cid:9) ,.o .. 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) n(cid:9) (cid:9) 73.1200(a)
+n(cid:9)
+20.2201(b) 20.2203(a )(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(8) 50.73(a)(2)(viii)(B) 73.1200(b)
+n(cid:9)
+20.2201(d) 20.2203(a)(3)(ii) 111(cid:9) 50.36(c)(1)(ii)(A) q 50.73(a)(2)(iii) q 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 0 (cid:9) 50.36(c)(2) V(cid:9) 50.73(a)(2)(iv)(A) • 50.73(a)(2)(x) • 73.1200(d)
+El(cid:9)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(11) n(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+n(cid:9)
+20.2203(a)(2)(ii) 21.2(c) q 50.69(g) n(cid:9) 50.73(a)(2)(v)(B) n(cid:9) 73.77(a)(1) IIII(cid:9) 73.1200(f)
+LI(cid:9) Fi 0(cid:9)
+20.2203(0(2)01) (cid:9) 50.73(a)(2)(i)(A) • 50.73(a)(2)(v)(C) 73.77(a)(2)(I) n(cid:9) 73.1200(g)
+n(cid:9)
+v) n(cid:9) 0(cid:9) 1(cid:9)
+20.2203(a)(2)(1 50.73(a)(2)(i)(S) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+Li(cid:9) n(cid:9) 0(cid:9)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 36611/4).
+12. Licensee Contact for this LER
+Licensee Contact(cid:9) Phone Number (include area code)
+Jarrett Mack (cid:9) 561-304-6263
+13. Complete One Line for each Component Failure Described In this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X AA SCR W120 Y
+....:_
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Eg(cid:9)
+No q Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 6, 2023, at 15:52 with Seabrook Unit 1 in Mode 3 at 0 percent power at normal operating temperature and pressure,
+while performing Digital Rod Position Indication (DRPI) system surveillance testing, Shutdown Bank E stopped withdrawing. In
+response, the Reactor Trip Breakers were manually opened, initiating a valid actuation of the Reactor Protection System.
+Subsequently, at 22:53 of the same day, while performing DRPI system surveillance testing, Shutdown Bank C stopped
+inserting. In response, the Reactor Trip Breakers were manually opened, initiating another valid actuation. The cause was found
+to be failed Silicon Controlled Rectifiers associated with coil lifts. Action has been taken to send these cards to Corporate
+Procurement Engineering and Dedication (CPED) for a root cause determination. Both events were reported pursuant to 10
+CFR 50.72(b)(3)(iv)(A) as events that resulted in valid actuation of the RPS. The RPS responded as designed during both
+events and both events are being reported pursuant to 10 CFR 50.73(a)(2)(iv)(A) as events that resulted in manual actuation of
+the RPS. No other Structure, Systems, or Components (SSCs) contributed to these events. Neither event adversely impacted
+the health and safety of the public.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/3112023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FO1A, Library, and Information Collections Branch (T-5 A/ OM), U. S.
+Nuclear Regulatory Commission. Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource t2n rc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington. DC 20503; email: airs suhrnIssiggQomb.eop.gov. The NRC may not conduct or
+{See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person Is not required to respond to, a collection of information unless the document
+httErincs.. go_v/readi no-rrnaoc:cojJgctio ns/n u regs/sta ff/sr 1 022/r311 requesting or requiring the collection di plays a currently valid OMB control number.
+)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+El 050 YEAR SEQUENTIAL REV
+Seabrook Station 00443 NUMBER NO.
+q 052 2023 003 00
+NARRATIVE
+Description
+On May 6, 2023, at 15:52 with Seabrook Unit 1 in Mode 3 at 0 percent power at normal operating temperature and
+pressure, while performing DRPI operability testing, Shutdown Bank E stopped withdrawing at 114 steps. A Rod Control
+Urgent Failure Alarm was activated because rods could not step manually or automatically resulting in the inability to
+incrementally control rod insertion. In response, operators responded as expected and the Reactor Trip Breakers (RTB)
+[E1IS: BKR] were manually opened, initiating a valid actuation of the Reactor Protection System (RPS)[EIIS: JD]. At 22:53
+on May 6, 2023, while performing DRPI system surveillance testing, Shutdown Bank C stopped inserting at 143 steps and
+another Rod Control Urgent Failure Alarm was activated. In response, the RTBs were manually opened, initiating a second
+valid RPS actuation that day. There were no SSCs that were inoperable at the beginning of this event that contributed to the
+event. For both DPRI system test failures, immediate troubleshooting involved systematic testing of various circuit cards in
+the shutdown bank C, D, E (SCDE)[EIIS:AA] cabinet and monitoring the rod lift signals.
+Cause of the Event
+The cause of the Rod Control Urgent Alarm preventing manual and automatic rod motion was identified through
+troubleshooting as failed Silicon Controlled Rectifiers (SCR)[EI1S: 5CR] associated with lift coils. The SCRs were
+manufactured by Westinghouse and actions are in place to determine the root cause of the failure (see corrective actions).
+Analysis of the Event
+This licensee event report is being provided pursuant to 10 CFR 50.73(a)(2)(iv)(A) as events that resulted in manual
+actuation of a system listed 10 CFR 50.73(a)(2)(iv)(B). The RPS, including a reactor scram or reactor trip, is listed in 10
+CFR 50.73(a) (2)(iv)(B)(1) as an event subject to the reporting requirements of 10 CFR 50.73(a)(2)(iv)(A). The events did
+not result in a Safety System Functional Failure.
+Safety Significance
+There were no safety consequences resulting from these events. During each event, the affected Shutdown Bank was
+capable of being tripped to the fully inserted position. Thereby, the events had no impact on the health and safety of the
+public. In addition, there were no other Structures, Systems, or Components (SSCs) that contributed to the events.
+Corrective Actions
+1. Complete circuit card forensics at CPED.
+2. Review preventative maintenance strategy to ensure periodic checks/replacements are aligned with original equipment
+manufacturer. Implement any deficient preventative maintenance found. Determine if SCR and capacitor periodic
+replacements are required.
+3. Revise maintenance rule functional failure (MRFF) if necessary to evaluate performance failures based on
+troubleshooting results.
+(cid:9) (cid:9)
+NRC FORM 256A (03-14-20231 Page 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150.0104(cid:9) EXPIRES: 08131/2023
+03-14-2023 Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons teamed are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch fT-6 MOM), U. S
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+I nfooallects.Resource@n rc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+71Afir
+Affairs, (3150-0104 Attn: Desk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; email: gira submission@omb.eoo.gok. The NRC may not conduct or
+(See NUREG-1022. R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.govireadinci-rmidoc-collegion sin uregS/sta ffisr 1 022/r311 requesting or requiring the collection dl plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+Seabrook Station 00443 YEAR SE NQ UU ME BN ET RIA L R NE OV .
+052 2023 003 00
+NARRATIVE
+Similar Events
+A review of reportable events dating back 10 years, did not identify any previous events or conditions that involved the
+same underlying cause as this event.
+(cid:9) (cid:9) (cid:9) (cid:9)
+NRC FORM 36GA (03-14-2023) Page 3 of 3

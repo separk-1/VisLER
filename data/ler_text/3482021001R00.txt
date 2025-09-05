@@ -1,0 +1,122 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3160-0104(cid:9) EXPIRES: 08i3112023
+(08-2020) Esbrawed nroen pe• response to :empty will the mareatvy cdr'eccon request 8..) nous(cid:9) Reported
+LICENSEE EVENT REPORT (LER) :asserts leaned are incorp.wated etc :he ficensfrg process and fed tack Is ,no,say(cid:9) Send ccroreres
+%. gigardng Us-den estnute to De FOlA. bbra-f. and infomlabort Cotlecapm Branch i1-6 MOM) U S
+(See Page 3 for required number of dIgitsrcharacters for each block) Nuveas(cid:9) Re^t,far^ry(cid:9) Cormasson(cid:9) Washington.f.,C(cid:9) 205.55-0Dv(cid:9) or(cid:9) En;(cid:9) e-mat(cid:9) M
+Vf,(cid:9)i(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completi• (cid:9)ng thi• s form i•r `ocee• (cid:9)sisR• (cid:9)es'c(cid:9) arc-e@alc acn, and m. e OW ,(cid:9)ea• swe(cid:9)r at '(cid:9) cue Office a-' (cid:9) in.(cid:9) torrnas'o n and Requqtori
+• •(cid:9) http.//v,ws..rIrc.gcovireading-mgdoc-collectiensinuteg 'stalf:sr1022/r3:1 Affars i3' 50Ltp4j Ain(cid:9) Desk at(cid:9) :.:ia ,31:,,,,,Y.ir.vi,d%ont(cid:9) t,p •;(..,(cid:9) Ple NRC may nct ccnd,:t of
+spew,. aid 3 oeson Is no! :sound to respond to. a colleellon of ,nforrna!on toms to docufrenf
+Fequarg n, recui,ng tie Wecton displays a currently valor! OMB conirol number
+1. Facility Name 2(cid:9) Docket Number 3. Page
+Joseph M. Farley Nuclear Plant, Unit 1
+05000(cid:9) 348 1(cid:9) OF(cid:9) 2
+4. Title
+Automatic Reactor Trip due to Turbine Generator Trip
+5. Event Date 6. LER Number 7. Report Date B. Other Facilities Involved
+Month(cid:9) I(cid:9) Day(cid:9) Year Year Sequential(cid:9) : (cid:9)Revision Month(cid:9) 1(cid:9) Day(cid:9) '(cid:9) Year Facility Name(cid:9) i'(cid:9) Docket Number
+Number(cid:9) • (cid:9) No.
+1 05000
+4(cid:9) 1(cid:9) 22(cid:9) 2021 2021 -(cid:9) 001 00 06(cid:9) 21(cid:9) 2021 F acuity Name(cid:9) -- Docket N:fmber
+1(cid:9)
+I I(cid:9) 1 05000
+S. Operating Mode 10. Power Level
+1 048
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+n(cid:9) 1
+,._
+(cid:9)10 CFR Part 20(cid:9) --r-7(cid:9) 20.2203(a)(2)(vi)
+ri (cid:9)
+550 0.3 .46( 6c 4)( ,2 0)
+3.(cid:9) I(cid:9)
+ni(cid:9) 50.73(a)(2)(Iv)(A) 50.73(02)(x)
+I 20.2201(b)(cid:9) 1(cid:9) 20.2203(a)(3)(1) 50.73(a)(2)(v)(A) 10 CFR Part 73
+D(cid:9) F---1(cid:9) pi(cid:9)
+20.2201(d)(cid:9) 20.2203(a)(3)(11) 50.69(g)(cid:9) , 50.73(a)(2)(v)(B) 73.71(a)(4)
+[](cid:9)
+pi(cid:9) n
+20.2203(a)(1)(cid:9) , (cid:9) 20.2203(a}(4) Eli SO ' 7 3(a)(2)(I)(A)(cid:9) 50.73(a)(2)(v)(C) 73.710)(5)
+ri,(cid:9)
+1(cid:9) 20.2203(a)(2)(i) 10 CFR Part 21 ri(cid:9) 50.73(a)(2)(I)(B)(cid:9) I(cid:9) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+Li(cid:9) 21.2(c)
+I (cid:9) 20.2203(a)(2)(ii) (cid:9) 1 (cid:9) 50.73(a)(2)(i)(C)(cid:9) 11.7(cid:9)- 1(cid:9) 50.73(a)(2)(vii) 1(cid:9) 73.77(a)(2)(i)
+E. l(cid:9) 20.2203(02)0i) 10 CFR Part 50(cid:9) I (cid:9) I (cid:9) 50.73(02)01M(cid:9) IIE(cid:9) 50.73(a)(2)(viii)(A) 73.77(a)(2)(10
+_.l
+I(cid:9) 20.2203(a)(2)(iv) 17(cid:9) 50.36401)(1)(A)(cid:9) I 1-1(cid:9) 50.73(a)(2)(11)(B)(cid:9) 1i ( 7,(cid:9) 50.73(a)(2)(viii)(B)
+n 20.2203(a)(2)(v) I(cid:9) 50.35(c)(1)(II)(A)(cid:9) I(cid:9) i(cid:9) 50.73(a)(2)(iii)(cid:9) 1 ri(cid:9) 50.73(a)(2)(ix)(A)
+J
+-
+E OTHER (Specify here. in abstract. or NRC 366A)
+12. Licensee Contact for this LER
+Licensee Contact
+'P(cid:9)
+hone Number (Include area code)
+Gene Surber, Licensing Manager(cid:9) (334) 661-2265
+13. Complete One Line for each Component Failure Described in this Report
+--.
+I 1
+Cause(cid:9) System Component Manufacturer !Reportable to IRIS] Cause(cid:9) i(cid:9) System Component(cid:9) I Manufacturer ' Reportable to IRIS
+T(cid:9) -1
+N/A(cid:9) 1 !(cid:9) i
+I
+14. Supplemental Report Expected i(cid:9) Month(cid:9) Day(cid:9) 1(cid:9) Year
+16. Expected Submission Date
+vi(cid:9) No(cid:9) 1(cid:9) i(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Lim:t to 1560 Spaces, t e(cid:9) approximate,/ I 5 singe-soaced typewntten lines)
+At 1450 CDT on April 22. 2021, with Farley Nuclear Plant (FNP) Unit 1 in Mode 1 at 48% power an automatic reactor trip
+occurred due to a main turbine trip. The main turbine / generator trip was due to data input error in the exciter switchgear
+software during exciter testing. The trip was not complex with all systems responding normally. Operations stabilized the plant in
+Mode 3. Due to low decay heat load, the Main Steam Isolation valves were closed to minimize cooldown and the Atmospheric
+Relief Valves were used to remove decay heat. This event was initially reported as event notification 55206.
+Corrective Actions included correcting the data entry in the exciter switchgear control software and performing causal analysis on
+the human performance aspect of this event.
+This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to the automatic actuation of a system listed in 10CFR50.73(a)(2)(iv)
+(B).
+FNP Unit 2 was not affected during this event.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 0813112023
+Ida-2020.
+Estmated burden per response to comply with Vs maridaVy collection request 50 hours Reverted
+lessens learned are Iciorporated etc Lhe licensing proans and fed back to industry Send comments
+*, LICENSEE EVENT REPORT (LER) regarding burden estrnate the FDA. Ubrary and Mlorthaeon Ccfiections Branch (T-6 4.1041).1..! S
+%dea• Re:it:Lanni Controssion• Washington. DC 20555-0001 or by b-fria: 0
+CONTINUATION SHEET
+Infocclieds Rescurce@nrc gov and the OMB reviewer at: CMB Offix of infonnabon and Rego•:atery
+•••.• Affairs. (31540104). Atn. Desk Officer for the Nuclear Regulatory Comussion. 725 17111 Sheer. NW.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington. DC 20503; e-rnar. 0if.a...SOtg.rpssrm@QinVeaggy The ',MC may not conduct or
+sponsor. and a person is nol required to respond to. a collection of information unless She document
+nrc govireading.iinfctoc.COlection-noregi'Staffsr1022430
+requesteg 0' requiring the coiled/on dispiays a arrendy valid OMB contni nunte.r.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Joseph M. Farley Nuclear Plant, Unit 1 348
+2021
+001 [ 00
+NARRATIVE
+A. EVENT I CAUSE DESCRIPTION:
+At 1450 CDT on April 22, 2021. with Farley Nuclear Plant (FNP) Unit 1 in Mode 1 at 48% power an automatic reactor trip
+[EEIS: JC] occurred due to a main turbine [EEIS: TA] trip. Unit 1 had just recently completed a refueling outage and was
+ascending in power. The unit was at 48% power with exciter switchgear LEEIS:TLI power ascension testing in progress by
+ABB contractors under the supervision of FNP Site Projects personnel. The ABB contractor updating the software made a
+human performance error and inserted an incorrect setpoint value within the exciter switchgear software. This caused the
+exciter to drive the excitation voltage and current on the generator to near zero. This caused a corresponding rise in
+generator current on all three phases. Ultimately, this sequence was secured when the distance relay [EEIS: TB / 21]
+provided a generator trip. This resulted in a cascading turbine trip and subsequent automatic reactor trip.
+B. SAFETY ASSESSMENT REPORTABILITY:
+There were no safety consequences as result of this event. The operating crew responded correctly to the event. The
+applicable abnormal / emergency operating procedures were properly entered and documentation met expectations. This
+event was within the analysis of the UFSAR Chapter 15. Additionally, no radiological release occurred due to this event.
+This event is reportable under 10CFR50.73(a)(2)(iv)(A) due to the automatic actuation of the Reactor Protection System
+(RPS) as identified in 10CFR50.73(a)(2)(iv)(B).
+C. CORRECTIVE ACTIONS:
+Corrective Actions included correcting the data entry in the exciter switchgear control software and performing causal
+analysis on the human performance aspect of this event. Causal analysis determined there was a lack of risk recognition
+and over reliance on vendor expertise.
+D. PREVIOUS SIMiLAR EVENTS:
+The following similar events were reported, however these similar events are component related and are not human
+performance related:
+LER U2 2019-002-00. Manual Reactor Trip due to Misaligned Rod during Low Power Physics Testing
+LER U2 2019-003-00. Manual Reactor Trip due to 2C Reactor Coolant Pump High Vibration Indication
+E. OTHER SYSTEMS AFFECTED:
+No other systems were affected by this event.
+NRC FORM 366A 136-20201(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 2

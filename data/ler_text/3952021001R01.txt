@@ -1,0 +1,265 @@
+ja`i Dominion
+V.C. Summer Nuclear Station l
+Bradham Blvd & Hwy 215, Jenkinsville, SC 29065 Energy
+Mailing Address:
+P.O. Box 88, Jenkinsville, SC 29065
+Dominion Energy.com
+February 8, 2022
+(cid:9)
+Document Control Desk Serial No.: 21-258A
+(cid:9)
+U.S. Nuclear Regulatory Commission VCS-LIC/JB RO
+(cid:9)
+Washington, DC 20555 Docket No. 50-395
+License No. NPF-12
+DOMINION ENERGY SOUTH CAROLINA (DESC)
+VIRGIL C. SUMMER NUCLEAR STATION (VCSNS) UNIT 1
+LICENSEE EVENT REPORT 2021-001-01
+CONDITION PROHIBITED BY TECHNICAL SPECIFICATIONS
+Dominion Energy South Carolina hereby submits Licensee Event Report (LER)
+2021-001-01 for VCSNS. This report provides updated details concerning an operation
+or condition prohibited by Technical Specifications and is submitted in accordance with
+10 CFR 50.73(a)(2)(i)(B). The attached LER also fulfills "Reporting of Defects and
+Noncompliance" requirements under 10 CFR 21.2(c).
+Should you have any questions, please call Mr. Justin Bouknight at (803) 941-9828.
+Sincerely,
+Georg A. Lippard
+Site Vice President
+V.C. Summer Nuclear Station
+Enclosure
+Commitments contained in this letter: None
+cc:
+G. J. Lindamood — Santee Cooper
+L. Dudes — NRC Region II
+G. Miller — NRC Project Mgr.
+NRC Resident Inspector
+J. N. Bassett — INPO
+Marsh USA, Inc.
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+,4.(cid:9)0" *"`N(cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+14 )(cid:9) (See Page 3 for required number of digits/characters for each block) Nuclear(cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+\ (cid:9) / (cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the 0MB reviewer at:(cid:9) 0MB Office of Information and Regulatory
+httal/www.nrc,gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn:(cid:9) Desk ail:(cid:9) gird submission@omb.eopmov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000(cid:9) 395 1(cid:9) OF(cid:9) 4
+V.C. Summer Nuclear Station, Unit 1
+4. Title
+Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+06 28 2021 2021 -(cid:9) 001 01 2 8 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100%
+.....(cid:9) _
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+SO CFR Part 20' 50.36(c)(2) 50.73(a)(2)(iv)(A) ri(cid:9) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) I 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+1-7(cid:9) 7(cid:9)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) n(cid:9) 50.73(a)(2)(v)(C) 73.71(a)(5)
+n(cid:9)
+20.2203(a)(2)(i) 10 CFR Part 21 /(cid:9) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) n(cid:9) 73.77(a)(1)(i)
+7(cid:9) 7(cid:9)
+20.2203(a)(2)(ii) 21.2(c) q 50.73(a)(2)(i)(c) q 50.73(a)(2)(vii) 73.77(a)(2)(1)
+7(cid:9)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+7(cid:9) 7(cid:9) n(cid:9)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+n(cid:9)
+20.2203(a)(2)(v) n(cid:9) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Justin Bouknight 803-941-9828
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B KM CHU N418 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+,/ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+In 2010, Nuclear Logistics (NLI) was contracted by V.C. Summer Nuclear Station (VCSNS) to replace its 3 safety-related
+chillers. On June 28, 2021, V.C. Summer Nuclear Station (VCSNS) was notified that the bolted diagonal supports for the NLI
+safety related chillers (XHX0001A/16/1C) have a bolt (the pin) which would not withstand the combined design seismic and
+thermal loads. The vendor conclusion was confirmed by VCSNS personnel. As a result, the previous NLI chiller support frame
+design does not meet required seismic qualification under VCSNS procurement specification for compliance with 10 CFR 50
+Appendix A, Criterion 2. At the time of discovery, only the 'A' Chiller had been replaced. Additional support bracing was
+designed, fabricated, and installed for the affected in-service 'A' Chiller. The enhanced bracing installation has corrected the
+issue and restored compliance with Technical Specifications (TS). There were no seismic events of consequence to the 'A'
+Chiller functionality during the time of the deficient seismic restraint (August 5, 2011 until June 29, 2021). However, there were
+times when the 'A' Chiller was credited as a TS support component, resulting in the plant operating in a condition prohibited by
+TS.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+e".""N,. LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.epp,goy. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+lattpl/Lwww.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+V.C. Summer Nuclear Station Unit 1 395
+2021
+001 01
+NARRATIVE
+1.0 DESCRIPTION OF THE EVENT
+In 2010, NLI (now a part of Paragon Energy Solutions) was contracted by V.C. Summer Nuclear Station (VCSNS) to
+provide 3 replacement safety-related chillers. On June 28, 2021, Paragon Energy Solutions notified V.C. Summer
+Nuclear Station (VCSNS) that the bolted diagonal supports for the NLI safety-related chillers (XHX0001A/1B/1C) have a
+bolt (the pin) which cannot withstand the combined seismic and thermal loads. The deficiency was confirmed by VCSNS
+personnel, following review of the vendor documentation. As a result, the NLI chiller support frame design did not meet
+required seismic qualification under VCSNS procurement specification for compliance with 10 CFR 50 Appendix A,
+Criterion 2. At the time of discovery, only the 'A' Chiller had been replaced. The 'B' Chiller was in the process of being
+replaced. The 'C' Chiller (design unaffected by the defective seismic restraint) was operable, with its replacement being
+fabricated by the vendor. This condition had existed for the 'A' Chiller since its seismic restraint was installed August 5,
+2011. The 'A' Train of Chilled Water was declared non-functional at 1435 hrs on June 28, 2021 and the station entered
+Technical Specification (TS) Action Statement 3.5.2.a.
+Additional support bracing was designed, fabricated, and installed for the affected in-service 'A' Chiller. The action
+statement was exited within the allowable 72-hour outage time on June 29, 2021 at 1030 hrs. The enhanced design was
+applied to the 'B' Chiller, prior to its return to service, and will be applied to the replacement 'C' Chiller at the vendor
+facility prior to its delivery and installation. The enhanced bracing installation has corrected the issue and brought the
+issue in line with VCSNS seismic design specifications. There were no seismic events of consequence to the 'A' Chiller
+functionality during the time of the deficient seismic restraint.
+2.0 SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+Although not specifically addressed in TS, Safety Related Chilled Water is required for operability of TS-required
+equipment. The 'A' Chiller seismic restraint was installed August 5, 2011 and subsequently credited as a TS support
+component. A past functionality evaluation performed on the 'A' Chiller determined the 'A' Chiller was non-functional, as
+a result of inadequate seismic restraints, from August 5, 2011 to June 29, 2021. During this period, there were
+occasions when 'A' Chiller was one of two chillers credited for support of the Emergency Core Cooling System (ECCS)
+equipment, required per TS 3.5.2. The most-limiting ECCS component supported by the Safety Related Chilled Water
+are the charging pumps. The non-functional 'A' Chiller could have also impacted availability of the Control Room
+Emergency Filtration System (CREFS) (TS 3.7.6) and potentially other safety-related equipment for some scenarios.
+These past condition(s) prohibited by TS were not known until Paragon submitted the Part 21 information on June 28,
+2021. There were no seismic events of consequence to the 'A' Chiller functionality during the time of the deficient
+seismic restraint (August 5, 2011 until June 29, 2021).
+The Chilled Water System provides cooling to safety-related areas (TS Table 3.7-7) as an attendant cooling system and
+supports the comfort requirements for the Control Room Emergency Filtration Systems (CREFS). The Chilled Water
+System is necessary to ensure equipment located within these areas can withstand the environmental effects of a
+postulated FSAR chapter 15 event.
+(cid:9) (cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page 2(cid:9) of 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: °ilia subBissioneom_Lez.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nm._gov/reading-rm/doc-colleclions/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+V.C. Summer Nuclear Station Unit 1 395
+2021
+001 01
+NARRATIVE
+The 'A' Chiller (XHX0001A) is designed to provide a continuous flow of 45 deg F chilled water to various safety-related
+cooling coils in the plant during both normal and emergency conditions. All TS areas in Table 3.7-7, with the exception of
+Areas 23-30 (cooled by outside air ventilation), are cooled by chilled water air handling units. If the temperature limits for
+any room listed in TS Table 3.7-7 are exceeded for more than eight hours, a Special Report demonstrating operability of
+the pertinent equipment is required per TS 3.7.9.a. If those values are exceeded by more than 30 deg F for more than 4
+hours the equipment in the room is considered inoperable per TS 3.7.9.b.
+In order for the 'A' Chiller to continuously deliver 45 deg F water, all heat loads generated in the areas served by the
+Chilled Water System must be transferred to the chilled water fluid, and absorbed by the refrigeration system, which is
+then rejected to the Service Water System. The 'A' Chiller is designed to provide this function under all operating
+scenarios.
+Therefore, it is required to operate continuously, when started on demand, and the total heat removal rate (cooling
+capacity) must meet or exceed the total steady-state heat load rates for the Chilled Water System supported areas. This
+is required during both normal and accident heat load conditions, provided the system is Seismic Category I components.
+3.0 CAUSE OF THE EVENT
+The cause of the non-functionality was the inadequate seismic design for bracing on the installed 'A' Chiller, as well as
+for the 'B' was in the process of being installed. Specifically, the issue was the bolts (pins) utilized in the seismic bracing
+design were not adequate for the design load.
+4.0 CORRECTIVE ACTIONS
+Additional support bracing was designed, fabricated, and installed for the affected in-service 'A' Chiller. This modification
+was completed on the installed 'A' Chiller on June 29, 2021. The same design modification was applied to the 'B' Chiller
+prior to its return to service and will be applied to the enhanced 'C' Chiller prior to its installation. The enhanced seismic
+restraint has corrected the issue, restoring compliance with the VCSNS seismic design and TS.
+VCSNS personnel have engaged with Paragon regarding the design and fabrication of its chillers and continue to provide
+oversight in accordance with procurement and quality assurance program requirements.
+(cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+""N'
+LICENSEE EVENT REPORT (LER)
+rle es gs ao rdn is
+n
+gle a br un re dd
+e
+na r ee
+s
+ti in mc ao tr ep o tora tt he ed Fin Oto
+IA
+t ,h Le
+i
+blic rae rn ys
+,
+i an ng
+d
+p Ir no fc oe rmss
+a
+a tin od
+n
+f Ce od
+l
+lb ea cc tik
+o
+nto
+s
+i Bn rd au ns ct hry (.
+T
+S -6e n Ad
+1
+c 0o Mm ),m Ue .n Sts
+.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: gra_sgbmission@omb.m.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the dotument
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+V.C. Summer Nuclear Station Unit 1 395
+2021
+001 01
+NARRATIVE
+5.0 SIMILAR EVENTS
+A review of Licensee Event Reports (LERs) and condition reports (CRs) at VCSNS for the three previous years did not
+identify any similar events.
+6.0 MANUFACTURER / MODEL INFORMATION
+Paragon/Nuclear Logistics (NLI) 280-ton Custom Chillers, Serial Numbers XHX-0001A, XHX-0001B, and XHX-0001C.
+The Chillers were originally supplied to VC Summer Nuclear Station by Nuclear Logistics under purchase order
+NU-02SR726683 in 2010.
+7.0 ADDITIONAL INFORMATION
+While this LER describes a condition that could have had adverse impacts to equipment qualification following a seismic
+event, there was no such event. As a result, the chilled water system and the equipment it supports were not impacted
+by the design vulnerability that has now been corrected.
+(cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page 4(cid:9) of(cid:9) 4

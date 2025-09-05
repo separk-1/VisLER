@@ -1,0 +1,279 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+., M ;
+,.,(cid:9) "(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+http://www.nrc.govireading-rm/doc-collections/nuregsistaff/sr1022/r31) Affairs, (3150-0104), Attn:(cid:9) Desk ml:(cid:9) oira_submission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+South Texas Project, Unit 1
+05000(cid:9) 00498 1 OF(cid:9) 5
+4. Title
+Frozen Common Sensing Line Results in Loss of Two Main Feedwater Pumps Leading to Automatic Reactor Protection and
+Auxiliary Feedwater Systems Actuations due to Low Steam Generator Level.
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+02 15 2021 2021 -(cid:9) 001(cid:9) - 00 04 15 2021 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+L
+i(cid:9)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) I,/ 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+1-7
+I. 20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) (cid:9) 73.71(a)(4)
+L
+](cid:9)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) I 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 1-1(cid:9) 73.77(a)(1)(1)
+H(cid:9)
+20.2203(a)(2)(ii) I J(cid:9) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(1)
+(cid:9)
+20.2203(a)(2)(iii) 10 CFR Part 50 1(cid:9) i(cid:9) 50.73(a)(2)(10(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+n(cid:9)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+n(cid:9)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(111) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Nic Boehmisch, Licensing Engineer (361) 972-8172
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B JK TBG n/a Y
+14. Supplemental Report Expected Month Day Year
+IN 15. Expected Submission Date
+No ri(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On February 14, 2021, at 1516 hours the South Texas Project Electrc Generating Station entered a period of abnormally cold
+weather. The temperatures on site reached 16 degrees Fahrenheit at the time of the event. A section of exposed common
+sensing line that fed pump protection switches for the Unit 1 steam generator feedwater pumps (SGFP) was not insulated or heat
+traced. The common line froze resulting in two out of three SGFPs tripping off-line. The Unit 1 reactor tripped on low steam
+generator level two minutes later. The startup feedwater pump tripped a short time afterwards from the same cause.
+An organizational and programmatic root cause evaluation identified that station personnel implemented a freezing weather plan
+that was fragmented and lacked engagement, sufficient direction, verification of readiness, and designated ownership to ensure
+the station was prepared for abnormally cold weather. This event is reportable as an event that resulted in the automatic
+actuation of the Unit 1 reactor protection system and auxiliary feedwater system. Planned corrective actions include streamlining
+and revision of the freeze protection program and installing additional insulation and heat trace.
+The event did not result in any offsite release of radioactivity or increase of offsite dose rates and there were no personnel
+injuries or damage to any safety-related equipment associated with this event. Additionally, all Engineered Safety Feature (ESF)
+equipment operated as designed. Therefore, there was no adverse effect on the health and safety of the public.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+op.11na Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+40.(cid:9) A lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+.47 • LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource©nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail- oira submissionaomb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+http://www.nrc.qovireading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV NO.
+South Texas Unit 1 NUMBER
+05000- 00498
+22002211 ▪ 001 ▪ 00
+NARRATIVE
+Description of Reportable Event
+A. Reportable event classification
+This event is reportable pursuant to 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in the automatic actuation of
+reactor protection system (RPS) (10 CFR 50.73(a)(2)(iv)(B)(1)), and Auxiliary Feedwater System (AFWS) (BA) (10
+CFR 50.73(a)(2)(iv)(B)(6)).
+B. Plant operating conditions prior to event
+Prior to the event both Unit 1 and Unit 2 were at full power in Mode 1.
+C. Status of structures, systems, and components that were INOPERABLE at the start of the event and that contributed to the
+event
+No other structures, systems, or components were inoperable at the start of this event that contributed to this event.
+D. Background information
+The feedwater system (SJ) is composed of three nominal 40-percent-capacity (normally operating at 33-1/3-percent-
+capacity), turbine-driven, single-stage feedwater pumps (P) connected in parallel to supply feedwater to the four steam
+generators (SG). During normal operation all the pumps are running to supply the required flow of feedwater to the four
+steam generators. In addition to the three turbine-driven (main) steam generator feedwater pumps (SGFPs), one motor-
+driven startup steam generator feedwater pump (SUFP) (P) is provided (20-percent-capacity). The SUFP has the dual
+purpose of supplying feedwater during fill-up and low-load conditions when steam is not available to drive the main feed
+pump turbines and to allow plant operation at full power with one main SGFP out of service.
+Unit 1 has a common sensing line that feeds the low-pressure side of the net positive suction head (NPSH) differential
+pressure trip switches (PDS) for all SGFPs. The common sensing line utilizes a tee connection to split to both the SGFPs
+and SUFP with separate heat trace protection circuits (EHTR). The common sensing line is composed of stationary (no flow)
+quarter inch inner diameter stainless-steel tubing (TBG). A short segment (roughly five feet in length) of the common sensing
+line (that was uninsulated and without heat trace) runs into the turbine generator building (TGB) to six low-NPSH switches
+located inside the TGB for the SGFPs. Another branch of the common sensing line (that had heat trace and insulation) runs
+to two low-NPSH switches for the SUFP.
+The AFWS is designed to back up the main feedwater system during plant hot shutdown (or hot standby) in the event the
+main feedwater system and/or the SUFP is unavailable. The AFWS can be used as a means of continuous feedwater
+supply even if this condition is maintained for extended periods. The AFWS feedwater supply is the auxiliary feedwater
+storage tank (AFST) (TK).
+E. Narrative summary of the event
+On February 14, 2021, at 15:16 the South Texas Project Electric Generating Station entered a period of abnormally cold
+weather for the station. The temperatures dropped to 32 degrees Fahrenheit and continued to drop throughout the rest of the
+afternoon and night. Shortly after midnight, ice began to form in sensing lines on the Deaerator Structure (DEA). The first
+symptom was Deaerator pressure "slowly failing high." This was consistent with formation of ice. Over the next two hours,
+Deaerator Storage Tank #2 level indication failed low, and Deaerator inlet flow displayed "bad data" and then failed high. The
+Deaerator level control was transferred from automatic to manual control at 02:41 on February 15, 2021.
+On February 15, 2021, at 05:24, the Unit 1 SGFPs 11 & 13 tripped off-line due to an invalid low Net Positive Suction Head
+(NPSH) trip input. The invalid trip signal resulted from ice that formed in the common sensing line of the low-pressure side of
+the NPSH switches. The ice formation increased the pressure on the low-pressure side and reduced the differential pressure
+to below the trip setpoint.
+(cid:9)
+NRC FORM 366A (08-2020) Page 2 of 5
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource©nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira submission(gomb eop qov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+http://www.nrc.qov/reading-rm/doc-collections/nureus/staff/sr1022/r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV NO.
+South Texas Unit 1 NUMBER
+05000- 00498
+2021 001 00
+NARRATIVE
+The near simultaneous trip of two SGFPs led to a significant reduction of feedwater flow to the steam generators.
+Each of three SGFPs, rated for 40% of system capacity, normally produce 1/3 of feedwater system flow. The loss of
+a single pump could have been overcome with the automatic start of the startup feedwater pump (SUFP), rated at
+20% of feedwater flow, with no reduction in power and no reduction in the Unit 1 electrical output. By design, the
+automatic start of the SUFP plus the remaining operating SGFP 12 could maintain the plant online at 60% power.
+However, as experienced during the event and subsequently confirmed in the plant simulator, it was not possible to
+reduce power quickly enough to overcome the near simultaneous loss of two SGFPs which resulted in a low water
+level condition in steam generator 'C.' At 05:26, the reactor protection system automatically tripped Unit 1 on low
+steam generator water level and the AFWS pumps automatically started. The outside ambient temperature at the
+time, as measured at the STP Meteorological (MET) Tower, was 16 degrees Fahrenheit. SGFP 12 was manually
+secured per procedure, as it did not trip with SGFPs 11 and 13. The SUFP was secured per procedure. The AFST
+was declared inoperable for having less than the required volume. The normal AFST makeup valve was open but
+not allowing water flow. Operators assumed the pipe was frozen and used the makeup bypass valve to makeup to
+the AFST. At 05:47 the SUFP was restarted to begin refilling the steam generators. Approximately 25 minutes later
+the SUFP tripped, due to the same condition that tripped SGFPs 11 and 13. The AFW pumps were secured one
+minute after the SUFP trip and were restarted five minutes later. At 14:03 the AFST normal makeup valve was
+opened and able to begin increasing AFST volume. The AFST was declared operable at 17:45 after reaching the
+required volume. At 18:33 the SUFP was started to commence filling the steam generators.
+The following is a summary timeline of relevant events (note: all times are Central Daylight Time):
+1988 — A short segment of common sensing line was installed without heat trace or insulation
+02/02/2020 14:30 — Heat trace circuit on the common sensing line upstream of the tee was deenergized.
+02/14/2021 15:16 — Site temperature reading was 32°F and dropping
+02/15/2021 05:24 — SGFP 11 and 13 tripped
+02/15/2021 05:26 — Unit 1 reactor automatically tripped due to low steam generator levels, AFWS pumps start
+02/15/2021 05:28 —SUFP 14 secured per procedure
+02/15/2021 05:31 — AFST declared inoperable due to volume going below 485,000 gallons
+02/15/2021 05:47 — SUFP 14 was manually started
+02/15/2021 06:14 — SUFP 14 tripped
+02/15/2021 06:15 —AFWS pumps 11, 12, 13, and 14, secured
+02/15/2021 06:19 — AFWS pump 14 started to commence feeding steam generators
+02/15/2021 06:20 — AFWS pumps 11, 12, and 13 were started to feed steam generators
+02/15/2021 14:03 — AFST makeup valve thawed to allow water flow
+02/15/2021 17:45 — AFST declared operable, greater than 485,000 gallons
+02/15/2021 18:33 — SUFP 14 started following maintenance
+F.(cid:9) Method of discovery
+This event was self-revealed when SGFP 11 and 13 tripped off-line due to low NPSH, resulting in a reactor trip due
+to low steam generator level two minutes later.
+Page 3 of 5
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+4,0, Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+: • LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira submissionAomb.eop.aov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+http://www.nrc.qovireading-rm/doc-collections/nureqs/staff/sr10221r3/)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV NO.
+South Texas Unit 1 NUMBER
+05000- 00498
+2021 001 00
+NARRATIVE
+II. Component failures
+A. Failure Mode, mechanism, and effects of failed component
+The failed component in this event was the common sensing line tubing. A portion of the quarter inch inside diameter
+stainless steel tubing developed an ice seal during freezing weather resulting in increased pressure on the low-pressure side
+of the low-NPSH trip switches. The switches actuated in response to the perceived loss of NPSH and tripped the SGFPs.
+B. Cause of component or system failure or personnel error
+The cause of this event was the lack of insulation and heat trace on the exposed common sensing line tubing, as
+well as deenergized heat tracing on a portion of the common sensing line upstream of the tee.
+C. Systems or secondary functions that were affected by failure of components with multiple functions
+There are no secondary systems or functions for this component.
+D. Failed component information
+Feedwater system instrumentation tubing
+Stainless steel tubing
+Size: 1/4 inch inside diameter, 3/8 inch outside diameter
+III. Analysis of the event
+A. Safety system responses that occurred
+The RPS and AFWS actuated in response to low steam generator levels after the SGFPs tripped offline.
+B. Duration of safety system inoperability
+The AFST was inoperable from 05:31 until 17:45, a period of approximately twelve hours and fifteen minutes.
+C. Safety consequences and implications
+The failure in this event occurred in a non-safety related system. The event resulted in the actuation of the RPS and
+AFWS. The initiating event was caused by a severe weather external event. This event did not result in any offsite
+release of radioactivity or increase of offsite dose rates, and there were no personnel injuries or damage to any
+safety-related equipment associated with this event. Therefore, there was no adverse effect on the health and safety
+of the public.
+IV. Cause of the event
+The root cause for this event was determined to be:
+Station personnel implemented a freezing weather plan that was fragmented and lacked engagement, sufficient
+direction, verification of readiness, and designated ownership to ensure the station was prepared for Winter Storm
+Uri.
+The contributing causes for this event was determined to be:
+1. In 1988, heat trace and insulation were not installed as designed per Modification.
+2. Opportunities to improve the station's cold weather program were either not identified or not fully implemented.
+3. In some cases, station personnel did not implement procedure guidance as written; therefore, barriers that
+would have reduced the likelihood of the event were ineffective.
+Page 4 of 5
+NRC FORM 366A (08-2020)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+40.00, Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira submissionnomb.eop.qov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+http://www.nrc.govireadino-rm/doc-collections/nureqs/staff/sr1022/r3/1
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV NO.
+South Texas Unit 1 NUMBER
+05000- 00498
+2021 ▪ 001 ▪ 00
+NARRATIVE
+V. Corrective actions
+Planned corrective actions are as follows:
+1. Institute a freeze protection program that is: not fragmented, engages staff, provides sufficient direction,
+establish a single program owner with overall responsibility for the freeze protection program.
+2. Install permanent heat trace and insulation for the 5-foot section of common sensing line.
+3. Evaluate and address single point vulnerabilities including passive failures affecting the SGFPs.
+4. Present a case study, on proactively identifying similar problems, at a leadership team alignment meeting.
+5. Implement a schedule for strategic engineering supervisors and manager to perform and document observed
+system walkdowns.
+VI. Previous similar events
+A review of internal events identified numerous conditions relating to frozen lines. Aspects that were related to these
+events include extreme cold, malfunctioning heat trace, and missing insulation. Most conditions were closed with tool
+pouch maintenance with no extent of condition and no analysis to determine if insulation or heat trace should be
+considered to prevent the same freeze in the future.
+A 2010 condition identified seal water differential pressure lines on all six SGFPs in both units that were not heat traced.
+This condition could have led to a greater analysis of extent of condition that might have identified the lack of insulation
+and heat trace on the sensing line which caused this event. This was a missed opportunity to identify the sensing line
+which caused the event.
+There were no events related to the specific line that froze during this event.
+(cid:9)
+NRC FORM 366A (08-2020) Page 5 of 5

@@ -1,0 +1,112 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+-- (cid:9)s, :..,.. LICENSEE EVENT REPORT (LER) lE es at ri nm ea ct e ad re b ina cc oo rn p oD re ar te r ee s inp to or s tne e : o lic c eo nm sinp gly pw roit ch e t s7 sis a m nda fr ed da t oo ary c kc to ol a .nt dm u sre trq yu . e Ss et n: d8 0 c oh mo mur es m.(cid:9) sR ree gp aa rr ate ire g e bs us rc cn es r
+estimate(cid:9) to the FOIA. Library.(cid:9) and(cid:9) Informal C9(cid:9) Collections(cid:9) Branch (T-6 A10M):(cid:9) U.(cid:9) S.(cid:9) Nuclear Regulatory
+',,.i1c1-,1c111..i,,-. r(cid:9) . -. (cid:9) (See Page 2 for required number of digits/characters for each block) Commission. Wasbington, CC 20555-0001. c' by emai to Infocollects.Resource@nrc.gov. and the 0MB reviewer
+at:(cid:9) OMB Office of Information and Regulatory Affairs, f3150-0104), Att7:(cid:9) Desk Officer for the Nuc.ear Regulatory
+•" • •(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Commission: 72517th Street NW. Wash ngton. DC 20503: emai:(cid:9) oira 5u rnsscri@ornb.eop.gov. The NRC may
+http://www,nrc.gpy/reading-rm/doc-coljectioris/nuregs/staff/sr1022/r3/) rat conduct or sponsor, anc a person is not req,n'eo tc respond :a. a collection of information unless the document
+requesting cr requiring the collect on displays a ci.rrently valid 0MB ccitrol number.
+1. Facility Name 050 2. Docket Number 3. Page
+Vogtle Electric Generating Plant, Unit 3 00025 1(cid:9) OF(cid:9) 2
+1E1(cid:9) 052
+4.(cid:9) Title
+Automatic Reactor Protection System Actuation During Startup Testing Due to Inadequate Turbine Trip Logic
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revii scon Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+07 09 2023 2023 -(cid:9) 005(cid:9) - 00 09 06 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 045
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 r (cid:9) 1 (cid:9) 20.2203(a)(2)(vi) 10 CFR Part 50 I(cid:9) 50.73(a)(2)(ii)(A) I(cid:9) I(cid:9) 50.73(a)(2)(viii)(A) 73.1200(a)
+7(cid:9)
+I (cid:9) 1(cid:9) 20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+pi (cid:9)
+[
+I (cid:9) _I(cid:9) 20.2201(d) L (cid:9) I (cid:9) 20.2203(a)(3)(ii) (cid:9) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) I(cid:9) i(cid:9) 50.73(a)(2)(ix)(A) I J(cid:9) 73.1200(c)
+H(cid:9) u(cid:9)
+I J(cid:9) 20.2203(a)(1)(cid:9) I I(cid:9) j(cid:9) 20.2203(a)(4) 50.36(c)(2) rt7(cid:9) 50.73(a)(2)(iv)(A) I (cid:9) I(cid:9) 50.73(a)(2)(x) 73.1200(d)
+n(cid:9)
+7(cid:9)
+I _I(cid:9) 20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 I (cid:9) 1 (cid:9) 73.1200(e)
+[(cid:9) 7(cid:9) fl(cid:9)
+20.2203(a)(2)(ii) 21.2(c) 50.69(9) 50.73(a)(2)(v)(B) 73.77(a)(1) I _I(cid:9) 73.1200(f)
+7(cid:9) fl(cid:9)
+20.2203(a)(2)(111) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(1) 73.1200(g)
+7(cid:9)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Will Garrett. VEGP 3&4 Licensina Manaaer 7068487154
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+p(cid:9) 15. Expected Submission Date
+s/ (cid:9) No Yes (If yes, complete 15. Expected Submission Date)
+1
+16. Abstract (Limit to 1326 spaces, i.e.. approximately 13 single-spaced typewritten lines)
+On July 9, 2023, at 1328 EDT with Vogtle Electric Generating Plant (VEGP) Unit 3 in Mode 1 at 45 percent power, the Reactor
+Protection System (RPS) automatically actuated during the 100 percent load rejection startup test activities. The operators
+responded timely by ensuring plant stability, with decay heat removal accomplished by steam generator power operated relief
+valves. The cause of the event was a turbine trip due to an erroneous high-level indication in a Moisture Separator Reheater
+(MSR) resulting from the steam pressure change that occurred following the planned load rejection. The corrective action for
+this event modified logic to prevent a turbine trip during the anticipated steam pressure change following a load rejection event,
+by accounting for erroneous high-2 MSR level indications during this condition. This event is reportable under 10 CFR
+50.73(a)(2)(iv)(A) as an automatic actuation of the RPS. VEGP Units 1, 2, and 4 were unaffected by this event.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+.;(cid:9) CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: 0MB Office of Information and Regulatory
+N.••*/ Affairs. (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required o respond to, a collection of information unless the document
+http://www.nrc.govireading-rm/doc.-collectionsin.uregststaff/sr1022/r3/) requesting or requiring the collection di plays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+Vogtle Electric Generating Plant, Unit 3 00025 NUMBER NO.
+2023
+052 005 00
+INI
+NARRATIVE
+EVENT DESCRIPTION
+On July 9, 2023, at 1328 EDT with Vogtle Electric Generating Plant (VEGP) Unit 3 in Mode 1 at 45 percent power, the
+Reactor Protection System (RPS) [EIIS: JC] automatically actuated during the 100 percent load rejection test activities. The
+initiating event was a main turbine [EIIS: TA / TRB] trip due to a high-level indication in Moisture Separator Reheater (MSR)
+B [EIIS: SB / MSR]. During the performance of the 100 percent load rejection startup test, the turbine was in a Power/Load
+Unbalance condition. In this condition and as designed, the intercept valves (IVs) [EIIS: TA / V] initially fully closed to
+prevent turbine overspeed. The !Vs cycled open and closed, by design, to control turbine speed based on lowering demand
+and to allow recovery from the load rejection by blowing down the reheated steam. As the !Vs cycled, the pressure in the
+MSR shell decreased. Moisture removed from the high-pressure turbine exhaust via the MSR accumulated in the MSR
+Shell Drain Tank [EIIS: SN / TK] and prevented the MSR Shell Drain Tank pressure from correlating with pressure changes
+in the MSR shell. The differential pressure transmitters [EIIS: SB / PDT] that provide the MSR level indication responded to
+these pressure changes, resulting in an erroneous level indication that ultimately exceeded the high-2 setpoint, which led to
+the turbine trip. The turbine trip deenergized the Unit Auxiliary Transformers (UATs) [EIIS: EA / XFMR] which were
+powering the reactor coolant pumps [EIIS: AB / P], resulting in the reactor trip on low coolant flow. There were no structures,
+systems, or components that were inoperable at the beginning of the event that contributed to the event. This event is
+reportable under 10 CFR 50.73(a)(2)(iv)(A) as a condition that resulted in automatic actuation of the RPS.
+EVENT ANALYSIS
+The cause of this event was an inadequate turbine trip logic. The MSR pressure change conditions that occurred following
+the 100 percent load rejection test activities adversely impacted the differential pressure level instrument reading. The
+turbine trip logic did not account for these pressure change conditions. The turbine trip logic was modified to account for
+erroneous high MSR level indications while in the load rejection condition.
+SAFETY ASSESSMENT
+There were no safety consequences due to this event because the automatic actuation function of the RPS maintained the
+plant in a safe condition. The operators responded timely by ensuring plant stability and decay heat was removed by steam
+generator power operated relief valves [EIIS: SB / PCV]. All safety systems functioned as expected as a result of the event.
+VEGP Units 1, 2, and 4 were unaffected by this event.
+CORRECTIVE ACTION
+The turbine trip logic was modified by a software design change to account for erroneous high-2 MSR level indications
+during load rejection conditions.
+PREVIOUS SIMILAR EVENTS
+None
+(cid:9) (cid:9) (cid:9)
+NRC FORM 366A (03-14-2023) Page 2(cid:9) of 2

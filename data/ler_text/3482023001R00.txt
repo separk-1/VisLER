@@ -1,0 +1,117 @@
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION . APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/3112023
+(03-14-2023)
+Estimated burden per response to comply with Ins mandatory collection request 80 hours.(cid:9) Reported lessons
+e"----„(cid:9) LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed bad to industry. Send comments regarding burden
+?(cid:9) ) .(cid:9) I est:mate to the FOIA, Library, and Information CrilecEons Branch (T-6 MOM), U. S. Nuclear Regulatory
+a itit (See Page 2 for required number of digits/characters for each block) Commission, Washingbn, DC 20555-0001, or by Cala to infocollecte.Resotrere@nrc goy, and the 07.43 reviewer
+N,(cid:9) •-• at OMB Moe of information and Regulatory Adam, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 1701 Street NW, Washington, DC 20503, wait Q.:,rj_91I ri-gI*4.(\vpju,N,Tv. The NRC may
+htto://www.nrc.govireading-rm/doc-collectionsinuregsistaffisr1622trdi) not conduct or sponsor, and a person is not regtired to respond to, a coletbon of information unless the document
+requesting or requiring the coledion displays a comedy valid OMB control number.
+1. Facility Name II 050 2. Docket Number 3. Page
+Joseph M. Farley Nuclear Plant, Unit 1 348 1 OF(cid:9) 2
+052
+4. Title
+Automatic Reactor Trip due to DC Ground on Turbine Trip Solenoid
+5 Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name q Docket Number
+Number No. 050
+02 01 2023 2023 -(cid:9) 001(cid:9) - 00 03 30 2023 Facility Name q 052 Docket Number
+9. Operat ng Mode 10. Power Level
+1 100
+n11(cid:9) . This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+n(cid:9)
+10 CFR Part 20 i(cid:9) ii 20.2203(a)(2)(v1) 10 CFR Part 50 (cid:9) 50.73(a)(2)(11)(A) fl(cid:9) (cid:9) 50.73(a)(2)(vili)(A) 73.1200(a)
+fl
+El(cid:9) 20.2201(b) 20.2203(a)(3)(1) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(13) q 73.1200(b)
+20.2201(d) q 50.36(0(1)00(A) 50.73(8)(2)(1M 50.73(a)(2)(Ix)(A) 73.1200(e)
+ii
+(cid:9) 20.2203(a)(1) E](cid:9) 20.2203(a)(4) [](cid:9) 50.36(c)(2) nV(cid:9) (cid:9) 50.73(a)(2)(iv)(A) q 50.73(a)(2)(x) El(cid:9) 73.1200(d)
+(cid:9)
+I 20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(11) 50.73(a)(2)(v)(A) 10 CFR Part 73 q 73.1200(e)
+n• (cid:9) 20.2203(a)(2)(11) 21.2(c) fl(cid:9) 50.69(g) El(cid:9) 50.73(a)(2)(v)(B) n(cid:9) 73.77(a)(1) E] 73.1200(f)
+20.2203(a)(2)(111) n(cid:9) 50.73(a)(2)(I)(A) n(cid:9) 50.73(a)(2)(v)(C) n(cid:9) 73.77(a)(2)(I) n(cid:9) 73.1200(g)
+Fi
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) n(cid:9) 50.73(a)(2)(v)(D) n(cid:9) 73.77(a)(2)(11) n(cid:9) 73.1200(h)
+(cid:9)
+a(cid:9)
+20.2203(a)(2)(v) n(cid:9) 50.73(a)(2)(i)(C) n(cid:9) 50.73(a)(2)(vil)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Gene Surber. Farley Site Licensing Manaaer (334) 661-2265
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer 'Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X El 62 G080 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+se No q Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At 0956 CST on February 1, 2023, with Joseph M. Farley Nuclear Plant (FNP) Unit 1 in Mode 1 at 100 percent power, the
+reactor automatically tripped following a turbine trip signal. The turbine tripped when Maintenance personnel connected portable
+DC ground detection equipment (DC Scout) to the positive terminal of the "B" train Auxiliary Building battery to locate a DC
+ground. Connecting the DC Scout created a jumper to the normally open contact of the Turbine Trip Solenoid. Operations
+stabilized the plant in Mode 3 and removed decay heat via steaming to condenser. Auxiliary Feedwater System (AFW)
+automatically actuated as expected in response to the reactor trip.
+Corrective actions include changes to risk mitigation procedures associated with detecting DC grounds and use of portable
+ground detection equipment.
+This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) due to the automatic actuation of the Reactor Protection System (RPS)
+and AFW system as listed in 10 CFR 50.73(a)(2)(iv)(B). FNP Unit 2 was not affected during this event.
+NRC FORM 388A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed bad to industry. Send comments
+f (cid:9) 111 LICENSEE EVENT REPORT (LER) marring burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+41 Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs (3)50-0104), Attn: Desk Officer for the Nudear Regulatory Commission, 72517th Street NW,
+(See NUREG-1022, R.3 for instruct:on and guidance for completing this form Washington, DC 20503; email cira_submisssaktorgb_eour-. The NRC may not conduct or
+sponsor, and a person Is not required to respond to a collection of information unless the document
+http:I/www.nrc.govireading-rm/doc-collectionstnureg,5180/sr10221M
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+Joseph M. Farley Nuclear Plant, Unit 1 348 NUMBER NO.
+D
+2023
+052 001 00
+NARRATIVE
+EVENT DESCRIPTION
+On February 1, 2023, at 0956 CST, while Joseph M. Farley Nuclear Plant (FNP) Unit 1 was in Mode 1 at 100 percent
+power, maintenance was conducting troubleshooting to identify the source of an Auxilliary Building (AB) "B" Train DC
+ground. The ground was identified to be on the negative side of the AB Battery [EIIS / EEIS : EJ / BTRY]. When portable
+ground detection equipment (DC Scout) was connected to the positive terminal of the AB Battery a loss of Electro Hydraulic
+Control (EHC) [EIIS: TG] oil pressure occurred which resulted in a turbine trip and subsequent reactor trip. During the forced
+outage it was determined that the DC ground existed on a cable between the AB and Turbine Building associated with the
+Turbine Trip Solenoid Valve (20-ET) [EIIS / EEIS: TG / SOL]. The 20-ET solenoid valve is normally closed and energizes to
+open to dump EHC oil from the turbine throttle valves and governor valves. It was confirmed via troubleshooting that when
+maintenance connected the DC Scout to the AB Battery terminal it created a jumper in the circuit to energize the 20-ET
+solenoid.
+During the plant trip the "1A" 4 kV non emergency bus [EIIS : EA] failed to transfer to the "1A" 4 kV Startup Transformer
+[EIIS : EB]. This resulted in the trip of the "A" Reactor Coolant Pump (RCP) [EIIS / EEIS: AB / P]. The "B" and "C" RCPs
+remained in operation. Additionally, Auxilliary Feedwater System (AFW) [EIIS: BA] autostarted as expected post reactor trip
+and maintained feedwater flow to the Steam Generators (EIIS: SB). Main Feed Water (MAW) [EIIS: SJ] and the condenser
+[EIIS: SG] remained available for post trip decay heat removal.
+EVENT ANALYSIS
+It was determined that previous unrelated work at penetration 07-155-31 had resulted in damage to cable 1UYT0001E
+[EEIS : CBL4] which feeds the 20-ET solenoid. This damage inside the penetration breach was not visible and had resulted
+in the AB DC ground alarm. The risk of actuating equipment in the circuit while installing portable ground detection
+equipment was not known and led to missed opportunities in work planning and risk mitigation. The failure of the bus
+transfer to occur was determined to be a failure of the Time Delay Drop Out (TDDO) relay [EEIS / EIIS: El / 62]
+(Manufacturer: General Electric / Model: 12HGA17C52) associated with the 4 kV bus transfer circuit.
+REPORTABILITY AND SAFETY ASSESSMENT
+There were no safety consequences as result of this event. The operating crew responded appropriately to the event.
+This event was within the analysis of the UFSAR Chapter 15. This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) due
+to the automatic actuation of the Reactor Protection System (RPS) and the AFW system as identified in 10 CFR
+50.73(a)(2)(iv)(B).
+CORRECTIVE ACTIONS PLANNED OR COMPLETED
+1. Repaired grounded cable 1UYT0001E to 20-ET Turbine Trip Solenoid.
+2. Revise maintenance and risk procedures for mitigation actions during ground detection activities and while using
+portable ground detection equipment.
+3. Replaced the TDDO relay associated with the 1A 4 kv bus.
+PREVIOUS SIMILAR EVENTS
+There were no events from the last three years with either the same or similar cause to this event.
+(cid:9)
+NRC FORM 366A (03-14-2023) Page(cid:9) 2(cid:9) of(cid:9) 2

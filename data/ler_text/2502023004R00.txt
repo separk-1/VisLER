@@ -1,0 +1,108 @@
+(cid:9)
+(cid:9)
+(cid:9)(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response lo comply with this mandatory collection request 80 hours. Reported lessons
+vtt. learned are inc01poraled into the ficensing process and fed back to industry. Send comments regarding burden
+!¥Fl~~'11-'~~'\ (cid:9) LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and lnformation Collections Branch (T-6 A 10M). U. S. Nuclear Regulatory
+\:(cid:9) I (See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to lnfocollects.Resource@nrc.gov, and the 0MB reviewer
+(cid:9) at 0MB Office of lnformation and RegulalOI}' Affairs, (3150--0104), Attn: Desk Officer for the Nuclear Regulatory
+•·••••(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 72517th Street NW, Washington, DC 20503; email: erra submis~on@omb "<lPg ov. The NRC may
+bt11:r11www me go'/.lreadiag-rmldoe:collec!ioaslauregsls!afflsrj 022/QI) not conduct or sponsor, and a person is not required lo respond to, a collection or information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 00(cid:9) 050 2. Docket Number(cid:9) 3. Page
+□ 00250(cid:9) 1 OF 2
+Turkey Point Unit 3 052
+4. Title
+Unplanned Automatic Scram During RPS Testing
+5. Event Date(cid:9) 6. LER Number(cid:9) 7. Report Date 8. Other Facilities Involved
+Month(cid:9) Day(cid:9) Year Year S Neq uu me bn eti ra (cid:9) l(cid:9) Re Nvi os .i on(cid:9) Month(cid:9) Day Year(cid:9) Facility Name □ 050 Docket Number
+(cid:9)
+-
+10 24 2023 2023 04 0 12 13 2023 Facility Name □ Docket Number
+052
+(cid:9)
+9. Operating Mode (cid:9) 0, Power Level
+MODE 1(cid:9) 11 100
+q 11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Chq eck all that apply) q
+□
+10 CFR Part 20(cid:9) q 20.2203(a)(2)(vi)(cid:9) q 10 CFR Part 50(cid:9) q 50.73(a)(2)(ii)(A)(cid:9) q 50.73(a)(2)(viii)(A) q 73.1200(a)
+q 20.2201(b)(cid:9) q 20.2203(a)(3)(1)(cid:9) q 50.36( c)(1 )(i)(A)(cid:9) q 50.73(a)(2)(ii)(B)(cid:9) q 50.73(a)(2)(viii)(B) q 73.1200(b)
+q 20.2201(d)(cid:9) 20.2203(a)(3)(ii) q 50.36(c)(1)(ii)(A) q 50.73(a)(2)(iii)(cid:9) q 50.73(a)(2)(ix)(A) q 73.1200(c)
+□
+q 20.2203(a)(1)(cid:9) 20.2203(a)(4)(cid:9) q 50.36(c)(2)(cid:9) 50. 73(a)(2)(iv)(A) 50.73(a)(2)(x)(cid:9) q 73.1200(d)
+q 20.2203(a)(2)(i) q 10 CFR (cid:9)Part 21(cid:9) q 50.46(a)(3)(11)(cid:9) q3 50.73(a)(2)(v)(A)(cid:9) q 10 CFR Part 73(cid:9) q 73.1200(e)
+□
+q 20.2203(a)(2)(ii)(cid:9) 21.2(c) q 50.69(g)(cid:9) q 50.73(a)(2)(v)(B)(cid:9) q 73. 77(a)(1)(cid:9) q 73.1200(f)
+□
+20.2203(a)(2)(iii)(cid:9) q 50.73(a)(2)(i)(A) q 50.73(a)(2)(v)(C) q 73.77(a)(2)(i)(cid:9) q 73.1200(g)
+q 20.2203(a)(2)(iv)(cid:9) q 50.73(a)(2)(I)(B)(cid:9) q 50. 73(a)(2)(v)(D)(cid:9) 73.77(a)(2)(il)(cid:9) 73.1200(h)
+q 20.2203(a)(2)(v)(cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+q OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Bob Murrell 319-651-9496
+13. Complete One Line for each Component Failure Described In this Report
+Cause(cid:9) System(cid:9) Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+N/A (cid:9) N/A (cid:9) N/A N/A Y
+q 14. Supplemental Report Expected Month(cid:9) Day(cid:9) Year
+15. Expected Submission Date
+q3
+(cid:9) No(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On October 24, 2023, with Unit 3 at 100% power, during performance of Reactor Protection System (RPS) [EIIS: JE] logic
+testing on Unit 4 (U4), instrument and control (l&C) technicians incorrectly initiated a U3 RPS Safety Injection signal
+creating an automatic trip of U3. The cause of this event was a human performance error by the l&C technicians involved
+in the RPS testing. The trip was uncomplicated with all systems responding normally post trip, including the actuation of
+the AFW system [EIIS: BA] to remove decay heat. This is an expected condition after reactor trips. This licensee event
+report is being reported pursuant of 10 CFR 50.73(a)(2)(iv)(A) for any event or condition that resulted in the manual or
+automatic actuation of the RPS and AFW. In addition, there were no inoperable Structures, Systems, or Components that
+contributed to this event.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Offtce of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; email: oira submissjon@omb eop gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www. n re.gov /reading-rm/doc-collection sin u regs/staff/ sr1 022/r3D
+requesting or requiring the collection displays a currently valid 0MB control number.
+3. LER NUMBER
+1. FACILITY NAME (cid:9) 2. DOCKET NUMBER
+050 YEAR(cid:9) SEQUENTIAL(cid:9) REV
+D NUMBER(cid:9) NO.
+!Turkey Point Unit 3 000250 I 1-0
+052 04
+I ~-,(cid:9)
+NARRATIVE
+Description of Event
+On October 24, 2023, with Unit 3 at 100% power, during performance of Reactor Protection System (RPS) [EIIS: JE] logic
+testing on Unit 4 (U4), instrument and control (l&C) technicians incorrectly initiated a U3 RPS Safety Injection signal
+creating an automatic trip of U3. The cause of this event was a human performance error by the l&C technicians involved
+in the RPS testing. The trip was uncomplicated with all systems responding normally post trip, including the actuation of
+the AFW system [EIIS: BA] to remove decay heat. This is an expected condition after reactor trips.
+Cause of Event
+The direct cause of this event are human performance errors by l&C technicians performing steps in an RPS test
+procedure on the incorrect unit. In addition, leaders with management responsibilities have not established a culture
+where all supervisors recognize they are directly responsible for the performance of their direct reports. Contributing to this
+event was a lack of hard barriers to guard plant equipment associated with the unit not in an outage where both units
+share the same room.
+Safety Significance
+The plant trip was uncomplicated with systems responding as expected post-trip. In response to the expected low steam
+generator level, emergency feedwater actuated as expected. This event did not result in a Safety System Functional
+Failure. This licensee event report is being reported pursuant of 10 CFR 50.73(a)(2)(iv)(A) for any event or condition that
+resulted in the manual or automatic actuation of the RPS and AFW. In addition, there were no inoperable Structures,
+Systems, or Components that contributed to this event.
+Corrective Actions
+1.A stand down with l&C department personnel was conducted to share learnings.
+2. Procedures governing guarding equipment will be revised to include blocking/guarding of equipment in rooms that both
+units share such as the cable spreading room at Turkey Point.
+3. Locks for RPS cabinets will be modified such that the same keys will no longer allow access to either U3 or U4 RPS
+cabinets.
+NRC FORM(cid:9) 366A (10 01 2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 2

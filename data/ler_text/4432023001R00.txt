@@ -1,0 +1,131 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Affairs, (3150-0104), Attn: Desk ail: oira submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Seabrook Station 05000443 1(cid:9) of(cid:9) 3
+4. Title
+Automatic Actuation of ‘B’ Emergency Diesel Generator Emergency Power Sequencer
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Revision
+Month Day Year Year Month Day Year n/a 05000
+Number Number
+Facility Name Docket Number
+4 12 2023 2023 -(cid:9) 001 -(cid:9) 00 6 12 2023 n/a 05000
+9. Operating Mode(cid:9) 10. Power Level
+6(cid:9) 0%
+11. THIS REPORT IS SUBMITTED PURSUANT TO THE REQUIREMENTS OF 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract or in NRC 366A)
+12. Licensee Contact for this LER
+Licensee Contact Telephone Number (Include area code)
+Bob Murrell, Licensing Engineer 319-651-9496
+13. Complete One Line for each Component Failure Described in this Report
+Reportable Reportable
+Cause System Component Manufacturer Cause System Component Manufacturer
+To IRIS To IRIS
+X JE PR W120 Y
+14. Supplemental Report Expected 15. Expected Month Day Year
+Submission
+YES (If yes, complete 15. Expected Submission Date)(cid:9) NO
+Date
+Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 12, 2023, at 11:07, while in Mode 6 at 0% power, a valid actuation of the ‘B’ Emergency
+Diesel Generator (EDG) Emergency Power Sequencer (EPS) occurred due to a loss of power to the
+‘B’ train Emergency Bus E6. Troubleshooting determined that the loss of power resulted from spurious
+operation of EPS Remote Manual Override (RMO) relays that opened the Unit Auxiliary Transformer
+(UAT) feeder breaker to Bus E6. Subsequently, the loss of power to Bus E6 resulted in a valid
+actuation of an EPS starting signal to the ‘B’ EDG. On April 15, 2023, Emergency Bus E6 Remote
+Manual Override relays were tested and all functions were found to operate as designed. At the time of
+this event, the ‘B’ EDG was removed from service for scheduled maintenance and therefore, did not
+start. There was minimal impact to the station due the unplanned actuation. However, based on the
+fact that the ’B’ EDG did not actually start, this event had no impact on to the health and safety of the
+public. In addition, there were no other Structure Systems or Components (SSCs) that contributed to
+this event.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(0-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections
+Branch (T-6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+CONTINUATION SHEET e-mail to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC
+may not conduct or sponsor, and a person is not required to respond to, a collection of
+(See NUREG-1022, R.3 for instruction and guidance for completing this form information unless the document requesting or requiring the collection displays a currently valid
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) OMB control number.
+1. Facility Name 2. Docket 6. LER Number
+Sequential Rev
+Seabrook Station 05000443 Year Number No.
+2023 - 001 - 00
+Narrative
+Description
+On April 12, 2023, at 11:07, while in Mode 6 at 0% power, a valid actuation of the ‘B’ Emergency
+Diesel Generator (EDG) Emergency Power Sequencer (EPS) occurred due to a loss of power to the
+‘B’ train Emergency Bus E6.
+Cause of the Event
+Complex troubleshooting was performed in accordance with station processes. All potential faults
+were analyzed utilizing a Support Refute Matrix. Potential faults included:
+1. Undervoltage Control Circuit Failures (refuted)
+2. Actual undervoltage condition on Bus E6 (refuted)
+3. Human Performance issues (refuted)
+4. Faulty Bus E6 Breaker Protection (refuted)
+5. EPS Power Supply Interactions (refuted)
+6. Spurious Remote Manual Override Actuation (cause of event)
+7. EPS Power Supplies (contributor to event)
+Spurious actuation of the EPS Remote Manual Override (RMO) relays resulted in opening of the Unit
+Auxiliary Transformer feeder breaker to Bus E6. This caused a loss of power to Bus E6, which
+resulted in the valid actuation of the EPS. The spurious actuation of RMO was most likely caused by
+welding activities being performed in the B Train Essential Switchgear Room. A contributing cause is
+age related degradation of the B EPS Power Supplies. The electrolytic capacitors were at the end of
+their service life making the power supplies more susceptible to conducted emissions that were
+introduced on ground as a result of a welding activity.
+Analysis of the Event
+This licensee event report is being submitted in accordance with 10 CFR 50.73(a)(2)(iv)(A), Valid
+System Actuation.
+This event did not result in a Safety System Functional Failure.
+Safety Significance
+At the time of this event, the ‘B’ EDG was removed from service for scheduled maintenance and
+therefore, did not start. The station was in a defueled condition with all fuel in the Spent Fuel Pool.
+Spent fuel pool cooling was not impacted by the event. The unexpected actuation did result in minimal
+impact to the station. However, since the EDG was removed from service and did not acuate, this
+event had no impact on the health and safety of the public. In addition, there were no other Structures
+Systems or Components (SSCs) that contributed to this event.
+NRC Form 366A (08-2020)(cid:9) Page 2 of 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(0-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.
+Reported lessons learned are incorporated into the licensing process and fed back to industry.
+LICENSEE EVENT REPORT (LER) Send comments regarding burden estimate to the FOIA, Library, and Information Collections
+Branch (T-6 A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by
+CONTINUATION SHEET e-mail to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information
+and Regulatory Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC
+may not conduct or sponsor, and a person is not required to respond to, a collection of
+(See NUREG-1022, R.3 for instruction and guidance for completing this form information unless the document requesting or requiring the collection displays a currently valid
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) OMB control number.
+1. Facility Name 2. Docket 6. LER Number
+Sequential Rev
+Seabrook Station 05000443 Year Number No.
+2023 - 001 - 00
+Narrative
+Corrective Actions
+On April 15, 2023, testing of the EPS RMO relays was performed, and all components were found to
+operate as designed. In addition, the EPS power supplies were replaced on April 17, 2023.
+Similar Events
+A review of reportable events dating back 10 years, did not identify any previous events or conditions
+that involved the same underlying cause as this event.
+NRC Form 366A (08-2020)(cid:9) Page 3 of 3

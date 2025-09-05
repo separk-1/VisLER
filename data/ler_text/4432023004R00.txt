@@ -1,0 +1,50 @@
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150.0104(cid:9) EXPIRES: 0913012023
+(09-01-2023}
+Estimated burden per response to comply with this mandatary collection request: 80 hours. Reported
+lesson learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (1-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET Infocoltects.Resource@nrc.gov, and the OMB reviewer at. OMB Office of Information and Regulatory
+Affairs, (3150-0104 Attn: Oesk Officer for the Nuclear Regulatory Commission, 72517th Street NW,
+Washington, DC 20503; email: nun subriiission@simLeasiay. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of Information unless the document
+Mo:/www.nrc.govireadi 9-rmidoc-collections1nuregs/staff/sr1022/r3/1 requesting or requiring the collector displays a currently valid OMB control number.
+1. FACILITY NAME n 2. DOCKET NUMBER 3. LER NUMBER
+Seabrook Station 050 443 YEAR SE NQ UU ME BN ET RIA L R NE OV .
+23
+052 04 00
+NARRATIVE
+Description
+On July 30, 2023 at 1526 EDT, with Unit 1 in Mode 1 at 100 percent power, the reactor was manually tripped due to low
+main turbine EHC [El IS: TG] fluid reservoir level. This alarm was ultimately caused by the separation of the electrical trip
+solenoid [EIIS: SOL] from the EHC header dump valve [EMS: PCV], which led to an 80-psig decrease in hydraulic fluid
+header pressure. Operators manually tripped the reactor in accordance with procedures based on low EHC reservoir level.
+The reactor trip was uncomplicated, with systems responding as expected. The actuation of the EFW [El IS: BA] system
+was expected due to steam generator low level. This licensee event report is being reported pursuant to 10 CFR 50/3(a)
+(2)(iv)(A) for actuation of the Reactor Protection System and Emergency Feedwater System. In addition, there were no
+inoperable Structures, Systems, or Components that contributed to this event.
+Cause of the Event
+Cap screws on the manifold failed because the equipment manufacturer did not use the parts specified by GE for EHC
+system trip manifold assemblies. The trip solenoid and associated sub-components, including the cap screws, were
+procured by Fluid Power Products. Metallurgical analysis was performed on the failed cap screws and confirmed the cap
+screws were consistent with alternate design ASTM A574 material but had zinc coating which causes low toughness and
+absorption of hydrogen into the screws. These incorrect parts were used in the assembly of the trip manifolds. The trip
+manifolds are sold as pre-fabricated assemblies along with the cap screws. Based on this, the most probable modes of
+failure were determined to be inadequate material and/or over torquing of the cap screws. No safety systems were affected
+as a result of this failure.
+Safety Significance
+There were no safety consequences. This condition had no actual safety consequences impacting plant or public safety.
+The EI-IC system interfaces with the Turbine System [EMS: TA] and if EHC fluid pressure decreases enough, then steam
+inlet valves [El IS: FCV] to the high and low pressure turbine [BIS: TRB] will be closed, initiating a turbine trip and reactor
+trip. This event did not result in a safety system function failure.
+Corrective Actions
+Completed/Planned
+1. Replaced the failed Main Turbine EHC trip manifold assembly with a new assembly ordered directly from GE.
+2. Revise model work order for each EHC and Feedwater dump valve assembly to ensure correct cap screws are installed.
+3. Replace ASTM A574 zinc plated screws on trip manifold assemblies, including Feedwater and ERG, with cap screws that
+comply with GE specifications.
+Similar Events
+A review of internal and external operating experience did not identify any previous events or conditions that involved the
+same underlying cause as this event.
+(cid:9) (cid:9) (cid:9)
+NRC FORM 366A (09-01-2023) Page 2(cid:9) of 2

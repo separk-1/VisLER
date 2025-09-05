@@ -1,0 +1,157 @@
+(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08131/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+. ,....,....„(cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to idustry. Send comments
+..,
+regarding burden estimate to the FOiA. Library, and Information Collections Branch (T-0 MOM). U.S.
+(See Page 3 for required number of digits/characters for each block)
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+I(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollecls.Resource(anrc.gov. and the 0k.18 reviewer at: OMB Office of Information and Regulatory
+http://wIlw.nrc.goyireading-rmidoc-collections/nureosistaff/sr1022/r3/) Affairs, (3150-0104). Attn: Desk ail: .!.,.f.a ,.:LLnsticr . t)r:T.e,:o.c,;,,. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a colleclion of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Vogtle Electric Generating Plant
+05000(cid:9) 00424 1(cid:9) OF(cid:9) 3
+4. Title
+Unit 1 Train A Safety Injection Pump inoperability causes the unit to operate in a Condition Prohibited by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+N/A 05000
+09 16 2021 2021 -(cid:9) 001(cid:9) - 00 11 15 2021 Facility Name Docket Number
+N/A 05000
+9. Operating Mode 10. Power Level
+6 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all 11 al apply)
+1
+10 CFR Part 20 1......,_;(cid:9) 20.2203(a)(2)(vi) 50.36(c)(2) i(cid:9) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+1(cid:9)
+20.2201(b) 1(cid:9) 20.2203(a)(3)(i) I..(cid:9) 50.46(a)(3)(ii) -I -(cid:9) -.--•-•=•5 ,-0 . •7 3 • (a)(2)(v)(A) _ 10 CFR Part 73
+20.2201(d) j(cid:9) 20.2203(a)(3)(ii) I(cid:9) I(cid:9) 50.69(g) 1 5 0.73(a)(2)(v)(B) j(cid:9) i(cid:9) 73.71(a)(4)
+. - -• r- -I ---.,
+20.2203(a)(1) 20.2203(a)(4)(cid:9) , (cid:9) 50.73(a)(2)(i)(A) 1(cid:9) I(cid:9) 50.73(a)(2)(v)(C) I(cid:9) 1(cid:9) 73.71(a)(5)(cid:9)
+-------- -- r(cid:9) 1 (cid:9) .(cid:9) ..(cid:9) .(cid:9) .
+20.2203(a)(2)(i) 10 CFR Part 21 1, VI(cid:9) 50.73(a)(2)(i)(B) 1(cid:9) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+...(cid:9) .(cid:9) ..... . .,...(cid:9) . (cid:9) .
+20.2203(a)(2)(ii) ,(cid:9) 21.2(c) .1(cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+•• (cid:9) • (cid:9) • (cid:9)• (cid:9) - (cid:9) • (cid:9) • (cid:9)- • • ____,_ ---. .-----......
+I
+20.2203(a)(2)(iii) 10 CFR Part 50 i(cid:9) 50.73(a)(2)(ii)(A) 1(cid:9) I 50.73(a)(2)(viii)(A)(cid:9) 11 I(cid:9) 73.77(a)(2)(ii)
+.(cid:9) .(cid:9) .(cid:9) .
+1
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 1(cid:9) 50.73(a)(2)(viii)(B)
+...--- - .,,----•----- -(cid:9) . (cid:9) -(cid:9) - (cid:9) . (cid:9) .
+IT f-
+20.2203(a)(2)(v) (cid:9) 50.36(c)(1)(ii)(A) i(cid:9) 50.73(a)(2)(iii) I !(cid:9) 50.73(a)(2)(ix)(A)
+.(cid:9) ..'.2!(cid:9) .(cid:9) .(cid:9) .(cid:9) .(cid:9) ...(cid:9) ..(cid:9) ..
+1(cid:9) OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Jeff Deal, Vogtle Licensing Manager 706-848-3792
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A 11(,) I' PA('l )( N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+' 1,4(cid:9) No Yes (If yes, complete 15. Expected Submission Date) N/A
+16. Abstract (Limit to 1560 spaces, i.e.. approximately 15 single-spaced typewritten lines)
+On 9/16/2021 at 04:54, the Unit 1 A Safety Injection (SI) pump was started for a surveillance. Bearing temperatures rose
+unexpectedly, the pump was stopped, and it was declared inoperable. An investigation found a piece of plastic tubing between
+the gears of the lube oil pump, resulting in oil starvation of two bearings and their subsequent failure. The bearings were
+replaced, the system was flushed, and the pump was restored to operable status on September 29, 2021. Improper oil
+sampling on the Unit 1 Alpha train SI pump introduced foreign material (FM) into the pump's oil system.
+The 1A SI pump would not have been able to perform its required safety function from September 6, 2021 at 1436, until Mode
+4 was entered on September 12, 2021 at 0759. Technical Specification (TS) 3.5.2 Condition A should have been entered due
+to one train of Emergency Core Cooling Systems (ECCS) inoperable. Required Action A.1 has a completion time of 72 hours
+or in accordance with the Risk Informed Completion Time Program, combined with 18 hours for the unit to be in Mode 4,
+would give 90 hours of total allowed out of service time. The 137.4 hours that the 1A SI pump would not have been able to
+perform its required safety function exceeded this, and therefore the plant was operated in a condition prohibited by TS.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+108-2020)
+Estimated burden per response tc comply with this mandatory collection request: 80 hours. Reported
+lessons !earned are incorporated into the licensing process and led back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the I 01A, Library. and Information Collections Branch (T 6 MOM), U. S
+Nuclear Regulatory Commission, Washington, DC 20555 0001. or by e-mail
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at: OMB Office of Information and Regulatory
+Affairs. (315(1.0104), Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington. DC 20503: e-mail: (cid:9) 1 he NRC may not conduct or sponsor
+and a person is not required to respond to, a collection of information unless the document requestioc
+httl?,/tOPONJ rir(?.gOvireadina..rm/doc-collec.tiOnSinurerlS/Staff/St-1022/r3l)
+or requiring the col1ection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+Vogtle Electric Generating Plant 05000-(cid:9) 00424 NUMBER NO.
+2021 _1 001
+NARRATIVE (cid:9)
+A. Event Description
+On 9/16/2021 at 04:54, with plant operating conditions before the event consisting of Unit 1 in Mode 6, at 0 percent
+power, and approximately 103 degrees Fahrenheit, the Unit 1 A Safety Injection (SI) [BO] pump was started to
+complete a surveillance. After the pump start, bearing temperatures rose rapidly, the pump was stopped, and was
+declared inoperable.
+Subsequent investigation determined that improper oil sampling on the Unit 1 Alpha train SI pump introduced foreign
+material (FM) into the pump's oil system. The foreign material introduction was not recognized at the time of the
+samples. The safety injection pump subsequently failed to operate due to low oil flow conditions resulting in bearing
+failure. The lube oil pump was found with a piece of plastic tubing between the gears of the pump resulting in the pump
+seizing.
+Timeline of Unit 1 events:
+• 9/6/2021 1436- SI pump A was last run during an in-service test (1ST) with no signs of degradation. Additionally, an
+oil sample was taken during this run.
+• 9/12/2021 0500- Unit enters Mode 3 for the start of planned outage.
+• 9/12/2021 0759- Unit enters Mode 4. and TS 3.5.2 no longer applied.
+• 9/16/2021 0454- SI pump A failed while the unit was in Mode 6.
+• 9/29/2021- SI pump A returned to operable status. Unit was in Mode 6. and TS 3.5.2 was not applicable.
+The Safety Injection pump would not have been able to perform its required safety function from September 6, 2021 at
+1436 when the pump was last run with no signs of degradation. until the mode of applicability for this pump was exited
+on September 12, 2021 at 0759 due to a planned refueling outage. Technical Specification (TS) 3.5.2 Condition A
+should have been entered because one train of Emergency Core Cooling Systems (ECCS) was inoperable in Modes 1-
+3. TS 3.5.2 Required Action A.1 has a completion time of 72 hours or in accordance with the Risk Informed Completion
+Time Program. The required action time, combined with the 18 hours for the unit to be in Mode 4, would give 90 hours
+of total allowed out of service time. The 137.4 hours that the 1A SI pump would not have been able to perform its
+required safety function exceeded this allowed out of service time, and therefore the plant was operated in a condition
+prohibited by TS for 47.4 hours. Therefore, this condition is being reported under 10 CFR 50.73(a)(2)(i)(B).
+There were no structures. components. or systems that were inoperable at the start of the event that contributed to the
+event.
+B. Cause of Event
+The cause of the event was foreign material intrusion into the SI pump oil system. This led the pump outboard bearing
+to be starved of lubrication which resulted in failure of the bearing when the pump was started.
+The foreign material intrusion was caused by improperly obtaining the oil samples for this pump. A plastic tube was
+inserted into the gearbox next to the oil pump shaft. This caused pieces of the plastic tubing to be removed from the
+end of the tube and left in the tube oil system.
+Safety Assessment
+During the time the A-train SI pump was inoperable, the B-train SI pump was available to perform its specified safety
+function. The operating crew responded correctly to the event. The applicable procedures were properly entered, and
+documentation met expectations.
+The event was within the analysis of the Updated Final Safety Analysis Report Chapter 15. There was no release of
+radioactivity. This event did not pose a threat to the health and safety of the public. Therefore, the safety significance of
+this issue is very low.
+NRC FORM 366A (08-2020) Page 2 of 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 0813112023
+(08 :070)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reporiec
+lessons ln,rned are incorporated into the licensing process arid fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FDA. I ibrary•, and Information Collections Branch (T 6 Al0M). U. S
+Nuclear Regulatory Commission. Washington. DC 20555 0001. or by e-mail is
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affair;;. (3150-0104). AIM- Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington. DC 20503; e-mail: (cid:9) the NRC may not conduct o
+sponsor. and a person is not required to respond to, a collection of information unless the documen
+http://www.nrc.qovireading-rinicloc-collectionskillrog§istaffisi 10%2.0.0)..
+requesting or requiring the collection displays a currently valid OMB control number.
+3. LER NUMBER
+1. FACILITY NAME 2. DOCKET NUMBER
+YEAR SEQUENTIAL REV
+Vogtle Electric Generating Plant 05000- 00424 NUMBER NO.
+2021 001 00
+NARRATIVE
+D. Corrective Action
+The failure was corrected by replacement of the bearings, flushing the lube oil system, and restoring the pump to an
+operable status on September 29, 2021.
+The oil sampling method has been changed.
+E. Previous Similar Events
+None
+(cid:9) (cid:9)
+NRC FORM 386A (08-2020) Page(cid:9) 3 of (cid:9) 3

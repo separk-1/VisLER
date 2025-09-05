@@ -1,0 +1,224 @@
+F \ F RGY
+POINT BEACH
+September 28, 2021 NRC 2021-0037
+10 CFR 50.73
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555
+Point Beach Nuclear Plant, Unit 1
+Docket 50-266
+Renewed License Nos. DPR-24
+Licensee Event Report 266/2021-001-00
+Enclosed is Licensee Event Report (LER) 266/2021-001-00 for Point Beach Nuclear Plant,
+Unit 1. NextEra Energy Point Beach, LLC is providing this LER regarding the Unit 1 manual
+reactor trip.
+This letter contains no new regulatory commitments.
+If you have any questions please contact Mr. Eric Schultz, Licensing Manager, at 920-755-7854.
+Sincerely,
+Michael Strope
+Site Vice President(cid:9) •
+NextEra Energy Point Beach, LLC
+Enclosure
+cc:(cid:9) Administrator, Region III, USNRC
+Project Manager, Point Beach Nuclear Plant, USNRC
+Resident Inspector, Point Beach Nuclear Plant, USNRC
+PSCW
+NextEra Energy Point Beach, LLC
+6610 Nuclear Road, Two Rivers, WI 54241
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08.2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+0
+,01F tnoct, lessons(cid:9) learned(cid:9) are incorporated(cid:9) into the licensing(cid:9) process(cid:9) arid(cid:9) fed(cid:9) back to industry, Send
+'(cid:9) :,,_,.(cid:9) LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, arid Information Collections Branch (T-8
+'(cid:9)
+it(cid:9) fi(cid:9) I(cid:9) C ='i•
+(See Page 3 for required number of digitsicharac;ters for each block)
+IA n1 fo0 cM o) l, l(cid:9) ecU t. sS .f.
+i
+eN su oucl re ca er
+@
+R ne rcg .u gl oa vto
+,
+r ay
+n
+dC o thm
+e
+m Oi Mss Bio rn ev, iW ewa es rh ain t:g Oto Mn B,(cid:9) OD fC
+fic
+e2 0 o5
+f
+I5 n5
+fo
+0 rm0 a0 t1 io,
+n
+o ar
+n
+b dy
+R
+e
+e
+gm ula ai tl
+o
+t ro
+y
+• I -(cid:9) eI (cid:9) ( See NUREG-1022, R.3 for instruction and guidance for completing this Affairs, (3150 0104), Attn: Desk ail: oira stibriiiss'o,laci:M.E?,-):).qc!,. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+o%***?* f rm https://w (cid:9) ywv(cid:9) .nrc.govireading-rm/doc-collectionslnliregsistaff/si-102211-3/)
+- requesting or requiring the collection displays a currer tly valid OMB control number.
+1. Facility Name 2. Docket Number .3. Page
+Point Beach Nuclear Plant Unit 1 05000266
+1 OF 4
+4. Title
+Main feedwater pump trip results in manual reactor trip.
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Rev Facility Name Docket Number
+Month Day Year Year Month Day Year NA
+Number No. 05000NA
+Facility Name Docket Number
+07 31 2021 2021 - 001 - 00 09 28 2021
+NA 05000NA
+9. Operating Mode(cid:9) 10. Power Level
+MODE 1(cid:9) 100%
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 mil 20.2203(a)(2)(vi) • 50.36(c)(2) A 50.73(a)(2)(iv)(A) 111 50.73(a)(2)(x)
+M 20.2201(b) • 20.2203(a)(3)(i) • 50.46(a)(3)(ii) • 50.73(a)(2)(v)(A) 10 CFR Part 73
+0 20.2201(d) • 20.2203(a)(3)(ii) . 50.69(g) • 50.73(a)(2)(v)(B) M 73.71(a)(4)
+II 20.2203(a)(1) II 20.2203(a)(4) U 50.73(a)(2)(i)(A) • 50.73(a)(2)(v)(C) II 73.71(a)(5)
+• 20.2203(a)(2)(() 10 CFR Part 21 • 50.73(a)(2)(1)(B) II 50.73(a)(2)(v)(D) • 73.77(a)(1)(i)
+M 20.2203(a)(2)(ii) • 21.2(c) • 50.73(a)(2)(i)(C) • 50.73(a)(2)(vii) • 73.77(a)(2)(i)
+0 20.2203(a)(2)(iii) 10 CFR Part 50 • 50.73(a)(2)(ii)(A) MI 50.73(a)(2)(viii)(A) II 73.77(a)(2)(ii)
+E 20.2203(a)(2)(iv) • 50.36(c)(1)(i)(A) • 50.73(a)(2)(ii)(B) • 50.73(a)(2)(viii)(B)
+• 20.2203(a)(2)(v) • 50.36(c)(1)(ii)(A) E 50.73(a)(2)(iii) • 50.73(a)(2)(ix)(A)
+• Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+rihomas P. Schneider- Senior Licensing Engineer 1'920-755-7797
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+E EA MO TECO-WH Y X JI TC ABB N
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+a No I q Yes ( f yes, complete 15. Expected Submission Date) NA NA NA
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+At 1646 on July 31, 2021, with Unit 1 operating in MODE 1 at full power, Operators removed Unit 1 from service by
+manually tripping the reactor when operators identified control board indications warranting prompt removal of the reactor
+from service.
+All control rods fully inserted into the core due to the manual trip. The auxiliary feedwater system started as expected when
+a valid system actuation occurred after the reactor trip. There was no emergency core cooling system actuation and offsite
+power was maintained throughout the event. After the reactor trip, equipment anomalies occurred for which the operators
+effectively responded.
+The cause of the condition requiring the manual reactor trip was a failure of the main steam generator feedwater pump B
+motor. Corrective actions included replacement of the main steam generator feedwater pump B motor and additional
+maintenance activities for anomalies identified during the reactor trip.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(092020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-8 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infccollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail:(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, arid a person is not required to respond to, a collection of information unless the document
+cri3.;;•eacI;nc-rrn!coc-col:ect crrs r),:reasrs'.aff:sr :)221r3.) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Point Beach Nuclear Plant Unit 1 05000266 NUMBER NO.
+2021 - 001 - 00
+NARRATIVE
+Description of the Event:
+At 1646 on July 31, 2021, with Unit 1 operating in MODE 1 at full power, Operators removed Unit 1 from service by
+manually tripping the reactor [AC] when operators identified control board indications warranting prompt removal of the
+reactor from service.
+All control rods [JD] fully inserted into the core due to the manual trip. The auxiliary feedwater system [BA] started as
+expected when a valid system actuation occurred after the reactor trip. There was no emergency core cooling system
+actuation [JE] and offsite power [FK] was maintained throughout the event.
+After the reactor trip, a condenser steam dump valve [JI] cycled and did not fully close. The valve was locally isolated to
+prevent additional reactor [AC] cooldown. After the turbine trip, the crossover steam dump system motor operated valves
+[SE] did not close. This caused main condenser [SG] vacuum conditions to deteriorate. This lead to main condenser
+unavailability and the use of the atmospheric steam dump system. Field action was taken to close the crossover steam
+dump valves. Additionally, during the feedwater transition, the main feedwater B regulating bypass valve [JB] did not
+control in automatic and was taken to manual control.
+This 60-day licensee event report is being submitted in accordance with the requirements of 10 CFR 50.73(a)(2)(iv)(A).
+Cause of the Event:
+The cause of the manual reactor trip was due to the failure of main steam generator feedwater (SGFW) pump B motor
+[EA][MO]. The root cause has been determined to be less than adequate manufacturing process controls for the stator
+and rotor assembly. A misalignment between the stator and rotor resulted in periodic contact of the rotor to stator
+eventually degrading the iron laminations and winding insulation to the point of failure of the stator winding.
+The condenser steam dump valve [JI] condition was caused by the failure of its positioner [TC]. The crossover steam
+dump valve [SE] condition was caused by the failure of a relay [RLY], and the feedwater regulating valve condition will be
+investigated further during the next available opportunity.
+Analysis of the Event:
+The feedwater system is comprised of two half-capacity main SGFW pumps that deliver fluid to the secondary side of the
+steam generators. The fluid is used to remove the heat generated in the reactor and to produce steam used for electrical
+power generation.
+The loss of the main SGFW pump motor required an immediate reduction in reactor power to support the limitations of a
+single train of feedwater. At the time of the failure the reactor power was not low enough to support removal of one of the
+two operating main SGFW pumps, which necessitated a manual reactor trip.
+The Auxiliary Feedwater Pumps started as expected on low steam generator level experienced due to reducing steam
+demand from the turbine trip in response to the reactor trip.
+After the reactor trip, all control rods fully inserted in the core due to the manual trip. There was no Emergency Core
+Cooling System actuation. Offsite power was maintained throughout the event. The equipment anomalies that occurred
+did not affect safety system functions.
+Corrective Actions:
+The anomalies experienced during the shutdown were diagnosed, and those requiring maintenance prior to reactor restart
+were completed. The reactor was returned to service at reduced power and the main SGFW pump motor was replaced
+(cid:9)
+NRC FORM 366A (08-2020) Page 2 of 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and foci back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, I ibrary, and Information Collections Branch (T.6 Al OM), U.S.
+Nuclear Regulatory Commission, Washington, DC 205550001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: cfru(cid:9) -mho NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+ht(s://www.n rag ovireacii rig-mildoc-collectionsin uregsistaffisrl C2211-31) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME(cid:9) 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Point Beach Nuclear Plant Unit 1(cid:9) 05000266 NUMBER NO.
+2021(cid:9) - 001 - 00
+prior to returning the reactor to full power. Additionally, procurement specifications will be updated to include industry
+approved standards and oversight criteria for critical motor assembly.
+Safety Significance:
+During the event and subsequent recovery actions, there was no loss of any safety systems, structures, or components.
+The auxiliary feedwater pumps started as expected during the transient. The main SGFW pump A remained available to
+remove decay heat after the reactor trip. Plant systems anomalies occurred following the manual reactor trip. The
+operating crew appropriately responded to the anomalies. Following the manual reactor trip, all control rods fully inserted
+into the core as designed to control reactivity and temperature of the core. The reactivity effects during this event had no
+impact on the safety of the core and thus, the event was determined to be of very low safety significance. There was no
+impact on the health and safety of the public because of this event.
+Similar Events:
+There have not been similar events of manual reactor trips in the past three years with the same initiating condition.
+Component Failure Data:
+Main Steam Generator Feedwater Pump Motor: TECO Westinghouse — Frame 7118
+Main Steam Condenser Dump Valves: ABB Inc — Model AV232300
+Crossover Steam Dump Valves: Cutler Hammer — Model BFD2OS
+(cid:9) Page 3 of 4
+NRC FORM 36(3A (06-201(1)
+(cid:9)(cid:9)(cid:9)
+NRC FORM 366B(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 4/30/2020
+(08.2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+i, (cid:9), ,p,,,,,t,,, , t, lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+4.(cid:9) LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+,(cid:9) (FAILURE CONTINUATION) Nuclear (cid:9) Regulatory Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by e-mail(cid:9) to
+Infocollects.Resource@nrc.gov, arid the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs,(cid:9) (3150-0104), Attn:(cid:9) Desk (cid:9) ail:(cid:9) ..• ; • (cid:9) a.r:T•r: ..i'.7.,..i,..: (cid:9) t-.:c..' :.:.(cid:9) The(cid:9) NRC(cid:9) may(cid:9) riot conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+I::: Lw:.;•..• r-c.c.:D:ire.27:: nc-7-1:d3c-colectiz-isil..-ecs:s:affis-1022-3) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Point Beach Nuclear Plant Unit 1 05000266 NUMBER NO.
+2021 - 001 - 00
+13. COMPLETE ONE LINE FOR EACH COMPONENT FAILURE DESCRIBED IN THIS REPORT
+CAUSE SYSTEM COMPONENT MANUFACTURER REPORTABLE TO IRIS
+X SE RLY Cutler Hammer -C770 N
+(cid:9)
+NRC FORM 366B (08-2020) Page 4 of 4

@@ -1,0 +1,278 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+(See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+South Texas Unit 2
+00499 1 OF 5
+052
+4. Title
+Automatic Actuation of Emergency Diesel Generator due to Lockout of Switchyard Electrical Bus
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year (cid:9) 050
+N/A
+N/A
+12 2 2023 2023 -(cid:9) 002(cid:9) - 00 01 30 2024 Facility Name Docket Number
+(cid:9) 052
+N/A N/A
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) (cid:9) 50.73(a)(2)(viii)(B) (cid:9) (cid:9) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) (cid:9) 20.2203(a)(4) 50.36(c)(2) 4 50.73(a)(2)(iv)(A) (cid:9) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+(cid:9) 20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) (cid:9) 73.77(a)(2)(i) (cid:9) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+(cid:9) 20.2203(a)(2)(v) (cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+(cid:9) OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Stephanie Rodgers, Licensing Engineer (361) 972-4527
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X XFMR INS Crown Electric Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 No (cid:9) Yes (If yes, complete 15. Expected Submission Date) N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On December 2, 2023, with both units operating at 100% power, the South Texas Project (STP) 345 kV south
+switchyard electrical bus unexpectedly de-energized. The de-energization of the south bus resulted in a loss of power to
+the Unit 2 standby transformer which was supplying power to the Engineered Safety Features (ESF) 4160V busses for
+the Unit 2 B Train. The associated Emergency Diesel Generator 22 automatically started in response to the under-
+voltage condition, as designed.
+The cause of this event was the failure of a stand-off insulator occurring on Phase “A” in 13.8kV Terminal Cabinet. A root
+cause could not be determined after Engineering evaluations. Corrective actions included replacing the insulator and
+performing visual inspections of both the transformer and bus for signs of arcing and/or water intrusion. There were no
+previous indications of issues with the insulator.
+This event is reportable as an event which resulted in the automatic actuation of the Unit 2 emergency AC electrical power
+systems. Additionally, all ESF equipment operated as designed.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas Unit 2 00499
+052 2023 - 002 - 00
+NARRATIVE
+I. Description of Reportable Event
+A. Reportable event classification
+This event is reportable pursuant to 10 CFR 50.73(a)(2)(iv)(A) as an event that resulted in the valid actuation of an
+emergency AC electrical power system (50.73(a)(2)(iv)(B)(8)).
+B. Plant operating conditions before the event
+Prior to the event on December 2, 2023, STP Unit 2 was at 100% power in Mode 1.
+C. Status of structures, systems, and components that were inoperable at the start of the event and that contributed
+to the event
+No other structures, systems or components were inoperable at the start of this event that contributed to this event.
+D. Background information
+The Offsite Electrical System consists of two standby transformers, the 138kV emergency transformer, two main
+power transformers, 345kV lines connecting the main power transformers and the standby transformers to the
+switch yard, the 345kV switch yard, nine 345kV transmission circuits from the South Texas Project Electric
+Generating Station (STPEGS) 345kV switchyard to the interconnecting grids, and the 138kV radial line connected
+to the 138kV emergency transformer. The transmission system provides reliable sources of offsite power for
+supplying plant auxiliary power systems for plant startup, shutdown or at any time that power is unavailable from
+the unit's main generator.
+The standby transformers are individually supplied by separate and independent overhead 345kV ties from the
+345kV switchyard. These 345kV ties to the standby transformers are connected by two separate 345kV busses
+(north and south) in the switchyard. Each standby transformer has the capacity to supply all Engineered Safety
+Features (ESF) busses in both Units and two 13.8kV auxiliary busses. These transformers can be shared between
+Units 1 and 2 and can supply the two preferred power sources (the north and south 345kV busses).
+Per STP Technical Specification (TS) 3.8.1.1.e, with two of the above required offsite AC circuits inoperable,
+within 24 hours restore at least one of the inoperable offsite sources to OPERABLE status or apply the
+requirements of the Configuration Risk Management Program (CRMP) or be in at least HOT STANDBY within
+the next 6 hours. Unit 2 entered Technical Specification Actions 3.8.1.1.e. in response to this event.
+E. Narrative summary of the event
+On 12/2/2023 at 06:10 Unit 2 Control Room received annunciators 10M2-B-3 "345kV South Bus Diff" and
+10M2-A-4 "345kV BKR Y610 Trip". The Control Room observed indication that Switchyard Breaker Y610 had
+tripped open, and the 345kV Switchyard South Bus was de-energized. The following Standby Transformer 2
+relays tripped: 51N-ST2Y, both 85N relays, 86-ST2B, and 86-ST2A. Standby Transformer 2 experienced a lockout
+resulting in Emergency Diesel Generator 22 (EDG22) starting to supply power to the standby bus. This resulted in
+loss of two offsite sources due to one ESF bus not being connected to a load tap changer in automatic and standby
+bus not being available. On 12/2/23 at 08:30 the 4160V Bus E2B was powered from U1 standby transformer. On
+12/2/23 at 12:35 the South Bus was re-energized after CenterPoint (Transmission Distribution Service Provider)
+opened disconnect S024 to remove Standby Transformer 2 from the South Bus.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1.(cid:9) FACILITY NAME 2.(cid:9) DOCKET NUMBER 3. LER NUMBER
+050
+YEAR SEQUENTIAL REV
+South Texas Unit 2 00499 NUMBER NO.
+052 2023 - 002 - 00
+NARRATIVE
+Note: Dates and approximate times of occurrences are listed in Central Daylight Time.
+December 2, 2023 [06:10] Per alarm page, at time 06:10:58, received U2 standby transformer 2A
+lockout. At time 06:11:02 received 345kV S bus voltage low. Bus 4160v E2B
+is being supplied by ESF DG 22.
+Declared loss of two offsite sources due to one ESF bus not connected to a
+load tap changer in auto and U2 standby transformer/south bus not
+available.
+Entered TS 3.8.1.1.e. with two of the required offsite A.C. circuits inoperable,
+within 24 hours restore at least one of the inoperable offsite sources to
+operable status or apply the requirements of the CRMP or be in at least hot
+standby within the next 6 hours.
+December 2, 2023 [06:11] Received annunciators 10M2-B-3 "345kV South Bus Diff" and 10M2-A-4
+"345kV BKR Y610 Trip". Observed Control Room indication that Switchyard
+Breaker Y610 has tripped open and Switchyard South Bus is de-energized.
+Standby Diesel Generator 22 started in response to "B" Train loss of power
+and is running SAT. Contacted CenterPoint energy. Need to investigate and
+determine the cause of Y610 trip.
+December 2, 2023 [08:30] 4160V Bus E2B is being powered from U1 Standby Transformer. Exited TS
+3.8.1.1. Action E.
+Entered TS 3.8.1.1.A for one offsite source inoperable, perform
+0PSP03EA0002, ESF Power Availability, within one hour and at least once
+per eight hours thereafter. Within 72hrs (from 06:10), restore the offsite
+circuit to operable status or apply CRMP, or be in at least hot standby within
+the next 12hrs and in cold standby within the following 24 hours.
+December 2, 2023 [12:35] Re-energized the South Bus after CenterPoint opened disconnect S024 to
+remove Standby Transformer 2 from the South Bus.
+EXITED TS 3.8.1.1.A.
+December 2, 2023 [12:47] Reported to NRC HOO (EN 56877) under 10 CFR 50.72(b)(3)(iv)(A) as an
+event that resulted in the valid actuation of an emergency AC electrical
+power system (50.72(b)(3)(iv)(B)(8)).
+Notification Time: 12/02/23 12:47
+Time of Discovery: 12/02/23 06:10
+Documents reviewed: Reporting Manual, Technical Specifications
+Firm evidence: Loss of electrical power
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1.(cid:9) FACILITY NAME 2.(cid:9) DOCKET NUMBER 3. LER NUMBER
+050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas Unit 2 00499
+052 2023 - 002 - 00
+NARRATIVE
+F. Method of discovery of each component or system failure or procedural error
+This event was self-revealed when a bus lockout in the switchyard caused the loss of a credited offsite electrical
+power source. This resulted in the automatic actuation of on-site emergency power sources (EDG).
+II. Component failures
+A. Failure Mode, mechanism, and effects of failed component
+The failure mode was a phase-to-ground short. The protective relay detected the fault and cycled the breaker
+which momentarily removed all voltage from the bus to isolate the south bus from the fault.
+B. Cause of each component or system failure or personnel error
+Failure of a stand-off insulator occurred on Phase “A” in 13.8kV Terminal Cabinet. A specific cause could not be
+determined.
+C. Systems or secondary functions that were affected by the failure of components with multiple functions
+The de-energization of the south bus disconnected Unit 2 standby transformer from the grid. Since this
+transformer is the normal supply to Train B ESF bus, the resulting undervoltage condition initiated a partial loss
+of offsite power (LOSP), which sent a valid actuation signal to the Unit 2 Train B Standby Diesel Generator 22.
+D. Failed component information
+• System: { XFMR }
+• Component: { INS }
+• Manufacturer: Crown Electric { Crown Electric }
+• Model: {CE 10-0002}
+III. Analysis of the event
+A. Safety system responses that occurred
+The loss of the Unit 2 standby transformer caused an undervoltage condition on the Unit 2 Train B 4.16kV bus, the
+automatic start of the Unit 2 Train B Standby Emergency Diesel Generator 22 and the automatic sequenced loading
+of ESF equipment.
+B. Duration of safety system inoperability
+When the south bus was de-energized, Unit 2 entered TS Action 3.8.1.1.e on December 2, 2023, at 0610 hours
+due to two independent offsite circuits being inoperable – the switchyard south bus and ESF bus E2B were not
+connected to their offsite source. Upon re-energization of ESF Bus E2B approximately 2 hours and 20 minutes
+later at 0830 hours, Unit 2 exited TS Action 3.8.1.1.e and entered TS Action 3.8.1.1.a due to one independent
+offsite circuit being inoperable. Unit 2 exited TS Action 3.8.1.1.a at approximately 4 hours and 5 minutes later at
+1235 hours when the offsite circuits were declared operable following the restoration of the switchyard south bus
+and Standby Transformer 2. Therefore, the total safety system inoperability duration was 6 hours and 25 minutes.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1.(cid:9) FACILITY NAME 2.(cid:9) DOCKET NUMBER 3. LER NUMBER
+050
+YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas Unit 2 00499
+052 2023 - 002 - 00
+NARRATIVE
+C. Safety consequences and implications
+A quantitative analysis was used for Unit 2, which remained at full power for the duration of the event. The loss
+of the south bus did cause a partial loss of offsite power leading to an ESF actuation in Unit 2. All mitigating
+systems remained functional and there were no mitigating system failures as a result of the event. No fission
+product barriers were challenged in Unit 2. The loss of the South Bus has no increase in Core Damage Frequency
+(CDF) and Large Early Release Frequency (LERF) in Unit 2.
+This event did not result in any offsite release of radioactivity or increase of offsite does rates, and there were no
+personnel injuries or damage to any other safety-related equipment associated with this event. Therefore, there
+was no adverse effect on the health and safety of the public.
+IV. Cause of the event
+The cause of the event was the failure of a stand-off insulator occurring on Phase “A” in 13.8kV Terminal Cabinet,
+which resulted in a phase-to-ground fault and subsequent bus lock out. There were no previous indications of
+issues with the insulator. Based on vendor recommendation, Electric Power Research Institute, Inc. (EPRI)
+guidelines (TR-112784), Industry practices, and Institute of Electrical and Electronics Engineers (IEEE) standards,
+these standoff insulators do not have a proposed replacement schedule and are expected to not fail. Visual
+inspections and meggering the bus are the industry best preventative maintenance that ensure the insulators
+remain reliable. STP's Preventative Maintenance (PM) program currently aligns with these recommendations.
+Furthermore, EPRI guidance preventative maintenance is to perform visual inspections for any water intrusion
+signs or damage to the bus, perform thermography bi-annually, and performing a partial discharge test following
+maintenance. A review of the Unit 2 Standby transformer was performed for the prior 10 years and as found
+condition codes and inspection values were all within tolerance with no adverse trend. No changes to STP’s PM
+program are required and the consequence is aligned with the maintenance strategy.
+V. Corrective actions
+1. Replaced faulty insulator.
+2. Performed electrical testing of the non-segregated phase bus.
+3. Performed Doble Power factor testing of the transformer.
+4. Performed visual inspections of both the transformer and bus for signs of arcing and/or water intrusion.
+VI. Previous similar events
+A review identified a similar event in 2022 involving a failed insulator owned by the Transmission Distribution
+Service Provider, which resulted in a loss of the south switchyard electrical bus. STP submitted Licensee Event
+Report 2022-001-00 in response to this event.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 5(cid:9) of(cid:9) 5

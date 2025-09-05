@@ -1,0 +1,317 @@
+Beaver Valley Power Station .
+ErA energy
+P.O. Box 4
+ShIppIngport, PA 15077
+harbor
+John J. Grabnar 724-682-5234
+Site Vice President Fax: 724-643-8069
+•
+March. 3, 2021
+L-21-079(cid:9) 10 CFR 50.73
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Beaver Valley Power Station, Unit No. 2
+Docket No. 50-412; License No. •NPF-73
+LER 2021-001-00
+Enclosed is Licensee Event Report (LER) 2021-001-00, "Operation Prohibited by
+. Technical Specifications During a Loss of Control Rod Position. Indication Event!' This
+• event is being reported in accordance with 10 CFR 50.73(a)(2)(1)(B). •
+There are no regulatory commitments contained in this submittal. Any actions
+described in this document represent:intended or planned actions and are described for
+information only.
+If there are any questions or additional information is required, please contact
+Mr. Steve Sawtschenko, Manager, Regulatory Compliance and Emergency Response,
+at 724-682-4284.
+' Sincerely,
+John J. Grabnar
+Site Vice President
+Enclosure: Beaver Valley Power Station; Unit 2 LER 2021,001-00
+Z--
+Beaver Valley Power Station, Unit No. 2
+L-21-079
+Page.2
+cc: Mr. D: C. Lew, NRC Region I Administrator
+NRC Senior Resident Inspector
+Ms. J. -robin, NRC Project Manager
+INPO Records Center (via INPO Industry Reporting and Information System)
+Mr. L. Winker (BRP/DEP)
+Enclosure
+L-21-079
+Beaver Valley Power Station, Unit 2 LER 2021-001-00
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020: 1 stimated burden per response to comply with this mandatory collection request 80 hours.(cid:9) Peported.
+LICENSEE EVENT REPORT (LER) lessons learnca are incorporated into the licensing process and fed back to industry(cid:9) Send comments
+,(cid:9) redarthng burden estimate to the FOIA(cid:9) Library(cid:9) and Information Collections Branch (1-6 A.10M)(cid:9) U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory(cid:9) Cor anissioo(cid:9) Washington(cid:9) DC(cid:9) 20555-0001(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+104"/ (cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form infocoiiect.s.Resource@nro.gay, and tire OMB reviewer at(cid:9) OMB Office of Information and Regulatory
+'''' .. .• Wp://wwwflrc,goy/readino-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs(cid:9) (3150-0104)(cid:9) Attry(cid:9) Desk ail:(cid:9) ona_suornission6Icr-rL.,:q. T ,.(cid:9) The NRC may not conduct or
+sponsor(cid:9) and a person is ^or required to respond to, a collection of infermabon unless the dcxumert
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Beaver Valley Power Station, Unit 2
+05000(cid:9) 412 1(cid:9) OF(cid:9) 5
+4.(cid:9) Title
+Operation Prohibited by Technical Specifications During a Loss of Control Rod Position Indication Event
+5(cid:9) Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+01 04 2021 2021 -(cid:9) 001(cid:9) - 00 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+Li(cid:9) ri(cid:9)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+Li i(cid:9)
+20.2201(b) I(cid:9) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+L i(cid:9) L _1(cid:9)
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) I(cid:9) i(cid:9) 50.73(a)(2)(v)(B) 73.71(a)(4)
+ri
+I
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) [(cid:9) I(cid:9) 50.73(a)(2)(v)(C) 73.71(a)(5)
+ri
+20.2203(a)(2)(i) 10 CFR Part 21 1 50.73(a)(2)(i)(B) [(cid:9) 1(cid:9) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+Li
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) [ j 73.77(a)(2)(ii)
+Li L_.](cid:9)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Steve Sawtschenko, Manager, Regulatory Compliance and Emergency Response 724-682-4284
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+16. Expected Submission Date
+71(cid:9) No n(cid:9) Yes (If yes. complete 15. Expected Submission Date)
+1
+16. Abstract (Limit to 1560 spaces. i.e . approximately 15 single-spaced typewritten lines)
+On January 4, 2021 at 1752 hours, while operating at approximately 100% power, Beaver Valley Power Station, Unit No. 2
+(BVPS-2) non-safety 480V Bus 2E de-energized due to the supply breaker having tripped due to a degraded overcurrent device.
+This resulted in the loss of both trains of Digital Rod Position Indication (DRPI), as well as three of the five movable incore
+detectors. BVPS-2 declared both trains of DRPI inoperable and entered Technical Specification (TS) Limiting Condition for
+Operation (LCO) 3.1.7.2 Condition B, more than one DRPI per group inoperable in one or more groups. It was later determined
+that Condition A also applied but was not entered at the time of the event. This Condition in part would have required a reduction
+to <1= 50% rated thermal power (RTP) within 8 hours, and if not met Condition E would have required the plant to be in Mode 3
+within the next 6 hours. Power was restored to the bus and both trains of DRPI were declared OPERABLE after 14 hours 13
+minutes. This resulted in operation prohibited by TS reportable under 10 CFR 50.73(a)(2)(i)(B).
+The direct cause was the Shift Manager failed to enter and apply the Required Actions for LCO 3.1.7.2 Condition A. The root
+cause was that changes implemented by station personnel for NRC approved changes to LCO 3.1.7.2 introduced conflicting
+guidance between the TS and guidance documentation. Corrective actions include revising the TS Bases and the operating
+procedure to remove the conflicting guidance.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request. 80 hours. Reported
+a.(cid:9) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library. and Information Collections Branch (T-6 Al0M), U. S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001 or by e-mail to,
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory.
+•—•-* Affairs. (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW.1
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503: e-mail: oira_submission@omb.eop.aov. The NRC may not conduct or,
+sponsor, and a person is not required to respond to, a collection of information unless the document
+htfp://www.nrc.govireading-rm/doc-collections/nuregsistaff/sr1022/r31)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER N• O_._.
+Beaver Valley Power Station, Unit 2 412
+2021 -(cid:9) 001 00
+NARRATIVE
+Energy Industry Identification System (EllS) codes are identified in the text as [XX].
+BACKGROUND
+BVPS-2 uses two trains of Digital Rod Position Indication (DRPI) [JD] to monitor the position of the control rods during
+power operation. The control rod position can also be measured indirectly by using the movable incore detectors [IG]
+when DRPI is unavailable.
+Both trains of DRPI are required to be operable in Modes 1 and 2 per Technical Specification (TS) Limiting Condition for
+Operation (LCO) 3.1.7.2, Unit 2 Rod Position Indication. This TS was revised in 2017 to incorporate Technical
+Specification Task Force traveler TSTF-547 revision 1 via Unit 2 License Amendment 188.
+When one DRPI per group is inoperable in one or more groups, entry into TS LCO 3.1.7.2 Condition A is required and
+either Required Action A.1, OR A.2.1 AND A.2.2, OR A.3 are performed. These Required Actions are: A.1 verify the
+position of the rod with inoperable DRPI indirectly by using movable incore detectors, once every 8 hours OR A.2.1 AND
+A.2.2, verify the position indirectly as in A.1 once per 8 hours AND once per 31 EFPD thereafter AND 8 hours after
+discovery of each unintended rod movement AND 8 hours after each movement of rod with inoperable DRPI > 12 steps
+AND prior to thermal power exceeding 50% RTP (rated thermal power) AND 8 hours after reaching RTP, AND restore
+inoperable DRPI to operable status, prior to entering Mode 2 from Mode 3, OR A.3 reduce thermal power to <1= 50% RTP
+within 8 hours.
+When more than one DRPI per group is inoperable in one or more groups, TS LCO 3.1.7.2 Condition B is entered and
+Required Actions B.1 AND B.2 are performed: B.1 place the control rods under manual control, immediately AND B.2
+restore inoperable DRPIs to OPERABLE status such that a maximum of one DRPI per group is inoperable, within 24
+hours.
+Additionally, if the Required Action and associated Completion Time are not met. TS LCO 3.1.7.2 Condition E applies and
+Required Action E.1 is performed: E.1 be in Mode 3 within 6 hours.
+Of the five movable incore detectors which can be used as an alternate means of verifying control rod position, one was
+out of service prior to the event.
+DESCRIPTION OF EVENT
+On January 4. 2021 at 1752 hours, while operating at approximately 100% power, BVPS-2 control room operators
+received multiple unexpected annunciators regarding loss of non-safety 480 Volt Bus 2E. The Control Room Shift
+Technical Advisor (STA) identified that the DRPI panel appeared de-energized and there was no rod position indication for
+any control rods. The 2E 480V bus supply breaker had tripped due to a degraded overcurrent device resulting in the loss
+of both trains of DRPI. as well as three of the five movable incore detectors. The BVPS-2 Shift Manager declared both
+trains of DRPI inoperable and entered TS LCO 3.1.7.2 Condition B, more than one DRPI per group inoperable in one or
+more groups. Operators also entered procedure 20M-53C.4.2.1.7. Rod Position Indication Malfunction, revision 14.
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 2(cid:9) of(cid:9) 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(o8-2o2o)
+Estimated burden per response to comply with this mandatory collection request 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estiniate to the FOIA. Library. and Information Collections Branch (T-6 MOM). U. S.
+Nuclear Regulatory Commission. Washington, DC 20555-0001 or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form WaslYngton, DC 20503: e-mail: °ire submission_@omb,eop,gov. The NRC may not conduct or
+sponsor. and a person is not required o respond to. a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Beaver Valley Power Station, Unit 2 412
+2021 -(cid:9) 001 00
+NARRATIVE
+DESCRIPTION OF EVENT (continued)
+The 2E 480V bus was megger tested satisfactory at 0512 hours on January 5 and was cross-tied with the other 480V bus
+at 0730 hours. Both trains of DRPI were verified satisfactory per the operating procedure and declared OPERABLE at
+0805 hours, resulting in 14 hours 13 minutes of inoperable time.
+On January 13, 2021, after subsequent on-shift review, the applicability of Condition A to the January 4 event came into
+question. During the CR evaluation, it was determined that Condition A was applicable to the event, and that Condition A
+should have been entered along with Condition B. Since during the event four out of the five movable incore detectors
+were unavailable to indirectly verify the control rod position every 8 hours per Required Actions A.1 OR A.2.1, Required
+Action A.3 to reduce thermal power to <1= 50% RTP within 8 hours would have been required. This Required Action to
+reduce power was not performed and the unit remained at approximately 100% power, which after 8 hours Condition E
+Required Action E.1 would have required the plant to be in Mode 3 within the next 6 hours (total of 14 hours from the time
+of the initiating event). Because the DRPI trains were both inoperable for greater than 14 hours, this resulted in a condition
+prohibited by TS reportable under 10 CFR 50.73(a)(2)(i)(B).
+CAUSE OF EVENT
+The direct cause of operating in a condition prohibited by TS was the Shift Manager failed to enter and apply the Required
+Actions for LCO 3.1.7.2 Condition A, even though the Condition applied with both trains of the DRPI system inoperable.
+The root cause was that changes implemented by station personnel for NRC approved changes to LCO 3.1.7.2 introduced
+conflicting guidance between the TS, TS Bases, and procedure.
+The TS Bases for Condition B do not indicate that rod position verification is needed or that Condition A always applies.
+The TS Bases for Condition B states, "The 24 hour Completion Time provides sufficient time to troubleshoot and restore
+the DRPI system to operation while avoiding the plant challenges associated with the shutdown without full rod position
+indication." The instructions in the procedure that was entered indicated that rod position verification is not required for
+Condition B. All of this guidance supported the Shift Manager's perceived conservative bias toward maintaining plant
+stability by not moving the control rods without position indication. The challenges to reactivity control and knowing the
+position of the control rods after movement contributed to the decision not to apply Condition A.
+When the TS was updated in August 2017 to implement Unit 2 License Amendment 188, Required Actions were removed
+from Condition B including one to indirectly verify the position using the movable incore detectors (identical to Condition A
+Required Action A.1). TSTF-547 revision 1 states, "under the TS usage rules, every entry into Condition B is accompanied
+by separate entry into Condition A for the inoperable DRPI. Both Condition A and Condition B contain a Required Action
+(A.1 and B.3) to verify the position of the rods with inoperable DRPI indirectly by using the movable incore detectors.
+Therefore, Required Action B.3, is redundant and unnecessary because Required Action A.1 is always applicable."
+However, the changes to the TS, TS Bases, and the associated procedure as implemented by the station personnel
+created an environment that supported a challenge to the normal rules of usage that Condition A is always applicable
+when Condition B is entered, and this collective guidance led the Shift Manager to conclude that Condition B stood alone
+and that entry into Condition A was not required.
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 3(cid:9) of(cid:9) 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(06-2020)
+Estimates burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library. and Information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission, Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc..gov and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission 725 17th Street NW.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington. DC 20503: e-mail oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to. a collection of information unless the docurrien!
+httpj/www.nrc,govireading-rm/doc-collections/nuregSistaff/sr1022/13/)
+requesting or requirog the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2.DO..C.-K-E T NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Beaver Valley Power Station. Unit 2 412
+2021
+001 00
+NARRATIVE
+CAUSE OF EVENT (continued)
+The TS usage rules were misapplied due to this conflicting guidance. Condition A applies when one DRPI per group is
+inoperable in one or more groups. Considering all DRPI were inoperable, Condition A should have been entered. The TS
+usage rules requirement is that senior licensed operators shall enter all TS Conditions that apply, provided the unit is in a
+Mode stated in the applicability of the LCO. LCO 3.1.7.2 is applicable in Modes 1 and 2, and at the time of the event the
+unit was in Mode 1. The Shift Manager determined that Condition A only applied to a Condition with one DRPI inoperable
+and Condition B applied when more than one DRPI was inoperable. The Required Actions of Condition B aligned with the
+bias against moving control rods without rod indication.
+ANALYSIS OF EVENT
+Both trains of DRPI were inoperable, as well as four of the five movable incore detectors which would ordinarily be used to
+verify the position of the control rods with DRPI unavailable. TS LCO 3.1.7.2 Condition A did apply, and since neither
+Required Actions A.1 nor A.2.1 could be completed, Required Action A.3 would have required a down power to </= 50%
+RTP within 8 hours. This Required Action was not taken and both trains of DRPI remained inoperable for 14 hours 13
+minutes. therefore this was operation prohibited by TS and is reportable under 10 CFR 50.73(a)(2)(i)(B).
+Since DRPI is an indication system only and does not provide any core damage mitigating functions, the BVPS-2
+Probabilistic Risk Analysis (PRA) does not model the DRPI system or the non-safety 2E 480V bus, or any other
+appropriate surrogates that can be used to quantitatively estimate the risk increase associated with this event. In the PRA
+models it is also assumed that external initiating events result in a reactor trip and the control rods are successfully
+inserted for all fires and seismic events. Therefore, the safety significance of this event was addressed in a qualitative
+manner to demonstrate that it did not result in more than a minimal increase in radiological risk.
+Prior to the loss of the non-safety 2E 480V bus, the control rods were fully withdrawn, and no control rod movement
+occurred during the period with DRPI out of service based on alternative indications and no movement identified once
+DRPI was restored. The non-safety 2E 480V bus was isolated to prevent the fault from propagating to any energized
+systems or safety buses, and the Rod Control System [AA] was immediately placed in manual to ensure that no
+unplanned rod motion could occur. Actions to restore the DRPI system also commenced immediately following the event.
+Although the plant did not commence a power reduction and stayed at approximately 100% power during this event,
+actions were taken to avoid undesirable power distributions that could result from continued operation at > 50% RTP and
+minimize the risk of this condition. To reduce the likelihood of any plant transients from occurring, no other safety related
+TS or modeled PRA/on-line risk equipment were intentionally removed from service for surveillances or preventive
+maintenance activities during this event. Furthermore, all work that could affect related electrical systems, rod position
+systems, and reactivity monitoring systems, or with the potential to cause plant down powers was stopped, and no
+discretionary switchyard activities were allowed during the event.
+NRC FORM 3660 (08-2020i(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+:o8-2o;o)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library. arid Information Collections Branch (1-6 MOM), U. S.
+Nuclea' Regulatory Commission. Washington DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov. and the OMB reviewer at. OMB Office of Information and Regulatory
+Affairs (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW.
+(See NUREG-1022, R.3 for instruction and guidance for completing this for rn Wash,ngton. DC 20503. e-mail. oira_submission@omb.eop.gov. The NRC may not conduct of
+http://www.nrc.nvireadinci-rm/doc-collections/nw.eoLstar3A sponsor and a person is not required o respond to a collection of information unless the document
+requesting or regunig the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Beaver Valley Power Station. Unit 2 412 [2021 -L
+001 00
+NARRATIVE
+ANALYSIS OF EVENT (continued)
+Control and shutdown rod position accuracy is essential during power operation to ensure that the plant is operating within
+the bounds of the accident analysis assumptions that credit rod insertion upon reactor trip. However, with the plant in
+steady state full power operation and the rod control system in manual with their fully withdrawn last known position, there
+was a low probability that any control rod movement would have deviated more than the allowable deviation limit. This
+ensured that there was a high confidence that the position uncertainty of the corresponding control rod group was within
+the values used in the safety analysis, and that the design assumptions were not challenged during power operation
+throughout this event. This was also evident after DRPI was restored and the control rods were verified to be in the same
+position as that prior to the event occurring. Therefore, there was a low probability of having any unacceptable risk while
+the DRPI system was unavailable during this event.
+Based on the qualitative assessment of the plant conditions and actions taken following the unexpected fault on the
+BVPS-2 non-safety 2E 480V bus and the consequential loss of the DRPI and flux mapping capabilities, as well as the
+small probability of simultaneously having a rod significantly out of position and an event sensitive to that rod position, the
+safety significance associated with the event is considered to be very low.
+CORRECTIVE ACTIONS
+Completed Actions:
+An extent of condition was performed for short duration LCOs with complicated indication schemes.
+A Standing Order was issued to provide supplementary guidance to inform Operators to enter TS Condition A whenever
+Condition B is entered, as an interim action.
+Planned Actions:
+The TS Bases will be revised to indicate that verification of control rod position is required and that every entry into
+Condition B is accompanied by a separate entry into Condition A for the inoperable DRPI.
+The operating procedure will be revised to ensure that the Required Actions of Conditions A and B are included.
+The supplementary guidance will remain open until the document updates are completed.
+PREVIOUS SIMILAR EVENTS
+Beaver Valley CR-2016-13722, Unit 1 Rod Position Indication Declared Inoperable Due to Continuous Erratic Operation.
+notes that at Unit 1 the crew faced similar loss of all individual rod position indication and correctly entered the TS
+Conditions. The Unit 1 TS had not at that time (and still have not) implemented the TSTF change implemented at Unit 2,
+therefore, the Unit 1 TS still include details in each of the Conditions (A and B) that require verification of rod positions.
+Condition Report 2021-00242
+NRC FORM 365A (08-2020) Page(cid:9) 5(cid:9) of(cid:9) 5

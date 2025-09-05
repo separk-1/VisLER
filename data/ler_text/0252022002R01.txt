@@ -1,0 +1,128 @@
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(01-10-2023)
+Felimated Nrcien per response to comply wit^ the mandatory collection request: 80 hours(cid:9) Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing p•oeess and 'ed back to inad-try(cid:9) Send comments regarding ouden
+estimate •,o the(cid:9) FO A,(cid:9) Library. and(cid:9) Information Colectons Brarcn(cid:9) .3 6 A10M),(cid:9) Ll(cid:9) S. Nuclear Rep atory
+;(cid:9) (See Page 2 for required number of digits/characters for each block) Commies on, Wash ngton. DC 20555 0001. or by email :o Infoccleas Res urce@nrc gov. and :he OMB reviewer
+at(cid:9) OMB Off ce of Information and Regulatory Affa rs. (3150-2104). Attn: Desk Officer for the Nucear Reguatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Ccrnmiss on, 725 l'th Street NW. Washington. DC 20503: email:(cid:9) o ra su^mission@omb eolgov(cid:9) Tne NRC may
+h://www.nrc.gov/reading-rm/doc-collectionsinuregs/staff/sr1022/r3/) rot conduct or sponsor. and a person is not recuired to respond to. a collection of information unless lhe document
+requesting or requirng the gni ecrion Msplays a current y va.id OMB control ndmoer.
+1. Facility Name 050 2. Docket Number 3. Page
+Vogtle Electric Generating Plant, Unit 3 00025 1(cid:9) OF(cid:9) 2
+[(cid:9) 1(cid:9) 052
+4. Title
+Automatic Depressurization System Stage 4 Flow Paths Inoperable During Mode 6 with Upper Internals in Place
+Due to Inadequate Work Processes
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month(cid:9) Day Year Year S Neq uu me bn eti ra l Re Nvi os .i on Month(cid:9) Day Year Facility Name -1(cid:9) 050 • Docket Number
+10(cid:9) 23 2022 2022 002 01 02(cid:9) I(cid:9) 03 2023 Facility Name . Docket Number
+052
+9. Operating Mode 10. Power Level
+6 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 I(cid:9) I (cid:9) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+7(cid:9)
+20.2201(b) q 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) (cid:9) 50.73(a)(2)(viii)(B) 73.1200(b)
+I(cid:9) I
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) II(cid:9) 50.73(a)(2)(iii) (cid:9) 50.73(a)(2)(ix)(A) 73.1200(c)
+n(cid:9)
+7(cid:9)
+20.2203(a)(1) 20.2203(a)(4) [ (cid:9) 50.36(c)(2) T 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+L (cid:9) 1 (cid:9) I (cid:9)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 [(cid:9) 73.1200(e)
+20.2203(a)(2)(ii) I(cid:9) I(cid:9) 21.2(c) 50.69(g) LI(cid:9) 50.73(a)(2)(v)(B) I(cid:9) 1 (cid:9) 73.77(a)(1) I(cid:9) I (cid:9) 73.1200(f)
+7(cid:9) -
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) q 73.1200(g) ._
+_.
+I(cid:9) I 20.2203(a)(2)(iv) V3 I1 (cid:9) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) [ (cid:9) 73.77(a)(2)(ii) I(cid:9) I (cid:9) 73.1200(h)
+(cid:9)
+7(cid:9) pi ITi
+20.2203(a)(2)(v) (cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact .(cid:9)! Phone Number (Include area code)
+7068487154
+Will Garrett. VEGP 3&4 Licensina Manaaer(cid:9)
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component(cid:9) Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+I
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+,
+1 s/ (cid:9) No i(cid:9) I(cid:9) Yes (If yes. complete 15(cid:9) Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On October 23, 2022, at 0405 EDT with Vogtle Electric Generating Plant (VEGP) Unit 3 in Mode 6 at 0 percent power, the
+Automatic Depressurization System (ADS) Stage 4 Squib Valve Component Interface Modules (CIMs) were discovered in
+"local" control while preparing to return ADS Stage 4 Division A to service, which rendered the associated ADS Stage 4 flow
+paths inoperable. The operators responded timely by placing all ADS Stage 4 Squib Valve CIMs in "remote" to restore
+operability to the ADS Stage 4 flow paths. The root cause of the event was inadequate work processes. The corrective actions
+completed for this event include revision of the mode change checklist procedure GOP-301 and reinforcement of configuration
+management with maintenance work planners. This event is reportable under 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited
+by Technical Specifications, 10 CFR 50.73(a)(2)(v)(D) as a condition that could have prevented the fulfillment of the safety
+function, and 10 CFR 50.73(a)(2)(vii)(D) as an event where a single cause or condition caused at least two independent trains
+or channels to become inoperable in a single system designed to mitigate the consequences of an accident. VEGP Units 1, 2,
+and 4 were unaffected by this event.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(0'-10-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reportec
+lessons leamed are incorporated into the licens rg process and fed back to ndustry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library. arc information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission. Washington, DC 20555-0001. or by email to
+CONTINUATION SHEET
+infocollects.Resource@nrc.gov, and tne OMB reviewer at: 0MB Office of Information and Regulatory
+• • • • Affairs (3150-0104), Ann Desk Office for the Nuclear Regulatory Commission. 725 17th Street NW
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20E03; email: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to a collection of rformation unless the document
+htjp;//www.nrc.govireading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid 0MB control number
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I(cid:9) 050 YEAR SEQUENTIAL REV
+Vogtle Electric Generating Plant, Unit 3 00025 NUMBER NO.
+n 022
+052 L 002 01
+NARRATIVE
+:EVENT DESCRIPTION
+On October 23, 2022, at 0405 EDT with Vogtle Electric Generating Plant (VEGP) Unit 3 in Mode 6 at 0 percent power, the
+Automatic Depressurization System (ADS) Stage 4 Squib Valve [EIIS: AB / V] Component Interface Modules (CIMs) [EIIS:
+,JE / IMOD] were discovered in "local" control, which rendered the associated ADS Stage 4 flow paths inoperable. Based on
+the CIMs being in "local," the ADS Stage 4 valves were inoperable when the unit entered the mode of applicability for
+Technical Specifications (TS) Limiting Condition for Operation (LCO) 3.4.13. The applicability of TS LCO 3.4.13 is Mode 6
+with upper internals in place, which occurred on October 22, 2022, at 1430 hours. Therefore, the placement of the upper
+internals resulted in the unit being in a condition prohibited by the TS, because TS 3.4.13 requires three flow paths in ADS
+'Stage 4 to be operable in Mode 6 with the upper internals in place. The CIMs had been previously placed in "local" control
+for installation of the ADS Stage 4 squib valve actuator cartridges. The ADS Stage 4 CIMs being in "local" control was
+discovered while preparing to return ADS Stage 4 Division A to service on October 23, 2022. The CIMs being in "local"
+control would have prevented the automatic open function for these valves. This resulted in a condition where no Stage 4
+ADS flow paths were operable during plant conditions that required at least three operable flow paths (i.e.. Mode 6 with
+Upper Internals in place in accordance with TS 3.4.13). The operators responded timely by placing the CIMs in "remote" for
+ADS Stage 4 Divisions A and C at 0432 EDT, and the CIMs for Divisions B and D were placed in "remote" at 0447 EDT,
+which restored operability to the required ADS Stage 4 flow paths and established compliance with the TS LCO 3.4.13. This
+event is reportable under 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications, 10 CFR
+50.73(a)(2)(v)(D) as a Safety System Functional Failure (SSFF), and 10 CFR 50.73(a)(2)(vii)(D) as an event where a single
+cause or condition caused at least two independent trains or channels to become inoperable in a single system designed to
+mitigate the consequences of an accident.
+EVENT ANALYSIS
+The root cause of this event was determined to be inadequate work processes. Procedures did not include a step to check
+CIM configuration prior to mode changes and procedural guidance was not in place to identify CIM status as part of TS
+compliance verification. Additionally, maintenance work control documents did not address restoration of the CIMs.
+REPORTABILITY AND SAFETY ASSESSMENT
+There were no safety consequences due to this event because during the time that the ADS Stage 4 flow paths were
+inoperable, there was no irradiated fuel in the core and no decay heat present. No radiological release occurred due to this
+event. Under alternate conditions, such as the presence of decay heat, manual actuation of ADS Stage 4 via the Diverse
+Actuation System (DAS) could have been utilized to open the valves. This event is reportable under 10 CFR
+50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications, 10 CFR 50.73(a)(2)(v)(D) as a condition that could
+have prevented the fulfillment of the safety function, due to the condition of having no ADS Stage 4 flow paths operable
+during the TS mode of applicability, and 10 CFR 50.73(a)(2)(vii)(D) as an event where a single cause or condition caused at
+least two independent trains or channels to become inoperable in a single system designed to mitigate the consequences of
+an accident.
+CORRECTIVE ACTIONS COMPLETED
+• The mode change checklist procedure GOP-301 was revised to check CIM configuration prior to entry into applicable
+modes.
+• Reinforced with Planning and Procedure writers the importance and process for ensuring configuration control is restored
+to normal position.
+PREVIOUS SIMILAR EVENTS
+None
+NRC FORM 366A (01-10-2023) Page 2 of 2

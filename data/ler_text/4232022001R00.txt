@@ -1,0 +1,287 @@
+Dominion Energy Nuclear Connecticut, Inc. 0opo Dominion
+Millstone Power Station
+1 Energy®
+314 Rope Ferry Road, Waterford, CT 06385
+DominionEnergy.com
+U. S. Nuclear Regulatory Commission Serial No.:(cid:9) 22-069
+Attention: Document Control .Desk MPS Lic/DB RO
+Washington, DC 20555 Docket No.: 50-423
+License No.: NPF-49
+MAR 2 4 2022
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+MILLSTONE POWER STATION UNIT 3
+LICENSEE EVENT REPORT 2022-001-00
+EMERGENCY CORE COOLING AND REACTOR PLANT COMPONENT COOLING WATER
+SYSTEMS INOPERABLE FOR TIME GREATER THAN ALLOWED BY TECHNICAL
+SPECIFICATIONS
+This letter forwards Licensee Event Report (LER) 2022-001-00, documenting a condition that
+occurred at Millstone Power Station Unit 3 (MPS3), on January 26, 2022, when MPS3 exceeded a
+Technical Specification required shutdown action statement. During a telephone conversation at
+8:30 AM EST on January 26, 2022, the NRC approved a verbal request from DENC that a Notice of
+Enforcement Discretion (NOED) be issued allowing continued operation for an additional 72 hours
+beyond the expiration of the TS action statement. This LER is being submitted pursuant to 10 CFR
+50.73(a)(2)(i)(B) as operation or condition prohibited by Technical Specifications.
+There are no regulatory commitments contained in this letter or its enclosure. Should you have any
+questions, please contact Mr. Dean E. Rowe at (860) 444-5292.
+Sincerely,
+Michael J. O'Connor
+Site Vice President — Millstone
+Enclosure: LER 423/2022-001-00
+Serial No. 22-069
+Docket No. 50-423
+(cid:9)
+Licensee Event Report 2022-001-00
+• E
+Page 2 of 2
+cc:(cid:9) U.S. Nuclear Regulatory Commission
+Region I
+2100 Renaissance Blvd.
+Suite 100
+King of Prussia, PA 19406-2713
+R.V. Guzman
+NRC Senior Project Manager Millstone Units 2 and 3
+U.S. Nuclear Regulatory Commission
+One White Flint North
+11555 Rockville Pike
+Mail Stop 08 C-2
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Millstone Power Station
+Serial No. 22-069
+Docket No. 50-423
+Licensee Event Report 2022-001-00
+ATTACHMENT
+LICENSEE EVENT REPORT 2022-001-00
+EMERGENCY CORE COOLING AND REACTOR PLANT COMPONENT COOLING WATER
+SYSTEMS INOPERABLE FOR TIME GREATER THAN ALLOWED BY TECHNICAL
+SPECIFICATIONS
+MILLSTONE POWER STATION UNIT 3
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+.4,0'1" '04,6(cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+.it Vt ji (cid:9) (See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory (cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+1::(cid:9) `‘...,(cid:9) / (cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource©nrc.gov, and the OMB reviewer at OMB Office of Information and Regulatory
+bilp://www.nrc.govireading-rm/doc-collections/nugs/staff/sr1022/r3/) Affairs, (3150-0104), Attn:(cid:9) Desk ail:(cid:9) oira submission(@omb.eop.eov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Millstone Power Station Unit 3 05000(cid:9) 423 1 OF(cid:9) 4
+4. Title
+Emergency Core Cooling and Reactor Plant Component Cooling Water Systems Inoperable For Time Greater Than Allowed by
+Technical Specifications
+5 Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+01 26 2022 2022 -(cid:9) 001(cid:9) - 00 03 24 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+n(cid:9) 7(cid:9) 7(cid:9)
+10 CFR Part 20 20.2203(a)(2)(vi) 1-1(cid:9) 5 0.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+Fi
+(cid:9) 20.2201(b) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+ri(cid:9) n ri ET
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) (cid:9) 50.73(a)(2)(v)(B) (cid:9) 73.71(a)(4)
+n(cid:9) FT (cid:9)
+n
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) El(cid:9) 50.73(a)(2)(v)(C) 73.71(a)(5)
+IT(cid:9) 7(cid:9) 7(cid:9)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) I-1(cid:9) 73.77(a)(1)(i)
+ri 7 r-i 7(cid:9) ri
+(cid:9) 20.2203(a)(2)(ii) 21.2(c) (cid:9) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) (cid:9) 73.77(a)(2)(i)
+FT IT(cid:9) 7(cid:9)
+(cid:9) 20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) n(cid:9) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+ri IT 7(cid:9)
+(cid:9) 20.2203(a)(2)(iv) (cid:9) 50.36(c)(1)(i)(A) 17(cid:9) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+7(cid:9) ri(cid:9) n(cid:9)
+n(cid:9) 20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+n
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Dean E. Rowe, Manager Nuclear Emergency Preparedness and Licensing 860 444-5292
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X VF Bearing FAFNIR Y
+14. Supplemental Report Expected Month Day Year
+{-7(cid:9) 15. Expected Submission Date
+7
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single spaced typewritten lines)
+On January 23, 2022, at 1118 hours, the 'B' train Charging Pump and Reactor Plant Component Cooling Water (RPCCW)
+Pump Area Exhaust Fan, 31-1VRTN13B, failed. This resulted in tripping its supply breaker, 32-1W(F4M), fire alarms, Control
+Room alarms, and an auto start of the standby fan. Because these fans support operability of the Emergency Core Cooling
+Systems (ECCS) and RPCCW systems, 72-hour Technical Specification Action Statements (TSAS) were entered for one ECCS
+subsystem and one RPCCW safety loop being inoperable. When it became evident repairs could not be completed within the
+Technical Specification Allowed Outage Time (TS AOT), a request was made, and approved, for a Notice Of Enforcement
+Discretion for 72 hours beyond the TS AOT to provide time to restore the fan and operability of ECCS and RPCCW. ECCS and
+RPCCW were inoperable for a total of 105 hours and 32 minutes. The cause of the fan failure was a failed motor bearing. The
+fan was repaired and restored to operable status on January 27, 2022 at 2050 hours.
+This condition is being reported pursuant to 10CFR50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 Al OM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eougy. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Millstone Power Station Unit 3 423
+2022
+001 00
+NARRATIVE
+1. EVENT DESCRIPTION
+On January 23, 2022, at 1118 hours, the 'B' train Charging Pump and Reactor Plant Component Cooling Water (RPCCW)
+Pump Area Exhaust Fan, 3HVR*FN13B, failed. This resulted in tripping its supply breaker, 32-1W(F4M), fire alarms,
+Control Room alarms, and an auto start of the standby fan. This fan provides a support function for the Charging Pumps
+and RPCCW Pumps, as well as supporting operation of the Auxiliary Building Filter system and Supplemental Leak
+Collection and Release System (SLCRS). As a result of the fan tripping, Operations personnel entered the following
+Technical Specification Action Statements (TSAS):
+• TSAS 3.5.2.a for one Emergency Core Cooling System (ECCS) subsystem inoperable, which requires the inoperable
+subsystem to be restored to operable status within 72 hours, or the unit placed in HOT STANDBY within the next 6 hours,
+and HOT SHUTDOWN within the following 6 hours.
+• TSAS 3.7.3 for one RPCCW safety loop inoperable, which requires the inoperable safety loop to be restored to operable
+status within 72 hours, or the unit placed in HOT STANDBY within the following 6 hours, and COLD SHUTDOWN within
+the following 30 hours.
+• TSAS 3.6.6.1 for one SLCRS system inoperable, which requires the inoperable system to be restored within 7 days, or
+the unit placed in HOT STANDBY within the next 6 hours, and COLD SHUTDOWN within the following 30 hours.
+• TSAS 3.7.9 for one Auxiliary Building Filter system inoperable, which requires the inoperable system to be restored
+within 7 days, or the unit placed in HOT STANDBY within the next 6 hours, and COLD SHUTDOWN within the following
+30 hours.
+Millstone Maintenance inspected the fan and found that the motor shaft was bent, causing the fan blades to contact the
+housing. After the failure was identified, repair activities proceeded on a continuous basis with the goal of completing the
+repairs and validating operability of the fan prior to expiration of the 72-hour Allowed Outage time (AOT) of TSAS 3.5.2.a
+and 3.7.3. However, as corrective maintenance activities to replace the fan motor and fan hub assembly progressed,
+completion of the repairs was forecasted to extend beyond the original 72-hour AOT. Therefore, on January 26, 2022, at
+approximately 0830 hours, Dominion Energy Nuclear Connecticut (DENC) informed the Nuclear Regulatory Commission
+(NRC) of the need for a Notice Of Enforcement Discretion (NOED) from the requirements of TS 3.5.2 and 3.7.3 for a
+period of 72 hours to avoid an unnecessary shutdown while repairs were completed. The NOED request was verbally
+approved by the NRC on January 26, 2022, at approximately 1034 hours. On January 27, 2022, at 2050 hours, corrective
+maintenance and post-maintenance testing of the fan was completed satisfactorily, the TSASs were exited, and the period
+of Notice Of Enforcement Discretion exited.
+One ECCS subsystem and one RPCCW safety loop were inoperable for a total of 105 hours and 32 minutes, which
+exceeds the 72-hour AOT of TSAS 3.5.2.a and 3.7.3. Therefore, this event is being reported in accordance with
+10CFR50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications.
+2. CAUSE
+Investigation has determined that the fan failure was caused by a motor bearing failure.
+The failed bearing is manufactured by FAFNIR and its model number is 314KDD BEARING.
+(cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page 2(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (1-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submissiou@omb.eon.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.govireading-rm/doc-collectionsinuregsistaffisrl 022/r3/1
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Millstone Power Station Unit 3 423
+2022
+001 00
+NARRATIVE
+3. ASSESSMENT OF SAFETY CONSEQUENCES
+MPS3 Charging Pump and RPCCW Pump Area exhaust fan 3HVR*FN13B is safety related but does not have any direct
+TS requirements. However, the fan does support the charging pump and RPCCW pump and heat exchangers, as well as
+the Auxiliary Building Filter and SLCRS systems, which are TS equipment. Therefore, this fan affects the TS for ECCS,
+RPCCW, SLCRS, and Auxiliary Building Filter System.
+The Charging Pump and RPCCW Pump Area supply and exhaust fans are part of the Auxiliary Building Filter System
+(ABFS). The fans are redundant, 100% capacity each. The fans provide an environment suitable for personnel access
+and equipment operation. It also controls and minimizes the potential for spread of airborne radioactive material within the
+building.
+In the event of a safety injection signal (SIS) or a containment depressurization actuation (CDA) signal, the auxiliary
+building general area ventilation is shutdown; the building outlet isolation dampers close; the Charging Pump and RPCCW
+Pump Area ventilation exhaust dampers close; the auxiliary building filter unit inlet and outlet dampers open; the filter
+exhaust fans start automatically; and the Charging Pump and RPCCW Pump Area supply and exhaust fans continue to
+operate venting through the turbine building stack via the Auxiliary Building Filter System (ABFS). An SIS signal also
+automatically starts operation of SLCRS. During accident conditions, the ABFS and SLCRS operate together to bring the
+secondary containment enclosure, auxiliary building, engineered safety features (ESF) building, hydrogen re-combiner
+building, and the main steam valve building to negative pressure within 120 seconds.
+Operability of 3HVR*FN13B is required by MPS3 procedures in recognition of the potential for higher (more adverse)
+ambient temperatures in the area of the charging and RPCCW pumps if the exhaust fan is lost, and also as the suction air
+source for the ABFS. However, the fan is not included as a TS or Technical Requirements Manual (TRM) required
+component.
+Adequate heat removal has been demonstrated with an Ultimate Heat Sink temperature up to 80 °F (TS 3/4.7.5). During
+the period 3HVR*FN13B was inoperable, the service water temperature was approximately 41.8 °F and outside air
+temperatures (winter air temperatures) ensure delivered air is on the lower side of the allowed range. These service water
+and outside air temperatures provided substantial margin for ensuring pump cooling capacity.
+3HVR*FN13A was in service providing the necessary ventilation for normal operation and as the initial condition for
+accident scenarios. For 3HVR*FN13B being out of service to have had an adverse effect on an analyzed transient, an
+event initiator would need to be combined with a failure specifically in the 'A' train (either 3HVR*FN13A, 'A' train
+Emergency Diesel Generator or 4160 Volt Power Supply). Margin in the current FSAR dose consequence analyses to the
+10 CFR 50.67 Total Effective Dose Equivalent (TEDE) Limits is shown in the table below. This margin is available to
+offset the potential fora reduction in the SLCRS drawdown capability following a potential loss of both trains of ABFS.
+However, all forced flow releases would remain filtered by the SLCRS. During the time spent in the TSAS, including the
+period of enforcement discretion, the opposite train of ABFS was maintained in service. Therefore, safety margins were
+maintained.
+Dose Location 50.67 TEDE Limits (rem) FSAR Table 15.0-8 Results (rem)
+EAB 25 5.4
+LPZ 25 1.1
+Control Room 5 3.4
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+n'&4•% LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@pmb.eonoov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.ciovireadinn-rmidoc-collections/nuregs/staff/srl 022/r3b
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Millstone Power Station Unit 3 423
+2022
+001 00
+NARRATIVE
+The System Operating Procedure for Auxiliary Building Emergency Ventilation and Exhaust (OP 3314J) provides
+instruction for the installation and operation of Portable Emergency Ventilation Fan, 3HVR-FN18, and a portable
+generator. Performance of this procedure satisfies requirements of TRM 7.4.1, Fire Related Safe Shutdown Components.
+This procedure is the contingency plan in the event of failure of the charging and RPCCW pump area ventilation system.
+Providing emergency ventilation to the Auxiliary Building in accordance with OP 3314J is modeled as a recovery action
+given failure of the Charging/RPCCW area ventilation system in the quantitative risk assessment.
+The ECCS and RPCCW systems were expected to maintain their ability to perform their safety functions during the period
+of enforcement discretion. No other structures, systems, or components (SSCs) were affected during the period of
+enforcement discretion and no limits were imposed on any SSC that hindered their ability to perform their specified
+function. The independence of the physical barriers to radiological releases were not degraded during the period of
+enforcement discretion. The planned activities on 3HVR*FN13B did not impact fuel cladding, RCS or Containment
+integrity. No other SSCs were affected by the proposed period of enforcement discretion, and therefore no limits were
+imposed on any SSC in performing their specified safety function.
+Based on the above, there were no safety consequences associated with 3HVR*FN13B being inoperable for a period of
+approximately 33.5 hours beyond the TS AOT.
+4. CORRECTIVE ACTIONS
+The damaged motor was replaced with a spare motor from the warehouse. A like-for-like fan hub and blade assembly
+was used to replace the damaged hub and blade assembly.
+Additional corrective actions will be taken in accordance with the station Corrective Action Program.
+5. PREVIOUS OCCURRENCES
+There have been no similar events of a fan being inoperable for longer than the TS AOT at Millstone Power Station Unit 3
+in the past three years.
+6. ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) CODES
+VF - Auxiliary Building Environmental Control System
+FAN - Fan
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 4

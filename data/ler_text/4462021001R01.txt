@@ -1,0 +1,246 @@
+Thomas P. McCool Comanche Peak
+111
+Site Vice President Nuclear Power Plant
+(Vistra Operations
+Luminant Company LLC)
+P.O. Box 1002
+6322 North FM 56
+Glen Rose, TX 76043
+T 254.897.6042
+CP-202200008
+TXX-22003
+February 28, 2022
+ATTN: Document Control Desk Ref (cid:9) 10 CFR 50.73
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+(cid:9)
+Subject.: Comanche Peak Nuclear Power Plant (CPNPP)
+DockeL No. 50-446
+Reactor Trip Duc To Fault On Main Transformer 2MTI
+Licensee Event Report 446/21-001-01
+Dear Sir or Madam:
+Enclosed is Licensee Event Report (LER) 2-21-001-01, "Reactor Trip Duc To Fault On Main Transformer 2N1T I"
+for Comanche Peak Nuclear Power Plant (CPNPP), Unit 2.
+This letter contains no new regulatory commitments.
+If you have any questions regarding this submittal, please contact Gary Merka at (254) 897-6613 or
+gary.merkaq.0Iu minanl.com.
+Thomas P. McCool
+Allachment.
+(cid:9)
+c. (email) - Stoll Morris, Region IV [Sco1.1..Morris@nrc.gov]
+Dennis Galvin, NRR [Dennis.GalvinWIrc.gov]
+John Ellegood, Senior Resident. Inspector, CPNPP [John.Ellegood@nrc.gov]
+Neil Day, Resident. Inspeclor, CPNPP [Neil.Dayqhirc.gov]
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO.3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply w th this mandatory collect on request: 80 hours.(cid:9) Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the I cens•ng process and fed back to ,ndustry.(cid:9) Send comments
+regarding burden estimate to the FOIA. Library. and Informal on Collectons Branch (T-6 A10M). U.S.
+. i(cid:9) (See Page 3 for required number of digits/characters for each block) Nuclear(cid:9) Regulatory(cid:9) Comm ss.on.(cid:9) Washington.(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+•'h1'1 p'.,,,,,(cid:9) (See NUREG-1022. R.3 for instruction and guidance for completing this form Infocollects.Resourcei(cid:9) nrc.gov. and the OMB reviewer at:(cid:9) 0MB Office of Information and Regulatory
+.(cid:9) • http://www.nrc.goy/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs. (3150-0104). Attn:(cid:9) Desk all:(cid:9) 0 ra submissionfvomb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor. and a person •s not required to respond to. a collection of Information unless the document
+request ng or requiring the collection displays a currently yald 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+Comanche Peak Nuclear Power Plant
+05000(cid:9) 446 1(cid:9) OF(cid:9) 4
+4.(cid:9) Title
+Reactor Trip Due To Fault On Main Transformer 2MT1
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+06 07 2021 21 -(cid:9) 001(cid:9) - 01 02 28 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+Mode 1 100 Percent
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) I5 0.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+1 (cid:9) 20.2201(b) 1 (cid:9) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 1 (cid:9) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+(cid:9)
+fl
+20.2203(a)(1) 1 (cid:9) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+n(cid:9)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+p(cid:9)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 1 (cid:9) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here. in abstract. or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Gary Merka 254-897-6613
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B EL XFMR ABB Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+[,/1(cid:9) No Yes (If yes. complete 15.(cid:9) Expected Submission Date)
+I(cid:9)
+16.(cid:9) Abstract (Limit to 1560 spaces. i.e.. approximately 15 single-spaced typewritten lines)
+On June 07, 2021, Unit 2 was operating at approximately 100% power. At 1527, a fault occurred in Unit 2 Main Transformer
+Number 1 (2MT1) which resulted in a generator lockout relay automatic trip of the Unit 2 Main Turbine and reactor. Arcing
+between the "B" phase high voltage bushing and adjacent components on the top of the main transformer ignited the remaining
+bushing dielectric material and bushing oil. Automatic fire suppression was initiated and the fire was extinguished in 19 minutes.
+Entry into the Emergency Plan was not required. Operators responded to the event in accordance with approved procedures
+and safely placed the plant in Mode 3.
+The cause of this event was failure of the 2MT1 "B" phase high voltage bushing. A failure analysis was performed, the failure
+cause remains indeterminate. Corrective actions include repair or replacement of the damaged 2MT1 transformer components,
+post-work electrical diagnostic testing, oil sample testing, and an extent of condition review.
+All times are in Central Daylight Time (CDT).
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020
+Estimated burden per response to comply with this mandatory collection request.: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed hack to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library. and Information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource©nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW.
+Washington. DC 20503: e-mail: oira_submission:c7omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor. and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.g ov/rea ding-rm/doc-collection sin u reg s/staff/sr1022/r3/)
+requesting o' requiring the colleczion displays a currently v-a•id OMB cor:•o' number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Comanche Peak Nuclear Power Plant 446
+21
+001 01
+NARRATIVE
+I. DESCRIPTION OF REPORTABLE EVENT
+On June 07. 2021, Unit 2 was operating at approximately 100% power. At 1527, a fault occurred in Unit 2 Main
+Transformer Number 1 (2MT1) which resulted in a generator lockout relay automatic trip of the Unit 2 Main Turbine and
+reactor. The Auxiliary Feedwater System automatically started as expected.
+A. REPORTABLE EVENT CLASSIFICATION
+The event is reportable under 10 CFR 50.73(a)(2)(iv)(A). "Any event or condition that resulted in manual or automatic
+actuation of any of the systems listed in paragraph (a)(2)(iv)(B) of this section." The Reactor Protection System (RPS)
+automatically actuated and the Auxiliary Feedwater System (AFW) started as designed due to low-low steam generator
+water level following the trip.
+B. PLANT CONDITION PRIOR TO EVENT
+On June 07. 2021. Unit 2 was operating in Mode 1 at approximately 100% power.
+C. STATUS OF STRUCTURES, SYSTEMS, OR COMPONENTS THAT WERE INOPERABLE AT THE START OF THE
+EVENT AND CONTRIBUTED TO THE EVENT
+There were no structures, systems, or components which were inoperable prior to the event which contributed to the
+event. Prior to the main turbine trip, the main turbine and generator were performing their design functions.
+D. NARRATIVE SUMMARY OF THE EVENT, INCLUDING DATES AND APPROXIMATE TIMES
+On June 07. 2021. Unit 2 was operating at approximately 100% power. At 1527, a fault occurred in 2MT1 [EIIS:(EL)
+(XFMR)] which resulted in a generator lockout relay automatic trip of the Unit 2 Main Turbine. Because reactor power at
+the time of the turbine trip was approximately 100% power, the Westinghouse permissive P-9 signal was unblocked
+(power> 50%) as designed and when the turbine tripped an automatic reactor trip was actuated.
+Witnesses reported arcing around the 2MT1 "B" phase high voltage bushing followed by a failure of the bushing which
+ejected debris from the bushing more than 50 feet. Arcing between the "B" phase high voltage bushing and adjacent
+components on the top of the main transformer ignited the remaining bushing dielectric material and bushing oil.
+Automatic fire suppression was initiated and the fire was extinguished in 19 minutes. Entry into the Emergency Plan was
+not required. Operators responded to the event in accordance with approved procedures and safely placed Unit 2 in
+Mode 3.
+E. THE METHOD OF DISCOVERY OF EACH COMPONENT OR SYSTEM FAILURE, OR PROCEDURAL PERSONNEL
+ERROR
+Operators (Utility. Licensed) in the Unit 2 Control Room received a "RX> 50% PWR TRB TRIP" alarm and confirmed
+automatic Unit 2 reactor and turbine trips.
+II. COMPONENT OR SYSTEM FAILURES
+A. CAUSE OF EACH COMPONENT OR SYSTEM FAILURE
+The cause of this event was failure of the 2MT1 -B" phase high voltage bushing. A failure analysis was performed, the
+failure cause remains indeterminate.
+(cid:9) (cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page 2(cid:9) of 4
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020
+Estimated burden per response to comply with this mandatory collection request.: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed hack to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library. and Information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource©nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW.
+Washington. DC 20503: e-mail: oira_submission:c7omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor. and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.g ov/rea ding-rm/doc-collection sin u reg s/staff/sr1022/r3/)
+requesting o• requiring the colleczion displays a currently v-a•id OMB cor:•o' number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Comanche Peak Nuclear Power Plant 446
+21
+001 01
+NARRATIVE
+B. FAILURE MODE. MECHANISM, AND EFFECTS OF EACH FAILED COMPONENT
+Arcing was observed around the 2MT1 "B" phase high voltage bushing followed by a failure of the bushing which ejected
+debris from the bushing more than 50 feet. Arcing between the "B" phase high voltage bushing and adjacent components
+on the top of the main transformer ignited the remaining bushing dielectric material and bushing oil. Automatic fire
+suppression was initiated and the fire was extinguished in 19 minutes.
+C. SYSTEMS OR SECONDARY FUNCTIONS THAT WERE AFFECTED BY FAILURE OF COMPONENTS WITH
+MULTIPLE FUNCTIONS
+This event did not involve systems or secondary functions which were affected by the 2MT1 -B" phase high voltage
+bushing failure.
+D. FAILED COMPONENT INFORMATION
+The 2MT1 "B" phase high voltage bushing is an ABB Type 0 Plus CTM Model T362W2000UZ used in a 345kV
+application. The bushing has an anticipated service life of approximately 25 years. At the time of the failure, the bushing
+had been in service approximately 12 years.
+Ill. ANALYSIS OF THE EVENT
+A. SAFETY SYSTEM RESPONSES THAT OCCURRED
+The Reactor Protection System responded as designed to the automatic turbine trip by initiating an automatic reactor trip.
+The Auxiliary Feedwater System started as designed due to low-low steam generator water level following the trip.
+B. DURATION OF SAFETY SYSTEM TRAIN INOPERABILITY
+This event did not involve the inoperability of any safety component or system.
+C. SAFETY CONSEQUENCES AND IMPLICATIONS OF THE EVENT
+A turbine trip is an ANS Condition II event (Faults of Moderate Frequency). When the main turbine tripped the reactor was
+automatically tripped and the Auxiliary Feedwater System automatically started to provide feedwater to the steam
+generators.
+Automatic turbine trip and automatic reactor trip were exercised and the Auxiliary Feedwater System started automatically
+as expected and all plant safety systems responded as designed during the resultant transient. This event had no impact
+on nuclear safety, reactor safety, radiological safety, environmental safety or the safety of the public. This event has been
+evaluated as not meeting the definition of a safety system functional failure per 10 CFR 50.73(a)(2)(v).
+IV. CAUSE OF THE EVENT
+The cause of this event was failure of the 2MT1 "B" phase high voltage bushing. A failure analysis was performed, the
+failure cause remains indeterminate.
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 3(cid:9) of(cid:9) 4
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020
+Estimated burden per response to comply with this mandatory collection request.: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed hack to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA. Library. and Information Collections Branch (T-6 A10M). U. S.
+Nuclear Regulatory Commission. Washington. DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource©nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs. (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW.
+Washington. DC 20503: e-mail: oira_submission:c7omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor. and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.g ov/rea ding-rm/doc-collection sin u reg s/staff/sr1022/r3/)
+requesting o• requiring the colleczion displays a currently v-a•id OMB cor:•o' number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Comanche Peak Nuclear Power Plant 446
+21
+001 01
+NARRATIVE
+V. CORRECTIVE ACTIONS
+An inspection of 2MT1 was performed, and damaged components were repaired or replaced. All three high side
+bushings, the high side neutral bushing and the surge arresters were replaced on 2MT1. An internal inspection, post-work
+electrical diagnostic testing, and oil sample testing were performed on 2MT1 to validate overall integrity of the windings,
+internal electrical connections, mechanical connections, insulation systems, and post-testing oil quality. Tests included
+insulation resistance, core ground, winding excitation, overall winding power factor and capacitance, bushing power factor
+and capacitance, transformer turns ratio, winding resistance, and sweep frequency response analysis. The test scope
+and all report results were validated to be acceptable by CPNPP. Vistra, and ABB engineering.
+Post-work thermography verified that there were no abnormal heating or hot spots on 2MT1. Adjacent Unit 2 Main
+Transformer Number 2 (2MT2) was inspected for damage from debris expelled by the 2MT1 bushing failure, and the
+results showed no adverse degradation had occurred and the continued operation of 2MT2 was acceptable. An extent of
+condition review was performed. Similar bushings, for which failure could cause a unit trip, are used for high voltage
+phases (A, B. C) on the Unit 1 Main Transformers, Unit 1 Auxiliary Transformer, the Unit 2 Auxiliary Transformer, the Unit
+1 Station Service Transformer, and the Unit 2 Station Service Transformer. The likelihood of recurrence is improbable
+since a similar event has not occurred at CPNPP for the life of the plant. A failure analysis of the failed bushing was
+performed.
+VI. PREVIOUS SIMILAR EVENTS
+There have been no previous similar reportable events at CPNPP in the past three years.
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 4(cid:9) of(cid:9) 4

@@ -1,0 +1,234 @@
+Paul M. Swift
+Site Vice President
+R.E. Ginna Nuclear Power Plant
+Exelon Generation,
+1503 Lake Rd.
+Ontario. NY 14519
+315-791-5200 Office
+www.exeloncorp.com
+November 18, 2021
+U. S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-0001
+RE. Ginna Nuclear Power Plant
+Renewed Facility Operating License No. DPR-18
+NRC Docket No. 50-244
+Subject:(cid:9) LER 2021-001, Service Water Pump "A" declared inoperable due to
+winding failure following replacement resulting in violation of Technical
+Specifications LCO 3.7.8.A (one Service Water pump inoperable greater
+than 14 days)
+The attached Licensee Event Report (LER) 2021-001 is submitted under the provisions
+of NUREG-1022, Event Reporting Guidelines. There are no new commitments
+contained in this submittal. This submittal is for revision 0 of the LER.
+Should you have any questions regarding this submittal, please contact Chris Bradshaw
+at (315) 791-3246.
+Sincerely,
+Paul Swift
+Attachment: LER 2021-001
+cc:(cid:9) NRC Regional Administrator, Region 1
+NRC Project Manager, Ginna
+NRC Resident Inspector, Ginna (e-mail)
+Attachment
+LER 2021-001, Revision 0
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104 (cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block)
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn:(cid:9) Desk ail:(cid:9) oirasubmission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+R.E. Ginna Nuclear Power Plant, Unit 1
+05000(cid:9) 244 1 OF(cid:9) 4
+4. Title
+Service Water Pump "A" declared inoperable due to winding failure following replacement resulting in violation of Technical
+Specifications LCO 3.7.8.A (one Service Water pump inoperable greater than 14 days)
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+06 02 2021 2021 -(cid:9) 001(cid:9) - 00 11 19 2021 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Chris Bradshaw, Regulatory Assurance Manager 3157913246
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B BI MO US Motors Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On 5/17/2021, the Service Water Pump "A" motor was removed from service for planned maintenance. Following
+maintenance, the pump was tested, declared operable, and secured. On 06/02/2021, the pump was placed into service. At
+1825, after 11 hours of operation, the Control Room received alarms due to failure of the motor. The circuit breaker had tripped
+on instantaneous overcurrent. A standby Service Water Pump was started at 1826 to restore full flow. Locally there was
+evidence of motor overheating. The primary plant remained stable throughout the event. The motor was replaced, and Service
+Water Pump "A" was restored to operable on 06/05/2021.
+It was later determined that the stator had experienced a turn-to-turn short that eventually shorted the coil to ground through
+the stator core and to an adjacent phase causing a phase to phase short circuit and subsequent breaker trip. The most likely
+cause of the turn-to turn short was a defect in the magnet wire insulation used in the coils during a motor rewind in 2006. The
+exact type of latent defect could not be determined; therefore, reasonable assurance of operability of Service Water Pump "A"
+could not be established. As a result, the Service Water Pump was inoperable for a duration longer than allowed by Technical
+Specifications Limiting Condition for Operation 3.7.8 Condition (A) - 14 days. This condition is reportable under 10 CFR 50.73(a)
+(2)(i)(B) for a condition prohibited by Technical Specifications.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 244
+2021 - -
+001 00
+NARRATIVE
+I. PRE-EVENT PLANT CONDITIONS
+At the time the condition was identified, the plant was in MODE 1 at approximately 100% rated thermal power.
+II. DESCRIPTION OF EVENT
+A. EVENT
+On 5/17/2021, the Service Water Pump "A" motor was removed from service for planned maintenance. Following
+maintenance, the pump passed its surveillance test, was declared operable, and was secured. On 06/02/2021, the pump
+was placed into service. At 1825, after 11 hours of operation, the Control Room received alarms due to failure of the
+Service Water Pump "A" motor. Operators responded to the alarms and, based on Control Room indication of a tripped
+pump and lowered pressure in the Service Water loop, started a standby Service Water Pump at 1826, restoring the loop
+to normal conditions. It was subsequently determined that the feeder breaker had tripped on instantaneous overcurrent.
+Locally, Operators found no active fire but evidence of motor overheating. The primary plant remained stable throughout
+the event. The motor was replaced, and Service Water Pump "A" was restored to operable on 06/05/2021.
+Based on further investigation, it was later determined that the stator had experienced a turn-to-turn short that eventually
+shorted the coil to ground through the stator core and to an adjacent phase causing a phase to phase short circuit and
+subsequent breaker trip. The most likely cause of the turn-to-turn short was a defect in the magnet wire insulation used in
+the coils during a motor rewind in 2006; however, due to the destruction in the fault area, the exact type of latent defect
+could not be determined. Numerous possible contributing causes were evaluated. The original manufacturing defect
+likely occurred during rewind and could later have been exacerbated during refurbishment, storage, or testing, as
+evidenced by satisfactory service following rewind but a short service life following refurbishment.
+Reasonable assurance of operability of Service Water Pump "A" could not be established for the period from 05/17/2021
+to 06/02/2021. As a result, the Service Water Pump was inoperable for a period of 19 days, a duration longer than
+allowed by Technical Specifications Limiting Condition for Operation 3.7.8 Condition (A) - 14 days plus the allowed
+Technical Specification Completion Time of 0.25 days, or 14.25 days in total. This duration meets the definition of "Any
+operation or condition which was prohibited by the plant's Technical Specifications" and is reportable under 10 CFR
+50.73(a)(2)(i)(B).
+Actions to prevent recurrence include improving motor repair specifications, evaluating refurbishment frequency,
+managing cold/hot starts, and use of motor heaters during storage.
+B. INOPERABLE STRUCTURES, COMPONENTS, OR SYSTEMS THAT CONTRIBUTED TO THE EVENT:
+None
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 244
+2021 - -
+001 00
+NARRATIVE
+C. DATES AND APPROXIMATE TIMES OF MAJOR OCCURENCES:
+For the motor that failed:
+02/2006 – last rewind
+12/2019 – refurbishment by vendor, then in storage in Ginna Warehouse until installation.
+Two (2) weeks prior to installation – surge testing of the motor stator in Ginna Warehouse.
+05/17/2021 – Service Water Pump "A" removed from service due to planned maintenance.
+05/19/2021 – Service Water Pump "A" returned to service, then secured.
+06/02/2021 – Service Water Pump "A" failed during steady state operation after running approximately 11 hours.
+D. OTHER SYSTEMS OR SECONDARY FUNCTIONS AFFECTED:
+None
+E. METHOD OF DISCOVERY:
+Self-revealing: at 1825 on 06/02/2021, Main Control Board alarm L 8 (480V Ground) was received. While dispatching
+Equipment Operators to investigate the L 8 alarm, Main Control Board alarms J 9 (Safeguard Breaker Trip) and H 31
+(Vacuum Priming System) were received. These Main Control Board alarms were coincident with a Z26 Fire Alarm
+(Screenhouse Bus 17, Bus 18, Service Water Pump Area) and the Service Water Pump "A" circuit breaker tripping. The
+Fire Brigade dispatched to investigate the Z26 fire alarm found no active fire around the Service Water Pump "A" but
+evidence of motor overheating.
+F. SAFETY SYSTEM RESPONSES:
+No safety systems actuated, which was expected response.
+III. CAUSE OF EVENT:
+The most likely cause of the stator turn-to turn short (that eventually shorted the coil to ground through the stator core and
+then to an adjacent phase to cause a phase to phase short circuit) was a defect in the magnet wire insulation used in the
+coils during the motor rewind in 2006. There were possible contributing causes associated with the motor refurbishment
+and replacement processes, as noted in Section II.A above.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC(cid:9) 20503; e-mail:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+R.E. Ginna Nuclear Power Plant, Unit 1 244
+2021 - -
+001 00
+NARRATIVE
+IV. ASSESSMENT OF THE SAFETY CONSEQUENCES OF THE EVENT:
+At 1825, the motor failure caused a loss of one of the two running Service Water Pumps. Flow was restored by manually
+starting the Service Water Pump "B" at 1826 per the appropriate response procedure which restored SW header pressure
+to pre event pressure (70 psig). Service Water loops are normally cross-tied, and the one (1) running Service Water
+Pump maintained flow through both loops.
+Based on the above considerations and the rapid response by Operations to start and restore normal service water flow to
+both loops, this event is not considered to have had any significant effect on the health and safety of the public.
+V. CORRECTIVE ACTIONS
+The failed motor was removed and replaced to restore operability of Service Water Pump "A" on 06/05/2021.
+Procurement and repair strategies will be evaluated for both site processes and vendor oversight of refurbishment. For
+the windings, enamel thickness and resin application methods will be optimized to increase motor lifespans. The current
+rewind schedule will also be evaluated, and changes made as required. Cold/Hot start strategies will be added to
+maintenance and operations procedures, and training enhancements will be made based on learnings from the event.
+Lastly, motor heater energization will be added to the storage strategy for Service Water Pump motors and other similarly
+stored motors.
+VI. ADDITIONAL INFORMATION:
+None
+A. FAILED COMPONENTS:
+Motor for Service Water Pump “A”
+B. PREVIOUS LERs ON SIMILAR EVENTS:
+A search of all Ginna LERs submitted to the NRC determined there have been no prior LERs reporting similar motor
+failure.
+C. THE ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) COMPONENT FUNCTION IDENTIFIER AND SYSTEM
+NAME OF EACH COMPONENT OR SYSTEM REFERRED TO IN THIS LER:
+COMPONENT – Motor
+IEEE 803 FUNCTION NUMBER - MO
+IEEE 805 SYSTEM IDENTIFICATION - BI
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 4

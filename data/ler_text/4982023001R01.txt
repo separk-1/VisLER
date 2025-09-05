@@ -1,0 +1,314 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oirasubmission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+00498 1 OF(cid:9) 6
+South Texas Unit 1 052
+4. Title
+Unit 1 Pressurizer Power Operated Relief Valve Failed To Open
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+N/A
+03 18 2023 2023 -(cid:9) 001(cid:9) - 01 07 26 2023 Facility Name Docket Number
+(cid:9) 052
+N/A
+9. Operating Mode 10. Power Level
+4 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Zachary E. Dibbern, Licensing Engineer (361) 972-4336
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+D AB PSV Crosby Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On March 18, 2023, at 0933, during the shutdown of Unit 1 reactor for 1RE24, while in Mode 4 and performing
+surveillance procedure steps for Pressurizer Power Operated Relief Valve (PORV) PCV-0656A, the valve failed to
+open. The surveillance was successfully reperformed later that shift and the valve was declared operable. The
+capability of the PORV to meet its design function for manual control of RCS pressure if it had been called upon to
+perform its safety functions from 11/3/2021 to 3/18/2023, was not assured. Therefore, PORV 0656A was
+considered to have been inoperable during this time. On 1/4/2023, from 0757 until 1431, the PORVs could not
+have fulfilled their safety function for manual control of RCS pressure under postulated design basis conditions,
+because the second PORV 0655A was unavailable due to scheduled maintenance. The event was determined to
+be reportable per 10 CFR 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specifications and per 10 CFR
+50.73(a)(2)(v)(D) as a condition that could have prevented fulfillment of a safety function. The cause of the event
+was determined to be inadequate guidance in the PORV maintenance procedure and inadequate implementation
+of a design change package. Corrective actions include revising and updating procedures and documentation.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas Unit 1 00498
+052 2023 - 001 - 01
+NARRATIVE
+I. Description of Event
+A. Reportable Event Classification
+This event is reportable per 50.73(a)(2)(i)(B) as a condition prohibited by Technical Specification and per 50.73(a)(2)(v)(D)
+as a condition that could have prevented fulfillment of a safety function.
+Reporting Criterion 50.73(a)(2)(i)(B) is “Any operation or condition which was prohibited by the plants Technical
+Specifications except when: (1) The Technical Specification is administrative in nature; (2) The event consisted solely of a
+case of a late surveillance test where the oversight was corrected, the test was performed, and the equipment was found to
+be capable of performing its specified safety functions; or (3) The Technical Specification was revised prior to discovery of
+the event such that the operation or condition was no longer prohibited at the time of discovery of the event.”
+The Technical Specification action statement for an inoperable PORV due to excessive seat leakage allows continued
+operation with the associated block closed because manual operation of the PORV is still available. In contrast, the action
+statement for a PORV inoperable for reasons other than excessive seat leakage states: “restore the PORV to OPERABLE
+status or close the associated block valve and remove power from the block valve; within the following 72 hours restore the
+PORV to OPERABLE status” ... “or be in HOT STANDBY within the next 6 hours and in HOT SHUTDOWN within the
+following 6 hours.” In this event, the plant operated throughout the entire duration of Cycle 24 with PCV-0656A most likely
+not capable of meeting design requirements. This period exceeds the 72-hour allowed outage time of Technical
+Specification 3.4.4 Limiting Condition for Operations Action (b) for a PORV inoperable due to causes other than excessive
+seat leakage. Therefore, this event is considered reportable per 50.73(a)(2)(i)(B) as a condition prohibited by Technical
+Specifications.
+Reporting Criterion 50.73(a)(2)(v) is “Any event or condition that could have prevented the fulfillment of the safety function
+of structures or systems that are needed to: (A) Shut down the reactor and maintain it in a safe shutdown condition; (B)
+Remove residual heat; (C) Control the release of radioactive material; or (D) Mitigate the consequences of an accident.”
+Only one pressurizer PORV is required for RCS pressure control to reach safe shutdown or to mitigate the consequences
+of a steam generator tube rupture. Pressurizer PORV PCV-0655A never experienced excessive seat leakage during Cycle
+24. Plant computer data and Unit 1 control room logs were reviewed for the duration of Cycle 24 to identify any periods
+when PCV-0655A was declared inoperable. From January 4, 2023, at 0750 until January 5, 2023, at 0415, the 125 Volt DC
+Bus which is the power supply for PCV-0655A was inoperable for surveillance testing. On January 4, 2023, a performance
+discharge test was performed on the 125 Volt DC Bus in accordance surveillance procedures. During the surveillance, the
+125 Volt DC Bus breaker was opened, leaving the 125 Volt DC Bus powered by the battery chargers. Computer history
+shows the breaker was opened at 0757 and was closed at 1431 on January 4, 2023. During those six and a half hours,
+PORV PCV-0655A would not have power to actuate the Solenoid Operated Valve (SOV) to open the PORV if there was a
+loss of offsite power and either Standby Diesel Generator #11 or the 125 Volt DC Bus was not promptly restored. Because
+the safety related design function of the PORVs is manual RCS pressure control with a loss of offsite power, from 0757
+until 1431 on January 4, 2023, the PORVs could not have fulfilled their safety function for manual control of RCS pressure.
+B. Plant Operating Conditions Prior To Event
+Prior to the event on March 18, 2023, Unit 1 was In Mode 4 at 0% power.
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas Unit 1 00498
+052 2023 - 001 - 01
+NARRATIVE
+C. Status Of Structures, Systems, and Components That Were Inoperable At the Start of the Event and That Contributed
+To the Event
+At the start of the event, PORV PCV-0656A was inoperable due to observed excessive seat leakage.
+D. Narrative Summary of the Event
+Timeline (Note: All times Are Central Standard Time)
+11/03/21 (1305) - Closed PZR PORV PCV-0656A Block Valve to determine if Pressurizer Safety Relief Valve HI
+temperature alarm was due to PZR PORV PCV-0656A seat leakage. Entered TS 3.4.9.3.
+11/03/21 (1519) - Unit 1 entered Mode 3. TS 3.0.4.a was invoked for entering Mode 3 with PCV-0656A inoperable due to
+excessive seat leakage. Exited TS 3.4.9.3 and entered TS 3.4.4 Action (a) for PCV-0656A inoperable because of
+excessive seat leakage. The associated block valve remains closed with power on.
+01/04/23 (0750) - Battery Bank E1A11 (power supply for PCV-0655A) declared inoperable and non-functional for planned
+maintenance.
+01/04/23 (0950) - The Technical Specification 3.8.2.1.a Limiting Condition of Operation Action (a) and Technical
+Specification 3.8.3.1.h Action (e) for planned maintenance on Battery Bank E1A11 exceeded front stop completion time
+requiring entry into risk managed Technical Specifications.
+01/04/23 (2345) - Declared ESF Battery E1A11 functional after being placed on 'float charge' with battery recharged.
+03/17/23 (2251) - Unit 1 entered Mode 3 for 1RE24.
+03/18/23 (0915) - Unit 1 entered Mode 4 for 1RE24. Entered Technical Specification 3.4.9.3 Action (c) for PCV-0656A
+inoperable. Technical Specification 3.4.4 for PCV-0656A is no longer applicable.
+03/18/23 (0928) - Opened block valve for PCV-0656A. When opening block valve, PCV-0656A momentarily indicated an
+intermediate position.
+03/18/23 (0933) - PCV-0656A failed to open during surveillance testing. Control board indication for Pressurizer PORV
+open command signal received at 0933:13.
+03/18/23 (0937) - Control board indication for Pressurizer PORV open command signal cleared at 0937:10. Block Valve
+for PCV-0656A closed at 0937:22.
+03/18/23 (0951) - PCV-0656A failed to stroke open during surveillance testing. The time of inoperability is tied to Mode 4
+entry at 0915 on 03/18/2023. Remained in Technical Specification 3.4.9.3 Action (c).
+03/18/23 (1218) - Opened block valve for PORV PCV-0656A to warm up lines for shutdown activities.
+03/18/23 (1302) - Unit 1 entered Mode 5; entered Technical Specification 3.4.9.3 Action (d) for PCV-0656A inoperable
+and exited Technical Specification 3.4.9.3 Action (c).
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas Unit 1 00498
+052 2023 - 001 - 01
+NARRATIVE
+03/18/23 (1400) - Recommenced surveillance test of PCV-0656A.
+03/18/23 (1420) - PCV-0656A opened and closed successfully. Reactor Coolant System pressure changed from 365 psig
+to 359 psig.
+03/18/23 (1432) - PCV-0656A opened and closed successfully from the Aux Shutdown Panel during surveillance testing.
+03/18/23 (1500) - Completed PORV operability test satisfactorily.
+03/30/23 (1336) - Maintenance craft discovered an opening orifice installed in the solenoid operated valve for PCV-0656A
+while performing a work order. This is the same solenoid operated valve assembly that was installed during 1RE23.
+Therefore, the opening orifice was in place during the entire operating cycle 24 and when PCV-0656A was tested on
+03/18/23.
+E. Method of Discovery
+The failure of the Unit 1 Pressurizer Power Operated Relief Valve to open was self-revealing as it was discovered during
+surveillance testing.
+II. Component Failures
+A. Failure Mode, Mechanism, and Effects of Failed Component
+The failed component in this event was the Unit 1 Pressurizer PORV (B1RCPCV0656A). The pressurizer PORV failed to
+open when operated from the control room hand switch. The mechanism by which the PORV failed to open was
+determined to be a combination of conditions including an installed orifice, clearance tolerance, and two-phase flow
+conditions. The effect of the failed component is that the pressurizer PORV was declared inoperable as it would have
+been unable to perform its safety function for manual control of RCS pressure from 11/03/2021 to 03/18/2023. This
+resulted in two trains of a component or system to be inoperable between the times 0757 and 1431 on January 4, 2023,
+which caused a loss of safety function to mitigate the consequences of an accident.
+B. Cause of Component or System Failure
+The cause of this event was determined to be the result of three conditions occurring simultaneously, which caused the
+pressurizer PORV to fail to open. The first condition was an opening orifice was installed in the solenoid operated valve;
+this slowed the opening of the pressurizer PORV by limiting the flow rate through the solenoid. The second condition was
+the clearance tolerance between the valve plug and valve cage were low out of specification. That reduced the upward
+force on the valve plug and there was flow past the plug ring between the valve plug and valve cage that exceeded the
+flow rate through the opening orifice. The third condition was that the pressurizer PORV’s respective block valve was
+closed in accordance with technical specification Action A, which would most likely result in a two-phase flow condition
+that would result in water flashing to steam due to a pressure drop from tight clearances that would cause a choked flow
+condition at the opening orifice.
+C. Systems or Secondary Functions That Were Affected by the Failure of Components with Multiple Functions
+No additional systems or secondary functions were affected by this failure.
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas Unit 1 00498
+052 2023 - 001 - 01
+NARRATIVE
+D. Failed Component Information
+System: Reactor Coolant System {AB}
+Component: Valve, Solenoid Pressure {PSV}
+Manufacturer: Crosby Valve Div/Geosource Inc {C710}
+Model: DS-C-67970-13
+III. Analysis of Event
+A. Safety System Responses that Occurred
+No safety system responses occurred because of this event.
+B. Duration of Safety System Inoperability
+The capability of the PORV to meet its design function for manual control of RCS Pressure if it had been called upon
+to perform its safety functions during the time window from November 3, 2021, to March 18, 2023, is not assured.
+C. Safety Consequences and Implications
+The increase in risk due to the inoperability of PCV-0656A during the time period from November 3, 2021, to March 18,
+2023, represents a very small change in risk. A maximum exposure time is limited to one year resulting in a delta-CDF
+or ICDP of 1.69E-07 and delta-LERF or ILERP of 1.06E-09. These results represent very small changes in risk per
+Regulatory Guide 1.174. For general transients, site-specific analysis demonstrates that bleed and feed success
+criteria requires 1 pressurizer PORV, a centrifugal charging pump (CCP) and 1 train of high head safety injection
+(HHSI) to mitigate the primary temperature and pressure increase for the bounding general transient case scenario of
+a Total Loss of Main Feedwater Flow event.
+This event did not result in any offsite release of radioactivity or increase of offsite dose rates and there were no
+personnel injuries or damage to other safety-related equipment. Therefore, there was no adverse effect on the health
+and safety of the public.
+IV. Cause of Event
+The causal evaluation for this event determined that there were two root causes.
+The first root cause determined that the procedure for pressurizer PORV maintenance lacked the specific guidance to:
+(1) verify that the opening orifice was not installed and (2) measure and validate the clearance between the valve plug
+and valve cage to ensure the pressurizer PORV was assembled to the vendor manual specifications.
+The second root cause determined there was inadequate implementation of the previous design change package
+(97-2766-6) that allowed the purchase of a replacement SOV with an opening orifice for the pressurizer PORVs that
+resulted in a loss of configuration management for an ASME Class 1 component when it was installed.
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 5(cid:9) of(cid:9) 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+South Texas Unit 1 00498
+052 2023 - 001 - 01
+NARRATIVE
+V. Corrective Actions
+The corrective action to prevent reoccurrence is to revise the procedure for pressurizer PORV maintenance so that the
+opening orifice is verified to have been removed, to specify an additional procedure to be included if the pressure
+boundary has been breached for maintenance, and to add steps to take and document as left measurements for valve
+parts and to verify tolerances with the vendor manual.
+The additional corrective actions include:
+1. STP Engineering to review the associated pressurizer PORV drawings and update accordingly.
+2. Updating the Master Parts List databases and the Procurement Inventory Control System databases to be in
+alignment with the design change package (CR 97-2766-6).
+3. Develop lessons learned for Engineering of design products and their effects of configuration control.
+4. Develop lessons learned for Maintenance and Work Planners to ensure procedure adequacy in relation to vendor
+manuals.
+5. Revise the STP procedure “Outage Preparation and Implementation Guideline” to evaluate the risk of operating a
+complete fuel cycle with a safety related component inoperable, despite allowance by a Technical Specification.
+6. Perform a needs analysis on outage training for operations on Technical Specifications 4.0.5 and 4.4.10 and their
+application with Technical Specification 3.4.4 Action A during startup.
+VI. Previous Similar Events
+A previous similar event, PCV-0656A failed to open during surveillance testing, this was identified entering outage
+1RE23 on October 9, 2021, at 0833. The failure was determined to be a result of mechanical rubbing between the
+valve plug and cage assembly with the cage assembly measurements being out of tolerance. Corrective actions
+from the previous event included replacing the solenoid, plug, cage, and seat. (CR 21-10369)
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 6(cid:9) of(cid:9) 6

@@ -1,0 +1,156 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3160-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)(cid:9) : Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+.I(cid:9) (See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory (cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the 0MB reviewer at:(cid:9) 0MB Office of Information and Regulatory
+http://www,plc,.g.o.y/leading:rm/doc-collectio.n.slpuregsis.taffle[1022/13/). Affairs, (3150-0104), Attn:(cid:9) Desk ail: .o(ra_suprailonacrnp,eopmy.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. Facility Name 2. Docket Number 3. Page
+05000(cid:9) -338 1(cid:9) OF(cid:9) 3
+North Anna Power Station, Unit 1
+4. Title
+Automatic Reactor Trip During Control Rod Operability Testing
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+04 14 2022 - 2022 -(cid:9) 001(cid:9) - 01 09 06 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20.. 20.2203(a)(2)(vi) 50.36(c)(2) 1 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) F.-- 20.2203(a)(3)(i) 50.46(a)(3)(ii) [(cid:9) 1(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73
+n(cid:9)
+r (cid:9)
+20.2201(d) 1(cid:9) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) I(cid:9) 1(cid:9) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) Li(cid:9) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) Li(cid:9) 73.71(a)(5)
+71
+20.2203(a)(2)(1) . .(cid:9) 10 CFR Part 21(cid:9) , (cid:9) 50.73(a)(2)(i)(B) fl(cid:9) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) , (cid:9) 73.77(a)(2)(i)
+,
+20.2203(a)(2)(iii) 10 CFR Part 50 ri(cid:9) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+71
+(cid:9) 202.2(0a3(cid:9) )()2( vi ) 1(cid:9) j(cid:9) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+1(cid:9) 20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+-
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact 1 Phone Number (Include area code)
+Lisa Hilbert, Site Vice President (540) 894-2101
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X AA CBD W120 N
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+0/1(cid:9) No ri(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On April 14, 2022, at 0928 hours with Unit 1 in Model, 100 percent power, an automatic reactor trip occurred during the
+performance of the control rod operability periodic test. The reactor trip occurred during the manipulation of the rod control
+selector switch as part of the rod operability testing. A 4-hour and 8-hour non-emergency report was made per 10 CFR 50.72(B)
+(2)(iv)(B) for RPS actuation (trip) and 10 CFR 50.72(b)(3)(iv)(A) for a valid actuation of an ESF system, respectively.
+The cause of the event was inadequate current to the Shutdown Bank "B" Group 2 rods via a failed I/O AC Amplifier card.
+Unit 2 continued to operate at 99 percent power, Mode 1, during the event. The health and safety of the public were not affected
+by this event.
+This event is reportable in accordance with 10 CFR 50.73(a)(2)(iv)(A) for RPS actuation (trip) and a valid actuation of the
+auxiliary feedwater system.
+•
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001. or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+• Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission. 725 17th Street NW.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington. DC 20503; e-mail: oin.slitiniss.lon@orno,eop,gov. The NRC may not conduct or
+sponsor, arid a person is not required to respond to, a collection of information unless the document
+http://www.nrc.c.iovireading-rm/doc-collections/nureasistaff/sr1022/1-30
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER (cid:9) 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000-(cid:9) NUMBER NO.
+North Anna Power Station, Unit 1 338
+2022
+001
+NARRATIVE
+Plant Operating Conditions Prior to the Event
+Unit 1 — Mode 1, 100 percent Rated Thermal Power
+Unit 2 — Mode 1, 99 percent Rated Thermal Power
+1.0 Description of Event
+On April 14, 2022, at 0928 hours with Unit 1 in Mode 1, 100 percent power, an automatic reactor trip occurred during the
+performance of the control rod operability periodic test due to Power Range High Negative Flux Rate. The reactor trip
+occurred during the manipulation of the rod control selector switch (EIIS Component HS, System AA) as part of the rod
+operability testing. Shutdown Bank "B" Group 2 rods (EllS Component ROD, System AA) fell into the core during the
+performance of the control rod operability periodic test which caused the Power Range High Negative Flux Rate.
+A 4-hour and 8-hour non-emergency report was made per 10 CFR 50.72(b)(2)(iv)(B) for RPS actuation (trip) and 10 CFR
+50.72(b)(3)(iv)(A) for a valid actuation of an ESF system, respectively.
+Following the Unit 1 trip, the turbine drain valves 1-SD-MOV-102A/B/C/D (EIIS Component 20, System TF) opened then
+repeatedly cycled closed. The MOV's were deenergized in the Open position by opening the associated breakers and a
+Condition Report was submitted. Additionally, one of the two Intermediate Range Nuclear Instruments (NI), N-36 (EIIS
+Component DET, System IG), was found to be undercompensated during the reactor trip.
+2.0 Significant Safety Consequences and Implications
+No significant safety consequences resulted from this event. During this time frame, North Anna Unit 2 operated at 99
+percent power. The health and safety of the public were not affected by this event.
+3.0 Cause of the Event
+The Shutdown Bank "B" (SBB) Group 2 rods dropping into the core caused a Power Range High Negative Flux Rate.
+Testing by the Original Equipment Manufacturer (OEM), Westinghouse, has verified that the cause of the dropped rods
+was inadequate current to the Shutdown Bank "B" Group 2 rods via a failed I/O AC Amplifier card in the Logic Cabinet.
+The failure on the I/O A813 Amplifier card caused stationary and movable zero current orders to the SBB Group 2 coils at
+the same time. The resulting failure provided reduced holding current to both coils to prevent dropping the rods. An
+additional failure on the card caused a Multiplexing Alarm, which resulted in the reduced holding current dividing between
+two groups of rods; the selected (SBB Group 2) and previously selected banks (CBB Group 2). This resulted in minimal
+current being applied to the movable coils and thus dropped the SBB Group 2 rods. Additional testing will be performed by
+the OEM to identify the subcomponent(s) that caused the failure of the I/O A813 Amplifier card.
+4.0 Immediate Corrective Action
+The immediate corrective action was to replace the failed I/O Amplifier card as well as several other cards initially
+identified during troubleshooting.
+NRC FORM 200A W8-2020) Page(cid:9) 2(cid:9) OT (cid:9) 3
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)(cid:9)
+Estimated burden per response to comply With this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to !ndustry. Send comments if
+LICENSEE EVENT REPORT (LER)(cid:9) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington. DC 20555-0001• or by e-mail to'.
+CONTINUATION SHEET(cid:9) .
+Infocollects.Resource@nrc.gov. and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104). Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW.
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira..subrnisson(wgrnkeop.gay. The NRC may not conduct or
+sponsor. and a person is riot required to respond to, a collection of information unless the document
+htto://www.nrc.goviroading-rmidoc-collectionsinureas/staff/srl022/r3/1
+requesting or requiring the collection displays a currently valid OMB control number.
+. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+SEQUENTIAL(cid:9) REV
+05000- NUMBER(cid:9) NO.
+North Anna Power Station, Unit 1 338
+001(cid:9) 01
+NARRATIVE
+5.0 Additional Corrective Actions
+Perform an evaluation to decrease the frequency of the Rod Operability Periodic testing from a Fleet perspective to have
+less wear on the Rod Control System and an increase in system reliability.
+A work order was issued to address the relay that was found to be mechanically bound resulting in the 1-SD-MOV-102A/
+B/C/D valves cycling. Work and associated testing were completed satisfactorily.
+Compensating voltages were adjusted for the N-36 Intermediate Range Nuclear Instrumentation satisfactorily.
+6.0 Actions to Prevent Recurrence
+After the vendor provides data regarding the failed subcomponent on the I/O AC Amplifier Card (A813), follow on actions
+will be created to address vulnerabilities identified in Rod Control System. This will include Work Orders and new
+Preventative Maintenance activities as appropriate for time-based replacements.
+11
+1 7.0 Similar Events
+A review of internal operating experience was performed, and one similar event was identified:
+1 On August 27, 1996, North Anna Unit 1 experienced an automatic reactor trip from 100 percent power with the initiating
+signal being "Hi Flux Rate — Reactor Trip" during Rod Operability testing when the Operator at the Controls started to
+1
+liE insert Control Bank "B." Multiple rods in Control Bank "B" Group 2 fell into the core. The cause was a faulty input/output
+11 isolation amplifier card in the Control Rod Drive System which failed to supply a full current — stationary current order to
+4 Control Bank "B" Group 2.
+1
+8.0 Additional Information
+Unit 2 continued to operate at 99 percent power, Mode 1 during this event.
+There were no releases of radioactive materials, radiation exposures or personnel injuries associated with this event.
+NRC FORM 3'35A i08-2320) Page(cid:9) 3(cid:9) of(cid:9) 3

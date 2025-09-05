@@ -1,0 +1,396 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+South Texas Project, Unit 2 05000499 1 OF 8
+4. Title
+Condition Prohibited by Technical Specifications due to Inoperable Train of Essential Core Cooling System and Containment
+Spray System
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Rev Month Day Year Facility Name Docket Number
+Number No.
+10 15 2021 2021 - 002 - 01 07 05 2022 Facility Name Docket Number
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(13) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(13) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(13) 50.73(a)(2)(viii)(13)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+Zachary Dibbern, Licensing Engineer 361-972-4336
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+E VG HS GE Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On October 15, 2021, at 0133 hours, the South Texas Project Nuclear Operating Company (STPNOC) started High
+Head Safety Injection (HHSI) Pump 2B for SI Accumulator 2B fill. Neither the HHSI pump room fans nor the
+containment sump isolation valve cubicle fans auto started as expected. The B-Train Emergency Core Cooling System
+(ECCS) and Containment Spray were declared inoperable. On October 15, 2021, at 1319 hours, troubleshooting
+commenced and determined the cause for the failure was the B-Train hand switch (B2HFHS9527) was sticking and
+needed to be replaced. On October 15, 2021, at 2318 hours, Operations declared B-Train ECCS and Containment Spray
+operable following completion of corrective maintenance.
+On October 27, 2021, at 2058 hours the event was determined to be reportable by Operations as a condition prohibited
+by Technical Specifications because the required action statements for Technical Specifications 3.5.2 and 3.6.2.1 were
+not met.
+A planned corrective action resulting from this event is to improve the process of requiring retention of defective
+components. Completed corrective actions resulting from this event include the replacement of the B train hand switch,
+evaluation of operating experience against the risk of de-terming and re-terming the hand switch given its proximity to
+other switches, and inspection of four other hand switches to determine effectiveness of current PMs.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+South Texas Project, Unit 2 05000499 NUMBER NO.
+2021 - 002 - 01
+NARRATIVE
+I. Description of Reportable Event
+A. Reportable event classification
+This event is reportable pursuant to 10 CFR 50.73(a)(2)(i)(B) because the South Texas Project (STP)
+Technical Specification 3.5.2 required action statements for an inoperable Essential Core Cooling
+System (ECCS) and Technical Specification 3.6.2.1 required action statements for an inoperable
+Containment Spray System were not met.
+B. Plant operating conditions prior to event
+Prior to the event, STP Unit 2 was at 100% power in Mode 1.
+C. Status of structures, systems, and components that were inoperable at the start of the event and that
+contributed to the event
+No other structures, systems, or components were inoperable at the start of this event that contributed to
+this event.
+D. Background Information
+Unit 2 Control Room hand switch (B2HFHS9527), hereafter referred to as the B-Train hand switch, can
+be operated to turn on the fans that provide cooling for the B-Train Safety Injection (SI) Pump and
+Containment Spray (CS) Pump cubicles. The B-Train hand switch failed which prevented the cooling
+fans in air handling units VAH-005 and VAH-013 from starting automatically as designed when High
+Head Safety Injection (HHSI) Pump 2B was started for testing.
+The B-Train hand switch is a General Electric SBM rotary control hand switch, which are used widely
+throughout industry and at South Texas Project Electric Generating Station (STPEGS). This B-Train
+hand switch is designed with a manual start position which can start the SI pump valve room VAH-005
+fan from the control room, a STOP position to secure the fan, a pull-to-lock position to completely
+deenergize power to the fans for personal safety and for maintenance, and an AUTO position that allows
+the cooling fans to start automatically when HHSI Pump 2B is started. Once the fan motors are started,
+they continue to run until an operator manually stops the fans with the B-Train hand switch. The status of
+the fans (on/off) can be confirmed in the Control Room by computer point readout.
+The function of the VAH-005 and VAH-013 supplemental cooler units is to provide cooling in Fuel
+Handling Building (FHB) Room 005 and FHB Room 008 which contain the B-Train SI pumps and the
+Containment Spray Pump. Elevated temperatures in these rooms are detected by thermostats and the
+VAH-005 and VAH-013 fans are designed to start automatically on high temperature. The fan startup
+circuits are also interlocked with the startup and running of any one of the pumps in the room.
+The FHB Heating, Ventilation, and Air Conditioning (HVAC) System maintains the normal
+environmental conditions required to ensure the operability of the system components that are located
+inside the Fuel Handling Building. During normal operation, the supply air subsystem provides the
+building with a filtered source of outside air at the proper temperature. Cooling coils supplied by the
+NRC FORM 366B (08-2020)(cid:9) Page 2 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+South Texas Project, Unit 2 05000499 NUMBER NO.
+2021 - 002 - 01
+non-safety Mechanical Auxiliary Building chilled water subsystem provide adequate cooling capacity to
+maintain the building within design ambient temperatures. Similarly, electric heating coils provide
+adequate heating capacity to temper outside supply air during winter conditions. Upon an engineered
+safety features (ESF) actuation for safety injection, high radiation, or loss of offsite power, the supply air
+subsystem is shut down. Emergency air relief dampers are opened to continue to permit outside air into
+the building. During the ESF mode of operation, the safety-related exhaust air subsystem continues to
+draw outside air into the building through the relief dampers. The exhaust air subsystem pulls air through
+return air registers in the cubicles and exhaust ventilation ducts to exit through the plant main vent stack.
+FHB HVAC is a required support system for the Emergency Core Cooling System (ECCS) and the
+containment spray system.
+E.(cid:9) Narrative summary of the event
+Note: all times are approximate and are listed in Central Daylight Time
+October 5, 2021, 03:44 hours: Operations started HHSI Pump 2B for Accumulator fill. ESF Pump Room
+and Valve Room Ventilation fans (VAH-005 and VAH-013) started as expected.
+October 5, 2021, 03:46 hours: Operations secured HHSI Pump 2B following accumulator fill.
+October 5, 2021, 03:48 hours: B-Train SI/CS Pump Room Air Handling Unit 21B fan VAH-005 was
+stopped by Operations in the Control Room.
+October 5, 2021, 03:49 hours: B-Train SI/CS Valve Room Air Handling Unit 21B fan VAH-013 was
+stopped by Operations in the Control Room.
+October 15, 2021, 01:33 hours: Operations started HHSI Pump 2B for Accumulator 2B fill. When HHSI
+pump 2B was started, the B-Train SI/CS Pump Room Air Handling Unit (AHU) 21B and Valve Room
+AHU 21B failed to start (VAH-005 and VAH-013 fans). B-Train ECCS and Containment Spray declared
+inoperable due to failure of room AHU to start on pump start.
+October 15, 2021, 01:34 hours: Operations secured HHSI Pump 2B following accumulator fill and
+placed it in automatic.
+October 15, 2021, 13:19 hours: Troubleshooting commenced to determine the cause for the supplemental
+cooler fans failing to start as expected. Results of troubleshooting concluded that the B-Train hand
+switch (B2HFHS9527) was sticking and needed to be replaced.
+October 15, 2021, 20:04 hours: Operations started HHSI Pump 2B for post maintenance testing after
+replacement of the B-Train hand switch. Fans for both VAH-005 and VAH-013 started with the HHSI
+Pump 2B start.
+October 15, 2021, 20:05 hours: Secured HHSI Pump 2B following satisfactory post-maintenance test.
+October 15, 2021, 23:18 hours: Operations declared B-Train ECCS and Containment Spray operable
+following completion of corrective maintenance to replace the B-Train hand switch and successful
+completion of post-maintenance testing.
+NRC FORM 366A (06-2016)(cid:9) Page 3 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+South Texas Project, Unit 2 05000499 NUMBER NO.
+2021 - 002 - 01
+October 27, 2021, 20:58 hours: Event was determined to be reportable by Operations as a condition
+prohibited by Technical Specifications.
+F.(cid:9) Method of discovery
+The event was self-revealed when the VAH-005 and VAH-013 fans failed to start when HHSI pump 2B
+was started for testing.
+Engineering evaluation concluded there was firm evidence that the B-Train hand switch failure occurred
+on October 5, 2021 when the switch was manipulated to stop the VAH-005 fans. The failure of the
+B-Train hand switch prevented cooling fans VAH-005 and VAH-013 from performing their safety
+function of heat removal from October 5, 2021 to October 15, 2021, resulting in conditions prohibited by
+Technical Specifications for exceeding the seven-day allowed outage times for ECCS Technical
+Specifications 3.5.2 Limiting Condition for Operation Action (a) and the Containment Spray System
+Technical Specification 3.6.2.1 Limiting Condition for Operation Action (a).
+II. Component failures
+A. Failure Mode, mechanism, and effects of failed component
+The failed component in this event was B-Train hand switch (B2HFHS9527). This hand switch is a
+General Electric rotary SBM control switch located in the Control Room. This model of hand switches is
+a rugged design with proven reliability, but they can develop high contact resistance that in rare instances
+can prevent relay actuations.
+Troubleshooting determined that the B-Train hand switch was sticking, as reported by Maintenance
+personnel during switch replacement. Prior to replacement of the switch, Operations manipulated the
+switch to the start position and the fans came on at that time, indicating a potential intermittent failure of
+the switch. The most likely cause of the switch was sticking of the switch and/or high resistance contacts
+inside the switch.
+The failure of the B-Train hand switch resulted in the cooling fans VAH-005 and VAH-013 not
+automatically starting to provide heat load removal for the B-Train HHSI pump, Low Head Safety
+Injection (LHSI) pump, and Containment Spray Pump should these pumps be called upon to perform
+their safety functions during the time window from October 5, 2021 to October 15, 2021. This time
+frame exceeds the seven-day allowed outage time of the ECCS Technical Specification 3.5.2 Limiting
+Condition for Operations Action (a) and the seven-day allowed outage time of the Containment Spray
+System Technical Specification 3.6.2.1 Limiting Condition for Operations Action (a).
+B. Cause of component or system failure or personnel error
+The direct cause of this event was the failure of B-Train hand switch B2HFHS9527 which resulted in
+cooling fans VAH-005 and VAH-013 failing to start automatically to provide supplemental heat load
+removal in the rooms containing the B-Train HHSI pump, LHSI pump, and Containment Spray Pump.
+The failure of the hand switch was due to a sticking hand switch or due to a high resistance contact in the
+switch. The failed switch was not retained for more detailed failure analysis, but the personnel who
+NRC FORM 366A (06-2016)(cid:9) Page 4 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+South Texas Project, Unit 2 05000499 NUMBER NO.
+2021 - 002 - 01
+performed the replacement activity reported it was sticking when operating. Additionally, prior to
+replacement of the B-Train hand switch, Operations manipulated the switch to the start position and the
+fans started, indicating a potential intermittent failure of the switch.
+Engineering evaluation concluded that there is firm evidence that the B-Train hand switch failed when
+Operations used it to stop the VAH-005 fans, in accordance with procedure. Although the fans are started
+automatically, to stop the VAH-005 fans after a start due to any cause other than high room temperature,
+the operator must take the hand switch from the AUTO position to the STOP position. The hand switch
+should have spring-returned to center, which is the AUTO position. The switch contact would not be
+expected to go from being closed to open without some external event occurring, therefore South Texas
+Project Nuclear Operating Company (STPNOC) concluded the component failure occurred when the
+spring returned to center when VAH-005 was stopped on October 5, 2021.
+C. Systems or secondary functions that were affected by the failure of components with multiple functions
+This event involved a failure in the B-Train supplemental coolers portion of the Fuel Handling Building
+HVAC system, resulting in the B-Train Safety Injection System and the B-Train Containment Spray
+System being declared inoperable. The dependency of B-Train Safety Injection and B-Train Containment
+Spray on FHB HVAC supplemental coolers is an expected consequence of the approved STPEGS
+design. No other systems were directly affected.
+D. Failed component information
+The B-Train hand switch was a General Electric SBM control switch model Q16SBMC4A42S1F1P1.
+This model control switch is a four-position, three-stage, with spring return to the central position,
+Pull-to-Lock capability, and a pistol hand grip. General Electric SBM rotary switches are used widely in
+the industry and at STPEGS in many applications; most of these are in the Control Board of the Control
+Room and in Switchgear of the Power Distribution System. They are a rugged design with proven
+reliability, but they can develop high contact resistance that in rare instances can prevent relay actuations.
+III. Analysis of the event
+A. Safety system responses that occurred
+No safety system responses occurred due to this event.
+B. Duration of safety system inoperability
+The Unit 2 B-Train LHSI, HHSI, and Containment Spray systems were inoperable from October 5, 2021
+at 0348 hours until October 15, 2021 at 2318 hours.
+C. Safety consequences and implications
+Supplemental cooler VAH-005 provides cooling for continued operation of the LHSI Pump 2B, HHSI
+Pump 2B, and Containment Spray Pump 2B motors, so it is considered required auxiliary equipment to
+support the B-Train of the ECCS and Containment Spray System. These systems were declared
+inoperable from October 5, 2021 through October 15, 2021 due to the inability to provide sufficient
+NRC FORM 366A (06-2016)(cid:9) Page 5 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+South Texas Project, Unit 2 05000499 NUMBER NO.
+2021 - 002 - 01
+HVAC heat removal.
+This ten-day period exceeds the seven-day allowed outage time of the ECCS Technical Specification
+3.5.2 Limiting Condition for Operations Action (a) and the seven-day allowed outage time of the
+Containment Spray System Technical Specification 3.6.2.1 Limiting Condition for Operations Action
+(a).
+The period of inoperability for ECCS B-Train and Containment Spray B-Train is based on the
+supplemental cooler VAH-005 not providing cooling for continued operation of the LHSI Pump 2B,
+HHSI Pump 2B, and Containment Spray Pump 2B motors. These pumps were available to start
+automatically with an ESF signal and would have started successfully and provided their design flow
+rates. During the ESF mode of operation, the safety-related Fuel Handling Building exhaust air
+subsystem continues to draw outside air into the building through the relief dampers. The exhaust air
+subsystem pulls air through return air registers in the cubicles and exhaust ventilation ducts to exit
+through the plant main vent stack. The exhaust air fans will draw air from the lower elevations of the
+Fuel Handling Building, and eventually outside air, to the B-Train Safety Injection and Containment
+Spray pump room. This air flow will be available for some heat removal from the pump room.
+Due to the condition with the B-Train hand switch, the VAH-005 and VAH-013 fans would not have
+started with an ESF actuation through the breaker closed contacts for the LHSI Pump 2B, HHSI Pump
+2B, or Containment Spray Pump 2B. VAH-005 would also not have started on high room temperature.
+The valve room supplemental cooler VAH-013 would have started automatically if high room
+temperature was sensed by the thermostat in the valve room (FHB Room 008) and would have provided
+its design capacity for heat removal with essential chilled water. The high temperature start of VAH-013
+is independent of the control circuit VAH-005.
+Considering the size of the B-Train Safety Injection and Containment Spray pump room, the cooling
+provided air drawn to the exhaust air subsystem, and the availability of supplemental cooler VAH-013 to
+start on valve room high temperature, engineering judgement indicates the LHSI Pump 2B, HHSI Pump
+2B, and Containment Spray Pump 2B motors could have continued to operate successfully if called
+upon. The failure of the B-Train hand switch (B2HFHS9527) did not significantly compromise plant
+safety.
+IV. Cause of the event
+The most-likely cause of the event was due to a sticking hand switch or due to a high resistance contact
+in the switch. The failed switch was not retained for more detailed failure analysis.
+V. Corrective actions
+As a corrective action, the sticking B-Train hand switch was replaced, and a post-maintenance test was
+successfully performed on October 15, 2021.
+STPNOC plans to improve the process of requiring retention of components for further analysis after
+they are removed following an unexpected failure. This corrective action is being tracked in the CR
+database and is due to be complete August 31, 2022.
+NRC FORM 366A (06-2016)(cid:9) Page 6 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+South Texas Project, Unit 2 05000499 NUMBER NO.
+2021 - 002 - 01
+STPNOC evaluated industry operating experience and determined that the best solution would be to
+follow the industry recommendation for cycling the hand switches to verify operability. STPNOC
+concluded that the other industry recommendation for de-terming and re-terming the hand switches to
+inspect them for developing issues presented too high of a plant status control risk due to the proximity
+of other switches on the control board.
+STPNOC inspected four other SBM hand switches at the station to determine the material conditions and
+evaluate if the preventative maintenance strategies need to be revised. All four switches were found to
+have no discrepancies, clean contacts, and operated smoothly without sticking. The results were
+evaluated and STPNOC determined that the current preventative maintenance frequency and scope are
+sufficient. Therefore, the corrective action to increase the frequency of the preventative maintenance
+from 468 weeks to 234 weeks was canceled. As an alternate solution, system engineers will continue to
+monitor the condition of the hand switches, and if a trend is identified will generate corrective actions.
+VI. Previous similar events
+General Electric SBM rotary switches are used widely in the industry and at STPEGS in many
+applications; most of these are in the Control Board of the Control Room and in the Switchgear of the
+Power Distribution System. They are a rugged design with proven reliability, but STP experience shows
+they can develop high contact resistance that in rare instances can prevent relay actuations.
+Since the SI and Containment Spray pumps are rarely energized, GE SBM series control room hand
+switches are not exercised frequently. This can lead to contamination buildup on the contacts or binding
+in the switch mechanism and develop high contact resistance that in rare instances can prevent relay
+actuations.
+A similar event occurred at STPEGS in 2007. In this similar event, the Unit 1 A-Train fans VAH-004
+and VAH-012 failed to start following a start of LHSI Pump. This failure was attributed to high contact
+resistance of the associated A-Train hand switch (A1HFHS9517). As a corrective action for this event,
+STPNOC created preventive maintenance activities to cycle the hand switches to remove contact
+oxidation and exercise the switch. These actions have proved effective in preventing additional similar
+events since 2007.
+Additionally, there is also industry experience with defective internal cam followers and worn, dirty, or
+broken contacts that can prevent switch actuation found in a report prepared by Power Technical
+Associates, Inc., “Generic Qualification of Rotary Hand Switches,” May 1983. The defective cam
+followers were the result of some of the cam followers being exposed to hydrocarbons during
+manufacturing. The hydrocarbons would cause the cam followers to degrade as they were made of
+polycarbonate. As a result, maintenance procedures were revised to prohibit the use of hydrocarbons as a
+cleaner. Industry operating experience has also found multiple instances of failed actuation being caused
+by tarnished, dirty, or loose contacts.
+Additional recent industry guidance can be found in a special inspection report, ML21321A365, that
+describes a General Electric type SBM control switch that failed to actuate. When examined the switch
+was found to have fouling on the contacts that prevented the current flow necessary to actuate the
+NRC FORM 366A (06-2016)(cid:9) Page 7 of 8
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+South Texas Project, Unit 2 05000499 NUMBER NO.
+2021 - 002 - 01
+system. After further investigation the fouling was determined to be caused by no preventive
+maintenance activities being performed.
+NRC FORM 366A (06-2016)(cid:9) Page 8 of 8

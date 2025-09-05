@@ -1,0 +1,150 @@
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 09/30/2023(cid:9) I
+(09-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+LICENSEE EVENT REPORT (LER) loomed are incorporated into the licensing process and fed back to indu try. Send comments regarding burden
+estimate to the(cid:9) FOIA,(cid:9) Library,(cid:9) and(cid:9) Information(cid:9) Collections Branch(cid:9) (T 6 A10M),(cid:9) U.(cid:9) S.(cid:9) Nuclear Regulatory
+y, :'' t
+„
+(cid:9) (See Page 2 for required number of digits/characters for each block) aC to
+:(cid:9)
+m 0m Mi Bss Oio fn fi,
+c
+W
+e
+a os
+f
+h Inin fog rt mon a,
+t
+iD onC a2 n0 d5 5 R5 e- g0 u0 l0 a1 to, ro yr Ab fy
+fa
+e irm s,a (il
+3
+t 1o
+5
+I 0n -f 0o 1c 0o 4lle ),c Ats t. tR n:e
+(cid:9)
+s
+D
+u er sc ke @ Ofn fir cc e.g
+r
+o fov r, ta hn ed
+N
+t uh ce
+l
+e0 aM
+r
+B
+R
+er ge uvi lae tw oe ryr
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oira_su mission@oribeop goy. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Vogtle Electric Generating Plant, Unit 3 00025 1(cid:9) OF(cid:9) 2
+• 052
+4.(cid:9) Title
+Automatic Reactor Protection System Actuation During Startup Testing Due to Auto Reactive Power Regulator Being Active
+While In Island Mode Operation
+5(cid:9) Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year S Neq uu me bn eti ra l Rev Ni os .i on Month Day Year Facility Name 050 Docket Number
+07 21 2023 2023 -(cid:9) 006(cid:9) - 00 09 19 2023 Facility Name Docket Number
+1 (cid:9)
+052
+1(cid:9)
+9. Operating Mode 10. Power Level
+1 032
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 r (cid:9) I(cid:9) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) I(cid:9) I(cid:9) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) I (cid:9) I (cid:9) 50.73(a)(2)(viii)(B) 73.1200(b)
+I
+20.2201(d) I (cid:9) I 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) I(cid:9) I(cid:9) 50.73(a)(2)(ix)(A) 1(cid:9) I(cid:9) 73.1200(c)
+F-.-1 (cid:9)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+I(cid:9) 1(cid:9)
+7(cid:9) 7(cid:9) 7(cid:9)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 (cid:9) 73.1200(e)
+7(cid:9) 7(cid:9)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) [ (cid:9) I(cid:9) 73.77(a)(1) 73.1200(f)
+7(cid:9)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) I (cid:9) I(cid:9) 50.73(a)(2)(v)(C) 73.77(a)(2)(1) I(cid:9) I (cid:9) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) [ (cid:9) 73.77(a)(2)(ii) I(cid:9) 1 (cid:9) 73.1200(h)
+7 (cid:9) _
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Will Garrett. VEGP 3&4 Licensina Manaaer (706) 848-7154
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+6, No I(cid:9) I(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On July 21, 2023, at 1148 EDT with Vogtle Electric Generating Plant (VEGP) Unit 3 in Mode 1 at approximately 32 percent
+power, the Reactor Protection System was automatically actuated during the 100 percent load rejection startup test due to low
+Reactor Coolant Pump (RCP) speed after the main turbine trip resulted in a subsequent loss of power to the RCPs. The
+operators responded timely by stabilizing the plant and removing decay heat by the steam generator power operated relief
+valves. The cause of the event was the main generator Auto Reactive Power Regulator (AQR), which was one of the voltage
+control methods available to be used while the plant is connected to the grid, remained active when the plant transitioned to
+island mode (i.e., main generator disconnected from the offsite power grid and supplying unit auxiliary loads) during
+performance of the 100 percent load rejection test. The corrective actions for this event included changes to plant procedures
+to ensure the AQR will not be used as one of the available voltage control methods when operating in Island Mode.
+Additionally, a software change was made to control logic to ensure the AQR is disabled during Island Mode operation.
+This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) as a condition that resulted in automatic actuation of the RPS. VEGP
+Units 1, 2, and 4 were unaffected by this event.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 09/30/2023
+(09-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eopAcAi. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.govireading-rm/doc-collections/nuregs/staff/srl 022/13/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+I(cid:9) I 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Vogtle Electric Generating Plant, Unit 3 00025
+2023
+052 006 00
+NARRATIVE
+EVENT DESCRIPTION
+On July 21, 2023, at 1148 EDT with the Vogtle Electric Generating Plant (VEGP) Unit 3 in Mode 1 at approximately 32
+percent power, the Reactor Protection System (RPS) [EIIS: JC] was automatically actuated during the 100 percent load
+rejection startup test. During the 100 percent load rejection test, the switchyard breakers [EIIS: EL / BKR] were opened to
+disconnect the main generator [EIIS: EL / GEN] from the offsite power grid and place the plant into island mode (i.e., main
+generator disconnected from the grid and supplying unit auxiliary loads). Prior to disconnecting from the grid, the main
+generators Auto Reactive Power Regulator (AQR) [EIIS: TL / RG] was active as the voltage control method designed to
+'maintain the reactive power setpoint while connected to the grid. After disconnecting from the grid the AQR remained active
+'and by design attempted to maintain the reactive power setpoint, resulting in an increase in voltage until the main step-up
+transformer protection relay [EIIS: TL / RLY] tripped causing a trip of the main generator and turbine [EIIS: TB / TRB]. With
+'the 100 percent load rejection simulating loss of the grid, the subsequent turbine generator trip caused a loss of power to
+the Reactor Coolant Pumps (RCPs) [EIIS: AB / P] and an automatic RPS actuation on low RCP speed.
+There were no structures, systems, or components that were inoperable at the beginning of the event that contributed to the
+event. This event is reportable under 10 CFR 50.73(a)(2)(iv)(A) as a condition that resulted in automatic actuation of the
+RPS.
+EVENT ANALYSIS
+The cause of this event was the main generator's AQR being active and attempting to maintain the reactive power setpoint
+following a 100 percent load rejection and in island mode operation. The AQR is not designed to be used as a voltage
+control method when the plant is disconnected from the grid. Applicable plant procedures and control software have been
+changed to ensure AQR will not be used as one of the available voltage control methods during island mode operation.
+SAFETY ASSESSMENT
+There were no safety consequences due to this event because the automatic actuation function of the RPS maintained the
+plant in a safe condition. The operators responded timely by ensuring plant stability and decay heat was removed by steam
+generator power operated relief valves [EIIS: SB / PCV]. All safety systems functioned as expected as a result of the event.
+VEGP Units 1, 2, and 4 were unaffected by this event.
+CORRECTIVE ACTIONS
+Plant procedures were changed to ensure the AQR will not be used as one of the available voltage control methods when
+operating in island mode.
+Additionally, control logic was modified by a software design change that automatically disables AQR when operating in
+island mode.
+PREVIOUS SIMILAR EVENTS
+None
+(cid:9) (cid:9)
+NRC FORM 366A (09-01-2023) Page 2(cid:9) of(cid:9) 2

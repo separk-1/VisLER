@@ -1,0 +1,179 @@
+ja Dominion
+V.C. Summer Nuclear Station
+Bradham Blvd & Hwy 215, Jenkinsville, SC 29065 Energy
+Mailing Address:
+P.O. Box B8, Jenkinsville, SC 29065
+Dominion Energy.com
+December 15, 2022
+(cid:9)
+Document Control Desk Serial No.: 22-001A
+(cid:9)
+U.S. Nuclear Regulatory Commission VCS-LIC/HK RO
+(cid:9)
+Washington, DC 20555 Docket No. 50-395
+License No. NPF-12
+DOMINION ENERGY SOUTH CAROLINA (DESC)
+VIRGIL C. SUMMER NUCLEAR STATION (VCSNS) UNIT 1
+LICENSEE EVENT REPORT 2022-001-01
+MANUAL REACTOR TRIP DUE TO MAIN TRANSFORMER FAULT
+Dominion Energy South Carolina hereby submits Licensee Event Report (LER)
+2022-001-01, for VCSNS. This report provides updated details concerning a manual
+reactor trip due to a main transformer fault and is submitted in accordance with
+10 CFR 50.73(a)(2)(iv)(A).
+Should you have any questions, please call Mr. Michael Moore at (803) 345-4752.
+Sincerely,
+George A. Lippard
+Site Vice President
+V.C. Summer Nuclear Station
+Enclosure
+Commitments contained in this letter: None
+cc:
+G. J. Lindamood — Santee Cooper
+L. Dudes — NRC Region II
+G. Miller — NRC Project Mgr.
+NRC Resident Inspector
+J. N. Bassett — INPO
+Marsh USA, Inc.
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request 80 hours.(cid:9) Reported
+/ "W'"'-,I(cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry.(cid:9) Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (1-6 A10M), U.S.
+if (See Page 3 for required number of digits/characters for each block) Nuclear(cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+s,%(cid:9) i(cid:9) ( See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gon, and the OMB reviewer at:(cid:9) OMB Office of Information and Regulatory
+http://www.nrc.goy/reading-rrn/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn:(cid:9) Desk ail:(cid:9) oira submission@omb.eortgov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+V.C. Summer Nuclear Station, Unit 1
+05000(cid:9) 395 1(cid:9) OF(cid:9) 3
+4.(cid:9) Title
+MANUAL REACTOR TRIP DUE TO MAIN TRANSFORMER FAULT
+5(cid:9) Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+11 15 2021 2022 -(cid:9) 001(cid:9) - 01 12 15 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 047
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) / 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+pi n(cid:9)
+20.2203(a)(1) 20.2203(a)(4) (cid:9) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+pi(cid:9)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+7(cid:9) n(cid:9)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+n(cid:9)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+pi(cid:9)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Michael Moore (803) 345-4752
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X EL XFMR Mitsubishi Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+,/ No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 15, 2021, at approximately 1728 EST with Unit 1 in Mode 1 at 47 percent power, the reactor was manually tripped
+due to a fault on the B-phase of the main transformer. The turbine tripped automatically based on the reactor trip signal.
+Emergency Feedwater (EFW) actuation occurred as expected due to the low-low steam generator water levels which occurred
+as a result of the reactor trip.(cid:9) The reactor trip was not complex with all systems responding normally post trip.(cid:9) Operations
+stabilized the plant in Mode 3. Decay heat was removed by the steam generators, utilizing the steam dump system.
+Due to the manual Reactor Protection System (RPS) actuation and the automatic actuation of the EFW system, this event is
+being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons leamed are incorporated into the licensing process and fed back to industry. Send comments
+(cid:9) LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+szerfj CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eoo.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.govireading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+V.C. Summer Nuclear Station, Unit 1 395
+2022
+001 01
+NARRATIVE
+1.0 DESCRIPTION OF THE EVENT
+On November 14, 2021, at approximately 1141 EST, VCSNS closed the main generator breaker, concluding refueling
+outage 26. Normal startup was in progress. On November 15, 2021, at approximately 1728 EST with Unit 1 in Mode 1 at
+47 percent power, the reactor was manually tripped due to a fault on the B-phase of the main transformer (XTF0001). The
+turbine tripped automatically based on the reactor trip signal. Emergency Feedwater (EFW) actuation occurred as
+expected due to the low-low steam generator water levels which occurred as a result of the reactor trip. The reactor trip
+was not complex with all systems responding normally post trip. Operations stabilized the plant in Mode 3. Decay heat
+was removed by the steam generators, utilizing the steam dump system.
+There were no other structures, systems, or components (SSCs) that were inoperable at the beginning of the event or
+contributed to the event.
+Due to the manual Reactor Protection System (RPS) actuation and the automatic actuation of the EFW system, this event
+is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A).
+2.0 SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+XTF0001 serves no safety related purpose for the unit. When the transformer failed, all of the appropriate safety systems
+responded as designed. The main generator, turbine, reactor, and EFW system operated as expected; and all the control
+rods fully inserted into the core. The operating crew performed as expected. The event was within the analysis of the
+Updated Final Safety Analysis Report Chapter 15. This event did not pose a threat to the health and safety of the public.
+Therefore, the safety significance of this issue is very low.
+3.0 CAUSE OF THE EVENT
+The fault was caused by a failure of the center phase high-voltage bushing. Substantial evidence supports that an
+electrical failure occurred inside the bushing itself. Failure analysis indicates that it is most probable that the H2 bushing
+failed due to one or more manufacturing defects. Specifically, erroneous layers of paper insulation and a large surface
+defect on the conductor.
+4.0 IMMEDIATE CORRECTIVE ACTIONS
+The faulted transformer was removed from service and replaced with the spare main transformer. The unit was placed
+back online with breakers closed on December 10, 2021.
+5.0 ADDITIONAL CORRECTIVE ACTIONS
+None
+(cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons leamed are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira eubrnission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+V.C. Summer Nuclear Station, Unit 1 395
+2022
+001 01
+NARRATIVE
+6.0 ACTIONS TO PREVENT RECURRENCE
+A new high voltage composite bushing design was selected to be utilized in the new replacement transformer design.
+A vendor surveillance plan for the manufacturing and testing of the high voltage bushings for the replacement transformer
+is being developed and will be implemented to provide confidence that manufacturing defects are identified and addressed
+prior to installation.
+7.0 SIMILAR EVENTS
+On August 28, 2017, VCSNS Unit 1 automatically tripped due to a turbine trip. The turbine trip was caused by the Main
+Generator Differential Lockout due to a fault on the center phase, 230 kV lightning arrester, on the main transformer. This
+is described in LER 2017-003-01 (ML17347A216).
+8.0 MANUFACTURER/PURCHASE ORDER NUMBER
+The failed center phase high-voltage bushing was manufactured by ABB and is an ABB O+C 230kV 900kV BIL 4000A oil
+impregnated bushing.
+The main transformer was manufactured by Mitsubishi Electric Corporation. The Mitsubishi Design Number is HE11343.
+The transformer was purchased under P.O. Number NU-02NN728893.
+9.0 ADDITIONAL INFORMATION
+None
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 3(cid:9) of(cid:9) 3

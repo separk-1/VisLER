@@ -1,0 +1,193 @@
+PSEG Nuclear LLC
+P.O. Box 236, Hancocks Bridge, NJ 08038-0236
+0
+PSEG
+N clear LLG
+10 CFR 50.73
+LR-N23-0015
+February 21, 2023
+U.S. Nuclear Regulatory Commission
+ATTN: Document Control Desk
+Washington, DC 20555-001
+Salem Generating Station, Unit 2
+Renewed Facility Operating License No. DPR-75
+Docket No. 50-311
+Subject: Licensee Event Report 2022-001-00,
+Invalid Safety Injection and Valid Reactor Trip Due to Inaccurate
+Steam Generator Pressure Indications
+PSEG Nuclear LLC submits Licensee Event Report (LER) Number 2022-001-00,
+"Invalid Safety Injection and Valid Reactor Trip Due to Inaccurate Steam Generator
+Pressure Indications" per 10 CFR 50.73(a)(2)(iv)(A) and limiting condition for operation
+3.5.2 ACTION b.
+There are no regulatory commitments contained in this letter.
+Please contact Bernadette Cizin at (856) 339 — 2206 should you have any questions.
+Sincerely,
+Thomas P. Mulholland for Richard J. DeSanctis, Jr.
+Plant Manager, Salem Generating Station
+Attachment: Licensee Event Report 2022-001-00
+Document Control Desk
+Page 2
+LR-N23-0015
+cc:(cid:9) USNRC Regional Administrator — Region 1
+USNRC NRR Project Manager — Salem
+USNRC Senior Resident Inspector— Salem
+NJ Department of Environmental Protection, Bureau of Nuclear Engineering
+President & Chief Nuclear Officer, PSEG Nuclear
+Senior Vice President, PSEG Nuclear Operations
+Site Vice President, Salem
+Plant Manager, Salem
+Vice President, PSEG Nuclear Engineering
+Executive Director Regulatory Affairs & Nuclear Oversight
+Director Site Regulatory Compliance, Regulatory Affairs
+Manager, Nuclear Oversight
+Corporate Commitment Coordinator, PSEG Nuclear, LLC
+Records Management
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 12/31/2023
+(01-10-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+4,,,••10,4„,
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to indu try. Send comments regarding burden
+i •t (cid:9) estimate to the FOIA,(cid:9) Library,(cid:9) and Information Collections Branch (T 6 A10M),(cid:9) U.(cid:9) S.(cid:9) Nuclear Regulatory
+t.(cid:9) , (cid:9) (See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to Infocollects.Res urce@nrc.gov, and the 0MB reviewer
+at (cid:9) 0MB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email: oira so mission@omb eoo goy. The NRC may
+htlp://www nrc.00vireading-rmidoc-collectionsinuregs/staff/sr1022/rX) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name • 050 2. Docket Number 3. Page
+Salem Generating Station - Unit 2
+00311 1(cid:9) OF(cid:9) 3
+I(cid:9) 052
+4.(cid:9) Title
+Invalid Safety Injection and Valid Reactor Trip Due to Inaccurate Steam Generator Pressure Indications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Se Nq uu men bt ei ra l Rev Ni osi . on Month Day Year Facility Name 050 Docket Number
+12 24 2022 2022 -(cid:9) 001(cid:9) - 00 02 21 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) I(cid:9) I(cid:9) 50.73(a)(2)(viii)(A) I(cid:9) I(cid:9) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) I (cid:9) I(cid:9) 50.36(c)(1)(i)(A) 1(cid:9) I (cid:9) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+[ 1
+1(cid:9) I(cid:9) 20.2201(d) 20.2203(a)(3)(ii) I(cid:9) I(cid:9) 50.36(c)(1)(ii)(A) (cid:9) 50.73(a)(2)(iii) I(cid:9) I(cid:9) 50.73(a)(2)(ix)(A) I(cid:9) (cid:9) 73.1200(c)
+n(cid:9)
+20.2203(a)(1) 1(cid:9) I(cid:9) 20.2203(a)(4) 50.36(c)(2) ril(cid:9) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 1(cid:9) 73.1200(d)
+nI(cid:9) I (cid:9) (cid:9) 20.2203(a)(2)(i) 10 CFR Part 21 F1(cid:9) 50.46(a)(3)(ii) I(cid:9) I(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) I(cid:9) I(cid:9) 73.77(a)(1) .(cid:9) I(cid:9) 73.1200(f)
+I(cid:9) 1(cid:9)
+1 ri
+I(cid:9) (cid:9) 20.2203(a)(2)(iii) (cid:9) 50.73(a)(2)(i)(A) r1(cid:9) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) I(cid:9) 73.1200(g)
+I(cid:9) 1 (cid:9)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) I (cid:9) I(cid:9) 50.73(a)(2)(v)(D) 1 (cid:9) 1(cid:9) 73.77(a)(2)(ii) ri(cid:9) 73.1200(h)
+1-7
+20.2203(a)(2)(v) (cid:9) 50.73(a)(2)(i)(C) 1(cid:9) I(cid:9) 50.73(a)(2)(vii)
+I7/1(cid:9) OTHER (Specify here, in abstract, or NRC 366A).(cid:9) Special Report
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Bernadette Cizin, Compliance Specialist (856) 339 - 2206
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+E JC PI Y
+14. Supplemental Report Expected Month Day Year
+n(cid:9) 15. Expected Submission Date
+,/(cid:9) No Yes (If yes, complete 15. Expected Submission Date)
+16.(cid:9) Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On December 24, 2022, at 0222, Salem Unit 2 automatically tripped from full power. Reactor Protection,
+Emergency Core Cooling, and Auxiliary Feedwater (AFW) systems actuated as expected in response to an
+invalid Safety Injection (SI) signal. Motor driven and turbine driven AFW pumps started in response to the
+SI signal and low steam generator water level, respectively. The direct cause of the invalid SI was
+inaccurate indication from the SG steam pressure instruments due to the localized freezing of water-filled
+instrument tubing. A root cause evaluation is ongoing and a supplement to this report will be submitted if
+causes or corrective actions differ significantly from those described in this report. Preliminary evaluation
+identified the root cause as incomplete implementation of previous corrective actions.
+This event is reportable per 10 CFR 50.73(a)(2)(iv)(A) and limiting condition for operation 3.5.2. ACTION b.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 205550001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Office for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_subrj Lission@omb,eoo.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required o respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r31)
+requesting or requiring the collection di plays a currently valid OMB control number.
+3. LER NUMBER
+1. FACILITY NAME 2. DOCKET NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Salem Generating Station - Unit 2 311
+2022
+001 00
+NARRATIVE
+PLANT AND SYSTEM IDENTIFICATION
+Westinghouse - Pressurized Water Reactor {PWR/4}
+Plant Protection System / Indicator, Pressure {JC/PI}
+*Energy Industry Identification System (El IS) codes and component function identified codes appear as {SS/CCC}
+IDENTIFICATION OF OCCURENCE
+Event Date: December 24, 2022
+Discovery Date: December 24, 2022
+CONDITIONS PRIOR TO OCCURENCE
+Salem Unit 2 was in MODE 1 operating at full power.
+DESCRIPTION OF OCCURRENCE
+On December 24, 2022, at 0222, an automatic reactor trip occurred at Salem Unit 2 as a result of an invalid Safety
+Injection (SI) signal. Inaccurate Steam Generator (SG) pressure indication for SGs 22 and 24 resulted in two high
+differential pressure setpoint signals. This met the 2-out-of-3 coincidence logic, generating the invalid SI signal. A valid
+reactor trip signal was generated due to SI actuation. The Emergency Core Cooling (ECCS) and Reactor Protection
+Systems (RPS) functioned as expected. Motor and steam driven Auxiliary Feedwater (AFW) pumps actuated
+appropriately. Operators stabilized the plant, no equipment complications occurred, and the Emergency Operating
+Procedures were exited.
+This was the thirteenth ECCS actuation reportable pursuant to Technical Specification (TS) 3.5.2 ACTION b.
+CAUSE OF EVENT
+The inaccurate indications from the SG pressure sensors were caused by localized freezing of water-filled instrument
+tubing located directly below the outer penetration area intake dampers. Ambient temperatures were less than 10
+degrees Fahrenheit with winds averaging up to 45 miles per hour. Plenum dampers near instrument tubing for 22 and 24
+SG steam pressure sensors were open.
+An ongoing root cause analysis preliminarily identified incomplete implementation of corrective actions from a similar cold
+weather event in 2003. A supplement will be submitted if the completed root cause analysis identifies causes or corrective
+actions that significantly differ from those reported herein.
+(cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page 2(cid:9) of(cid:9) 3
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY 0MB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+lnfocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb eop gov. The NRG may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://WVVVv.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r30
+requesting or requiring the collection displays a currently valid 0MB control number.
+1. FACILITY NAME(cid:9) 2. DOCKET NUMBER(cid:9) 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL(cid:9) REV
+NUMBER(cid:9) NO.
+Salem Generating Station - Unit 2(cid:9) OSOOO-j (cid:9) 311(cid:9) 1-0
+l2022I-I(cid:9)
+001(cid:9)
+I
+NARRATIVE
+SAFETY CONSEQUENCES AND IMPLICATIONS
+There were no safety consequences as a result of this event. Plant response to the failed SG pressure instrumentation
+was per design.
+PREVIOUS EVENTS
+In January 2003, a Salem Unit 2 main steam line pressure channel failed high due to suspected freezing of the indicating
+lines. This did not result in a reportable plant event; however, a root cause evaluation of the occurrence was completed in
+2003. In 2009 and 2019, cold weather conditions degraded main condenser heat removal and led to Salem Unit 2 plant
+trips (LER 2010-001-00, ADAMS Accession No. ML 100640546 and LER 2019-001-00, ADAMS Accession No.
+ML 19091A260).
+CORRECTIVE ACTIONS
+1. The water-filled tubing was thawed;
+2. The affected water-filled lines for both units were insulated;
+3. The dampers were secured in a closed position via temporary modification;
+4. An extent of condition review was performed;
+5. The ongoing root cause analysis is evaluating and will develop additional corrective actions to prevent recurrence;
+6. This evaluation and any identified improvements will be tracked in PSEG's corrective action program.
+COMMITMENTS
+There are no regulatory commitments contained in this LER.
+NRG FORM 366A (08-2020)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 3

@@ -1,0 +1,307 @@
+(cid:9)
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported
+,,...x."...,„(cid:9) LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Ii(cid:9) : (See Page 3 for required number of digits/characters for each block) Nuclear(cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+`i.,(cid:9) cz., I(cid:9) (See NUREG-1022, R.3 for instruction and guidance for completing this form InfoccIlects.Resource@nrc.gov, and the OMB reviewer at(cid:9) OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn:(cid:9) Desk ail:(cid:9) oira submissicneomb.eop.aov.(cid:9) The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Yankee Nuclear Power Station
+05000(cid:9) 029 1(cid:9) OF(cid:9) 6
+4.(cid:9) Title
+Compensatory Measure Not Established for a Momentary I/O Board Communication Loss
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revision Month Day Year Facility Name Docket Number
+Number No.
+05000
+11 19 2021 2021 -(cid:9) 001(cid:9) - 00 01 12 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+N 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+7(cid:9) 7(cid:9) 7(cid:9)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+7(cid:9) 7(cid:9)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+- 7(cid:9) 7 pi(cid:9) 7(cid:9)
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+7(cid:9) 7(cid:9) 7 7(cid:9) 7(cid:9)
+(cid:9)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+n(cid:9)
+7
+(cid:9)
+20.2203(a)(2)(1) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+7(cid:9) 7 n(cid:9) 7(cid:9)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+7(cid:9) 7(cid:9)
+1-,4
+20.2203(a)(2)(iii) 10 CFR Part 50 (cid:9) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+7(cid:9) 7(cid:9) 7
+(cid:9)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+7 7(cid:9) n(cid:9)
+(cid:9)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(1x)(A)
+Fil(cid:9) OTHER (Specify here, in abstract, or NRC 366A). 10 CFR 73.71(d), [10 CFR 73 Appendix G, Section 1(c)]
+12. Licensee Contact for this LER
+. Licensee Contact Phone Number (Include area code)
+John Macdonald (413) 424 5261 X303
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B IA RLY No
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+171(cid:9) No 7(cid:9) Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On November 19, 2021, at approximately 2010 EST, the security alarm computer received a loss of communication alarm for a
+specific input/output (I/O) board. Per Security procedures, receipt of this alarm required that a time sensitive compensatory
+measure be established. Contrary to this requirement, the compensatory measure was not established. The most probable
+cause of the event was ISFSI Shift Supervisor overconfidence. The corrective actions include the development of the conduct of
+remedial training for the ISS, the development of an individual development plan for the ISS, the conduct of a presentation to the
+security force on expectations, conservative decision-making, procedure use and adherence, teamwork, and advocacy, and
+development of a case study regarding the use of human performance error prevention tools. This report is submitted in
+accordance with the requirement of 10 CFR 73.71(d) [10 CFR 73, Appendix G, Section 1(c)].
+.._ (cid:9) .
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+y.n roo, lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulator/
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eoo.gpv. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+htto://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/srl 022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Yankee Nuclear Power Station 029
+2021
+001 00
+NARRATIVE
+BACKGROUND
+The Yankee Nuclear• Power Station has been decommissioned with the exception of the area associated with the
+Independent Spent Fuel Storage Installation. The Independent Spent Fuel Storage Installation stores spent nuclear fuel
+and Greater-Than-Class-C waste generated at the Yankee Nuclear Power Station in dry storage.
+The Yankee Atomic (YA) security computer system (system) [EIIS: Security System [IA]] was replaced in 2021 under a
+design change. The new system includes a Video Management System (VMS) running the Milestone XProtect Corporate
+VMS software. The user interface and alarm management portion of the system was replaced with a new custom
+application integrated with the Milestone software. The new application, designated as Secure 365, resides on the VMS
+network. Training was provided to ail users in accordance with an approved lesson plan that included classroom (power
+point) and practical training (On the Job (OJT) and Task Performance Evaluation (TPE)) and a written quiz.
+On November 10, 2021, the new system installation was completed. Post-modification testing and security performance
+testing were performed satisfactorily. The system was declared functional and was placed in service.
+On November 19, 2021, at approximately 2010 EST, the security alarm computer received a loss of communication alarm
+for a specific input/output board. Per Security procedures, receipt of this alarm required that a time sensitive
+compensatory measure be established. Contrary to this requirement, the compensatory measure was not established.
+Later, on November 19, 2021, at 2342 EST, following the identification of the failure to establish a required compensatory
+measure, a one-hour event notification was made to the Nuclear Regulatory Commission in accordance with
+10CFR73.71(b)(1).
+This licensee event report is being submitted in accordance with the requirements of 10 CFR 73.71(d) to submit a written
+report within 60 days. The event is specifically addressed in 10 CFR 73, Appendix G, "Reportable Safeguards Events,"
+Section 1(c) which requires the event to be reported within one hour of discovery, followed by a written report within 60
+days. The event described below meets this reporting criteria.
+(cid:9) (cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 2(cid:9) of 6
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eoo.gov. The NRC may not conduct or
+httol/www.nrc.govireading-rm/doc-collections/nureas/staff/sr10221r31) sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Yankee Nuclear Power Station 029
+2021
+001 00
+NARRATIVE
+EVENT DESCRIPTION
+On November 19, 2021, the spent nuclear fuel and Greater-Than-Class-C waste were being safely stored at the
+Independent Spent Fuel Storage Installation.
+Shortly after assuming the shift on November 19, 2021, the crew briefed for the required nightly patrol of the Protected
+Area (PA). The ISFSI Shift Supervisor (ISO) and Security Officer #1 were positioned in SAS. Security Officer #2 was
+assigned the PA patrol. A minimum of two alarms are expected to be received almost simultaneously upon entry into the
+PA: one associated with the opening of the PA personnel gate and the second for entry into an immediate detection field.
+Additional alarms may be received depending upon the conduct of the patrol and other security-specific orders.
+At approximately 2010 EST, the SAS Operator (Security Officer #1) observed receipt of the alarms for the PA personnel
+gate and detection field and then the Input / Output (I/O) Board #2 lost communication alarm [El IS: Security System [IA] -
+Relay [RLY]]. The SAS Operator requested a verification of expected alarms, including the I/O Board #2 lost
+communication alarm, from the ISS who was also at the security computer console. The ISS was at the console for the
+purpose of providing additional oversight for the PA entry. The ISS scanned the received alarms and responded to the
+SAS Operator that the alarms were expected for a PA entry and directed the SAS Operator to acknowledge the alarms (as
+expected) and to record the reason for the alarms as personnel entry (specific menu option is "Personnel"). The site
+security procedure for the application of safeguards compensatory measures specifically requires a time sensitive
+compensatory measure be established for any I/O Board loss of communication.
+At approximately 2148 EST, an I/O Board #3 lost communication alarm was received without any planned activities in
+progress and without any other alarms. The SAS Operator (Security Officer #2) informed the ISS and advised the ISS that
+a time sensitive compensatory measure was required. The compensatory measure was developed and was in place
+consistent with security procedure requirements. There were no causal concerns related to the response to this I/O Board
+lost communication alarm.
+At approximately 2200 EST, the ISS contacted a member of the licensee staff (ISFSI Technical SpeCialist (ITS)) to report
+the I/O Board #3 lost communication alarm and to request assistance developing and implementing functional testing to
+potentially recover the compensatory measure. The ITS informed the ISS that he would report to the site to provide
+assistance and oversight.
+Between 2210 and 2254 EST, the ISS reviewed the alarm log for the shift and the alarms received during the PA patrol
+and identified that he had in-fact missed the I/O Board #2 lost communication alarm and provided incorrect direction to the
+SAS Operator (Security Officer #1) to respond to the alarms as expected for a PA entry. The ISS realized that he had
+failed to ensure a time sensitive compensatory measure was implemented at that time. The ISS and ITS evaluated the
+event and it was determined to be a non-compliance with security plan and procedure requirements.
+At 2304 EST, the ISS and ITS concluded that the event was reportable to the NRC. At 2342 EST, Yankee Atomic
+completed a one-hour notification to the NRC (USNRC Event Number: 55595) in accordance with 10 CFR 73.71(b)(1).
+Throughout the remainder of November 19, 2021, and for the next 36 hours spurious I/O Board lost communication
+alarms were received. A separate condition report was developed to investigate the apparent cause or causes for these
+board failures.
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 3(cid:9) of(cid:9) 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A1OM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eoo.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+fattp://www.nrc.govireading-rm/doc-collections/nuregsistaff/sr1022/r31)
+requesting or requiring the collection displays a currently valid OMB control number.
+(cid:9)
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Yankee Nuclear Power Station 029
+2021
+001 00
+IN I
+NARRATIVE
+APPARENT CAUSE
+The most probable cause of the event was due to ISS overconfidence, such that the individual did not eliminate potential
+distractions while responding to a request from the SAS Operator to review a set of alarms that were received during the
+November 19, 2021, planned PA entry. The ISS reviewed the alarms, that included the I/O Board #2 lost communication
+alarm and incorrectly informed the SAS Operator that the alarms were associated and consistent with a PA entry and that
+the alarms should be acknowledged as such by the "Personnel" designation. The SAS Operator complied, acknowledged
+the alarms without further action, and the event occurred.
+A separate condition report was generated to determine the apparent cause and corrective actions for the I/O board
+failures. These are not addressed in this licensee event report, because the reason for the reportable event was the failure
+to establish a compensatory measure within an appropriate time frame.
+CORRECTIVE ACTIONS
+1. Perform remediation training for the individual.
+2. Develop an Individual Development Plan for the individual that performed the human performance error.
+3. Deliver a presentation to the security forte on expectations, conservative decision-making, procedure use and
+adherence, teamwork, and advocacy.
+4. Develop and deliver a case study on the events with a focus on use of human performance error prevention tools.
+A separate condition report was generated to determine the apparent cause and corrective actions for the I/O board
+failures. These are not addressed in this licensee event report, because the reason for the reportable event was the failure
+to establish a compensatory measure within an appropriate time frame.
+NRC FORM 366A (06-2020) Page 4 of(cid:9) 6
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail:girlbmission@omb.eop.nov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+Mp://vowv.nrc.govireading-rmidoc-collections/nureg a/staff/a r1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Yankee Nuclear Power Station 029
+2021
+001 00
+NARRATIVE
+SAFETY ASSESSMENT
+An assessment of the actual consequence to the physical security of the protected area was performed in response to this
+event. As this report documents and YAEC acknowledges; YAEC failed to properly establish the requirement for a time
+sensitive compensatory measure. Notwithstanding, continued review of this event identified several significant mitigating
+factors that substantially reduce potential consequences.
+Initially, all security computer alarm functions were fully functional. A properly equipped and qualified Security Officer was
+in the protected area prior receipt of the I/O Board #2 lost communication alarm, the Security Officer remained in the PA
+for the duration of the alarm (approximately 75 seconds) and exited the area after I/O Board #2 alarm functionality was
+restored. I/O Board #2 represents approximately one-sixth of she PA detection/surveillance/alarm capability. The
+remainder of the PA capability remained functional and was not impacted during this event. Subsequent, vendor
+laboratory testing determined that the average time of actual inability for an alarm to be received during an I/O Board lost
+communication event is approximately 15 seconds out of the nominal 75 second total lost comrnunication time. Following
+the restoration from the event, the I/O Board lost communication did not impact the function of the alarm initiating device.
+Additionally, the SAS Operators were able to observe the activities within the Independent Spent Fuel Storage
+Installation's PA via cameras throughout the event; and a compensatory measure was established within 2 hours after I/O
+board #2 lost communication alarm.
+Unauthorized intrusion into the Independent Spent Fuel Storage Installation's protected area did not occur during the time
+that the compensatory measure was not in place. There is no evidence of unauthorized individuals, contraband, or
+sabotage being introduced into the PA during the time periods of concerns.
+Therefore, this event was determined to be of very low actual safety significance.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 5(cid:9) of(cid:9) 6
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+A LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eorow. The NRC may not conduct or
+Mp://www.nrc.govireading-rm/doc-collections/nuregs/staffisr10221r3/1 sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+05000- NUMBER NO.
+Yankee Nuclear Power Station 029
+2021
+001 00
+NARRATIVE
+ADDITIONAL INFORMATION
+Section 3.2 of Regulator Guide 5.62, "Reporting of Safeguards Events," requires the licensee event report to include the
+following:
+1. Date and time of event (start and end time). Response: This information is provided in the Event Description section of
+the licensee event report.
+2. Location of actual or threatened event in a protected area, material access area, controlled access area, vital area, or
+other (specify area). Response: The security vulnerability occurred in a protected area due to an action that occurred in an
+access controlled area (Security Alarm Station).
+3. For power reactors, the operating phase, for example, shut-down, operating. Response: The Yankee Nuclear Power
+Station has been decommissioned, and spent fuel and Greater-Than-Class-C radioactive waste is stored in dry storage at
+an Independent Spent Fuel Storage Installation.
+4. Safety systems affected or threatened, directly or indirectly. Response: No important to safety systems were affected or
+threatened, directly or indirectly.
+5. Type of security force on-site (proprietary or contract). Response: Yankee Atomic Electric Company employs a contract
+security force.
+6. Number and type of personnel involved, for example, contractors, security, visitors, NRC personnel, other (specify).
+Response: Two security force members were involved in the failure to promptly take a compensatory measure.
+7. Method of discovery of incident, for example, routine inspection, test, maintenance, alarm, chance, informant,
+communicated threat, unusual circumstances (give details). Response: This information is provided in the Event
+Description section of the licensee event report.
+8. Procedural errors involved, if applicable. Response: This information is provided in the Event Description section of the
+licensee event report.
+9. Immediate actions taken in response to event. Response: This information is provided in the Event Description section
+of the licensee event report.
+10. Corrective actions taken or planned. Response: This information is provided in the Corrective Action section of the
+licensee event report.
+11. Local, State, or Federal law enforcement agencies contacted. Response: No law enforcement agencies were
+contacted for this Safeguards event. The NRC was verbally notified in accordance with 10 CFR 73.71(b)(1).
+12. Description of media interest and press release. Response: No press release was made and no media interest.
+13. Indication of previous similar events. Response: No similar events regarding the failure to establish a compensatory
+measure occurred in 2019, 2020, or 2021.
+14. Knowledgeable contact. Response: This information is provided on Page 1 of the licensee event report.
+(cid:9)
+NRC FORM 366A (08-2020) Page(cid:9) 6(cid:9) of(cid:9) 6

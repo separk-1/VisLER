@@ -1,0 +1,290 @@
+NA TENNESSEE
+VALLEY
+AUTHORITY
+Tennessee Valley Authority. Post Office Box 2000. Spring City. Tennessee 37381
+WBL-23-031
+July 20, 2023
+10 CFR 50.73
+ATTN: Document Control Desk
+U.S. Nuclear Regulatory Commission
+Washington, D.C. 20555-0001
+Watts Bar Nuclear Plant, Unit 2
+Facility Operating License No. NPF-96
+NRC Docket No. 50-391
+Subject:(cid:9) Licensee Event Report 391/2023-001-00, Unanalyzed Condition Related to
+Loss of the 2A Emergency Diesel Generator During a Postulated Appendix R
+Fire
+This submittal provides Licensee Event Report (LER) 391/2023-001-00. This LER provides
+details where an Appendix R fire in the Auxiliary Building could lead to a loss of 480V Diesel
+Generator Auxiliary Boards 2A1-A and 2A2-2 and the loss of Diesel Generator 2A. This
+represents an unanalyzed condition, which is reportable in accordance with Title 10 of the Code
+of Federal Regulations (10 CFR) 50.73(a)(2)(ii)(B).
+There are no new regulatory commitments contained in this letter. Please direct any questions
+concerning this matter to Jonathan Johnson, WBN Licensing Manager, at jtjohnson0@tva.gov.
+Anthony L. Williams IV
+Site Vice President
+Watts Bar Nuclear Plant
+U.S. Nuclear Regulatory Commission
+WBL-23-031
+Page 2
+July 20, 2023
+Enclosure:(cid:9) LER 391/2023-001-00, “Unanalyzed Condition Related to Loss of the 2A
+Emergency Diesel Generator During a Postulated Appendix R Fire”
+cc (w/Enclosure):
+NRC Regional Administrator – Region II
+NRC Senior Resident Inspector – Watts Bar Nuclear Plant
+NRC Project Manager – Region II
+ENCLOSURE
+Tennessee Valley Authority
+Watts Bar Nuclear Plant
+Unit 2
+LER 391/2023-001-00, “Unanalyzed Condition Related to Loss of the 2A Emergency
+Diesel Generator During a Postulated Appendix R Fire”
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons learned
+are incorporated into the licensing process and fed back to industry. Send comments regarding burden estimate to
+LICENSEE EVENT REPORT (LER)
+the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office
+(See Page 2 for required number of digits/characters for each block)
+of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document requesting or
+requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+00391
+Watts Bar Nuclear Plant, Unit 2 1(cid:9) OF 5
+052
+4. Title
+Unanalyzed Condition Related to Loss of the 2A Emergency Diesel Generator During a Postulated Appendix R Fire
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. N/A 050
+05 25 2023 2023 -(cid:9) 001(cid:9) - 00 07 20 2023 Facility Name Docket Number
+N/A 052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 10 CFR Part 50
+20.2203(a)(2)(vi) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+10 CFR Part 21 10 CFR Part 73
+20.2203(a)(2)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Dean Baker, Licensing Engineer 423-452-4589
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected
+Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On May 25, 2023 at 1345 Eastern Daylight Time (EDT), operations personnel were verbally notified that a fire
+barrier for area 737-A1B was not installed, and would render the 2A Emergency Diesel Generator (EDG) not
+operable in the event of a fire on the Unit 2 side of elevation 737 in the Auxiliary Building. The 2A EDG is the
+credited power source for fire safe shutdown for a fire located in this area. Without the credited source of power, this
+placed Watts Bar Nuclear Plant (WBN) Unit 2 in an unanalyzed condition. A fire watch was established in the area
+until the issue was resolved.
+The cause is a legacy design issue which failed to recognize the Normal and Alternate Feeders share the same
+breaker on the associated 480V shutdown board (2-BD-212-A1-A and 2-BD-212-A2-A). Permanent corrective
+action by implementation of a design change was completed on June 10, 2023.The design change disconnected the
+Alternate Feeder Cable for the Diesel Auxiliary Boards from the associated 480V Shutdown Board. Therefore, a fire
+in fire area 737-A1B would no longer trip the common breaker and the 2A EDG would remain operable.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 001 - 00
+NARRATIVE
+I. Plant Operating Conditions before the Event
+Both Watts Bar Units 1 and 2 were at 100 percent Rated Thermal Power (RTP).
+II. Description of Event
+A. Event Summary
+On May 25, 2023 at 1345 Eastern Daylight Time (EDT), operations personnel were verbally
+notified that a fire barrier for area 737-A1B was not installed, and would render the 2A
+Emergency Diesel Generator (EDG) [EIIS:DG] not operable in the event of a fire on the Unit 2
+side of elevation 737 in the Auxiliary Building. The 2A EDG is the credited power source for
+fire safe shutdown for a fire located in this area. Without the credited source of power, this
+placed Watts Bar Nuclear Plant (WBN) Unit 2 in an unanalyzed condition.
+This event is being reported to the NRC under 10 CFR 50.73(a)(2)(ii)(B) as an unanalyzed
+condition that significantly degraded plant safety.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+None.
+C. Dates and approximate times of occurrences
+Dates and
+Occurrence
+Approximate Times
+5/25/2023 at 1345 Operations personnel were notified a fire barrier was not
+EDT installed.
+Condition Report 1858921 documents issue with loss of
+5/25/2023 at 1358
+480v Diesel Auxiliary Boards 2A1-A and 2A2-A during an
+EDT
+Appendix R fire.
+5/25/2023 at
+NRC Event Notification 56540 submitted to NRC.
+1701 EDT
+WBN Units 1 and 2 implement modification WBN-23-034 to
+6/10/2023 at 1338
+address Appendix R issue associated with the DG Auxiliary
+EDT
+Boards.
+D. Manufacturer and model number of each component that failed during the event
+N/A
+NRC FORM 366A (03-14-2023)(cid:9) Page 2 of 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 001 -(cid:9) 00
+NARRATIVE
+E. Other systems or secondary functions affected
+None.
+F. Method of discovery of each component or system failure or procedural error
+On May 25, 2023, WBN engineering personnel submitted CR 1858921 as a result of findings
+while performing a Fire Probabilistic Risk Assessment (PRA) for WBN.
+G. The failure mode, mechanism, and effect of each failed component
+No components failed associated with this event.
+H. Operator actions
+Operations instituted a fire watch following review of CR 1858921.
+I. Automatically and manually initiated safety system responses
+None.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+The cause is a legacy design issue which failed to recognize the Normal and Alternate
+Feeders share the same breaker on the associated 480V shutdown board (2-BD-212-A1-A
+and 2-BD-212-A2-A). Design Change 54192 issued in 2010 during Unit 2 completion rerouted
+and wrapped the Normal Feeder but did not include the Alternate Feeder.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance cause is attributed to this event.
+IV.(cid:9) Analysis of the event
+A legacy issue was discovered in the Unit 1 and 2 Appendix R Safe Shutdown Analysis. This
+legacy issue stems from a resolution applied to the Normal Feeder Cables [EIIS:CBL] and
+Alternate Feeder Cables for the 480V Diesel Auxiliary Boards 2A1-A and 2A2-A (2-MCC-215-
+A001-A and 2-MCC-215-A002-A)[EIIS:SWGR]. The analysis failed to recognize the normal and
+NRC FORM 366A (03-14-2023)(cid:9) Page 3 of 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 001 -(cid:9) 00
+NARRATIVE
+alternate feeders share the same breaker on the associated 480V shutdown board (2-BD-212-
+A001-A and 2-BD-212-A002-A). The resolution was applied to the Normal and Alternate Feeder
+Cables covering fire area 737-A1B (Unit 2 side of elevation 737). The resolution was incorrectly
+applied to the alternate cables with no protection in fire area 737-A1B. This results in an
+associated circuit that would result in loss of 480V Diesel Auxiliary Boards 2A1-A and 2A2-A by
+tripping the common breaker on a short to ground fault during a fire in 737-A1B. This would result
+in the loss of the 2A EDG, which is the credited power source for an Appendix R fire in this area
+supporting Unit 2 safe shutdown. In the event the 2A EDG was lost, the existing station batteries
+could support safe plant operation for several hours until a FLEX DG could be started and aligned
+to the 2A 6.9kV Shutdown Board (SDBD).
+V.(cid:9) Assessment of Safety Consequences
+For an Appendix R fire in the area of concern, Unit 2 would have lost offsite power and its credited
+onsite AC power source, the 2A EDG. Cooling for Unit 2 for this event is provided by the Turbine
+Driven Auxiliary Feedwater Pump (TDAFWP)[EIIS:P]. Motor operated valving for the Unit 2
+TDAFWP is powered by station batteries. The plant’s response would therefore have been
+similar to that for a station blackout (SBO). Several hours would have been available to start and
+load an installed FLEX diesel to the 2A 6.9 kV SDBD normally powered by the 2A EDG, allowing
+for safe plant shutdown.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+No components failed as a result of this issue. In the event of an Appendix R fire in the
+location identified, WBN had the capability to load a FLEX diesel generator to the 2A 6.9kV
+SDBD.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+Appendix R events are analyzed with the plant at power, so this is not applicable.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+Not applicable.
+NRC FORM 366A (03-14-2023)(cid:9) Page 4 of 5
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 001 -(cid:9) 00
+NARRATIVE
+VI.(cid:9) Corrective Actions
+This event was entered into the TVA Corrective Action Program and is being tracked under
+Condition Report 1858921.
+A. Immediate Corrective Actions
+Immediate corrective actions were to institute a fire watch until the identified issue was
+corrected.
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+Design change WBN-23-034 was implemented by Work Order (WO) 123783604 on June 10,
+2023. The design change disconnected the Alternate Feeder Cable for the Diesel Auxiliary
+Boards from the associated 480V Shutdown Board. Therefore, a fire in fire area 737-A1B
+would no longer trip the common breaker. The normal feeder remains protected in this area.
+VII. Previous Similar Events at the Same Site
+Multiple Licensee Event Reports (LERs 390-2013-005-00, 390-2014-004-02, 390-2015-002-01,
+and 390-2015-004-01) were submitted to NRC in 2014 and 2015 for Unit 1 related to unanalyzed
+conditions associated with Appendix R. These issues were identified during the licensing of WBN
+Unit 2. This LER is the first item identified for WBN Unit 2.
+VIII. Additional Information
+None.
+IX. Commitments
+None.
+NRC FORM 366A (03-14-2023)(cid:9) Page 5 of 5

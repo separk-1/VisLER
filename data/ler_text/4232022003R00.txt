@@ -1,0 +1,252 @@
+Dominion Energy Nuclear Connecticut, Inc. Dominion
+Millstone Power Station
+ro sej Energye
+314 Rope Ferry Road, Waterford, CT 06386
+DominionEnergy.com
+U. S. Nuclear Regulatory Commission Serial No.: 23-281
+Attention: Document Control Desk MPS Lic/JP RO
+Washington, DC 20555 Docket No.: 50-423
+License No.: NPF-49
+OCT 2 8 /023
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+MILLSTONE POWER STATION UNIT 3
+LICENSEE EVENT REPORT 2022-003-00
+GAS VOID IN THE EMERGENCY CORE COOLING SYSTEM RESULTED IN A CONDITION
+PROHIBITED BY TECHNICAL SPECIFICATIONS
+This letter forwards Licensee Event Report (LER) 2022-003-00, documenting a condition that was
+discovered at Millstone Power Station Unit 3 (MPS3) on August 31 2023. This LER is being
+submitted pursuant to 10 CFR 50.73 (a)(2)(i)(B) as a condition prohibited by technical specifications.
+There are no regulatory commitments contained in this letter or its enclosure.
+Should you have any questions, please contact Mr Dean E. Rowe at (860) 444-5292.
+Sincerely,
+Michael J. O'Connor
+Site Vice President — Millstone
+Enclosure: LER 423/2022-003-00
+Serial No. 23-281
+Docket No. 50-423
+Licensee Event Report 2022-003-00
+Page 2 of 2
+cc:(cid:9) U.S. Nuclear Regulatory Commission
+Region I
+475 Allendale Road, Suite 102,
+King of Prussia, PA 19406–1415.
+R. V. Guzman
+NRC Project Manager Millstone Units 2 and 3
+U.S. Nuclear Regulatory Commission
+One White Flint North, Mail Stop 08 C2
+11555 Rockville Pike
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Millstone Power Station
+Serial No. 23-281
+Docket No. 50-423
+Licensee Event Report 2022-003-00
+ATTACHMENT
+LICENSEE EVENT REPORT 2022-003-00
+GAS VOID IN THE EMERGENCY CORE COOLING SYSTEM RESULTED IN A CONDITION
+PROHIBITED BY TECHNICAL SPECIFICATIONS
+MILLSTONE POWER STATION UNIT 3
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+LICENSEE EVENT REPORT (LER) learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oirasubmission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name n 050 2. Docket Number 3. Page
+423 1 OF(cid:9) 4
+Millstone Power Station - Unit 3 052
+4. Title
+Gas Void in the Emergency Core Cooling System Resulted In a Condition Prohibited By Technical Specifications.
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+10 06 2022 2022 -(cid:9) 003(cid:9) - 00 10 28 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 4 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Dean E. Rowe, Manager Nuclear Emergency Preparedness and Licensing 860-444-5292
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On October 6, 2022 at 1300 hours, with Millstone Power Station Unit 3 in Mode 1 at 100 percent reactor power, ultrasonic
+testing (UT) measurements on the “A” train residual heat removal (RHR) piping identified a gas void greater than acceptance
+criteria. The most likely source of gas voids in this section of pipe was determined to be inadequate guidance in the operating
+procedures used to perform filling and venting activities during system restorations following the refueling outage in May
+2022. The entire length of piping was vented and UT measurements at multiple locations verified that the voids were reduced
+to within acceptable limits. This condition is being reported pursuant to 10 CFR 50.73(a)(2)(i)(B) as any operation or condition
+prohibited by the plant's Technical Specifications.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station - Unit 3 423
+052 2022 - 003 - 00
+NARRATIVE
+On October 6, 2022 at 1300 hours, with Millstone Power Station Unit 3 in Mode 1 at 100 percent reactor power,
+ultrasonic testing (UT) measurement on “A” train residual heat removal (RHR) piping identified a gas void greater than
+the acceptance criteria. The UT measurement was taken during monthly performance of SP 3610A.3, “RHR System
+Vent and Valve(cid:9) Lineup Verification” on the “A” low pressure safety injection to charging pump suction line,
+3-SIL-008-14-2, at Point 10. The “A” train of RHR was declared inoperable and Technical Specifications (TS) 3.5.2,
+Emergency Core Cooling System (ECCS) was entered. Venting was performed and the ECCS system was declared
+operable in accordance with SP 3610A.3 on October 6, 2022 at 1725 hours and TS 3.5.2 was exited.
+On October 14, 2022, SP3610A.3 was performed at point 10 and a gas void greater than acceptance criteria was
+observed in the line 3-SIL-008-14-2. “A” train of RHR was declared inoperable, and TS 3.5.2 was entered on October 14,
+2022, at 1005 hours. Point 10 was vented and a UT was performed and confirmed that the piping was 100% full of water.
+TS 3.5.2 was exited on October 14, 2022, at 1737 hours.
+Troubleshooting was performed on October 15, 2022 to fully characterize the gas void in line 3-SIL-008-14-2. To support
+this troubleshooting, TS 3.5.2 was entered and “A” train of RHR was declared inoperable on October 15, 2022 at 0944
+hours. This line was divided into 10 sections and full expanded ultrasonic testing measurements were taken at each
+section. Repeated venting and agitation of the line was performed to remove the gas voids.
+After the initial expanded UT characterization, it was concluded that the remaining gas void volume was greater than the
+acceptable gas void volume. After repeated venting and agitation evolutions, the final UT characterization determined
+that the gas void volume was less than acceptable limits. An operability determination evaluated the(cid:9) as-left condition
+and determined that “A” train of RHR was able to perform its design function. The ECCS system was declared operable
+and TS 3.5.2 was exited on October 17, 2022 at 1441 hours.
+On August 31, 2023, an NRC inspector identified a non-conservative error within the void volume calculation
+14-ENG-04518M3 “MP3 GL2008-01 Pump Suction Side Gas Void Allowable Volume Using Westinghouse Simplified
+Equation Method” approved in 2015. Millstone engineering determined that the pressure used for evaluating a void
+volume in line 3-SIL-008-014-2 was incorrect and non-conservative. This error resulted in the reduction of the allowable
+void size acceptance criteria.
+Based on the corrected acceptable void volume, the original as-found gas void volume identified on October 6, 2022,
+was greater than the allowable acceptable gas void volume; therefore, the plant was operating in a condition outside of
+plant Technical Specifications. Void volume greater than acceptable limits existed from May 18, 2022, when the plant
+entered Mode 3, until October 17, 2022 when void volume was verified to be less than acceptable limits.
+SP 3610A.3 is performed monthly and the line 3-SIL-008-014-2 was verified to be full of water each month from the
+refueling outage until its performance on October 6, 2022. Prior to October 17, 2022, the procedure SP 3610A.3
+directed that a single UT measurement to be taken at Point 10 on line 3-SIL-008-14-2 to measure the gas void volume.
+This did not fully characterize the void volume in line 3-SIL-008-14-2. The procedure SP 3610A.3 has been revised to
+include additional UT locations that fully characterize the void volume.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station - Unit 3 423
+052 2022 - 003 - 00
+NARRATIVE
+In Modes 1, 2, and 3, Technical Specification (TS) 3.5.2 "ECCS Subsystems - Tavg Greater Than or Equal to 350°F,"
+requires two independent ECCS subsystems be operable, with each subsystem comprised of a minimum of one charging
+pump (CHS), one safety injection pump (SIH), one residual heat removal pump (RHR), one containment recirculation
+pump (RSS), one RHR heat exchanger, and one RSS heat exchanger together with associated valves and piping to
+assure adequate core cooling in the event of a design basis loss of coolant accident (LOCA). In Modes 1, 2, and 3,
+Technical Specifications require that the ECCS be verified filled at least once every 31 days. The TS is met by venting
+ECCS pump casings and the accessible discharge piping high points.
+The previous historic operability assessment performed for the gas void found in line 3-SIL-008-014-2 from October 17,
+2022, has been reviewed and determined that an incorrect determination of historic operability was made. The historic
+gas void size has been determined to be unacceptable, and a Licensee Event Report (LER) should have been generated
+due to discovery on October 6, 2022 and submitted by December 5, 2022.
+Event Date: October 6, 2022 – Gas void first discovered in the “A” RHR piping. Gas void was found greater than
+acceptance criteria per SP 3610A.3.
+Discovery Date: August 31, 2023 – NRC inspector found non-conservative error in the calculation 14-ENG-041518M3
+which resulted in the reduction of allowable void size acceptance criteria.
+This report is being submitted pursuant to 10 CFR 50.73 (a)(2)(i)(B), as an operation or condition that was prohibited by
+the plant's Technical Specifications.
+CAUSE
+Most likely source of gas voids in this section of pipe was determined to be inadequate guidance in the operating
+procedures used to perform filling and venting activities during system restorations.
+ASSESSMENT OF SAFETY CONSEQUENCES
+The gas void at Point 10 was located in the 8” common suction header between the RSS pump discharge and the CHS
+pump suction. This section of piping only experiences flow during post Loss of Coolant Accident (LOCA) cold leg
+recirculation. Thus, the gas void at this location could only affect CHS pumps during the cold leg recirculation phase of a
+LOCA.
+The core response of postulated Loss of Coolant Accidents is discussed in Section 15.6.5 of the Final Safety Analysis
+Report (FSAR). The acceptance criteria for the response to a LOCA are described in Title 10 of the Code of Federal
+Regulations 50.46 (10 CFR 50.46). Three of the acceptance criteria i.e., peak cladding temperature (PCT), maximum
+local oxidation (MLO) and core-wide oxidation (CWO) are approached prior to cold leg recirculation during the ECCS
+injection phase. Therefore, these criteria would be unaffected by the presence of a gas void in line 3-SIL-008-14-2.
+The remaining 10 CFR 50.46 criteria addresses the core remaining amenable to cooling during, and after, the LOCA and
+reduction in core temperature by decay heat removal for an extended period of time. These criteria are met by
+demonstrating successful transition from the ECCS injection phase to the post LOCA cold leg recirculation phase.
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station - Unit 3 423
+052 2022 - 003 - 00
+NARRATIVE
+In the normal post LOCA cold leg recirculation configuration, the RSS pumps take suction from the containment sump to
+provide suction to the SIH pumps and CHS pumps. The high head CHS pumps and the intermediate head SIH pumps
+are aligned to provide injection into the reactor coolant system (RCS) cold legs.
+Should the gas void interfere with the operation of a charging pump in establishing post LOCA cold leg recirculation,
+EOP 35 ES-1.3, “Transfer to cold leg recirculation”, has instructions to open a RHR cold leg injection valve. Cold leg
+recirculation flow would then be provided from the RSS pumps through the RHR injection lines as well as through the
+SIH pumps. This would allow for successful cold leg recirculation to be established.
+The containment response to a LOCA is discussed in FSAR Section 6.2.1. The peak containment temperature and
+pressure also occur early in the Engineered Safety Features (ESF) injection phase of the accident. The post ESF
+injection containment spray recirculation is not impacted by the point 10 void location.
+Therefore, it is concluded that the plant response to a LOCA will be unchanged from the results as presented in the
+FSAR.
+CORRECTIVE ACTIONS
+The entire length of pipe was vented to remove gas voids. UT measurements were performed at multiple locations along
+the piping to verify that voids were reduced to within acceptable limits. Operating procedures have been enhanced to
+include instructions for filling and venting this line and assuring that ECCS piping is verified sufficiently full of water.
+Additional corrective actions will be taken in accordance with the station’s corrective action program.
+PREVIOUS OCCURANCES
+There have been no similar events or conditions related to Unit 3 ECCS train inoperable for a period longer than the
+technical specification action statement allows over the last 5 years.
+ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) CODES
+None
+NRC FORM 366A (10-01-2023)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 4

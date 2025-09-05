@@ -1,0 +1,232 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+LICENSEE EVENT REPORT (LER) lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+(See Page 3 for required number of digits/characters for each block) Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) e-mail(cid:9) to
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) Affairs, (3150-0104), Attn: Desk ail: oira_submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to (cid:9)respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Surry Power Station Unit 1 05000(cid:9) 280 1 OF(cid:9) 5
+4. Title
+Loss of Emergency Switchgear Room Cooling Due to Use of Incorrect Air Handler Fan V-Belts
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No.
+05000
+09 15 2022 2022 -(cid:9) 003(cid:9) - 00 11 11 2022 Facility Name Docket Number
+05000
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20(cid:9) 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A)(cid:9) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 4(cid:9) 50.73(a)(2)(v)(A)(cid:9) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 4 (cid:9) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 4(cid:9) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR(cid:9) Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Fred Mladen, Surry Power Station Site Vice-President (757) 365-2001
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS(cid:9) Cause System Component Manufacturer Reportable to IRIS
+A VK FAN B860 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+4 (cid:9) No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+As part of planned maintenance beginning on 7/29/2022 to 9/15/2022, the air handling unit (AHU) fan V-belts for both of the
+Unit 1 Emergency Switchgear Room (ESGR) cooling trains (1-VS-AC-6 and 1-VS-AC-7) were replaced. When the AHU was
+placed in-service, these V-belts eventually failed resulting in the inoperability of one or both of the AHU(s).
+The cause of this event was that the V-belt vendor sent a different variant of the BX-99 V-belt ordered (Torq Titan vs. the Grip
+Notch V-belt expected) and these belts were inadvertently accepted and installed at the station. Contributing to this cause was
+that there were missed opportunities to recognize that the new V-belts were not the same design as those being replaced.
+There were no safety consequences because of this event since the maximum temperature in the room stayed well below the
+design basis upper limit. Planned corrective actions include procedural enhancements and coaching of personnel to ensure
+that the parts received at the station comply with those ordered.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:9) 2. DOCKET NUMBER 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+05000- NUMBER NO.
+Surry Power Station, Unit 1(cid:9) 280
+2022 -(cid:9) 003(cid:9) - 00
+NARRATIVE
+PLANT OPERATING CONDITIONS BEFORE THE EVENT
+Surry Power Station (SPS) Units 1 and 2 were at 100% power.
+1.0 DESCRIPTION OF THE EVENT (EIIS codes are identified in the text as [XX])
+The Main Control Room/Emergency Switchgear Room (MCR/ESGR) ventilation subsystem [VK] provides fresh air and
+recirculates and cools the air for personnel and equipment concerns, and the emergency portion of the system supplies
+provide a source of filtered fresh air to these areas in the event of a nuclear or chemical release.
+Air conditioning (A/C), breathing air, and associated equipment are Seismic Class I within the missile-protected boundary
+and powered from emergency buses to ensure operation during both normal and emergency conditions. Two (2) 100%
+redundant air handling units (AHUs) [AHU], fed from different power sources, are provided for the ESGR and Relay Room
+(RR) of each unit. Each AHU is supplied chilled water by one of five chillers [CHU] connected to the same power source
+as the respective AHU. For the AHU fan [FAN], there are two (2) matched rubber V-belts installed.
+The system is designed to limit temperatures in occupied spaces to less than 100°F and in non-occupied spaces to less
+than 120°F. The AHUs, which serve the Unit 1 ESGR, are 1-VS-AC-6 (powered from the 1J bus) and 1-VS-AC-7
+(powered from the 1H bus).
+The design basis of the MCR and ESGR air conditioning system (ACS) [ACU] is to maintain the MCR/ESGR envelope
+temperature within the equipment design limits for 30 days of continuous occupancy after a design basis accident (DBA).
+The ACS includes five (5) chillers (1-VS-E-4A, 4B, 4C, 4D, and 4E). The chillers supply chilled water to eight (8) AHUs
+arranged in two (2) independent and redundant chilled water loops.
+On 7/29/2022, as part of planned preventative maintenance on the ESGR AHUs, the V-belts on 1-VS-AC-7 were replaced
+with the same stock number V-belts that have been in-service at Surry Power Station (SPS) for many years. However, the
+AHU was not placed in-service until 9/14/2022. At that time, SPS personnel were unaware that the V-belts installed had
+been replaced by the manufacturer from the “old style” Grip Notch V-belts to the “new-style” Torq Titan V-belts.
+On 9/16/2022, 1-VS-AC-7 was secured due to a belt slapping noise. An investigation revealed that one of the two belts
+had come off the sheaves. A new set of Torq Titan V-belts was installed and tensioned after a satisfactory alignment and
+sheave check were performed.
+On 9/15/2022, preventative maintenance was performed on 1-VS-AC-6 that also installed the new Torq Titan V-belts.
+Those V-belts failed on 9/17/2022 and were replaced with another set of Torq Titan V-belts after an alignment and sheave
+check. At this point SPS believed issues with both AHUs had been corrected.
+On 9/18/2022, the V-belts on 1-VS-AC-7 failed again and were replaced with Torq Titan V-belts. This time an alignment
+check was performed using a laser alignment tool and the belts were “run in” for four (4) hours, followed by satisfactory
+vibration readings prior to returning the AHU to operable status.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:9) 2. DOCKET NUMBER 3.(cid:9) LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+05000- NUMBER NO.
+Surry Power Station, Unit 1(cid:9) 280
+2022 -(cid:9) 003(cid:9) - 00
+NARRATIVE
+On 9/19/2022, the V-belts on 1-VS-AC-7 failed once again. At that point it was concluded that maintenance fundamentals
+were not responsible for the failures and further investigation was performed. An older set of Grip Notch V-belts was
+found, and a side-by-side comparison made between the new and old V-belts. At this time, it was realized that the V-
+belts were not the same and that the vendor had changed the V-belt line without first notifying the station (as required in
+the purchase order). The older Grip Notch V-belts were subsequently installed on 1-VS-AC-7 with satisfactory
+performance to date. Also, on 9/19/2022, 1-VS-AC-6 was declared inoperable since it also had Torq Titan V-belts
+installed. Those V-belts were subsequently replaced, and the train declared operable on 9/22/2022.
+As evidenced by numerous malfunctions of the installed Torq Titan V-belts, it was concluded that neither ESGR cooling
+train would have been able to perform its 30-day mission time safety function with these V-belts installed. A total of five
+(5) sets of Torq Titan V-belts were installed associated with the preventative maintenance or to replace failed belts.
+The new-style Torq Titan V-belts were installed on 1-VS-AC-7 from 7/29/2022 to 9/19/2022, which resulted in that train
+being considered inoperable. During this same period, the older-style Grip Notch V-belts were installed on 1-VS-AC-6
+until replaced with the new-style Torq Titan belts on 9/15/2022. This resulted in one (1) train of ESGR cooling being
+operable until 9/15/2022. Technical Specification (TS) 3.23(A)(2)(a)(1) requires that an inoperable train is to be restored
+within 7-days or be in cold shutdown within the next 36 hours upon the loss of one (1) cooling train. In this case, the
+Allowed Outage Time (AOT) required action statement was not met.
+Additionally, between 9/15/2022 and 9/19/2022, the Torq Titan V-belts were installed on both cooling trains which resulted
+in both being inoperable. With neither train operable, the TS 3.23(A)(2)(a)(3) AOT action statement requires that one (1)
+train be restored to operable status within one (1) hour or be in cold shutdown within the next 36 hours. This required
+action also was not met.
+Due to these two (2) instances, an operation or condition prohibited by the station TSs occurred, which is reportable per
+10 CFR 50.73(a)(2)(i)(B). Also as mentioned previously, between 9/15/2022 and 9/19/2022, the new-style belts were
+installed on both cooling trains (1-VS-AC-6 and -7), which resulted in the Unit 1 ESGR having no operable means of
+cooling. This is a loss of safety function that is reportable per 10 CFR 50.73(a)(2)(v)(A). Finally, due to the loss of both
+trains due to a similar cause, a common-cause failure situation existed that is reportable per 10 CFR 50.73(a)(2)(vii).
+2.0 SIGNIFICANT SAFETY CONSEQUENCES AND IMPLICATIONS
+There were no safety consequences from this event. The safety-related equipment within the room has an operating
+temperature limit of 120°F, which meant that the ambient temperature would have had to exceed 110°F before the
+equipment would be considered inoperable. During the 4-day period when both cooling trains were unavailable,
+information obtained from the plant logs showed the actual recorded room temperature to be in the mid to upper 70°F
+range. Consequently, the room temperature never approached the 110°F limit before restoring one (1) AHU to operable
+status on 9/19/2022. Also, by procedure, operators are required to shut down the unit if the temperature limit is exceeded.
+3.0 CAUSE OF EVENT
+The cause of this event was that the V-belt vendor sent a different variant of the BX-99 V-belt ordered (Torq Titan vs. the
+Grip Notch V-belt expected) and these V-belts were inadvertently accepted and installed at the station. Contributing to
+this cause was that there were missed opportunities to recognize that the new V-belts were not the same design as the V-
+belts being replaced.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:9) 2. DOCKET NUMBER 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+05000- NUMBER NO.
+Surry Power Station, Unit 1(cid:9) 280
+2022 -(cid:9) 003(cid:9) - 00
+NARRATIVE
+In July 2021, due to decreasing station stock, a purchase order (PO) for additional BX-99 Grip Notch V-belts was placed.
+These belts were commercially dedicated by Dominion Energy since there are no Appendix B audited suppliers of these
+belts, which have been used at the station for several years and have performed reliably. The PO specified 4 sets (of 2
+belts each) with the Part#/Manufacturer listed as “BX-99 Browning.” The PO also contained dimensional criteria based on
+the existing BX-99 Browning Grip Notch belt.
+Upon delivery to the station, the belts were inspected against the PO acceptance criteria, accepted, and placed into stock.
+Following the apparent cause evaluation into the event, it was revealed that the actual belts delivered were the “Browning
+BX99 Torq Titan” rather than the “Browning BX-99 Grip Notch” belts ordered. Although the PO specified that Dominion
+Energy be notified if a different belt line was used, it was later discovered that the vendor had substituted the belts since
+the Grip Notch line had been discontinued. The substituted Torq Titan belts were very similar in appearance to the Grip
+Notch belts, e.g., both belts have similar dimensions (within tolerances) for top width, length, and height, as well as
+identification based on the generic industry standard BX-99 designs; however, it was later learned that there were
+differences in the belt profile, which led to the belt failing.
+4.0 IMMEDIATE CORRECTIVE ACTIONS
+Upon recognition of the replacement belt issue, the installed Torq Titan belts were replaced with Grip Notch belts.
+5.0 ADDITIONAL CORRECTIVE ACTIONS
+An extent of condition review revealed that the Browning Torq Titan belts had not been used in other safety-related A/C
+equipment applications.
+6.0 PLANNED CORRECTIVE ACTIONS
+1. Enhancements (e.g., use of pictures, etc.) will be made to the belt's procurement documents to enhance recognition of
+and confirm that the parts ordered are the actual parts received at the station.
+2. For each of the organizations involved, reinforce expectations about the importance of comparing parts before they are
+accepted, inventoried, and/or installed in the plant.
+3. Actively pursuing obtaining replacement V-belts from a different manufacturer.
+7.0 SIMILAR EVENTS
+No similar events have occurred at Surry Power Station within the last three (3) years.
+8.0 ADDITIONAL INFORMATION
+SPS Unit 1 and Unit 2 remained at 100% power throughout the repair and return to operability.
+Failed Component: Browning BX-99 Torq Titan V-belt manufactured by Browning MFG/Emerson Power Transmission.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 4(cid:9) of(cid:9) 5
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Washington, DC 20503; e-mail: oira submission@omb.eop.gov. The NRC may not conduct or
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME (cid:9) 2. DOCKET NUMBER 3. LER NUMBER
+YEAR(cid:9) SEQUENTIAL REV
+05000- NUMBER NO.
+Surry Power Station, Unit 1(cid:9) 280
+2022 -(cid:9) 003(cid:9) - 00
+NARRATIVE
+9.0 COMMITMENTS
+There are no regulatory commitments contained in this report. Actions described in this document represent planned
+actions and are not regulatory commitments. The planned actions are provided as information only.
+NRC FORM 366A (08-2020)(cid:9) Page(cid:9) 5(cid:9) of(cid:9) 5

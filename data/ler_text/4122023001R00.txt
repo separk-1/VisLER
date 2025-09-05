@@ -1,0 +1,173 @@
+(cid:9)(cid:9)(cid:9)
+Beaver Valley Power Station
+energy
+P.O. Box4
+Shippingport, PA 15077
+harbor
+(cid:9)
+Barry N. Blair 724-682-5234
+(cid:9)
+Site Vice President Fax: 724-643-8069
+June 16, 2023
+(cid:9)
+L-23-141 10 CFR 50.73
+ATTN: Document Control Desk
+U. S. Nuclear Regulatory Commission
+Washington, DC 20555-0001
+SUBJECT:
+Beaver Valley Power Station, Unit No. 2
+Docket No. 50-412, License No. NPF-73
+LER 2023-001-00
+Enclosed is Licensee Event Report (LER) 2023-001-00, "Indications Identified During
+Reactor Vessel Head Inspection." This event is being reported in accordance with
+There are no regulatory commitments contained in this submittal. Any actions described
+in this document represent intended or planned actions and are described for
+information only.
+If there are any questions or if additional information is required, please contact
+Ms. Julie Hartig, Manager (Acting), Regulatory Compliance and Emergency Response,
+at 724-682-4224.
+Enclosure: Beaver Valley Power Station, Unit No. 2 LER 2023-001-00
+cc: NRC Region I Administrator
+NRC Senior Resident Inspector
+NRC Project Manager
+INPO Records Center (via INPO Industry Reporting and Information System)
+BRP/DEP
+Enclosure
+L-23-141
+Beaver Valley Power Station, Unit No. 2 LER 2023-001-00
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory
+Commission, Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer
+(See Page 2 for required number of digits/characters for each block)
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oirasubmission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+Beaver Valley Power Station, Unit No. 2
+00412 1 OF(cid:9) 3
+052
+4. Title
+Indications Identified During Reactor Vessel Head Inspection
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. 050
+04 22 2023 2023 -(cid:9) 001(cid:9) - 00 06 16 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+D 000
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Julie Hartig, Manager (Acting), Regulatory Compliance and Emergency Response 724-682-4224
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B AB RPV C490 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On April 22, 2023, during the BVPS-2 twenty-third refueling outage (2R23), it was determined that two indications identified on
+the reactor pressure vessel head vent line did not meet the applicable acceptance criteria. Because the indications could not be
+dispositioned as acceptable per American Society of Mechanical Engineers (ASME) Code Section XI in a Reactor Coolant System
+pressure boundary, it was reported under Event Notification 56485 as a degraded condition per 10 CFR 50.72(b)(3)(ii)(A) as a
+degraded condition, and is being reported under 10 CFR 50.73(a)(2)(ii)(A).
+Primary Water Stress Corrosion Cracking (PWSCC) of the Alloy 600 penetration tube material was determined to be the cause
+of the identified flaws. The vent line penetration was repaired in accordance with NB-3200 of ASME Section III, ASME Code
+Case N-638-10, and relief request 2-TYP-4-RV-06.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 050 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Beaver Valley Power Station, Unit No. 2 412
+052 2023 - -
+001 00
+NARRATIVE
+Energy Industry Identification System (EIIS) codes are identified in the text as [XX].
+DESCRIPTION OF EVENT
+Beaver Valley Power Station, Unit No. 2 (BVPS-2) was in a Defueled Mode. There were no systems, structures, or
+components that were inoperable at the start of the event that contributed to the event.
+On April 22, 2023, during the BVPS-2 twenty-third refueling outage (2R23), it was determined that two indications
+identified on the reactor pressure vessel head [AB-RPV] vent line did not meet the applicable acceptance criteria. The
+reactor pressure vessel head examinations were performed to meet the requirements of 10 CFR 50.55a(g)(6)(ii)(D) and
+ASME Code Case N-729-6 to find potential flaws/indications before they grow to a size that could potentially jeopardize
+the structural integrity of the reactor vessel head pressure boundary.
+The eddy current examination results identified one radial linear indication 0.200" long at the 38-degree circumferential
+location and one radial linear indication 0.160" long at the 236-degree location.
+The degraded condition was reported to the NRC per 10 CFR 50.72(b)(3)(ii)(A) on April 22, 2023 (Event Notification
+56485).
+CAUSE OF EVENT
+Primary Water Stress Corrosion Cracking (PWSCC) of the Alloy 600 penetration tube material was determined to be the
+cause of the identified flaws. The failure mechanism is a known issue that is addressed by the requirements of
+10 CFR 50.55a(g)(6)(ii)(D). The repairs to the vent line penetration were performed in accordance with NB-3200 of ASME
+Section III, ASME Code Case N-638-10, and relief request 2-TYP-4-RV-06 and were completed prior to startup.
+ANALYSIS OF EVENT
+Indications that cannot be dispositioned as acceptable per ASME Code Section XI in a Reactor Coolant System (RCS)
+[AB] pressure boundary are reportable under 10 CFR 50.73(a)(2)(ii)(A) as a degraded condition.
+The plant risk associated with the BVPS-2 eddy current indications identified on the vent line penetration of the reactor
+vessel head is considered to be of very low safety significance. This is based on the fact that the indications were not
+through-wall and there was no indication of RCS leakage. The change in core damage frequency derived using the
+conditional core damage probability and the change in large early release frequency derived using conditional large early
+release probability for the observed condition are very small.
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 2(cid:9) of(cid:9) 3
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(03-14-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear (cid:9) Regulatory(cid:9) Commission,(cid:9) Washington,(cid:9) DC(cid:9) 20555-0001,(cid:9) or(cid:9) by(cid:9) email(cid:9) to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC(cid:9) 20503; email:(cid:9) oirasubmission@omb.eop.gov.(cid:9) The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 050 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+NUMBER NO.
+Beaver Valley Power Station, Unit No. 2 412
+052 2023 - -
+001 00
+NARRATIVE
+CORRECTIVE ACTIONS
+Completed:
+The flaws were repaired in accordance with NB-3200 of ASME Section III and ASME Code Case N-638-10 with two
+exceptions approved via relief request 2-TYP-4-RV-06. The repair was completed prior to startup in May 2023.
+Planned:
+The vent line penetration will be examined every outage as required by 10 CFR 50.55a and Code Case N-729-6.
+Additional analysis for thermal stress and fatigue will be performed prior to the next refueling outage to confirm the repair
+meets ASME fatigue criteria for long term operation. This will be completed per corrective action CA-2023-03587-001.
+PREVIOUS SIMILAR EVENTS
+Similar reactor vessel head indications were found and repaired during the previous BVPS-2 refueling outages in 2021,
+2020, 2018, 2014, 2012, 2009, 2008, and 2006.
+NRC FORM 366A (03-14-2023)(cid:9) Page(cid:9) 3(cid:9) of(cid:9) 3

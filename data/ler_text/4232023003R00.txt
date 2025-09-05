@@ -1,0 +1,248 @@
+Dominion Energy Nuclear Connecticut, Inc.
+rai Dominion
+Millstone Power Station iior? Energy®
+314 Rope Ferry Road, Waterford, CT 06385
+DominionEnergy.com
+U. S. Nuclear Regulatory Commission Serial No.: 23-307
+Attention: Document Control Desk MPS Lic/JP RO
+Washington, DC 20555 Docket No.: 50-423
+License No.: NPF-49
+DEC 0 8 2023
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+MILLSTONE POWER STATION UNIT 3
+LICENSEE EVENT REPORT 2023-003-00
+RCS TEMPERATURE DETECTOR EXCEEEDED TIME RESPONSE ACCEPTANCE CRITERIA
+RESULTING IN A CONDITION PROHIBITED BY TECHNICAL SPECIFICATIONS
+This letter forwards Licensee Event Report (LER) 2023-003-00, documenting a condition that
+was discovered at Millstone Power Station Unit 3 (MPS3) on October 11, 2023. This LER is
+being submitted pursuant to 10 CFR 50.73 (a)(2)(i)(B) as a condition prohibited by technical
+specifications.
+There are no regulatory commitments contained in this letter or its enclosure.
+Should you have any questions, please contact Mr. Dean E. Rowe at (860) 444-5292.
+Sincerely,
+\;
+Michael J. O'Connor
+Site Vice President — Millstone
+Enclosure: LER 423/2023-003-00
+Serial No. 23-307
+Docket No. 50-423
+Licensee Event Report 2023-003-00
+Page 2 of 2
+cc:(cid:9) U.S. Nuclear Regulatory Commission
+Region I
+475 Allendale Road, Suite 102,
+King of Prussia, PA 19406-1415.
+R. V. Guzman
+NRC Project Manager Millstone Units 2 and 3
+U.S. Nuclear Regulatory Commission
+One White Flint North, Mail Stop 08 C2
+11555 Rockville Pike
+Rockville, MD 20852-2738
+NRC Senior Resident Inspector
+Millstone Power Station
+Serial No. 23-307
+Docket No. 50-423
+Licensee Event Report 2023-003-00
+ATTACHMENT
+LICENSEE EVENT REPORT 2023-003-00
+RCS TEMPERATURE DETECTOR EXCEEEDED TIME RESPONSE ACCEPTANCE
+CRITERIA RESULTING IN A CONDITION PROHIBITED BY TECHNICAL SPECIFICATIONS
+MILLSTONE POWER STATION UNIT 3
+DOMINION ENERGY NUCLEAR CONNECTICUT, INC.
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request 80 hours.(cid:9) Reported lessons
+s ._..1/44,6 learned are incorporated into the licensing process and fed back to industry. Send comments regarding burden
+LICENSEE EVENT REPORT (LER)
+I,' 2 f; (cid:9) estimate to the FOIA,(cid:9) Library, and Information Collections Branch (T 6 A10M),(cid:9) U. S. Nuclear Regulatory
+II (cid:9) 4:(cid:9) (See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to Infocollects.Res urce@nrc.gov, and the OMB reviewer
+at:(cid:9) OMB Office of Information and Regulatory Affairs, (3150-0104), Atin:(cid:9) Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oira su mission@omb.eop.gov. The NRC may
+htto://www.nrc.govireading-rmidoc-collections/nuregs/staff/sr1022/r34 not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+1.1(cid:9)
+423 1(cid:9) OF(cid:9) 3
+Millstone Power Station - Unit 3 052
+4. Title
+RCS Temperature Detector Exceeded Time Response Acceptance Criteria Resulting in a Condition Prohibited by TS
+5 Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Month Day Year Year Sequential Revi sion Month Day Year Facility Name Docket Number
+Number No. 050
+10 11 2023 2023 -(cid:9) 003(cid:9) - 00 12 08 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+ri
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 (cid:9) 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+n(cid:9)
+20.2201(b) q 20.2203(a)(3)(i) q 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) q 73.1200(b)
+20.2201(d) q 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) E(cid:9) 50.73(a)(2)(iii) fl(cid:9) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) n(cid:9) 20.2203(a)(4) q 50.36(c)(2) q 50.73(a)(2)(iv)(A) q 50.73(a)(2)(x) q 73.1200(d)
+n(cid:9)
+20.2203(a)(2)(1) 10 CFR Part 21 q 50.46(a)(3)(ii) 1.1(cid:9) 50.73(a)(2)(v)(A) 10 CFR Part 73 (cid:9) 73.1200(e)
+7(cid:9)
+q 20.2203(a)(2)(ii) q 21.2(c) q 50.69(g) 1.1(cid:9) 50.73(a)(2)(v)(B) q 73.77(a)(1) 73.1200(f)
+n(cid:9)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+fl(cid:9)
+n(cid:9)
+20.2203(a)(2)(iv) ,/(cid:9) 50.73(a)(2)(i)(B) q 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+n(cid:9)
+n(cid:9) 20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Dean E. Rowe, Manager Nuclear Emergency Preparedness and Licensing 860-444-5292
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+B AB TI W108 Y
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+Q
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On October 11, 2023 at 1252 hours, with Millstone Power Station Unit 3 in Mode 1 at 100 percent reactor power, it
+was identified during technical specification required response time testing that one of three reactor coolant system (RCS)
+loop 4 narrow range hot leg resistance temperature detector (RTD), 3RCS*TE441C, did(cid:9) not meet its response time
+acceptance criteria. Investigation revealed that this condition had existed for the operating cycle. 3RCS*TE441C was found
+not fully inserted into the thermowell due to a loose coupling nut. The RTD was successfully replaced, calibrated, and response
+time tested. This condition is being reported pursuant to 10 CFR 50.73(a)(2)(i)(B) as any operation or condition prohibited by the
+plant's Technical Specifications.
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry, Send comments
+°(cid:9) LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 MOM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Office for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eoo.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.govireading-rm/doc-collections/nuregs/staff/sr1022/r34
+requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME n 2. DOCKET NUMBER 3. LER NUMBER
+050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station - Unit 3 423
+q 052 2023 003 00
+NARRATIVE
+On October 11, 2023 at 1252 hours, with Millstone Power Station Unit 3 in Mode 1 at 100 percent reactor power, it
+was identified during response time testing in accordance with surveillance SP 3443E42, "Rakset 4 RCS Narrow
+Range RTD Time Response", that the reactor coolant system (RCS) loop 4 narrow range hot leg resistance
+temperature detector (RTD), 3RCS*TE441C, did not meet its response time acceptance criteria. AOP 3571, "Abnormal
+Operating Procedure", was entered at 1427 hours and the actions of Attachment A, "RCS Narrow Range
+Temperature Channel Failure", were performed. Technical Specification (TS) 3.3.1 action 6A and TS 3.3.2 action
+20 were entered and the associated reactor protection system (RPS) bistables were placed in the trip condition.
+Required TS actions were completed on October 11, 2023 at 1517 hours.
+The temperature indicated by 3RCS*TE441C (Computer Point RCS-T441G) was consistent with the other two
+narrow range hot leg RTDs in loop 4. The trend of 3RCS*TE441C indicated diminished variation compared to other 11
+narrow range hot leg temperature computer points beginning in June of 2022. Based on this trend it was determined
+that the 3RCS*TE441C slow response time had existed for longer than allowed by plant's technical specifications.
+On October 16 2023 at 1638, in accordance with SP 3442B04, "Hot Leg RTD Failure Compensation Procedure",
+3RCS*TE441C was removed from the circuit and in its place, a biased average of the other two RTDs was inserted.
+The remaining two hot leg RTDs plus the biased signal returned the loop to operable, and bistables were
+restored to service. TS 3.3.1 action 6A and TS 3.3.2 action 20 were exited.
+During the Millstone Unit 3 refueling outage in October 2023, 3RCS*TE441C was found not fully inserted into
+its thermowell. The RTD was successfully replaced, calibrated, and response time tested in accordance
+with of surveillance SP 3443E42.
+Technical Specification 3.3.1 action 6A for Mode 1 and 2 states that with the number of operable channels one less
+than the total number of channels, during startup and/or power operation, may proceed provided following
+conditions are satisfied. (a) The inoperable channel is placed in tripped condition within 72 hours and (B) minimum
+channel operable requirement is met.
+Technical Specification 3.3.2 action 20 for Mode 1 and 2 states that with the number of operable channels one less
+than the total number of channels, during startup and/or power operation, may proceed provided following
+conditions are satisfied. (a) The inoperable channel is placed in tripped condition within 6 hours and (B) minimum
+channel operable requirement is met.
+This condition is reportable pursuant to 10 CFR 50.73(a)(2)(i)(B), any operation or condition which was prohibited by
+the plant's technical specifications.
+CAUSE
+3RCS*TE441C was found not fully inserted into the thermowell due to a loose coupling nut. The cause of
+the coupling nut becoming loose is unknown.
+(cid:9)
+NRC FORM 366A (10-01-2023) Page(cid:9) 2(cid:9) of (cid:9) 4
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 M OM), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Office for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eoo.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required o respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+El 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station - Unit 3 423
+2023
+052 003 00
+NARRATIVE
+ASSESSMENT OF SAFETY CONSEQUENCES
+The RCS has three thermowells on each of the four reactor coolant system hot leg loops, and each thermowell
+houses one dual-element resistance temperature detector (RTD). 3RCS*TE441C senses narrow range hot leg
+temperature in conjunction with 3RCS*TE441A and 3RCS*TE441D. All three hot leg RTDs, along with a single RTD
+located in the cold leg of the same RCS loop feed into delta T and Tavg circuitry, in this case supplying signals to
+RAKSET 4. If 3RCS*TE441C is deemed inoperable, the entire Delta T/Tavg protection circuit would be impacted in
+RAKSET 4 potentially impacting the response of the overpower delta T (OPAT) and overtemperature delta T (OTAT)
+trip functions.
+Each of the other 3 RCS loops have identical and independent instrumentation to the other 3 protection channels.
+A reactor trip is generated when 2 of the 4 independent channels reach a trip condition.
+Most of the Chapter 15 safety analysis events that credit the action of the OPAT or OTAT trips are symmetric
+events in which the behavior of each RCS loop is essentially identical to the behavior of the other RCS loops. In
+these cases, the potentially degraded behavior of the single loop containing 3RCS*TE441C would not affect the
+timing of a reactor trip.
+For events that do not have symmetric loop behavior, the main steam line break (MSLB) shows the greatest loop to
+loop differences in temperature response. The event presented in Chapter 15 of the final safety analysis report
+(FSAR) is the limiting MSLB event which is initialized from zero power conditions. As part of the sensitivity studies
+confirming the limiting nature of the zero power case, an analysis was performed to demonstrate that the MSLB
+initiated from full power conditions was less limiting. This full power analysis examined a spectrum of break sizes,
+some of which resulted in an OPAT trip to terminate the event.
+As expected, the OPAT RCS loop with the break reached the trip condition first. However, as this is just a single
+channel, a reactor trip did not occur. Of the remaining 3 loops, the next two fastest responding reached an OPAT
+condition within 0.1 seconds of each other. Therefore, assuming a break occurs in the steam line attached to the
+RCS loop with 3RCS*TE441C invalidating that loops OPAT trip, an OPAT trip would be delayed at most 0.1 seconds
+until the next two loops were both in a tripped condition. There is more than adequate margin between the hot
+full power case results and the event acceptance criteria that the zero power case presented in the FSAR would still
+be limiting.
+Therefore, the safety functions provided by the temperature inputs to the reactor protection system was
+maintained despite the single hot leg RTD, 3RCS*TE441C, not meeting its response time acceptance criteria.
+NRC FORM 366A (10-01-2023) Page 3(cid:9) of (cid:9) 4
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER) regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Office for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required o respond to, a collection of information unless the document
+http://www.nrc.govireading-rm/doc-collections/nuregs/staff/sr1022/r30 requesting or requiring the collection di plays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+n 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Millstone Power Station - Unit 3 423
+2023
+052 003 00
+NARRATIVE
+CORRECTIVE ACTIONS
+The RTD was successfully replaced, calibrated and response time tested in accordance with the requirements of
+surveillance SP 3443E42. Additional corrective actions will be taken in accordance with the station's corrective
+action program.
+PREVIOUS OCCURRENCES
+There have been no similar events or conditions related to RCS narrow range temperature channels inoperable for longer
+than the technical specification allowed outage time over the last 5 years.
+ENERGY INDUSTRY IDENTIFICATION SYSTEM (EIIS) CODES
+AB Reactor Coolant System
+TI Temperature Indicator
+TW Thermowell
+NRC FORM 366A (10-01-2023) Page 4(cid:9) of(cid:9) 4

@@ -1,0 +1,136 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours.(cid:9) Reported lessons
+leamed are incorporated into the licensing process and fed back to indu try. Send comments regarding burden
+".. LICENSEE EVENT REPORT (LER)
+estimate to the FOIA, Library, and Information Collections Branch (T6 A10M),(cid:9) U. S. Nuclear Regulatory
+k.L.'. 5' (cid:9) I
+-(cid:9) ) 11(cid:9) _ (cid:9) (See Page 2 for required number of digits/characters for each block) Commission, Washington, DC 20555-0001, or by email to Infocollcts.Res urce@nrc.gov, and the OMB reviewer
+at: OMB Office of Information and Regulatory Affairs, (3150-0104), Attn:(cid:9) Desk Officer for the Nuclear Regulatory
+(See NUREG-1022, R.3 for instruction and guidance for completing this form Commission, 725 17th Street NW, Washington, DC 20503; email:(cid:9) oira su mission@omb.eop.gov. The NRC may
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r31) not conduct or sponsor, and a person is not required to respond to, a collection of information unless the document
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name • 050 2. Docket Number 3. Page
+Joseph M. Farley Nuclear Plant, Unit 1 348 1(cid:9) OF(cid:9) 2
+052
+4. Title
+Residual Heat Removal Pump Inoperable for Longer than Allowed by Technical Specifications
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Number No. Month Day Year 050
+10 2 2023 2023 -(cid:9) 002(cid:9) - 00 11 29 2023 Facility Name Docket Number
+052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+n(cid:9)
+10 CFR Part 20 q 20.2203(a)(2)(vi) 10 CFR Part 50 q 50.73(a)(2)(ii)(A) q 50.73(a)(2)(viii)(A) (cid:9) 73.1200(a)
+• 20.2201(b) 20.2203(a)(3)(i) q 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) I 73.1200(b)
+n(cid:9) ri
+20.2201(d) 20.2203(a)(3)(ii) (cid:9) 50.36(c)(1)(ii)(A) 50.73(a)(2)(111) I(cid:9) 1(cid:9) 50.73(a)(2)(ix)(A) q 73.1200(c)
+1(cid:9) 20.2203(a)(1) 1 (cid:9) 1 (cid:9) 20.2203(a)(4) 1 (cid:9) 1(cid:9) 50.36(c)(2) 50.73(a)(2)(iv)(A) f(cid:9) 1 (cid:9) 50.73(a)(2)(x) q 73.1200(d)
+n(cid:9)
+20.2203(a)(2)(1) 10 CFR Part 21 1 (cid:9) ](cid:9) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 (cid:9) 73.1200(e)
+1 (cid:9) 1 (cid:9) 20.2203(a)(2)(ii) q 21.2(c) i(cid:9) 1(cid:9) 50.69(g) 50.73(a)(2)(v)(B) I(cid:9) 1 (cid:9) 73.77(a)(1) q 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) I(cid:9) 1 (cid:9) 73.77(a)(2)(i) r- 73.1200(g)
+20.2203(a)(2)(iv) [6;1(cid:9) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) I(cid:9) 1 (cid:9) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) ri 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+(cid:9)
+OTHER (Specify here, in abstract, or NRC 366A .
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Gene Surber, Farley Site Licensing Manager (334) 661-2265
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+A BP 52 S188 N
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+6/(cid:9) No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+At approximately 10:00 CDT on October 2, 2023, with Joseph M. Farley Nuclear Plant (FNP) Unit 1 in Mode 1 and 100 percent
+power, the 1B residual heat removal (RHR) pump failed to start on demand during the quarterly surveillance run and was
+subsequently declared inoperable. The immediate investigation determined that the 1B RHR pump circiut breaker racking
+release handle had been placed in the "Trip Free" position instead of "Operational". The same 1B RHR pump surveillance run
+was last completed satisfactorily on July 5, 2023, and there was no work on the 1B RHR pump between July 5th and October
+2nd that would have required manipulation of the component's breaker. The most likely cause was an inadvertent misposition
+of the wrong breaker during the 1B Emergency Diesel (EDG) surveillance the morning of August 28, 2023. Corrective actions
+included placing the circuit breaker racking release handle in the "Operational" position and addressing human performance
+issues with the performance management process. The surveillance was completed satisfactorily and the 1B RHR pump
+returned to operable status. This event is reportable under 10 CFR 50.73(a)(2)(i)(B) for the 1 B RHR pump being inoperable for
+longer than allowed by Technical Specification 3.5.2. FNP Unit 2 was not affected during this event.
+(cid:9)
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+RECVt,
+LICENSEE EVENT REPORT (LER)
+l re es gs ao rn ds
+in
+l ge a br un re dd
+e
+na r ee
+s
+ti in mc ao tr ep o tora tt he ed Fin Oto
+IA
+t ,h Le
+i
+bli rc ae rn ys
+,
+i an ng
+d
+p Ir no fc oe rmss
+a
+a tion nd Cfe od
+l
+leb ca tc iok
+n
+t so Bin rd au ns ct hry (.
+T
+S -6e n Ad
+1
+Oco Mm ),m Ue .n Sts
+.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by email to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the 0MB reviewer at: 0MB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk Office for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; email: oira submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form
+sponsor, and a person is not required o respond to, a collection of information unless the document
+http://www.nrc.govireading-rnn/doc-collections/nuregs/staff/sr10221r31)
+requesting or requiring the collection di plays a currently valid 0MB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+• 050 YEAR SEQUENTIAL REV
+NUMBER NO.
+Joseph M. Farley Nuclear Plant, Unit 1 348
+2023
+052 002 00
+NARRATIVE
+EVENT DESCRIPTION
+At approximately 10:00 CDT on October 2, 2023, with Joseph M. Farley Nuclear Plant (FNP) Unit 1 in Mode 1 and 100
+percent power, the 1B residual heat removal (RHR) pump [EllS: BP] failed to start on demand during the quarterly
+surveillance run and was subsequently declared inoperable. The immediate investigation determined that the 1B RHR
+pump circuit breaker [EIIS/EEIS: BP/52] racking release handle had been placed in the "Trip Free" position instead of the
+"Operational" position. Within an hour of the failure to start, the circuit breaker racking release handle was placed in the
+"Operational" position allowing the charging springs to charge. The 1B RHR pump quarterly surveillance run was completed
+satisfactorily at approximately 13:30 and the pump returned to operable status.
+This same surveillance on the 1B RHR pump was last run on July 5, 2023 and completed satisfactorily. There was no work
+on the 1B RHR pump between July 5th and October 2nd that would have required manipulation of the component's breaker.
+EVENT ANALYSIS
+An investigation of this incident determined that the most likely cause of the 1B RHR circuit breaker racking release handle
+being in the "Trip Free" position was due to human performance errors which resulted in the inadvertent mispositioning of
+the wrong breaker (1B RHR pump breaker) during the 1B Emergency Diesel (EDG) [EIIS: EK] surveillance the morning of
+August 28, 2023.
+REPORTABILITY AND SAFETY ASSESSMENT
+Based on the most probable cause of the 1B RHR pump inoperability, there were no safety consequences since the 1A
+RHR pump was available from August 28th until October 2nd to perform the system's safety function. The event was within
+the analysis of the UFSAR Chapter 15, and is reportable under 10 CFR 50.73(a)(2)(i)(B) for the 1B RHR pump being
+inoperable for longer than allowed by Technical Specification 3.5.2. FNP Unit 2 was not affected during this event.
+CORRECTIVE ACTIONS PLANNED OR COMPLETED
+1) The charging springs charged after the 1B RHR pump circuit breaker racking release handle was placed in the
+"Operational" position. No damage was noted to the breaker or the pump.
+2) Human performance errors have been addressed through the station's performance managment process.
+PREVIOUS SIMILAR EVENTS
+There were no events from the last three years with either the same or similar cause to this event.
+(cid:9)
+NRC FORM 366A (10-01-2023) Page(cid:9) 2(cid:9) of(cid:9) 2

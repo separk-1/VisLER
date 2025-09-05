@@ -1,0 +1,150 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send
+LICENSEE EVENT REPORT (LER) comments regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6
+A10M), U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+(See Page 3 for required number of digits/characters for each block) Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this
+sponsor, and a person is not required to respond to, a collection of information unless the document
+form https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/)
+requesting or requiring the collection displays a currently valid OMB control number.
+1. Facility Name 2. Docket Number 3. Page
+Diablo Canyon Power Plant, Unit 2 05000323 1 OF 3
+4. Title
+Emergency Diesel Generator Declared Inoperable due to Low Frequency Condition Discovery during Routine Surveillance
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Facility Name Docket Number
+Sequential Rev
+Month Day Year Year Month Day Year
+Number No. 05000
+Facility Name Docket Number
+07 22 2021 2021 01 00 09 20 2021
+05000
+9. Operating Mode(cid:9) 10. Power Level
+1(cid:9) 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §:(cid:9) (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x)
+20.2201(b) 20.2203(a)(3)(i) 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73
+20.2201(d) 20.2203(a)(3)(ii) 50.69(g) 50.73(a)(2)(v)(B) 73.71(a)(4)
+20.2203(a)(1) 20.2203(a)(4) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.71(a)(5)
+20.2203(a)(2)(i) 10 CFR Part 21 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(1)(i)
+20.2203(a)(2)(ii) 21.2(c) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii) 73.77(a)(2)(i)
+20.2203(a)(2)(iii) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.77(a)(2)(ii)
+20.2203(a)(2)(iv) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B)
+20.2203(a)(2)(v) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A)
+Other (Specify here, in Abstract, or in NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include Area Code)
+David Madsen 805-545-6192
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable To IRIS Cause System Component Manufacturer Reportable To IRIS
+X DC DG ALCO N
+14. Supplemental Report Expected Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date)
+16. Abstract (Limit to 1560 spaces, i.e., approximately 15 single-spaced typewritten lines)
+On July 22, 2021, with Diablo Canyon Power Plant (DCPP) Unit 2, operating at 100 percent power, DCPP personnel
+determined that since June 30, 2021, Emergency Diesel Generator (EDG) 2-3 would not have been able to attain
+Technical Specification (TS) minimum frequency when started in automatic. Manual control of diesel frequency was not
+affected. This condition was discovered via a routine surveillance test which evaluates, in part, EDG frequency during
+standby and loading conditions.
+This event is being reported pursuant to 10 CFR 50.73(a)(2)(i)(B) as an operation of the plant in a condition prohibited
+by DCPP TS due to the EDG frequency being outside TS required limits for a period beyond the TS required completion
+time. This event is also being reported pursuant to 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have
+prevented fulfillment of a safety function. However, upon discovery, the remaining two of the three EDGs were
+operable.
+The condition was corrected and the EDG was restored to Operable status on July 22, 2021. A subsequent evaluation
+determined that the low frequency condition did not prevent EDG 2-3 from performing its specified safety function.
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Diablo Canyon Power Plant, Unit 2 05000-323 NUMBER NO.
+2021 01 00
+NARRATIVE
+I.(cid:9) Reporting Requirements
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(i)(B) and the associated guidance of NUREG-1022,
+Revision 3, as an operation or condition prohibited by Diablo Canyon Power Plant (DCPP) Technical Specifications (TS), due to
+the emergency diesel generator (EDG) frequency being outside TS required limits for a period beyond the associated TS
+required completion time.
+This event is also being reported in accordance with 10 CFR 50.73(a)(2)(v)(D) as an event or condition that could have prevented
+fulfillment of a safety function. However, it should be noted that two of the three EDGs were operable at the time of discovery.
+II. Plant Conditions
+At the time of the event, DCPP Unit 2 was in Mode 1 at 100 percent power.
+III. Problem Description
+A. Background
+DCPP Units 1 and 2 each have three EDGs. The safety function of the EDGs is to provide AC power to Engineered Safety
+Features (ESF) loads when offsite power is unavailable. The specified safety functions of EDG 2-3 are:
+a. to furnish sufficient power to mitigate a design basis accident in one unit and safely bring DCPP to cold shutdown for
+the other unit when both offsite power sources are unavailable.
+b. to furnish power sufficient for a controlled shutdown of the plant whenever the main turbine-generator and the offsite
+power sources are not available.
+To satisfy these functions, the EDG 2-3 must be capable of automatically starting, accelerating to rated speed and voltage in
+under 10 seconds and connecting to its respective ESF Bus on detection of Bus undervoltage (UV).
+B. Event Description
+On July 22, 2021, with DCPP Unit 2, operating at 100 percent power, DCPP personnel determined that since June 30, 2021,
+EDG 2-3 would not have been able to attain TS minimum frequency when started in automatic. Manual control of diesel
+frequency was not affected.
+On July 21, 2021, EDG 2-3 was started on a simulated UV signal for routine surveillance testing. The EDG was started with
+the mode select switch in the "AUTO" position which indicates the diesel was aligned for dedicated supply to its associated
+4 KV vital electrical Bus. The frequency indicated 58.90 Hz and diesel speed indicated 880 revolutions per minute. Per the
+surveillance testing procedure, the frequency should have been between 59.5 Hz and 60.5 Hz (accounting for instrument
+uncertainty) on the start prior to any adjustments.
+EDG 2-3 was placed in manual, the frequency and speed were adjusted into their proper band, and then the surveillance
+test was completed meeting all acceptance criteria. However, due to the frequency attained following the automatic UV
+start, EDG 2-3 was declared INOPERABLE.
+NRC FORM 366A (08-2020)(cid:9) Page _2__ of _3__
+NRC FORM 366A U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 08/31/2023
+(08-2020)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+LICENSEE EVENT REPORT (LER)
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U.S.
+Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+CONTINUATION SHEET
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+Affairs, (3150-0104), Attn: Desk ail: oirasubmission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+YEAR SEQUENTIAL REV
+Diablo Canyon Power Plant, Unit 2 05000-323 NUMBER NO.
+2021 01 00
+The low frequency condition discovered during the routine surveillance procedure for EDG 2-3 was below the TS 3.8.1 lower
+limit of 59.5 Hz (accounting for instrument uncertainty). This non-conforming condition has been determined to exist between
+June 30, 2021 (previous successful EDG 2-3 surveillance) through July 22, 2021 (when restored to Operable status).
+A subsequent evaluation determined EDG 2-3 and the equipment powered from its associated vital 4 KV and 480 V Buses
+were capable of performing their specified safety functions.
+C. Method of Discovery
+This condition was discovered via a routine surveillance test which monitors, in part, EDG frequency during standby and
+loading conditions.
+D. Operator Actions
+The condition was corrected and EDG 2-3 was restored to Operable status on July 22, 2021.
+F. Safety System Responses
+There are no safety system responses associated with this event.
+IV. Cause of the Problem
+The cause of the EDG 2-3 low frequency condition was due to an inadequately performed post maintenance test. The testing
+sequence did not fully consider the need for revalidation of frequency following setting of the EDG governor following
+maintenance activities.
+V. Assessment of Safety Consequences
+There were no safety consequences as a result of this event.
+There was no impact on health and safety of the public or plant personnel.
+VI. Corrective Actions
+The condition was corrected and the EDG was restored to Operable status on July 22, 2021. Follow-up corrective actions to
+prevent recurrence will be managed in accordance with the DCPP Corrective Action Program.
+VII. Additional Information
+There have been no similar events for the EDGs at DCPP in the previous three years.
+Page 3 of 3
+NRC FORM 366A (06-2016)(cid:9)

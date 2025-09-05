@@ -1,0 +1,285 @@
+NRC FORM 366(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023)
+Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported lessons learned
+LICENSEE EVENT REPORT (LER) are incorporated into the licensing process and fed back to industry. Send comments regarding burden estimate to
+the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001, or by email to Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office
+(See Page 2 for required number of digits/characters for each block)
+of Information and Regulatory Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725
+(See NUREG-1022, R.3 for instruction and guidance for completing this form 17th Street NW, Washington, DC 20503; email: oira_submission@omb.eop.gov. The NRC may not conduct or
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) sponsor, and a person is not required to respond to, a collection of information unless the document requesting or
+requiring the collection displays a currently valid OMB control number.
+1. Facility Name 050 2. Docket Number 3. Page
+00391
+Watts Bar Nuclear Plant, Unit 2 1(cid:9) OF 6
+052
+4. Title
+Automatic Reactor Trip Due to Loss of Main Feedwater Regulating Valve Control
+5. Event Date 6. LER Number 7. Report Date 8. Other Facilities Involved
+Sequential Revision Facility Name Docket Number
+Month Day Year Year Month Day Year
+Number No. N/A 050
+08 04 2023 2023 -(cid:9) 003(cid:9) - 01 02 29 2024 Facility Name Docket Number
+N/A 052
+9. Operating Mode 10. Power Level
+1 100
+11. This Report is Submitted Pursuant to the Requirements of 10 CFR §: (Check all that apply)
+10 CFR Part 20 20.2203(a)(2)(vi) 10 CFR Part 50 50.73(a)(2)(ii)(A) 50.73(a)(2)(viii)(A) 73.1200(a)
+20.2201(b) 20.2203(a)(3)(i) 50.36(c)(1)(i)(A) 50.73(a)(2)(ii)(B) 50.73(a)(2)(viii)(B) 73.1200(b)
+20.2201(d) 20.2203(a)(3)(ii) 50.36(c)(1)(ii)(A) 50.73(a)(2)(iii) 50.73(a)(2)(ix)(A) 73.1200(c)
+20.2203(a)(1) 20.2203(a)(4) 50.36(c)(2) 50.73(a)(2)(iv)(A) 50.73(a)(2)(x) 73.1200(d)
+20.2203(a)(2)(i) 10 CFR Part 21 50.46(a)(3)(ii) 50.73(a)(2)(v)(A) 10 CFR Part 73 73.1200(e)
+20.2203(a)(2)(ii) 21.2(c) 50.69(g) 50.73(a)(2)(v)(B) 73.77(a)(1) 73.1200(f)
+20.2203(a)(2)(iii) 50.73(a)(2)(i)(A) 50.73(a)(2)(v)(C) 73.77(a)(2)(i) 73.1200(g)
+20.2203(a)(2)(iv) 50.73(a)(2)(i)(B) 50.73(a)(2)(v)(D) 73.77(a)(2)(ii) 73.1200(h)
+20.2203(a)(2)(v) 50.73(a)(2)(i)(C) 50.73(a)(2)(vii)
+OTHER (Specify here, in abstract, or NRC 366A).
+12. Licensee Contact for this LER
+Licensee Contact Phone Number (Include area code)
+Kevin Lovell, Licensing Engineer 423-365-8196
+13. Complete One Line for each Component Failure Described in this Report
+Cause System Component Manufacturer Reportable to IRIS Cause System Component Manufacturer Reportable to IRIS
+X JB FC FOX Y N/A N/A N/A N/A N/A
+14. Supplemental Report Expected
+Month Day Year
+15. Expected Submission Date
+No Yes (If yes, complete 15. Expected Submission Date N/A N/A N/A
+16. Abstract (Limit to 1326 spaces, i.e., approximately 13 single-spaced typewritten lines)
+On August 4, 2023 at approximately 1746 Eastern Daylight-Saving Time (EDT), while operating at 100 percent rated
+thermal power, Watts Bar Nuclear Plant (WBN) Unit 2 experienced an automatic reactor trip in response to controls failure
+of the main feedwater regulating valve to steam generator 2. All control and shutdown bank rods inserted properly in
+response to the reactor trip. All safety systems, including the Auxiliary Feedwater (AFW) System, performed as designed
+and there were no complications with the trip.
+The root cause of the event was determined to be a vulnerability in the design of the Steam Generator (SG) level
+Distributed Control System (DCS) that prevented automatic and manual control of SG Feedwater (FW) inlet flow. The
+investigation, at the time of this report, between Tennessee Valley Authority (TVA), Framatome, and Schneider Electric
+has not determined the specific reason for the fault seen at WBN. WBN will be implementing a SG level control strategy
+that prevents the total loss of SG inlet flow control.
+This event is being reported in accordance with 10 CFR 50.73(a)(2)(iv)(A), as an automatic actuation of the Reactor
+Protection System (RPS) and Auxiliary Feedwater System (AFW).
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 003 - 01
+NARRATIVE
+I. Plant Operating Conditions before the Event
+Watts Bar Unit 2 was at 100 percent Rated Thermal Power (RTP).
+II. Description of Event
+A. Event Summary
+On August 4, 2023 at approximately 1746 Eastern Daylight-Saving Time (EDT), while
+operating at 100 percent rated thermal power, Watts Bar Nuclear Plant (WBN) Unit 2
+experienced an automatic reactor trip in response to a loss of feedwater regulating valve
+[EIIS:FCV] control and a subsequent low steam generator (SG)[EIIS:SG] No. 2 level signal. All
+control and shutdown bank rods inserted properly in response to the reactor trip. All safety
+systems, including the Auxiliary Feedwater (AFW)[EIIS:BA] System, performed as designed
+and there were no complications with the trip. After evaluation of all the field test data and
+associated field inspections, it was determined that the cause was identified as a failure of
+Distributed Controls System (DCS)[EIIS:JB] field bus module (FBM). This failure caused the
+main feedwater regulating valve to oscillate open and close resulting in a reactor trip followed
+by a turbine trip. The master FBM was removed and the demand signal stabilized when the
+system swapped to the tracker FBM. The master and tracker FBM were replaced and sent to
+the vendor for failure analysis.
+Notification to the NRC of the reactor trip was made by Operations at 2051 EDT (Event
+Notification number 56660) in accordance with 10 CFR 50.72(b)(2)(iv)(B) and
+10.50.72(b)(3)(iv)(A). This event is being reported in accordance with 10 CFR
+50.73(a)(2)(iv)(A) due to actuation of the Reactor Protection System (RPS) and Auxiliary
+Feedwater (AFW) System.
+B. Status of structures, components, or systems that were inoperable at the start of the
+event and that contributed to the event
+There were no safety related inoperable structures, components, or systems that contributed
+to this event.
+NRC FORM 366A (10-01-2023)(cid:9) Page 2 of 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 003 - 01
+NARRATIVE
+C. Dates and approximate times of occurrences
+Dates and Approximate(cid:9)
+Occurrence
+Times
+Received DCS Trouble Alarm with SG flow low alarm in.
+SG No.2 bypass flow was noted to be high on scale and SG
+No. 2 level was noted to be approximately 30 percent
+8/04/2023 at 1742 EDT
+lowering. Using manual controls, SG No. 2 level was
+restored to approximately 60 percent. Entered 2-AOI-16,
+Loss of Normal Feedwater.
+Unit 2 Reactor Tripped on Low Low SG Level. Unit 2
+entered Mode 3. Feedwater flow unable to be maintained
+8/04/2023 at 1746 EDT
+with SG No. 2 Feedwater Regulating Valve (FRV) in
+manual. Exited 2-AOI-16
+8/04/2023 at 1750 EDT(cid:9) Entered ES-0.1, Reactor Trip Response
+Entered 2-GO-5, Unit Shutdown from 30 percent Reactor
+8/04/2023 at 1803 EDT(cid:9)
+Power to Hot Standby
+D. Manufacturer and model number of each component that failed during the event
+Foxboro, Field bus module, FBM218 (P/N: P0922VW); However, subsequent failure analysis
+performed by the manufacturer has not identified component failures.
+E. Other systems or secondary functions affected
+None.
+F. Method of discovery of each component or system failure or procedural error
+Initial event troubleshooting identified a field bus module (FBM) within the DCS had potentially
+failed. Failure analysis performed later by the manufacturer on the specific modules replaced
+did not identify component failure.
+NRC FORM 366A (10-01-2023)(cid:9) Page 3 of 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 003 -(cid:9) 01
+NARRATIVE
+G. The failure mode, mechanism, and effect of each failed component
+A vulnerability in the design of the SG level DCS can prevent automatic and manual control of
+SG FW inlet flow. The specific vulnerability has not been identified. Based on knowledge of
+the DCS system, the vulnerability may be hardware or software, so the actual failure mode is
+presently unknown.
+H. Operator actions
+Operations personnel promptly stabilized the plant following the reactor trip.
+I. Automatically and manually initiated safety system responses
+The automatic reactor trip was followed by an automatic subsequent turbine trip. Safety
+systems responded as expected.
+III. Cause of the event
+A. Cause of each component or system failure or personnel error
+The exact cause of the DCS component malfunction is unknown. Manufacturer failure
+analysis testing has been ongoing with inconclusive results.
+B. Cause(s) and circumstances for each human performance related root cause
+No human performance issues were attributed to this event.
+IV.(cid:9) Analysis of the event
+While operating at approximately 100 percent power during steady state operation, the Watts Bar Unit 2
+reactor experienced an automatic reactor trip at approximately 1746 EDT on August 4, 2023, in
+response to the failure of the main feedwater regulating valve control to steam generator number 2.
+The sequence of events associated with the trip were bounded by the FSAR Safety Analysis
+assumptions. The plant response post-trip was uncomplicated and the plant responded as designed.
+Operations entered 2-AOI-16, Loss of Normal Feedwater; 2-E-0, Reactor Trip or Safety Injection and
+subsequently transitioned to ES-0.1, Reactor Trip Response and 2-GO-5, Unit Shutdown from 30
+percent Reactor Power to Hot Standby.
+NRC FORM 366A (10-01-2023)(cid:9) Page 4 of 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 003 -(cid:9) 01
+NARRATIVE
+V.(cid:9) Assessment of Safety Consequences
+In review of the associated plant system performance data from the key plant parameters and plant
+response to the transient it was concluded that all safety systems performed as designed. There were
+no conditions identified where actuation signals were not appropriately generated based on the plant
+transient. The parameter response for this automatic reactor trip was bounded by the FSAR safety
+analysis assumptions. Probability Risk Assessments (PRA) performed for this Unit 2 trip event resulted
+in very small impacts to core damage frequency (CDF) and large early release frequency (LERF)
+values.
+A. Availability of systems or components that could have performed the same function as
+the components and systems that failed during the event
+Not applicable.
+B. For events that occurred when the reactor was shut down, availability of systems or
+components needed to shutdown the reactor and maintain safe shutdown conditions,
+remove residual heat, control the release of radioactive material, or mitigate the
+consequences of an accident
+Not applicable.
+C. For failure that rendered a train of a safety system inoperable, estimate of the elapsed
+time from discovery of the failure until the train was returned to service
+Not applicable.
+VI.(cid:9) Corrective Actions
+This event was entered into the TVA Corrective Action Program and is being tracked under
+Condition Report 1872637.
+A. Immediate Corrective Actions
+Operations personnel promptly stabilized the plant in Mode 3. Troubleshooting and field
+inspections identified a potentially faulty field bus module which was subsequently replaced.
+NRC FORM 366A (10-01-2023)(cid:9) Page 5 of 6
+NRC FORM 366A(cid:9) U.S. NUCLEAR REGULATORY COMMISSION APPROVED BY OMB: NO. 3150-0104(cid:9) EXPIRES: 03/31/2024
+(10-01-2023) Estimated burden per response to comply with this mandatory collection request: 80 hours. Reported
+lessons learned are incorporated into the licensing process and fed back to industry. Send comments
+regarding burden estimate to the FOIA, Library, and Information Collections Branch (T-6 A10M), U. S.
+LICENSEE EVENT REPORT (LER) Nuclear Regulatory Commission, Washington, DC 20555-0001, or by e-mail to
+Infocollects.Resource@nrc.gov, and the OMB reviewer at: OMB Office of Information and Regulatory
+CONTINUATION SHEET
+Affairs, (3150-0104), Attn: Desk Officer for the Nuclear Regulatory Commission, 725 17th Street NW,
+Washington, DC 20503; e-mail: oira_submission@omb.eop.gov. The NRC may not conduct or
+(See NUREG-1022, R.3 for instruction and guidance for completing this form sponsor, and a person is not required to respond to, a collection of information unless the document
+http://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr1022/r3/) requesting or requiring the collection displays a currently valid OMB control number.
+1. FACILITY NAME 2. DOCKET NUMBER 3. LER NUMBER
+☒ 050
+SEQUENTIAL REV
+YEAR
+NUMBER NO.
+Watts Bar Nuclear Plant, Unit 2 00391
+☐ 052 2023 -(cid:9) 003 -(cid:9) 01
+NARRATIVE
+B. Corrective Actions to Prevent Recurrence or to reduce the probability of similar events
+occurring in the future
+1. Implement a Steam Generator level control strategy that prevents the total loss of Steam
+Generator inlet flow control.
+2. Implement a pressurizer level control strategy that prevents the total loss of chemical and
+volume control system charging flow control.
+3. Implement a pressurizer pressure control strategy that prevents the total loss of pressurizer
+heaters and sprays control.
+VII. Previous Similar Events at the Same Site
+LER 391-2023-002, “Automatic Reactor Trip Due to Main Generator Protection Relay Actuation”
+documents a Unit 2 reactor trip that occurred on June 27, 2023. This event was caused by a loose
+terminal connection for current input into a generator protection relay.
+LER 390-2020-001, “Manual Reactor Trip Due to Lowering Steam Generator Level Caused by a Hand
+Station Failure” documents a Unit 1 manual reactor trip that occurred on February 2, 2019. This event
+was caused by a stuck pushbutton on the main feedwater regulating valve controller/hand station which
+led to a loss of control for steam generator No. 3 level.
+The LERs listed above do not share a similar cause to the reactor trip event described in this LER.
+VIII. Additional Information
+None.
+IX. Commitments
+None.
+NRC FORM 366A (10-01-2023)(cid:9) Page 6 of 6
