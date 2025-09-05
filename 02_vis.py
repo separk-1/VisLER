@@ -400,7 +400,7 @@ def create_visualization_html(jsonl_path, html_output_path):
 
 
 # Default script execution
-jsonl_file_path = 'extracted_text.jsonl'
+jsonl_file_path = 'extracted_keyword.jsonl'
 html_file_path = 'index.html'
 
 if os.path.exists(jsonl_file_path):

@@ -1,0 +1,89 @@
+ler,Cause,System,Component,Manufacturer,Reportable_to_IRIS,flags,Facility_Name,Unit,Event_Date,CFR,Title,Event_Date_parsed,Event_YYYYMM,Event_Year,System_Category,System_BaseCode,is_quality_ok,Extracted_Cause_Text,Extracted_Cause_Category,Extracted_Cause_Code
+0252023002R00,D,EA,RLY,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+0252023003R00,B,JJ,DCC,,No,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+0252023004R00,B,SM,LCV,Flowserve,No,[],Vogtle Electric Generating Plant,3,5/2/2023,50.73.(a)(2)(iv)(A),Manual Reactor Protection System Actuation Due to Condenser Flanges Not Removed During Construction,2023-05-02,2023-05,2023.0,unknown,,True,shipping flanges which had remained installed in the condensate flowpath,not_applicable,NA-HW
+2442021001R00,B,BI,MO,US Motors,Yes,[],,,,,,,,,unknown,,True,,,
+2442023001R00,D,EB,BKR,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2442023002R00,D,JJ,12,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2442023003R01,B,LD,PCV,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2502021001R00,B,AA,BKR,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2502023003R00,C,FK,87,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2502023004R00,,,,(cid:9) N/A N/A,Yes,"['bad_cause', 'system_missing', 'component_missing', 'record_low_quality']",,,,,,,,,unknown,,False,,,
+2502024002R01,B,BP,V,,Yes,['manufacturer_missing'],,,,,,,,,unknown,,True,,,
+2612023001R00,B,LK,RG,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2612023002R00,B,AA,BKR,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2662021001R00,X,SE,RLY,Cutler Hammer -C770,No,[],Point Beach Nuclear Plant,1,7/31/2021,50.73.(a)(2)(iv)(A),Main feedwater pump trip results in manual reactor trip.,2021-07-31,2021-07,2021.0,unknown,,True,failure of the main steam generator feedwater pump B motor,not_applicable,NA-ME
+2752023001R00,X,SM,LCV,Fisher,Yes,[],,,,,,,,,unknown,,True,,,
+2802022001R00,C,JE,LE,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2802022002R00,B,EK,DG,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+2802022003R00,A,VK,FAN,,Yes,['manufacturer_gibberish_or_code'],Surry Power Station,1,9/15/2022,"50.73.(a)(2)(i)(B), 50.73.(a)(2)(v)(A), 50.73.(a)(2)(vii)",Loss of Emergency Switchgear Room Cooling Due to Use of Incorrect Air Handler Fan V-Belts,2022-09-15,2022-09,2022.0,unknown,,True,the V-belt vendor sent a different variant of the BX-99 V-belt ordered,not_applicable,NA-OP
+3062023001R00,X,FC,LAR,,Yes,['manufacturer_gibberish_or_code'],Prairie Island Nuclear Generating Plant,2,5/27/2023,50.73.(a)(2)(iv)(A),2GT/XFMR lockout due to failure of lightning arrester caused Unit 2 Reactor Trip,2023-05-27,2023-05,2023.0,steam-feedwater,FC,True,failure of the A-phase lightning arrester on 2GT/XFMR,not_applicable,NA-EN
+3152021001R00,B,EA,BU,Powell,Yes,[],,,,,,,,,unknown,,True,,,
+3152022001R00,X,TA,TRB,,Yes,['manufacturer_gibberish_or_code'],Donald C. Cook Nuclear Plant,1,5/24/2022,50.73.(a)(2)(iv)(A),Manual Reactor Trip Following Manual Turbine Trip due to High Vibrations on Main Turbine,2022-05-24,2022-05,2022.0,unknown,,True,high vibrations due to an apparent rub,not_applicable,NA-ME
+3152022002R00,X,BC,DR,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+3152022003R01,X,AB,P,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+3152023001R00,,,,,Yes,"['bad_cause', 'system_header_leak', 'component_header_leak', 'manufacturer_over_len', 'record_low_quality']",,,,,,,,,unknown,,False,,,
+3162021001R00,X,SB,RV,Dresser,Yes,[],,,,,,,,,unknown,,True,,,
+3162021002R00,X,SB,EXJ,Pathway,Yes,[],,,,,,,,,unknown,,True,,,
+3232021001R00,X,DC,DG,,No,['manufacturer_gibberish_or_code'],,,,,,,,,electrical,DC,True,,,
+3232022001R00,X,AB,PSF,,Yes,['manufacturer_missing'],Diablo Canyon Power Plant,2,10/23/2022,50.73.(a)(2)(ii)(A),Unit 2 Reactor Coolant System Pressure Boundary Degradation,2022-10-23,2022-10,2022.0,unknown,,True,vibration-induced fatigue propagation of a flaw initiated at a weld defect,not_applicable,NA-HW
+3282021001R00,X,BC,MPX,,No,['manufacturer_gibberish_or_code'],Sequoyah Nuclear Plant,2,7/25/2021,"50.73.(a)(2)(v)(C), 50.73.(a)(2)(v)(D)",Ice Bed Inoperable Due to Exceeding Surveillance Requirement Frequency,2021-07-25,2021-07,2021.0,unknown,,True,the SQN Unit 2 ice bed temperature monitoring system stopped providing accurate data for the ice bed,not_applicable,NA-ME
+3342022001R00,B,SN,LCV,,Yes,['manufacturer_gibberish_or_code'],Beaver Valley Power Station,1,6/15/2022,50.73.(a)(2)(iv)(A),Manual Reactor Trip and Auxiliary Feedwater Actuation due to Heater Drain System Valve Failure,2022-06-15,2022-06,2022.0,unknown,,True,valve plug to stem separation,not_applicable,NA-ME
+3382022001R01,X,AA,CBD,,No,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+3392023001R00,A,AB,TBG,,Yes,['manufacturer_missing'],North Anna Power Station,Unknown Unit,10/3/2023,50.73.(a)(2)(ii)(A),Reactor Coolant Pressure Boundary Leak Due to Poor Weld Workmanship,2023-10-03,2023-10,2023.0,unknown,,True,,,
+3482023001R00,X,EL,62,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+3482023002R00,A,BP,52,,No,['manufacturer_gibberish_or_code'],Joseph M. Farley Nuclear Plant,1,10/2/2023,50.73.(a)(2)(i)(B),Residual Heat Removal Pump Inoperable for Longer than Allowed by Technical Specifications,2023-10-02,2023-10,2023.0,unknown,,True,an inadvertent misposition of the wrong breaker during the 1B Emergency Diesel (EDG) surveillance,not_applicable,NA-OP
+3482023003R00,B,R,SPT,,Yes,['manufacturer_gibberish_or_code'],Joseph M. Farley Nuclear Plant,1,2/26/2023,50.73.(a)(2)(i)(B),Unit 1 Emergency Diesel Generator (EDG) lube oil pump outlet coupling leak,2023-02-26,2023-02,2023.0,unknown,,True,,,
+3642023001R00,E,AB,RV,,Yes,['manufacturer_gibberish_or_code'],Joseph M. Farley Nuclear Plant,2,8/1/2023,50.73.(a)(2)(i)(B),Pressurizer Code Safety Valve Lift Pressure Outside of Technical Specifications Limits,2023-08-01,2023-08,2023.0,unknown,,True,internal steam cutting of the disc insert and nozzle,not_applicable,NA-ME
+3642023002R00,X,SB,RV,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+3642023003R00,X,AB,RV,,Yes,['manufacturer_gibberish_or_code'],Joseph M. Farley Nuclear Plant,2,10/24/2023,50.73.(a)(2)(i)(B),Pressurizer Code Safety Valve Lift Pressure Outside of Technical Specifications Limits,2023-10-24,2023-10,2023.0,unknown,,True,Setpoint drift of the PSV,not_applicable,NA-ME
+3642024001R00,B,JB,FCO,,Yes,['manufacturer_gibberish_or_code'],Joseph M. Farley Nuclear Plant,2,11/14/2023,50.73.(a)(2)(iv)(A),Manual Reactor Trip due to Rising Steam Generator Levels,2023-11-14,2023-11,2023.0,unknown,,True,Ovation steam and feedwater flow signal errors resulting in the automatic feedwater controls transferring to 'high power mode' at a lower reactor power level than designed (10% versus 20%),not_applicable,NA-ME
+3912021001R00,B,EA,52,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+3952021001R01,B,KM,CHU,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+3952022001R01,X,EL,XFMR,Mitsubishi,Yes,[],,,,,,,,,unknown,,True,,,
+3952022002R01,B,EK,DG,,Yes,['manufacturer_gibberish_or_code'],V.C. Summer Nuclear Station,1,2/9/2022,50.73.(a)(2)(iv)(A),CONDITION PROHIBITED BY TECHNICAL SPECIFICATIONS: INOPERABLE 'B' EMERGENCY DIESEL GENERATOR,2022-02-09,2022-02,2022.0,unknown,,True,kilowatt oscillations in the load of the 'B' Emergency Diesel Generator (EDG),not_applicable,NA-ME
+3952023001R00,B,SJ,P,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4002021004R00,A,AB,RV,,No,['manufacturer_gibberish_or_code'],Shearon Harris Nuclear Power Plant,1,4/29/2021,50.73.(a)(2)(i)(B),Pressurizer Safety Valve Lift Setpoint Drifted Outside of Technical Specification Tolerance,2021-04-29,2021-04,2021.0,unknown,,True,personnel error that resulted in inadvertent installation of a valve that had previously demonstrated setpoint drift incompatible with TS criteria,misapplied_procedure,MA1
+4002021005R00,A,IL,MON,,Yes,['manufacturer_gibberish_or_code'],Shearon Harris Nuclear Power Plant,1,6/22/2021,50.73.(a)(2)(i)(B),Past Inoperability of Effluent Accident Monitor Exceeded Time Allowed by Technical Specifications,2021-06-22,2021-06,2021.0,unknown,,True,Maintenance personnel did not recognize a note in the Radiation Monitor Data Sheet Library that requires substitute values to be entered when the flow transmitter for this radiation monitor is inoperable,misapplied_procedure,MA1
+4002022001R00,D,KM,CMP,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4002022003R00,X,SH,ISV,,Yes,['manufacturer_gibberish_or_code'],Shearon Harris Nuclear Power Plant,1,4/29/2022,50.73.(a)(2)(iv)(A),Manual Reactor Trip due to Degrading Condenser Vacuum,2022-04-29,2022-04,2022.0,unknown,,True,"the combination of two simultaneous equipment failures, resulting in a large volume of main condenser air-in-leakage",not_applicable,NA-ME
+4002022005R01,C,SD,MO,,Yes,['manufacturer_gibberish_or_code'],Shearon Harris Nuclear Power Plant,1,8/28/2022,50.73.(a)(2)(iv)(A),Manual Reactor Trip due to ?Å“B??Condensate Pump Motor Failure,2022-08-28,2022-08,2022.0,unknown,,True,electrical failure of its motor,not_applicable,NA-ME
+4002022006R02,X,BA,FCV,,Yes,['manufacturer_gibberish_or_code'],Shearon Harris Nuclear Power Plant,1,10/27/2022,"50.73.(a)(2)(i)(B), 50.73.(a)(2)(v)(D)",Auxiliary Feedwater Pump Inoperability,2022-10-27,2022-10,2022.0,unknown,,True,"improper operation of a flow control valve, 1AF-51",not_applicable,NA-OP
+4002022007R01,A,EA,XCT,,Yes,['manufacturer_gibberish_or_code'],Shearon Harris Nuclear Power Plant,1,10/30/2022,50.73.(a)(2)(iv)(A),Automatic Reactor Trip due to Loss of Power from the ??A??Auxiliary Bus,2022-10-30,2022-10,2022.0,unknown,,True,the current transformers (CTs) in the 'A-3',not_applicable,NA-ME
+4002022008R00,X,SJ,33,,Yes,['manufacturer_gibberish_or_code'],Shearon Harris Nuclear Power Plant,1,10/30/2022,50.73.(a)(2)(iv)(A),Automatic Actuation of Auxiliary Feedwater System,2022-10-30,2022-10,2022.0,unknown,,True,"the 
+MFP breaker did not close",not_applicable,NA-ME
+4122021002R00,B,JG,IMOD,,Yes,['manufacturer_gibberish_or_code'],Beaver Valley Power Station,2,10/5/2021,50.73.(a)(2)(iv)(A),Unit 2 Automatic Reactor Trip and Automatic Actuation of the Auxiliary Feedwater System,2021-10-05,2021-10,2021.0,unknown,,True,a premature failure of a Train A Solid State Protection System (SSPS) universal logic board (ULB) due to manufacturing defects with the solder joints,not_applicable,NA-HW
+4122022001R00,D,DC,DRN,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,electrical,DC,True,,,
+4122023001R00,B,AB,RPV,,Yes,['manufacturer_gibberish_or_code'],Beaver Valley Power Station,2,4/22/2023,50.73.(a)(2)(ii)(A),Indications Identified During Reactor Vessel Head Inspection,2023-04-22,2023-04,2023.0,unknown,,True,Primary Water Stress Corrosion Cracking (PWSCC) of the Alloy 600 penetration tube material,not_applicable,NA-ME
+4142021001R00,B,AB,RPV,,Yes,['manufacturer_gibberish_or_code'],Catawba Nuclear Station,2,4/20/2021,50.73.(a)(2)(ii)(A),Indication Identified During Reactor Pressure Vessel Head Nozzle Penetration Inspection,2021-04-20,2021-04,2021.0,unknown,,True,,,
+4142021003R00,X,IL,V,,Yes,['manufacturer_gibberish_or_code'],Catawba Nuclear Station,2,5/25/2021,50.73.(a)(2)(ii)(A),Containment Penetration Failure Resulting in Integrated Leak Rate Test Failure,2021-05-25,2021-05,2021.0,unknown,,True,,,
+4142022001R00,B,JD,CON,,Yes,['manufacturer_gibberish_or_code'],Catawba Nuclear Station,2,4/23/2022,50.73.(a)(2)(iv)(A),Manual Reactor Trip and Auxiliary Feedwater Start due to Misaligned Control Rods,2022-04-23,2022-04,2022.0,unknown,,True,an intermittent high resistance connection in the rod control system moveable regulation circuitry resulting from insulation inappropriately inserted into a crimped lug connection. The connection was made during initial plant construction and degraded over time.,not_applicable,NA-HW
+4142022003R00,D,,,,Yes,"['system_missing', 'component_missing', 'manufacturer_missing', 'record_low_quality']",Catawba Nuclear Station,2,10/24/2022,50.73.(a)(2)(iv)(A),Manual Reactor Trip and Auxiliary Feedwater System Actuation,2022-10-24,2022-10,2022.0,unknown,,False,,,
+4232022001R00,X,VF,BEARING,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4232023001R00,B,EL,BKR,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4232023002R00,B,AFW,CARD,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4232023003R00,B,AB,TI,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4232023004R00,B,AB,ISV,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4232023005R00,B,BE,MO,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4232023006R02,B,AB,PSV,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4242023002R00,X,SD,87,BE Yes X SN MO GE,Yes,[],Vogtle Electric Generating Plant,1,8/22/2023,50.73.(a)(2)(iv)(A),Manual Reactor Trip Due to Failure of a Heater Drain Pump and Standby Condensate Pump,2023-08-22,2023-08,2023.0,unknown,,True,the failure of Condensate pump 'A' to start automatically or manually,not_applicable,NA-ME
+4432021001R00,X,AB,RV,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4432021002R00,X,BS,RGR,Western,Yes,[],,,,,,,,,electrical,BS,True,,,
+4432023002R00,X,JE,2,,Yes,['manufacturer_gibberish_or_code'],Seabrook Station,Unknown Unit,5/2/2023,50.73.(a)(2)(iv)(A),Automatic Actuation of Emergency Service Water during Testing due to a Defective Relay,2023-05-02,2023-05,2023.0,unknown,,True,a defective relay contact in the first level undervoltage load shedding scheme caused the failure,not_applicable,NA-ME
+4432023003R00,X,AA,SCR,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4432023004R00,,FOR,ACTUATION,,No,"['bad_cause', 'manufacturer_over_len']",,,,,,,,,unknown,,True,,,
+4432023005R00,X,ED,XFMR,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4452022001R00,B,TA,CBL,,Yes,['manufacturer_gibberish_or_code'],Comanche Peak Nuclear Power Plant,Unknown Unit,9/5/2022,50.73.(a)(2)(iv)(A),Reactor Trip Due To Turbine Trip Greater Than 50% Power,2022-09-05,2022-09,2022.0,unknown,,True,inadequate protection of the shaft displacement probe cabling against chafing,not_applicable,NA-HW
+4452023001R01,B,JK,PSV,,Yes,['manufacturer_gibberish_or_code'],Comanche Peak Nuclear Power Plant,Unknown Unit,6/16/2023,50.73.(a)(2)(iv)(A),Automatic Reactor Trip Due to Lo-LoSteam Generator Level,2023-06-16,2023-06,2023.0,unknown,,True,particulate accumulation in the servo valve due to historical water intrusion events into the 1B lube oil system,not_applicable,NA-ME
+4462021001R01,B,EL,XFMR,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4822021004R00,B,SJ,FCV,,Yes,['manufacturer_gibberish_or_code'],Wolf Creek Generating Station,Unknown Unit,8/18/2021,50.73.(a)(2)(iv)(A),Low Steam Generator Level due to Main Feedwater Valve Failure Caused Automatic Reactor Trip,2021-08-18,2021-08,2021.0,unknown,,True,"a fracture of the valve stem for the 'B' steam generator main feedwater regulating valve, causing the valve to fail closed and resulting in a loss of feed flow control to the ??B??steam generator",not_applicable,NA-ME
+4822022001R00,B,SJ,FCV,,Yes,['manufacturer_gibberish_or_code'],Wolf Creek Generating Station,Unknown Unit,7/18/2022,50.73.(a)(2)(iv)(A),Low Steam Generator Level due to Main Feedwater Valve Failure Caused Reactor Trip,2022-07-18,2022-07,2022.0,unknown,,True,"a failure of the valve stem for the 'B' steam generator (SG) main feedwater regulating valve (MFRV), causing the valve to fail closed and resulting in a loss of feedwater flow control to the 'B' SG",not_applicable,NA-ME
+4832022001R00,D,JG,RLY,,Yes,['manufacturer_gibberish_or_code'],Callaway Plant.,1,1/7/2022,50.73.(a)(2)(iv)(A),Reactor Trip During Reactor Trip Breaker Surveillance Testing,2022-01-07,2022-01,2022.0,unknown,,True,,,
+4832022002R00,P,UE,IRR,ins go,No,[],,,,,,,,,unknown,,True,,,
+4832022003R01,B,VI,V,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4832023001R00,B,BD,LE,GEMs,Yes,[],,,,,,,,,unknown,,True,,,
+4982021001R00,B,JK,TBG,,Yes,['manufacturer_missing'],,,,,,,,,unknown,,True,,,
+4982023003R01,,,DID,,No,"['bad_cause', 'system_header_leak', 'manufacturer_over_len', 'record_low_quality']",,,,,,,,,unknown,,False,,,
+4982023004R01,A,KM,CHU,,Yes,['manufacturer_gibberish_or_code'],South Texas,1,11/27/2023,50.73.(a)(2)(i)(B),Condition Prohibited by Technical Specifications Due to Inoperable Train of Essential Chilled Water,2023-11-27,2023-11,2023.0,unknown,,True,excessive chilled water leakage,not_applicable,NA-ME
+4992021002R01,E,VG,HS,,Yes,['manufacturer_gibberish_or_code'],,,,,,,,,unknown,,True,,,
+4992022001R00,X,FK,INS,,Yes,['manufacturer_gibberish_or_code'],South Texas,2,1/6/2022,50.73.(a)(2)(iv)(A),' Automatic Actuati . _of_Fmera- .  ?? - Generator due to I or:ri it of Switchyard Electrical Bus_,2022-01-06,2022-01,2022.0,unknown,,True,,,

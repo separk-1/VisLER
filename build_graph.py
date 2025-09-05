@@ -2,8 +2,8 @@
 import json, os, sys
 
 SCHEMA_PATH = os.environ.get("GRAPH_SCHEMA_PATH", "data/graph_schema.json")
-INPUT_JSONL = os.environ.get("EXTRACTED_JSONL_PATH", "extracted_text.jsonl")
-OUTPUT_JSON = os.environ.get("GRAPH_OUTPUT_PATH", "graph.json")
+INPUT_JSONL = os.environ.get("EXTRACTED_JSONL_PATH", "extracted_keyword.jsonl")
+OUTPUT_JSON = os.environ.get("GRAPH_OUTPUT_PATH", "graph_text.json")
 
 def _truncate(s: str, n: int = 60) -> str:
     s = (s or "")

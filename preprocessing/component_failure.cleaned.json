@@ -1,0 +1,949 @@
+[
+  {
+    "ler": "0252023002R00",
+    "Cause": "D",
+    "System": "EA",
+    "Component": "RLY",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "0252023003R00",
+    "Cause": "B",
+    "System": "JJ",
+    "Component": "DCC",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "No",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "0252023004R00",
+    "Cause": "B",
+    "System": "SM",
+    "Component": "LCV",
+    "Manufacturer": "Flowserve",
+    "Reportable_to_IRIS": "No",
+    "flags": []
+  },
+  {
+    "ler": "2442021001R00",
+    "Cause": "B",
+    "System": "BI",
+    "Component": "MO",
+    "Manufacturer": "US Motors",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "2442023001R00",
+    "Cause": "D",
+    "System": "EB",
+    "Component": "BKR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2442023002R00",
+    "Cause": "D",
+    "System": "JJ",
+    "Component": "12",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2442023003R01",
+    "Cause": "B",
+    "System": "LD",
+    "Component": "PCV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2502021001R00",
+    "Cause": "B",
+    "System": "AA",
+    "Component": "BKR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2502023003R00",
+    "Cause": "C",
+    "System": "FK",
+    "Component": "87",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2502023004R00",
+    "Cause": null,
+    "System": null,
+    "Component": null,
+    "Manufacturer": "(cid:9) N/A N/A",
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "bad_cause",
+      "system_missing",
+      "component_missing",
+      "record_low_quality"
+    ]
+  },
+  {
+    "ler": "2502024002R01",
+    "Cause": "B",
+    "System": "BP",
+    "Component": "V",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_missing"
+    ]
+  },
+  {
+    "ler": "2612023001R00",
+    "Cause": "B",
+    "System": "LK",
+    "Component": "RG",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2612023002R00",
+    "Cause": "B",
+    "System": "AA",
+    "Component": "BKR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2662021001R00",
+    "Cause": "X",
+    "System": "SE",
+    "Component": "RLY",
+    "Manufacturer": "Cutler Hammer -C770",
+    "Reportable_to_IRIS": "No",
+    "flags": []
+  },
+  {
+    "ler": "2752023001R00",
+    "Cause": "X",
+    "System": "SM",
+    "Component": "LCV",
+    "Manufacturer": "Fisher",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "2802022001R00",
+    "Cause": "C",
+    "System": "JE",
+    "Component": "LE",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2802022002R00",
+    "Cause": "B",
+    "System": "EK",
+    "Component": "DG",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "2802022003R00",
+    "Cause": "A",
+    "System": "VK",
+    "Component": "FAN",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3062023001R00",
+    "Cause": "X",
+    "System": "FC",
+    "Component": "LAR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3152021001R00",
+    "Cause": "B",
+    "System": "EA",
+    "Component": "BU",
+    "Manufacturer": "Powell",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "3152022001R00",
+    "Cause": "X",
+    "System": "TA",
+    "Component": "TRB",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3152022002R00",
+    "Cause": "X",
+    "System": "BC",
+    "Component": "DR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3152022003R01",
+    "Cause": "X",
+    "System": "AB",
+    "Component": "P",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3152023001R00",
+    "Cause": null,
+    "System": null,
+    "Component": null,
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "bad_cause",
+      "system_header_leak",
+      "component_header_leak",
+      "manufacturer_over_len",
+      "record_low_quality"
+    ]
+  },
+  {
+    "ler": "3162021001R00",
+    "Cause": "X",
+    "System": "SB",
+    "Component": "RV",
+    "Manufacturer": "Dresser",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "3162021002R00",
+    "Cause": "X",
+    "System": "SB",
+    "Component": "EXJ",
+    "Manufacturer": "Pathway",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "3232021001R00",
+    "Cause": "X",
+    "System": "DC",
+    "Component": "DG",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "No",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3232022001R00",
+    "Cause": "X",
+    "System": "AB",
+    "Component": "PSF",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_missing"
+    ]
+  },
+  {
+    "ler": "3282021001R00",
+    "Cause": "X",
+    "System": "BC",
+    "Component": "MPX",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "No",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3342022001R00",
+    "Cause": "B",
+    "System": "SN",
+    "Component": "LCV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3382022001R01",
+    "Cause": "X",
+    "System": "AA",
+    "Component": "CBD",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "No",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3392023001R00",
+    "Cause": "A",
+    "System": "AB",
+    "Component": "TBG",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_missing"
+    ]
+  },
+  {
+    "ler": "3482023001R00",
+    "Cause": "X",
+    "System": "EL",
+    "Component": "62",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3482023002R00",
+    "Cause": "A",
+    "System": "BP",
+    "Component": "52",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "No",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3482023003R00",
+    "Cause": "B",
+    "System": "R",
+    "Component": "SPT",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3642023001R00",
+    "Cause": "E",
+    "System": "AB",
+    "Component": "RV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3642023002R00",
+    "Cause": "X",
+    "System": "SB",
+    "Component": "RV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3642023003R00",
+    "Cause": "X",
+    "System": "AB",
+    "Component": "RV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3642024001R00",
+    "Cause": "B",
+    "System": "JB",
+    "Component": "FCO",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3912021001R00",
+    "Cause": "B",
+    "System": "EA",
+    "Component": "52",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3952021001R01",
+    "Cause": "B",
+    "System": "KM",
+    "Component": "CHU",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3952022001R01",
+    "Cause": "X",
+    "System": "EL",
+    "Component": "XFMR",
+    "Manufacturer": "Mitsubishi",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "3952022002R01",
+    "Cause": "B",
+    "System": "EK",
+    "Component": "DG",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "3952023001R00",
+    "Cause": "B",
+    "System": "SJ",
+    "Component": "P",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4002021004R00",
+    "Cause": "A",
+    "System": "AB",
+    "Component": "RV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "No",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4002021005R00",
+    "Cause": "A",
+    "System": "IL",
+    "Component": "MON",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4002022001R00",
+    "Cause": "D",
+    "System": "KM",
+    "Component": "CMP",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4002022003R00",
+    "Cause": "X",
+    "System": "SH",
+    "Component": "ISV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4002022005R01",
+    "Cause": "C",
+    "System": "SD",
+    "Component": "MO",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4002022006R02",
+    "Cause": "X",
+    "System": "BA",
+    "Component": "FCV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4002022007R01",
+    "Cause": "A",
+    "System": "EA",
+    "Component": "XCT",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4002022008R00",
+    "Cause": "X",
+    "System": "SJ",
+    "Component": "33",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4122021002R00",
+    "Cause": "B",
+    "System": "JG",
+    "Component": "IMOD",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4122022001R00",
+    "Cause": "D",
+    "System": "DC",
+    "Component": "DRN",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4122023001R00",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "RPV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4142021001R00",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "RPV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4142021003R00",
+    "Cause": "X",
+    "System": "IL",
+    "Component": "V",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4142022001R00",
+    "Cause": "B",
+    "System": "JD",
+    "Component": "CON",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4142022003R00",
+    "Cause": "D",
+    "System": null,
+    "Component": null,
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "system_missing",
+      "component_missing",
+      "manufacturer_missing",
+      "record_low_quality"
+    ]
+  },
+  {
+    "ler": "4232022001R00",
+    "Cause": "X",
+    "System": "VF",
+    "Component": "BEARING",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4232023001R00",
+    "Cause": "B",
+    "System": "EL",
+    "Component": "BKR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4232023002R00",
+    "Cause": "B",
+    "System": "AFW",
+    "Component": "CARD",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4232023003R00",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "TI",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4232023004R00",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "ISV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4232023005R00",
+    "Cause": "B",
+    "System": "BE",
+    "Component": "MO",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4232023006R02",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "PSV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4242023002R00",
+    "Cause": "X",
+    "System": "SD",
+    "Component": "87",
+    "Manufacturer": "BE Yes X SN MO GE",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "4432021001R00",
+    "Cause": "X",
+    "System": "AB",
+    "Component": "RV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4432021002R00",
+    "Cause": "X",
+    "System": "BS",
+    "Component": "RGR",
+    "Manufacturer": "Western",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "4432023002R00",
+    "Cause": "X",
+    "System": "JE",
+    "Component": "2",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4432023003R00",
+    "Cause": "X",
+    "System": "AA",
+    "Component": "SCR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4432023004R00",
+    "Cause": null,
+    "System": "FOR",
+    "Component": "ACTUATION",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "No",
+    "flags": [
+      "bad_cause",
+      "manufacturer_over_len"
+    ]
+  },
+  {
+    "ler": "4432023005R00",
+    "Cause": "X",
+    "System": "ED",
+    "Component": "XFMR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4452022001R00",
+    "Cause": "B",
+    "System": "TA",
+    "Component": "CBL",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4452023001R01",
+    "Cause": "B",
+    "System": "JK",
+    "Component": "PSV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4462021001R01",
+    "Cause": "B",
+    "System": "EL",
+    "Component": "XFMR",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4822021004R00",
+    "Cause": "B",
+    "System": "SJ",
+    "Component": "FCV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4822022001R00",
+    "Cause": "B",
+    "System": "SJ",
+    "Component": "FCV",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4832022001R00",
+    "Cause": "D",
+    "System": "JG",
+    "Component": "RLY",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4832022002R00",
+    "Cause": "P",
+    "System": "UE",
+    "Component": "IRR",
+    "Manufacturer": "ins go",
+    "Reportable_to_IRIS": "No",
+    "flags": []
+  },
+  {
+    "ler": "4832022003R01",
+    "Cause": "B",
+    "System": "VI",
+    "Component": "V",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4832023001R00",
+    "Cause": "B",
+    "System": "BD",
+    "Component": "LE",
+    "Manufacturer": "GEMs",
+    "Reportable_to_IRIS": "Yes",
+    "flags": []
+  },
+  {
+    "ler": "4982021001R00",
+    "Cause": "B",
+    "System": "JK",
+    "Component": "TBG",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_missing"
+    ]
+  },
+  {
+    "ler": "4982023003R01",
+    "Cause": null,
+    "System": null,
+    "Component": "DID",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "No",
+    "flags": [
+      "bad_cause",
+      "system_header_leak",
+      "manufacturer_over_len",
+      "record_low_quality"
+    ]
+  },
+  {
+    "ler": "4982023004R01",
+    "Cause": "A",
+    "System": "KM",
+    "Component": "CHU",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4992021002R01",
+    "Cause": "E",
+    "System": "VG",
+    "Component": "HS",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  },
+  {
+    "ler": "4992022001R00",
+    "Cause": "X",
+    "System": "FK",
+    "Component": "INS",
+    "Manufacturer": null,
+    "Reportable_to_IRIS": "Yes",
+    "flags": [
+      "manufacturer_gibberish_or_code"
+    ]
+  }
+]

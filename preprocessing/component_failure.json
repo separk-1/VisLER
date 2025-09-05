@@ -1,0 +1,698 @@
+[
+  {
+    "ler": "0252023002R00",
+    "Cause": "D",
+    "System": "EA",
+    "Component": "RLY",
+    "Manufacturer": "SEL",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "0252023003R00",
+    "Cause": "B",
+    "System": "JJ",
+    "Component": "DCC",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "0252023004R00",
+    "Cause": "B",
+    "System": "SM",
+    "Component": "LCV",
+    "Manufacturer": "Flowsery",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "2442021001R00",
+    "Cause": "B",
+    "System": "BI",
+    "Component": "MO",
+    "Manufacturer": "US Motors",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2442023001R00",
+    "Cause": "D",
+    "System": "EB",
+    "Component": "BKR",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2442023002R00",
+    "Cause": "D",
+    "System": "JJ",
+    "Component": "12",
+    "Manufacturer": "W0120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2442023003R01",
+    "Cause": "B",
+    "System": "LD",
+    "Component": "PCV",
+    "Manufacturer": "M0120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2502021001R00",
+    "Cause": "B",
+    "System": "AA",
+    "Component": "BKR",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2502023003R00",
+    "Cause": "C",
+    "System": "FK",
+    "Component": "87",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2502023004R00",
+    "Cause": "N/A",
+    "System": "(cid:9)",
+    "Component": "N/A",
+    "Manufacturer": "(cid:9) N/A N/A",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2502024002R01",
+    "Cause": "B",
+    "System": "BP",
+    "Component": "V",
+    "Manufacturer": "N/A",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2612023001R00",
+    "Cause": "B",
+    "System": "LK",
+    "Component": "RG",
+    "Manufacturer": "V078",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2612023002R00",
+    "Cause": "B",
+    "System": "AA",
+    "Component": "BKR",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2662021001R00",
+    "Cause": "X",
+    "System": "SE",
+    "Component": "RLY",
+    "Manufacturer": "Cutler Hammer -C770",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "2752023001R00",
+    "Cause": "X",
+    "System": "SM",
+    "Component": "LCV",
+    "Manufacturer": "Fisher",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2802022001R00",
+    "Cause": "C",
+    "System": "JE",
+    "Component": "LE",
+    "Manufacturer": "F132",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2802022002R00",
+    "Cause": "B",
+    "System": "EK",
+    "Component": "DG",
+    "Manufacturer": "G080",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "2802022003R00",
+    "Cause": "A",
+    "System": "VK",
+    "Component": "FAN",
+    "Manufacturer": "B860",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3062023001R00",
+    "Cause": "X",
+    "System": "FC",
+    "Component": "LAR",
+    "Manufacturer": "ABB",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3152021001R00",
+    "Cause": "B",
+    "System": "EA",
+    "Component": "BU",
+    "Manufacturer": "Powell",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3152022001R00",
+    "Cause": "X",
+    "System": "TA",
+    "Component": "TRB",
+    "Manufacturer": "GE",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3152022002R00",
+    "Cause": "X",
+    "System": "BC",
+    "Component": "DR",
+    "Manufacturer": "CW",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3152022003R01",
+    "Cause": "X",
+    "System": "AB",
+    "Component": "P",
+    "Manufacturer": "WEST",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3152023001R00",
+    "Cause": ",,,,..\"•1/2.,%",
+    "System": "LICENSEE",
+    "Component": "EVENT",
+    "Manufacturer": "REPORT (LER) rZ ae leN rT wI eM b I M M B N F Eb Ux ,r p Uc la lal rb yi . l 8E 14t :. 1r i Ib rdl, e rp Mo ai l: i4 a. nf t G A alV atI ie M fele l B t re ia m a n f 1l 1a 4w Mta Im K. ti La Ii ll $it n Ntt uN tto lr ied t N %I It Nan -0to",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3162021001R00",
+    "Cause": "X",
+    "System": "SB",
+    "Component": "RV",
+    "Manufacturer": "Dresser",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3162021002R00",
+    "Cause": "X",
+    "System": "SB",
+    "Component": "EXJ",
+    "Manufacturer": "Pathway",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3232021001R00",
+    "Cause": "X",
+    "System": "DC",
+    "Component": "DG",
+    "Manufacturer": "ALCO",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "3232022001R00",
+    "Cause": "X",
+    "System": "AB",
+    "Component": "PSF",
+    "Manufacturer": "-",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3282021001R00",
+    "Cause": "X",
+    "System": "BC",
+    "Component": "MPX",
+    "Manufacturer": "Y006",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "3342022001R00",
+    "Cause": "B",
+    "System": "SN",
+    "Component": "LCV",
+    "Manufacturer": "M120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3382022001R01",
+    "Cause": "X",
+    "System": "AA",
+    "Component": "CBD",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "3392023001R00",
+    "Cause": "A",
+    "System": "AB",
+    "Component": "TBG",
+    "Manufacturer": "-",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3482023001R00",
+    "Cause": "X",
+    "System": "El",
+    "Component": "62",
+    "Manufacturer": "G080",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3482023002R00",
+    "Cause": "A",
+    "System": "BP",
+    "Component": "52",
+    "Manufacturer": "S188",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "3482023003R00",
+    "Cause": "B",
+    "System": "R43",
+    "Component": "SPT",
+    "Manufacturer": "F010",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3642023001R00",
+    "Cause": "E",
+    "System": "AB",
+    "Component": "RV",
+    "Manufacturer": "C710",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3642023002R00",
+    "Cause": "X",
+    "System": "SB",
+    "Component": "RV",
+    "Manufacturer": "D245",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3642023003R00",
+    "Cause": "X",
+    "System": "AB",
+    "Component": "RV",
+    "Manufacturer": "C710",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3642024001R00",
+    "Cause": "B",
+    "System": "JB",
+    "Component": "FCO",
+    "Manufacturer": "E232",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3912021001R00",
+    "Cause": "B",
+    "System": "EA",
+    "Component": "52",
+    "Manufacturer": "GE",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3952021001R01",
+    "Cause": "B",
+    "System": "KM",
+    "Component": "CHU",
+    "Manufacturer": "N418",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3952022001R01",
+    "Cause": "X",
+    "System": "EL",
+    "Component": "XFMR",
+    "Manufacturer": "Mitsubishi",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3952022002R01",
+    "Cause": "B",
+    "System": "EK",
+    "Component": "DG",
+    "Manufacturer": "C470",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "3952023001R00",
+    "Cause": "B",
+    "System": "SJ",
+    "Component": "P",
+    "Manufacturer": "G533",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4002021004R00",
+    "Cause": "A",
+    "System": "AB",
+    "Component": "RV",
+    "Manufacturer": "C710",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "4002021005R00",
+    "Cause": "A",
+    "System": "IL",
+    "Component": "MON",
+    "Manufacturer": "S637",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4002022001R00",
+    "Cause": "D",
+    "System": "KM",
+    "Component": "CMP",
+    "Manufacturer": "B350",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4002022003R00",
+    "Cause": "X",
+    "System": "SH",
+    "Component": "ISV",
+    "Manufacturer": "C665 Y B SH V K116",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4002022005R01",
+    "Cause": "C",
+    "System": "SD",
+    "Component": "MO",
+    "Manufacturer": "S188",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4002022006R02",
+    "Cause": "X",
+    "System": "BA",
+    "Component": "FCV",
+    "Manufacturer": "M120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4002022007R01",
+    "Cause": "A",
+    "System": "EA",
+    "Component": "XCT",
+    "Manufacturer": "S188",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4002022008R00",
+    "Cause": "X",
+    "System": "SJ",
+    "Component": "33",
+    "Manufacturer": "N007",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4122021002R00",
+    "Cause": "B",
+    "System": "JG",
+    "Component": "IMOD",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4122022001R00",
+    "Cause": "D",
+    "System": "DC",
+    "Component": "DRN",
+    "Manufacturer": "F010",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4122023001R00",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "RPV",
+    "Manufacturer": "C490",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4142021001R00",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "RPV",
+    "Manufacturer": "C490",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4142021003R00",
+    "Cause": "X",
+    "System": "IL",
+    "Component": "V",
+    "Manufacturer": "V030",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4142022001R00",
+    "Cause": "B",
+    "System": "JD",
+    "Component": "CON",
+    "Manufacturer": "W121",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4142022003R00",
+    "Cause": "D",
+    "System": "N/A",
+    "Component": "N/A",
+    "Manufacturer": "N/A",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4232022001R00",
+    "Cause": "X",
+    "System": "VF",
+    "Component": "Bearing",
+    "Manufacturer": "FAFNIR",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4232023001R00",
+    "Cause": "B",
+    "System": "EL",
+    "Component": "BKR",
+    "Manufacturer": "G080",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4232023002R00",
+    "Cause": "B",
+    "System": "AFW",
+    "Component": "CARD",
+    "Manufacturer": "T020",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4232023003R00",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "TI",
+    "Manufacturer": "W108",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4232023004R00",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "ISV",
+    "Manufacturer": "D243",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4232023005R00",
+    "Cause": "B",
+    "System": "BE",
+    "Component": "MO",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4232023006R02",
+    "Cause": "B",
+    "System": "AB",
+    "Component": "PSV",
+    "Manufacturer": "CROSBY",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4242023002R00",
+    "Cause": "X",
+    "System": "SD",
+    "Component": "87",
+    "Manufacturer": "BE Yes X SN MO GE",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4432021001R00",
+    "Cause": "X",
+    "System": "AB",
+    "Component": "RV",
+    "Manufacturer": "C711",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4432021002R00",
+    "Cause": "X",
+    "System": "BS",
+    "Component": "RGR",
+    "Manufacturer": "Western",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4432023002R00",
+    "Cause": "X",
+    "System": "JE",
+    "Component": "2",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4432023003R00",
+    "Cause": "X",
+    "System": "AA",
+    "Component": "SCR",
+    "Manufacturer": "W120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4432023004R00",
+    "Cause": "(2)(iv)(A)",
+    "System": "for",
+    "Component": "actuation",
+    "Manufacturer": "of the Reactor Protection System and Emergency Feedwater System. In addition, there were",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "4432023005R00",
+    "Cause": "X",
+    "System": "ED",
+    "Component": "XFMR",
+    "Manufacturer": "Q120",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4452022001R00",
+    "Cause": "B",
+    "System": "TA",
+    "Component": "CBL",
+    "Manufacturer": "CTC",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4452023001R01",
+    "Cause": "B",
+    "System": "JK",
+    "Component": "PSV",
+    "Manufacturer": "GE",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4462021001R01",
+    "Cause": "B",
+    "System": "EL",
+    "Component": "XFMR",
+    "Manufacturer": "ABB",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4822021004R00",
+    "Cause": "B",
+    "System": "SJ",
+    "Component": "FCV",
+    "Manufacturer": "C635",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4822022001R00",
+    "Cause": "B",
+    "System": "SJ",
+    "Component": "FCV",
+    "Manufacturer": "C635",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4832022001R00",
+    "Cause": "D",
+    "System": "JG",
+    "Component": "RLY",
+    "Manufacturer": "T405",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4832022002R00",
+    "Cause": "p",
+    "System": "ue",
+    "Component": "irr",
+    "Manufacturer": "ins go",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "4832022003R01",
+    "Cause": "B",
+    "System": "VI",
+    "Component": "V",
+    "Manufacturer": "ME34",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4832023001R00",
+    "Cause": "B",
+    "System": "BD",
+    "Component": "LE",
+    "Manufacturer": "GEMs",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4982021001R00",
+    "Cause": "B",
+    "System": "JK",
+    "Component": "TBG",
+    "Manufacturer": "n/a",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4982023003R01",
+    "Cause": "The",
+    "System": "event",
+    "Component": "did",
+    "Manufacturer": "not result in any offsite release of radioactivity or increase of off-site dose rates, and there were",
+    "Reportable_to_IRIS": "No"
+  },
+  {
+    "ler": "4982023004R01",
+    "Cause": "A",
+    "System": "KM",
+    "Component": "CHU",
+    "Manufacturer": "Y018",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4992021002R01",
+    "Cause": "E",
+    "System": "VG",
+    "Component": "HS",
+    "Manufacturer": "GE",
+    "Reportable_to_IRIS": "Yes"
+  },
+  {
+    "ler": "4992022001R00",
+    "Cause": "X",
+    "System": "FK",
+    "Component": "INS",
+    "Manufacturer": "LAPP",
+    "Reportable_to_IRIS": "Yes"
+  }
+]

@@ -1,0 +1,5 @@
+Extracted_Cause_Category,Reportable_to_IRIS,count
+misapplied_procedure,No,1
+misapplied_procedure,Yes,1
+not_applicable,No,4
+not_applicable,Yes,24

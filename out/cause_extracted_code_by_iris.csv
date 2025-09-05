@@ -1,0 +1,10 @@
+Extracted_Cause_Code,Reportable_to_IRIS,count
+MA1,No,1
+MA1,Yes,1
+NA-EN,Yes,1
+NA-HW,No,1
+NA-HW,Yes,4
+NA-ME,No,2
+NA-ME,Yes,17
+NA-OP,No,1
+NA-OP,Yes,2

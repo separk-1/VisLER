@@ -1,0 +1,13 @@
+Extracted_Cause_Category,Component,count
+misapplied_procedure,MON,1
+misapplied_procedure,RV,1
+not_applicable,FCV,3
+not_applicable,LCV,2
+not_applicable,RV,2
+not_applicable,2,1
+not_applicable,33,1
+not_applicable,52,1
+not_applicable,87,1
+not_applicable,CBL,1
+not_applicable,CHU,1
+not_applicable,CON,1
